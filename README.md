@@ -1,11 +1,11 @@
-###LigTMap Target Prediction Method
+# LigTMap Target Prediction Method
 
-Developed by
-Faraz Shaikh, Giotto Tai, Shirley Siu
+*Developed by*
+*Faraz Shaikh, Giotto Tai, Shirley Siu*
 
-Computational Biology and Bioinformatics Lab (CBBIO)
-University of Macau
-https://cbbio.online/LigTMap
+##### [Computational Biology and Bioinformatics Lab (CBBIO)] (https://cbbio.online/LigTMap),
+##### University of Macau
+
 
 Contact: shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
 

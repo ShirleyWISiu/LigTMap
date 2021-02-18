@@ -1,13 +1,11 @@
 # LigTMap Target Prediction Method for Small Molecules
+Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
+University of Macau
 
-#### *Developed by*
-#### *Faraz Shaikh, Giotto Tai, Shirley Siu*
+*Developed by*
+*Faraz Shaikh, Giotto Tai, Shirley Siu*
 
-### Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
-### University of Macau
-
-
-Contact: shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
+shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
 
 Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 
@@ -16,7 +14,7 @@ small molecules. This method currently support prediction for
 Follow the installation instructions for the standalone program setup.
 For online access, please visit https://cbbio.online/LigTMap/.
 
-### Software requirements:
+## Software requirements:
 Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT
 
 Specifically, our method has been tested with these versions:
@@ -31,7 +29,7 @@ Specifically, our method has been tested with these versions:
 
 ## INSTALLATION
 
-#### 1. MOPAC2016 
+### 1. MOPAC2016 
 MOPAC2016 can be downloaded from http://openmopac.net/
 You need to request for a license to use, please go to the homepage
 to obtain a license. The license key will be emailed to you within
@@ -70,13 +68,13 @@ If the run is completed with output at Example_data_set.out,
 then your installation is successful!
 
 
-#### 2. Anaconda 
+### 2. Anaconda 
 
 Download and install Anaconda for Python 2.7 from
 https://www.anaconda.com/download/.
 
 
-#### 3. Setup environment in your anaconda
+### 3. Setup environment in your anaconda
 ```
 % conda create -n ligtmap -c rmg rdkit python=2.7 
 % conda activate ligtmap
@@ -89,7 +87,7 @@ Check to confirm:
 e.g. /<path>/anaconda3/envs/ligtmap/bin/python
 
 
-#### 4. Openbabel
+### 4. Openbabel
 Follow http://openbabel.org/wiki/Category:Installation
 to install Openbabel that suits your platform.
 
@@ -98,7 +96,7 @@ For example, for MacOS:
 % conda install -c conda-forge openbabel  
 ```
 
-#### 5. PyChem
+### 5. PyChem
 
 Download and install PyChem from
 https://code.google.com/archive/p/pychem/downloads
@@ -108,18 +106,18 @@ https://code.google.com/archive/p/pychem/downloads
 % python setup.py install
 ```
 
-#### 6. PyBel
+### 6. PyBel
 ```
 % python -m pip install pybel
 ```
 
-#### 7. Scikit-learn + Pandas
+### 7. Scikit-learn + Pandas
 ```
 % conda install -c conda-forge scikit-learn=0.19.2
 % conda install -c conda-forge pandas=0.23.4 
 ```
 
-#### 8. ODDT
+### 8. ODDT
 
 Make sure you have all previous libraries installed with the
 correct version before running this:
@@ -133,7 +131,7 @@ correct version before running this:
 % conda env remove --name ligtmap
 ```
 
-#### 9. PSOVina
+### 9. PSOVina
 Download and install "psovina-2.0.tar.gz" from
 https://sourceforge.net/projects/psovina/
 ```
@@ -147,19 +145,19 @@ BASE=/usr/local/opt/boost-1.59.0
 % make
 ```
 
-#### 10. MGLTools
+### 10. MGLTools
 Download and install MGLTools of your platform from
 http://mgltools.scripps.edu/downloads
 
 
-#### 11. gsplit
+### 11. gsplit
 Install some GNU utilities via Homebrew:
 ```
 % brew install gsplit
 ```
 
 
-#### 12. LigTMap 
+### 12. LigTMap 
 Download and unpack ligtmap-0.1.tar.gz. You can move the 
 program directory to anywhere.
 ```
@@ -167,7 +165,7 @@ program directory to anywhere.
 % mv ligtmap-0.1 <your-installed-path>
 ```
 
-#### 13. Setting environment variables
+### 13. Setting environment variables
 Define necessary environment variables in the .bashrc 
 start-up script file:
 ```

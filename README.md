@@ -1,9 +1,9 @@
-# LigTMap Target Prediction Method
+# LigTMap Target Prediction Method for Small Molecules
 
 *Developed by*
 *Faraz Shaikh, Giotto Tai, Shirley Siu*
 
-##### [Computational Biology and Bioinformatics Lab (CBBIO)] (https://cbbio.online/LigTMap),
+##### [Computational Biology and Bioinformatics Lab (CBBIO)](https://cbbio.online/LigTMap),
 ##### University of Macau
 
 
@@ -16,27 +16,22 @@ small molecules. This method currently support prediction for
 Follow the installation instructions for the standalone program setup.
 For online access, please visit https://cbbio.online/LigTMap/.
 
-Software requirements:
+### Software requirements:
 Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT
 
 Specifically, our method has been tested with these versions:
-rdkit-2016.03.4
-numpy-1.11.3
-openbabel-3.0.0
-pychem-1.0
-pybel-0.12.2
-scikit-learn-0.19.2
-scipy-1.1.0
-pandas-0.23.4
+- rdkit-2016.03.4
+- numpy-1.11.3
+- openbabel-3.0.0
+- pychem-1.0
+- pybel-0.12.2
+- scikit-learn-0.19.2
+- scipy-1.1.0
+- pandas-0.23.4
 
-**************************************************************
-**************************************************************
-INSTALLATION
-**************************************************************
-**************************************************************
+## INSTALLATION
 
-(1) MOPAC2016 
----------------
+1. MOPAC2016 
 MOPAC2016 can be downloaded from http://openmopac.net/
 You need to request for a license to use, please go to the homepage
 to obtain a license. The license key will be emailed to you within
@@ -69,14 +64,14 @@ If the run is completed with output at Example_data_set.out,
 then your installation is successful!
 
 
-(2) Anaconda 
--------------
+2. Anaconda 
+
 Download and install Anaconda for Python 2.7 from
 https://www.anaconda.com/download/.
 
 
-(3) Setup environment in your anaconda
---------------------------------------
+3. Setup environment in your anaconda
+
 % conda create -n ligtmap -c rmg rdkit python=2.7 
 % conda activate ligtmap
 

@@ -83,9 +83,8 @@ From now on, your python should be the one from the ligtmap env.
 Check to confirm:
 ```
 % which python
-```
 e.g. /<path>/anaconda3/envs/ligtmap/bin/python
-
+```
 
 ### 4. Openbabel
 Follow http://openbabel.org/wiki/Category:Installation

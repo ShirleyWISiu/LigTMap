@@ -1,14 +1,5 @@
 # LigTMap Target Prediction Method for Small Molecules
 
-*Developed by Faraz Shaikh, Giotto Tai, Shirley Siu*
-
-shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
-
-Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
-
-University of Macau
-
-
 Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 
 17 target classes including 6000+ protein targets.
@@ -245,3 +236,15 @@ This file contain 9 columns of data of the relevant targets:
 The binding mode PDB of the molecule at the target protein can be 
 found in the corresponding directory
 `Output/Input_xxxxx/TargetName/Complex`
+
+
+## Contact
+Developer:
+Faraz Shaikh(shaikh.faraz78@gmail.com), Giotto Tai
+
+Project PI:
+Shirley Siu(shirleysiu@um.edu.mo)
+
+Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
+
+University of Macau

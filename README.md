@@ -124,22 +124,24 @@ correct version before running this:
 % python -m pip install oddt
 ```
 
-> Troubleshooting 
+
+> #### Troubleshooting 
+> 
 > In case you meet errors in between and want to remove and reinstall from step 3:
 ```
 % conda env remove --name ligtmap
 ```
 
 ### 9. PSOVina
-Download and install "psovina-2.0.tar.gz" from
+Download and install `psovina-2.0.tar.gz` from
 https://sourceforge.net/projects/psovina/
 ```
 % tar xfz psovina-2.0.tar.gz
 % cd psovina-2.0/build/<your-platform>/release
 ```
-modify Makefile to suit your system setting, specifically
+modify `Makefile` to suit your system setting, specifically
 give the location of the boost, e.g.:
-BASE=/usr/local/opt/boost-1.59.0
+`BASE=/usr/local/opt/boost-1.59.0`
 ```
 % make
 ```
@@ -157,7 +159,7 @@ Install some GNU utilities via Homebrew:
 
 
 ### 12. LigTMap 
-Download and unpack ligtmap-0.1.tar.gz. You can move the 
+Download and unpack `ligtmap-0.1.tar.gz`. You can move the 
 program directory to anywhere.
 ```
 % tar xfz ligtmap-0.1
@@ -165,7 +167,7 @@ program directory to anywhere.
 ```
 
 ### 13. Setting environment variables
-Define necessary environment variables in the .bashrc 
+Define necessary environment variables in the `.bashrc`
 start-up script file:
 ```
 export LIGTMAP=/<your-installed-path>/ligtmap-0.1
@@ -174,25 +176,29 @@ export PATH=/<your-installed-path>/psovina-2.0/build/mac/release:$PATH
 ```
 Make sure replace each <your-installed-path> with your real paths.
 
+Finally, source the script file.
+```
+% source ~/.bashrc
+```
 
 ## HOW TO RUN TARGET PREDICTION
 
-1. Prepare your molecule(s) to be predicted in 'input.smi'
-E.g., our HIV benchmark molecules:
+1. Prepare your molecule(s) to be predicted in `input.smi`
+
 ```
+E.g., our HIV benchmark molecules:
 c1ccccc1Oc(ccc2)c(c23)n(c(=O)[nH]3)CC
 c1c(C)cc(C)cc1Oc(ccc2)c(c23)n(c(=O)[nH]3)CC
 N#Cc(c1)cc(Cl)cc1Oc(ccc2)c(c23)n(c(=O)[nH]3)CC
 N#Cc(c1)cc(Cl)cc1Oc(ccc2)c(c23)n(C)c(=O)[nH]3
 ```
 
-2. Prepare the list of targets in 'target.lst'
-E.g.
+2. Prepare the list of targets in `target.lst`
 ```
 HIV
 HCV
 ```
-For a complete list of targets, refer to $LIGTMAP/target.lst.
+For a complete list of targets, refer to `$LIGTMAP/target.lst`.
 
 3. Activate the condo environment
 ```
@@ -204,7 +210,7 @@ For a complete list of targets, refer to $LIGTMAP/target.lst.
 % $LIGTMAP/predict
 ```
 
-The run will generate two directories 'Input' and 'Output'.
+The run will generate two directories `Input` and `Output`.
 Input stores each molecule SMILES in a separate file: 
 >   input_00001, input_00002, ...
 
@@ -217,11 +223,11 @@ will be renamed to `Input.xxx` and `Output.xxx`.
 5. Examine prediction results
 
 In the summary section, target class in which target proteins 
-have been identified for the query molecule is marked 'Complete',
-Otherwise 'Fail'.
+have been identified for the query molecule is marked `Complete`,
+Otherwise `Fail`.
 
 For a molecule `Input_xxxxx`, the top-ranked targets sorted by 
-the LigTMapScore can be found in `Output/Input_xxxxx/IFP_result.csv`.
+the `LigTMapScore` can be found in `Output/Input_xxxxx/IFP_result.csv`.
 
 This file contain 9 columns of data of the relevant targets:
 1. PDB   

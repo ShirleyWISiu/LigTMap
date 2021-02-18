@@ -1,0 +1,45 @@
+=======================================================================
+LigTMap @ https://cbbio.online/LigTMap
+
+Developed by:
+Faraz Shaikh (shaikh.faraz78@gmail.com)
+Giotto Tai (hiokuantai@gmail.com)
+
+Project PI:
+Shirley Siu (siuwengin@gmail.com; shirleysiu@um.edu.mo)
+
+Computational Biology and Bioinformatics Lab (CBBio)                        
+University of Macau                                                    
+                                                                              
+=======================================================================
+
+OPEN SOURCE LICENSE
+Copyright (c) 2021-present  University of Macau
+All rights reserved.
+
+Permission is hereby granted, free of charge, to use, copy, modify, 
+distribute this software and associated documentation files subject to 
+the following conditions:
+
+1. Publications resulted from the use of this software should cite the paper 
+   provided in the CBBio homepage https://cbbio.online/LigTMap.
+     
+2. All materials developed as a consequence of the use of this software 
+   shall duly acknowledge such use. In particular, if you use this software 
+   in any way (e.g. as part of the computation workflow or on any internet,
+   intranet site), you must include a link to CBBio home page at 
+   https://cbbio.online/
+  
+3. Redistributions of source code or binary form must retain this license 
+   file.
+
+4. For commercial use of this software please contact the project PI.  
+
+        
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL 
+THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR 
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+WITH THE SOFTWARE.

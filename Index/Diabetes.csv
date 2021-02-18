@@ -1,0 +1,99 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+2hha;c1cccn1C(=O)[C@@H]([NH3+])[C@H](C)c2nc(no2)-c3ccc(cc3)S(=O)(=O)C;6.9099998;Hypothetical protein DPP4;3TP
+2ath;o1nc(C(F)(F)F)c(c12)ccc(c2CCC)OCCCOc(cc3)cc(c34)ccn4CC(=O)[O-];6.8200002;Peroxisome proliferator activated receptor gamma;3EA
+5t4h;N#Cc1ccccc1Cn(c2n3ccn2)c(=O)c(c34)n(CC#CC)c(n4)N(C[C@@H]5[NH3+])CCC5;8.0299997;Dipeptidyl peptidase 4;75J
+5t4f;C1CC[C@@H]([NH3+])CN1c(n2)n(CC#CC)c(c23)c(=O)n(c4[n+]3CCN4)Cc5ccc(C#N)cc5;8;Dipeptidyl peptidase 4;75M
+5t4e;C1CC[C@@H]([NH3+])CN1c(n2)n(CC#CC)c(c(=O)[nH]3)c2[n+](c34)CCCN4Cc(nc5C)nc(c56)cccc6;5.3600001;Dipeptidyl peptidase 4;75L
+2oqi;O1COc(c12)cc(cc2)CCN(C[C@@H]3[NH3+])C(=O)C[C@@H]3c4cc(F)c(F)cc4F;8.4899998;Dipeptidyl peptidase 4 (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (TP103) (Adenosine deaminase complexing protein 2) (ADABP);GGO
+2oqv;O=S(=O)(C)c1cccc(c1)-c2cc(ncn2)N(C[C@@H]3[NH3+])CC[C@@H]3c4c(F)cc(F)c(F)c4;8.3999996;Dipeptidyl peptidase 4 (Dipeptidyl peptidase IV) (DPP IV);MA9
+3opm;O=C(N)COc(c1)ccc(c12)c(=O)n(CC(C)C)c(C[NH3+])c2-c3ccccc3;6.6199999;Dipeptidyl peptidase 4;LUI
+5ism;Fc1ccc(F)cc1[C@@H]2[C@@H]([NH3+])C[C@H](CO2)[N@H+](C3)Cc(c34)c5n(n4)cccn5;9.1499996;Dipeptidyl peptidase 4;6DG
+2yfe;CC(C)=CCc1c(OC)cc(c(C(=O)[O-])c1O)CCc2ccccc2;6.6300001;PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA;YFE
+3r5n;Oc1ccc(CC=C)cc1-c2cc(CC=C)ccc2O;5.7800002;Peroxisome proliferator-activated receptor gamma;MLO
+3kwf;FC[C@H](C1)CC(=O)N1[C@@H](C2)[C@@H]([NH3+])C[C@H]([N@@H+]23)c4c(CC3)cc(OC)c(c4)OC;8.1700001;Dipeptidyl peptidase 4;B1Q
+3kwj;COc(c1)c(OC)cc(CC2)c1[C@@H]([N@H+]23)C[C@H]([NH3+])[C@H](C3)c4cc(CF)ccc4;9.3000002;Dipeptidyl peptidase 4 soluble form;23Q
+2g0h;Fc1ccc(cc1)-n2nc(-c3cccs3)cc2NS(=O)(=O)c4cc(C(F)(F)F)cc(c4)C(F)(F)F;7.6399999;Peroxisome proliferator-activated receptor gamma;SP3
+2g0g;Fc1cc(ccc1)S(=O)(=O)Nc2cc(-c3cccs3)nn2-c4ccc(F)cc4;6.29;Peroxisome proliferator-activated receptor gamma;SP0
+2bub;c1cccc(F)c1C[C@@H]([NH3+])CC(=O)N2[C@@H](CCC2)CNC(=O)c3ccccc3;7.0500002;DIPEPTIDYL PEPTIDASE 4;FPB
+3gz9;O=C([O-])COc1ccc(c(C)c1C)Sc2ccc(cc2OCC=C)COc3ccc(C(F)(F)F)cc3;8.3979397;Peroxisome proliferator-activated receptor delta;D32
+4a4w;CC(C)=CCC/C(C)=C\Cc1c(OC)cc(c(C(=O)[O-])c1O)CCc2ccccc2;7.7199998;PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA;YFB
+4a4v;CCCCCc1c(C(=O)[O-])c(O)c(c(c1)OC)CC=C(C)C;6.54;PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR GAMMA;YFD
+2onc;[NH3+][C@@H](C1)CCC\[N+]1=c([nH]2)\n(c(=O)c(c23)cccc3)Cc4ccccc4C#N;7.8860564;Dipeptidyl peptidase 4;SY1
+2i4z;CC[C@](C(=O)[O-])(C)Oc1ccc(cc1)CCN(CCCCCCC)c(o2)nc(c23)cccc3;5.6999998;Peroxisome proliferator-activated receptor gamma;DRH
+2i4p;CC[C@](C(=O)[O-])(C)Oc1ccc(cc1)CCN(CCCCCCC)c(o2)nc(c23)cccc3;5.6999998;Peroxisome proliferator-activated receptor gamma;DRH
+3w2t;[H]\N=C\[C@@H]1CCCN1C(=O)C[NH2+][C@@]23C[C@H]4C[C@@H](C2)C[C@@](C4)(O)C3;7.5300002;Dipeptidyl peptidase 4;LF7
+3ccc;n1cn(C)c(c12)c(C[NH3+])c(c(c2)C#N)-c3ccccc3Cl;8.0969105;Dipeptidyl peptidase 4;7AC
+2g63;C1CC[C@@H](/C=N/[H])N1C(=O)[C@@H]2CC[C@@H]([NH2+]2)CNC(=O)Nc3ccc(cc3)C(=O)OC;8.1700001;Dipeptidyl peptidase 4;AAF
+2hfp;c1ccccc1S(=O)(=O)NC(=O)c(c(c(c23)cccc3)-c4ccc(cc4)OC)n2Cc5cccc(c5)C(F)(F)F;8.5200005;Peroxisome proliferator-activated receptor gamma;NSI
+2ole;c1ccccc1C(=O)N2CCCCCN2C(=O)C[C@H]([NH3+])Cc3cc(F)c(F)cc3F;7.2502642;Dipeptidyl peptidase 4;KR2
+3g0b;C1CC[C@@H]([NH3+])CN1c(cc(=O)n(c2=O)C)n2Cc3c(C#N)cccc3;8.1499996;Dipeptidyl peptidase 4;T22
+3g0c;C1C[NH2+]CCN1c(n2)n(c(c23)c(=O)n(C)c(=O)n3C)Cc4ccccc4Cl;5.6999998;Dipeptidyl peptidase 4;RUF
+3g0g;N#Cc1ccccc1Cn2c([nH+]cc(Br)c2=O)N3C[C@H]([NH3+])CCC3;8.3000002;Dipeptidyl peptidase 4;RUM
+3g0d;O=c1n(C)c(=O)n(C)c(c12)nc(N(CCC3)C[C@@H]3[NH3+])n2Cc4ccccc4C#N;8.3000002;Dipeptidyl peptidase 4;XIH
+4lko;COCCN(C1=O)Cc(c12)nc(C)c(C[NH3+])c2-c3c(Cl)cc(Cl)cc3;8.2200003;Dipeptidyl peptidase 4;1WH
+3oc0;COc(c1)c(OC)cc(c12)CC[N@H+]3[C@H]2C[C@H]([NH3+])[C@H](C3)CCCC;6.2800002;Dipeptidyl peptidase 4;B2Q
+1rwq;Clc1cc(Cl)ccc1-c2c(C[NH3+])c(N)nc(n2)-c3cc(OC)cc(c3)OC;10;Dipeptidyl peptidase IV;5AP
+3sz1;O=C([O-])CCCCCCCC;4.6599998;Peroxisome proliferator-activated receptor gamma;LU2
+3f8s;FC1(F)CCN(C1)C(=O)[C@H]2[NH2+]C[C@H](C2)[NH+]3CCN(CC3)c4ncccn4;7.8860564;Dipeptidyl peptidase 4;PF2
+3sx4;COc1ccccc1N(C2)C(=O)c(c23)nc(C)c(C[NH3+])c3-c4ccc(Cl)cc4Cl;8.5200005;Dipeptidyl peptidase 4;KXA
+3peq;O=C([O-])COc1ccc(c(c12)cccc2)S(=O)(=O)N(CCCC)c3cccc(c3C)-c4ccc(SC)cc4;7.5;Peroxisome proliferator-activated receptor delta;3EQ
+3nox;Clc1cc(Cl)ccc1-c2c(C[NH3+])c(C)nc(n23)nc(c3)C(=O)N4CCOCC4;8.6599998;Dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2);6A5
+3h0a;O=C([O-])COc1ccc(c(c12)CCCC2)Sc3ccc(cc3OCC#CCC)COc4ccc(C(F)(F)F)cc4;7.4814858;Retinoic acid receptor RXR-alpha;D30
+2gtk;CCO[C@H](C(=O)[O-])Cc(c1)ccc(c12)n(cc2)Cc3c(C)oc(n3)-c4c(Cl)cccc4;6.5999999;Peroxisome proliferator-activated receptor gamma;208
+2i03;[H]\N=C\[C@H](CC1)N([C@H]1C#C)C(=O)C[NH2+]C2(C)CCN(CC2)c3cc(C(=O)[O-])ccn3;9;Dipeptidyl peptidase 4;AXD
+2fjp;n1cnn(c12)cc(cc2)-c3ccc(cc3)[C@H](C(=O)N(C)C)[C@H]([NH3+])C(=O)N4C[C@@H](F)CC4;8.3699999;Dipeptidyl peptidase 4;S14
+5i7u;N#Cc1ccc(F)cc1Cn2c(N(C[C@@H]3[NH3+])CCC3)nc(c24)[nH+]c5n(c4=O)CC(=O)N5C;8.7700005;Dipeptidyl peptidase 4;6AJ
+4g1f;Cn1c(=O)n(C)c(=O)c(c12)c(c(c(n2)N)C[NH3+])-c3ccccc3Br;7.77;Dipeptidyl peptidase 4;0WG
+2qoe;Fc1cc(F)c(cc1F)C[C@@H]([NH3+])CC(=O)N([C@@H]2C)CCn(c23)nc(n3)C(F)(F)F;7.5999999;Dipeptidyl peptidase 4;448
+4r06;c1ccccc1[C@H](CC)NC(=O)c(cc2)cc(c23)ccn3S(=O)(=O)c(ccc4)c(c45)cccc5;6.29;Peroxisome proliferator-activated receptor gamma;3E7
+2qtb;FC1(F)CN(CC1)C(=O)[C@@H]([NH3+])[C@@H](C(=O)N(C)C)[C@H](CC2)CC[C@@H]2c(cc3)cn(c34)ncn4;8.3199997;Dipeptidyl peptidase 4;474
+2qt9;n1cnn(c12)c(ccc2)[C@H]3CC[C@@H](CC3)[C@H](C(=O)N(C)C)[C@H]([NH3+])C(=O)N4C[C@@H](F)CC4;8.6400003;Dipeptidyl peptidase 4;524
+2oph;CC(=O)N(C)[C@@H](CC1)CC[C@H]1[C@H](C)[C@H]([NH3+])C(=O)N2C[C@@H](F)CC2;7.8000002;Dipeptidyl peptidase 4 soluble form;277
+3o95;CC(C)(C)Cc1nc(CC)c(CC(=O)[O-])c(c1C[NH3+])-c2ccc(C)cc2;8.2799997;Dipeptidyl peptidase 4;01T
+3o9v;CC(C)Cc1c(C[NH3+])c(c(C(=O)[O-])c(n1)C)-c2ccc(C)cc2;7.7399998;Dipeptidyl peptidase 4;10T
+2p8s;Fc1cc(F)c(F)cc1[C@H]2CC[C@@H](C[C@@H]2[NH3+])[N@H+](CC3)Cc(n34)nnc4C(F)(F)F;7.6799998;DIPEPTIDYL PEPTIDASE IV SOLUBLE FORM;417
+1x70;Fc1cc(F)c(F)cc1C[C@@H]([NH3+])CC(=O)N(CC2)Cc(n23)nnc3C(F)(F)F;7.7399998;Dipeptidyl peptidase IV;715
+3r8i;CCCCCCCN(c(n1)oc(c12)cccc2)CCc3ccc(cc3)OC(C)(C)C(=O)[O-];5.3499999;Peroxisome proliferator-activated receptor gamma;XCX
+4j3j;FC(F)(F)c(cc1)n(c12)CCN(C2)C(=O)NCC[C@H]([NH3+])Cc3cc(F)c(F)cc3F;7.5100002;Dipeptidyl peptidase 4;D3C
+2g5t;C1CC[C@@H](/C=N/[H])N1C(=O)[C@@H]2CC[C@@H]([NH2+]2)COc3c(Cl)ccc(c3)C(=O)[O-];9.0900002;Dipeptidyl peptidase 4;ACF
+2g5p;C1CC[C@@H](/C=N/[H])N1C(=O)[C@@H]2CC[C@@H]([NH2+]2)COc3c(C(C)(C)C)cc(C(=O)[O-])cc3;8.4200001;Dipeptidyl peptidase 4;ADF
+3hab;Fc1cc(F)c(cc1F)[C@H]([C@@H]([NH3+])C2)Cc(n23)nc4c3ccc(c4)S(=O)(=O)C;8.3767509;Dipeptidyl peptidase 4;677
+2oag;Fc1cc(F)c(F)cc1[C@H]2CN(C[C@@H]2[NH3+])c3cc(ncn3)-c4cccc(c4)S(=O)(=O)C;8.4700003;Dipeptidyl peptidase 4;DLI
+1i7g;CCO[C@H](C(=O)[O-])Cc1ccc(cc1)OCCc2ccc(cc2)OS(=O)(=O)C;6;PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR ALPHA;AZ2
+3c43;C1C[C@H](F)CN1C(=O)[C@@H]([NH3+])[C@H](CC2CC2)c3nc(no3)-c4ccc(cc4F)S(=O)(=O)C;7.7212458;Dipeptidyl peptidase 4;315
+3c45;C1CCCC1=C(F)[C@@H]([NH3+])[C@H](CC2C=C2)c3nc(no3)-c4ccc(cc4Cl)S(=O)(=O)C;9.6777811;Dipeptidyl peptidase 4;317
+2ogz;NC(=O)c1ccc(cc1)CC[C@@H](C)[NH2+]CC(=O)c2ccc(F)cc2;7.0799999;Dipeptidyl peptidase;U1N
+2rip;c1cccc(c12)nc(cn2)C(=O)N3C[C@H]([C@@H]([NH3+])C3)C(=O)N4CCCC4;7.1870871;Dipeptidyl peptidase 4;34Q
+1i7i;CCO[C@H](C(=O)[O-])Cc1ccc(cc1)OCCc2ccc(cc2)OS(=O)(=O)C;6.6999998;PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR GAMMA;AZ2
+3eio;O=C([O-])c1ccc(cc1)C(=O)N2CCN(CCC2)C(=O)C[C@H]([NH3+])Cc3cc(F)c(F)cc3F;6.6516948;Dipeptidyl peptidase 4 soluble form;AJH
+4pv7;c1cccc(c12)c(C[NH3+])c(n2S(=O)(=O)C)-c3ccc(Cl)cc3Cl;6.6300001;Dipeptidyl peptidase 4 soluble form;CJP
+3bjm;[H]\N=C\[C@H](C1)N([C@H]([C@H]12)C2)C(=O)[C@@H]([NH3+])[C@@]34C[C@@]5(O)C[C@@H](C3)C[C@H](C5)C4;8.3010302;Dipeptidyl peptidase 4;BJM
+3wqh;C1CC[C@@H](C#N)N1C(=O)C[NH2+]C(C)(C)CNC(=O)c(c2)cnc(n23)cc(n3)C;8.4799995;Dipeptidyl peptidase 4;SKK
+3fei;c1cc(Cl)ccc1-c2nc(cs2)COc(cc3)cc(C)c3C[C@@H](C(=O)[O-])OCC;7.6989698;Peroxisome proliferator-activated receptor alpha;CTM
+3sww;Clc1cc(Cl)ccc1-c2c(C[NH3+])c(C)nc(c23)C(=O)N(C3)CCOC;8.3999996;Dipeptidyl peptidase 4;KXB
+1zeo;o1n(C)c(=O)c(c12)cc(CCC)c(c2CCC)O[C@H](C(=O)[O-])c3ccc(cc3)C(C)C;6.6799998;Peroxisome proliferator activated receptor gamma;C01
+3gwx;O=C([O-])CCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC;5.4000001;PROTEIN (PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR (PPAR-DELTA));EPA
+3d4l;Fc1ccc(F)cc1C[C@@H]([NH3+])c2ccc(cc2)-c3cccc(c3)C(=O)N;7.4948502;Dipeptidyl peptidase 4 soluble form;605
+4jh0;Clc1cc(Cl)ccc1-c2c(C[NH3+])c(C)nc(c23)CN(C3=O)CC(=O)N(C)C;9.0299997;Dipeptidyl peptidase 4;1MD
+4prg;c1ccccc1CN(Cc2ccccc2)C(=O)C[C@@H](C3=O)S[C@@H](CCCCCCC)N3CCCCc4ccc(C(=O)[O-])cc4;7.1500001;PROTEIN (PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR GAMMA);072
+2rgu;C1CC[C@@H]([NH3+])CN1c(n2CC#CC)nc(c23)n(C)c(=O)n(c3=O)Cc(n4)nc(C)c(c45)cccc5;9;Dipeptidyl peptidase 4;356
+3vjk;c1ccccc1-n(n2)c(cc2C)N3CC[NH+](CC3)[C@@H]4C[NH2+][C@@H](C4)C(=O)N5CCSC5;9.4300003;Dipeptidyl peptidase 4;M51
+3vjm;c1cccc(c12)c(cc(n2)C(F)(F)F)N3CC[NH+](CC3)[C@@H]4C[NH2+][C@@H](C4)C(=O)N5CSCC5;9.4300003;Dipeptidyl peptidase 4;W61
+3vjl;c1ccccc1-n2nc(C(F)(F)F)cc2[C@H]3CC[N@@H+](CC3)[C@H]4C[C@H]([NH2+]C4)C(=O)N5CCSC5;8.25;Dipeptidyl peptidase 4;W94
+5kby;[NH3+][C@@H](C1)CCCN1c2cc(=O)n(C)c(=O)n2Cc3cc(F)ccc3C#N;8.8199997;Dipeptidyl peptidase 4;6RL
+3ccb;[NH3+]Cc1ccccc1-c2ccccc2;4.5228791;Dipeptidyl peptidase 4;B2Y
+5t4b;[NH3+][C@@H]1CCCN(C1)c(n2CC#CC)nc(c23)n4c(ncc4)n(c3=O)Cc(nc5C)nc(c56)cccc6;9.3800001;Dipeptidyl peptidase 4;75N
+3bc5;c1ccccc1-c(o2)nc(c2C)CCOc3cccc(c3)Cc4c(CC(=O)[O-])nn(n4)-c5ccccc5;8.3010302;Peroxisome proliferator-activated receptor gamma;ZAA
+4n8d;c1ccccc1[C@@]2(C[NH3+])CC[C@@H](CC2)OC/C=C/c3ccccc3;4.9200001;Dipeptidyl peptidase 4;2KS
+4n8e;O=C1CCCCN1[C@@H](CC2)CC[C@@]2(C[NH3+])c(c3)cccc3Cl;7.6999998;Dipeptidyl peptidase 4;2KV
+3hac;Fc1c(F)cc(F)c(c1)[C@H]([C@@H]([NH3+])C2)Cc3nc(c4n23)cncc4;8.1739254;Dipeptidyl peptidase 4;361
+3t03;Brc1ccc(OC)c(c1)C[C@H](SC2=O)C(=O)N2Cc(cc3)ccc3C;6.8000002;Peroxisome proliferator-activated receptor gamma;3T0
+2qky;CC(C)(C)c(o1)nnc1[C@H](O)[C@@H]2C[C@H](F)CN2C(=O)C[NH2+]C(C)(C)CO;9.6073027;Dipeptidyl peptidase 4 (EC 3.4.14.5) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (TP103) (Adenosine deaminase complexing protein 2) (ADABP) (Dipeptidyl peptidase 4 soluble form) (Dipeptidyl peptidase IV soluble form);13Z
+2f4b;c1ccccc1C(=O)c(cc2)cc(c23)ccc(c3CCC)OCCCOc(cc4)cc(c45)ccn5CC(=O)[O-];7.3000002;Peroxisome proliferator-activated receptor gamma;EHA
+2ajl;C1CC[C@@H](C[NH3+])N1C(=O)[C@@H]([NH3+])Cc(cc2)ccc2-c3ccccc3;7.8899999;Dipeptidyl peptidase 4;JNH
+1nyx;CCO[C@H](C(=O)[O-])Cc1ccc(cc1)OCCN2c(cccc3)c3Oc(c24)cccc4;7.04;peroxisome proliferator activated receptor gamma;DRF
+3b1m;O=C1C(C(=O)C)=C(O)C=C([C@@]12C)Oc3c2c(O)cc(OC)c3C(=O)NCc(c(cc4)CC)c(c45)cccc5;8.4799995;Peroxisome proliferator-activated receptor gamma;KRC
+2iit;Fc1cc(F)c(F)cc1C[C@@H]([NH3+])CC(=O)N2CCCNC(=O)[C@H]2CC(F)(F)F;8.5900002;Dipeptidyl peptidase 4 soluble form;872
+2iiv;Fc1cc(F)c(F)cc1C[C@@H]([NH3+])CC(=O)N2CCCNC(=O)[C@H]2C;8.1800003;Dipeptidyl peptidase 4 soluble form;565
+3fej;c1cc(Cl)ccc1-c2nc(cs2)COc(cc3)cc(C)c3C[C@@H](C(=O)[O-])OCC;6.1307683;Peroxisome proliferator-activated receptor gamma;CTM
+1n1m;C1CCCN1C(=O)[C@@H]([NH3+])C(C)C;5.6999998;Dipeptidyl peptidase IV SOLUBLE FORM;A3M

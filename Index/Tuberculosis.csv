@@ -1,0 +1,232 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+5f27;C1CCCCN1c2ccc(cc2)C[NH2+]C;4;HTH-type transcriptional regulator EthR;5TT
+3wqm;c1cccc(c12)oc3c2cccc3-c4cc(ccc4)CC(O)(P([O-])(O)O)P([O-])([O-])O;6.25;Diterpene synthase;B29
+1w2h;OP([O-])(O)OC[C@H]1O[C@H](C[C@@H]1[NH3+])n2c(=O)[nH]c(=O)c(C)c2;5;THYMIDYLATE KINASE TMK;ATM
+1w2g;OC[C@H]1O[C@H](C[C@@H]1O)n2c(=O)[nH]c(=O)c(C)c2;4.5700002;THYMIDYLATE KINASE TMK;THM
+4m3d;c1ccccc1S(=O)(=O)NCC#Cc2ccc(cc2)C(=O)NCCC(F)(F)F;5.4099998;HTH-type transcriptional regulator EthR;2H2
+4m3e;FC(F)(F)CCNC(=O)c1ccc(cc1)-c2nc(sc2)CNS(=O)(=O)CCC;6.25;HTH-type transcriptional regulator EthR;2B3
+4m3f;CC(C)CCNS(=O)(=O)c1ccc(cc1)-c2nc(C)sc2;5.3099999;HTH-type transcriptional regulator EthR;2D1
+4m3g;Cc1nc(cs1)-c2ccc(cc2)S(=O)(=O)NCCC(F)(F)F;6.2600002;HTH-type transcriptional regulator EthR;2G1
+4m3b;FC(F)(F)CCNC(=O)c1ccc(cc1)-c2nc(C)sc2;6.4000001;HTH-type transcriptional regulator EthR;2B2
+3tao;ONC(=O)COP([O-])(O)O;5.1399999;Triosephosphate isomerase;PGH
+3o8h;Ic1ccc(cc1)S(=O)(=O)NCc2cn(nn2)CC(=O)N3CCC(CC3)c4nc(no4)-c5cccs5;6.2399998;Transcriptional Regulatory Repressor protein (TETR-Family) EthR;O8H
+3o8g;N#N=NCC(=O)N1CCC(CC1)c2nc(no2)-c3cccs3;5.1300001;TRANSCRIPTIONAL REGULATORY REPRESSOR PROTEIN (TETR-FAMILY) ETHR;O8G
+5f0h;C1CCCCN1c(cc2)ccc2CNC(=O)CCC3CCN(CC3)c4ccc(C#N)cc4;4.48;HTH-type transcriptional regulator EthR;5TC
+5f04;C1CCCC1CCC(=O)N2CN(CCC2)c3ccc(cc3)C[NH2+]C;4;HTH-type transcriptional regulator EthR;5TB
+5f08;C1CCCN1C(=O)CCC2CCN(CC2)c3ccc(C)cc3;5.52;HTH-type transcriptional regulator EthR;5TG
+1h0r;O=C([O-])[C@@]1(O)C[C@@H](O)[C@H](O)C=C1;3.7;3-DEHYDROQUINATE DEHYDRATASE;FA1
+5edd;O=c1ccn(c(=O)[nH]1)[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)NP([O-])(O)OP([O-])(O)O;5.2399998;Deoxyuridine 5'-triphosphate nucleotidohydrolase;DUP
+3pkd;c1cccc(c12)CC(C2)NC(=O)[C@H](OC)[C@H](O)[C@@H](O)[C@H](O)\C=C\C(C)(C)C;6.1199999;Methionine aminopeptidase;Y10
+3pke;c1cccc(c12)CC(C2)NC(=O)[C@H](OC)[C@H](O)[C@@H](O)[C@H](O)\C=C\C(C)(C)C;3.5999999;Methionine aminopeptidase;Y10
+3pka;CC(C)(C)/C=C/[C@@H](O)[C@H](O)[C@@H](O)[C@@H](OC)C(=O)NCCOc1c(C)cc(C)cc1C;6.27;Methionine aminopeptidase;Y02
+3pkb;NC(=O)CNC(=O)[C@H](OC)[C@H](O)[C@@H](O)[C@H](O)\C=C\C(C)(C)C;6.21;Methionine aminopeptidase;Y16
+3pkc;CC(C)(C)/C=C/[C@@H](O)[C@H](O)[C@@H](O)[C@@H](OC)C(=O)NC[C@@H](C1)CCCN1C(=O)C2CC2;6.02;Methionine aminopeptidase;Y08
+4acf;O=C([O-])COc1ccc(cc1)C(N2)=C(N(C2=3)CC(Br)=CC3)NCCCC;5.8000002;GLUTAMINE SYNTHETASE 1;46B
+4xtx;N1C(=O)N[C@H]([C@H]12)CS[C@H]2CCCCC(=O)NS(=O)(=O)OC[C@H]3O[C@H]([C@H]([C@@H]3O)N=N#N)n(cn4)c(c45)ncnc5N;10.57;Bifunctional ligase/repressor BirA;590
+4xtw;n1cnc(N)c(c12)ncn2[C@@H]([C@@H]([C@@H]3O)N=N#N)O[C@@H]3CNS(=O)(=O)NC(=O)CCCC[C@@H]4SC[C@@H]([C@@H]45)NC(=O)N5;9.0299997;Bifunctional ligase/repressor BirA;44M
+3sb0;Cc1ccc(F)c(c1Cl)C(=O)/C=C(\O)C(=O)[O-];5.2600002;Malate synthase G;I93
+5j5d;O=C([O-])CCCCCC(=O)[O-];4.6799998;4-hydroxy-tetrahydrodipicolinate synthase;6GT
+4qij;c1cccc(c12)ccc(c2O)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP([O-])(O)OP([O-])(O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3OP([O-])(O)O)n(cn4)c(c45)ncnc5N;5.54;1,4-Dihydroxy-2-naphthoyl-CoA synthase;1HA
+4c72;OC1=C(C(=O)C)C(=O)S[C@]1(C)/C=C(\C)C=C;5.0900002;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLG
+4c73;FC(F)(F)C(=O)C(=C1O)C(=O)S[C@]1(C)/C=C(\C)C=C;4.9200001;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLH
+4c70;C=C/C(C)=C/[C@@]1(C)SC(=O)C(=C1O)CCC;3.52;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLJ
+4c71;N#N=NCCCCC(=C1O)C(=O)S[C@]1(C)/C=C(\C)C=C;3.4200001;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;7RD
+3v78;c1c(N)ccc(c12)c3c(cc(N)cc3)N(CC)[C@@H]2c4ccccc4;5.54;PROBABLE TRANSCRIPTIONAL REGULATORY PROTEIN (PROBABLY DEOR-FAMILY);ET
+2vi5;O=C1NC(=O)[C@@H](NC(=O)CC)C(=N1)NC[C@H](O)[C@H](O)[C@H](O)CO;3.958607;6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE;Y19
+3dla;O=C([O-])C1=CC=CN(C1)[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(O)OP([O-])(O)OC[C@@H]3[C@@H](O)[C@@H](O)[C@@H](O3)n(cn4)c(c45)ncnc5N;3.4559319;Glutamine-dependent NAD(+) synthetase;DND
+4a22;[O-]P([O-])(O)OCC(=O)N(O)CCCCOP([O-])(O)O;8.4899998;FRUCTOSE-BISPHOSPHATE ALDOLASE;TD4
+5duc;O1COc(c12)cc(cc2)CNC(=O)c(cn3)c(n34)N[C@H](C[C@H]4C(F)(F)F)c5ccc(CC)cc5;6.3499999;Probable enoyl-CoA hydratase echA6;G51
+4mq6;c1cc(OC)cc(c12)cc(n2CC(=O)[O-])C(=O)NS(=O)(=O)c3ccc(C)cc3;6.4699998;Pantothenate synthetase;29W
+4mqp;OP([O-])(O)OCc1cnc(C)c(O)c1C/N=N/c(n2)sc(c23)cccc3;4.98;Adenosylmethionine-8-amino-7-oxononanoate aminotransferase;2B1
+4w97;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3OP([O-])(O)O)O[C@@H]3COP([O-])(O)OP([O-])(O)OCC(C)(C)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CC[C@H](C(=O)CC4)[C@@H]([C@]45C)CCC5=O;7.0999999;HTH-type transcriptional repressor KstR2;UCA
+3zuk;O1[C@@H](C)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1OP([O-])(O)N[C@@H](CC(C)C)C(=O)N[C@H](C(=O)[O-])Cc2c[nH]c(c23)cccc3;7.46;ENDOPEPTIDASE, PEPTIDASE FAMILY M13;RDF
+4qhc;O=C([O-])[C@@H]1CS[C@@H]([C@H](C[NH2+]1)CO)[C@H]([NH2+]2)C[C@@H]([N@H+]23)CCSC3;6.6999998;Beta-lactamase;33V
+4lpf;n1cn[nH]c1N;3.51;Imidazoleglycerol-phosphate dehydratase;3TR
+1rq2;O=C([O-])CC(O)(C(=O)[O-])CC(=O)[O-];2.52;Cell division protein ftsZ;CIT
+5ezh;C1CCCN1C(=O)NCC2CCN(CC2)c3ccccn3;4.6199999;HTH-type transcriptional regulator EthR;841
+5ezg;n1cccnc1N(CC2)CCC2CNC(=O)N3CCCC3;4.9200001;HTH-type transcriptional regulator EthR;5T4
+3imc;COc(c1)ccc(c12)[nH]cc2;2.9586072;Pantothenate synthetase;BZ3
+3img;COc(c1)ccc(c12)[nH]cc2;2.96;Pantothenate synthetase;BZ3
+3ime;O=C([O-])c(c1)oc(c12)cccc2;3;Pantothenate synthetase;BZ2
+3pty;OC[C@@H](O1)[C@@H](O)[C@H](O)[C@H]1OCCCCCCCC;5.4400001;Arabinosyltransferase C;AFO
+3zhz;FC(F)(F)c1cccc(c1)Nc2ccccc2C(=O)N(O)CC[C@H](P([O-])(O)O)c3ccc(Cl)c(Cl)c3;7.0500002;1-DEOXY-D-XYLULOSE 5-PHOSPHATE REDUCTOISOMERASE;FM7
+3zhx;Clc1ccc(cc1Cl)[C@@H](P([O-])(O)O)CCN(O)C(=O)c2ccccc2;6.6799998;1-DEOXY-D-XYLULOSE 5-PHOSPHATE REDUCTOISOMERASE;FM6
+1i80;[nH]1ccc(c12)nc[nH]c2=O;6.4099998;PURINE NUCLEOSIDE PHOSPHORYLASE;9HX
+5e2l;O=C([O-])[C@H]([NH3+])Cc1ccccc1;4.0300002;3-deoxy-D-arabinoheptulosonate-7-phosphate synthase;DPN
+2py4;O=c1ccn(c(=O)[nH]1)[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)NP([O-])(O)OP([O-])(O)O;6.6999998;Deoxyuridine 5'-triphosphate nucleotidohydrolase;DUP
+5f0f;C1CCCN1C(=O)CCC2CCN(CC2)c3ccc(C#N)cc3;6;HTH-type transcriptional regulator EthR;5TD
+5f0c;C1CCCCN1c2cc(ccc2)NC(=O)CCC3CCCC3;4;HTH-type transcriptional regulator EthR;5TE
+4muf;c1cc(OC)cc(c12)cc(n2CC(=O)[O-])C(=O)NS(=O)(=O)c3ccc(C(C)(C)C)cc3;6.3400002;Pantothenate synthetase;2DJ
+4mue;c1cc(OC)cc(c12)cc(n2CC(=O)[O-])C(=O)NS(=O)(=O)c3ccc(C(F)(F)F)cc3;6.6999998;Pantothenate synthetase;2DH
+4mul;c1cc(OC)cc(c12)cc(n2CC(=O)[O-])C(=O)NS(=O)(=O)c(c3)ccc(c34)cccc4;6.21;Pantothenate synthetase;2DW
+4muk;c1cc(OC)cc(c12)cc(n2CC(=O)[O-])C(=O)NS(=O)(=O)Cc3ccc(C(F)(F)F)cc3;6.5999999;Pantothenate synthetase;2DV
+4xtz;N1C(=O)N[C@H]([C@H]12)CS[C@H]2CCCCC(=O)NS(=O)(=O)OC[C@H]3O[C@H]([C@@H](F)[C@@H]3O)n(cn4)c(c45)ncnc5N;9.8199997;Bifunctional ligase/repressor BirA;594
+3ioc;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3CSSCc4ccccc4;3.6777806;Pantothenate synthetase;A5D
+3iob;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3CS;3.4202163;Pantothenate synthetase;A4D
+3ioe;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3CSCC[C@@H](O)CO;3.2676063;Pantothenate synthetase;A7D
+3iod;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3CSSCc4cccc(c4)N(=O)=O;4.09691;Pantothenate synthetase;A6D
+2xb8;COc1ccc(cc1)C[C@H]([C@]2(C(=O)[O-])O)C(=O)[C@@H](O)[C@H](O)C2;7.5900002;3-DEHYDROQUINATE DEHYDRATASE;XNW
+3e3u;CCCC[C@H](CN(O)C=O)C(=O)N1[C@@H](CCC1)c(o2)nc(c23)cccc3;7.8860564;Peptide deformylase;NVC
+3n87;O=C([O-])[C@]1(O)C=C([C@@H](O)[C@H](O)C1)c2cc(ccc2)C(=O)c3ccccc3;4.96;3-dehydroquinate dehydratase;N87
+3n86;c1ccccc1NC(=O)CCC(=C[C@@]2(O)C(=O)[O-])[C@@H](O)[C@H](O)C2;5.6399999;3-dehydroquinate dehydratase;RJP
+4ddh;O=C([O-])Cc(co1)c(c12)ccc(c2)OC;3.3;Pantothenate synthetase;MS0
+4ddk;O=C([O-])c(c1)ccc(c12)OCO2;2.29;Pantothenate synthetase;0HN
+4ddm;O=C([O-])c(c1)ccc(c12)nsn2;2.46;Pantothenate synthetase;0HO
+3dc2;O=C([O-])[C@H](O)[C@@H](O)C(=O)[O-];3.0222759;D-3-phosphoglycerate dehydrogenase;TLA
+5f91;C1CCCCCN1S(=O)(=O)c(c2)ccc(OC)c2NC(=O)C[C@@H](N=NC3=O)c(c34)cccc4;5.1999998;Fumarate hydratase class II;5WJ
+2wuf;O=C([O-])C(=O)\C=C\[C@@H](C)C(=O)CC[C@@H](C(=O)CC1)[C@H]([C@]12C)CCC2=O;4.29;2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE BPHD;KEM
+3uu1;Cc1cc(C)c(N)c(c1)C(=O)[O-];5.1999998;Anthranilate phosphoribosyltransferase;14B
+4g5f;O=C([O-])[C@@H](O1)COc(c12)cccc2;3.05;Pantothenate synthetase;0JD
+4g5y;CN(C)S(=O)(=O)c1ccsc1;2.77;Pantothenate synthetase;0OC
+2c94;OP([O-])(O)C(F)(F)CCCCn1c(=O)n(c(c12)[nH]c(=O)[nH]c2=O)C[C@@H](O)[C@H](O)[C@H](O)CO;6.8200002;6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE;TSF
+4rhy;OP([O-])(O)CC[NH+](CCP([O-])([O-])O)CC[N@@H+](CCP([O-])(O)O)CCn1cnc(c12)c(=O)nc[nH]2;5.9499998;Hypoxanthine-guanine phosphoribosyltransferase;3QG
+3ivc;COc(c1)ccc(c12)n(CC(=O)[O-])c(c2)C(=O)OCc(c3)oc(c34)cccc4;4.124939;Pantothenate synthetase;FG4
+4wop;c1cc(=N/[H])\[nH]c(=O)n1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(O)OP([O-])(O)OP([O-])(O)O;4.7600002;ATP-dependent dethiobiotin synthetase BioD;CTP
+1we2;O[C@@H]1C=C(C(=O)[O-])C[C@@H](O)[C@@H]1O;4.3600001;Shikimate kinase;DHK
+5e5g;O=C([O-])[C@H]([NH3+])Cc(c[nH]1)c(c12)cccc2;3.1500001;3-deoxy-D-arabinoheptulosonate-7-phosphate synthase;DTR
+2fum;OCC[NH2+]CCNc1ccc(NCC[NH2+]CCO)c(c12)C(=O)c3c(C2=O)c(O)ccc3O;6.0999999;Probable serine/threonine-protein kinase pknB;MIX
+2oz5;Clc1cc(ccc1)CN(C(=O)C(=O)[O-])Cc2sc(cc2)S(=O)(=O)NCCC(c3ccccc3)c4ccccc4;6.4814858;Phosphotyrosine protein phosphatase ptpb;7XY
+3u6w;O=C([O-])C(=O)C(C)C;6.9200001;2-isopropylmalate synthase;KIV
+2ypp;O=C([O-])[C@@H]([NH3+])Cc1ccc(O)cc1;4.4099998;PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE AROG;TYR
+2ypo;O=C([O-])[C@@H]([NH3+])Cc1ccccc1;4.6799998;PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE AROG;PHE
+5du8;c1cc(CC)ccc1[C@H](N2)C[C@@H](C(F)(F)F)n(c23)ncc3C(=O)NCc4ccc(F)cn4;5.7199998;Probable enoyl-CoA hydratase echA6;5FK
+5du4;CCc(cc1)ccc1[C@H](N2)C[C@@H](C(F)(F)F)n(c23)ncc3C(=O)NCc4ccc(OC)cc4;5.25;Probable enoyl-CoA hydratase echA6;5FF
+5du6;c1cc(F)ccc1CNC(=O)c2cnn(c23)[C@H](C)C[C@@H](N3)c4ccc(CC)cc4;5.02;Probable enoyl-CoA hydratase echA6;G59
+5duf;O=C([O-])c(cn1)c(n12)N[C@H](C[C@H]2C(F)(F)F)c3ccc(CC)cc3;5.7399998;Probable enoyl-CoA hydratase echA6;G7A
+3f69;C[C@@]12n3c4c(cccc4)c5c3c6n([C@H](O2)C[C@]1(O)C(=O)OC)c7c(cccc7)c6c8c5CNC8=O;6;Serine/threonine-protein kinase pknB;XDR
+2c9d;OP([O-])(O)OCCCCCCn1c(=O)n(c(c12)[nH]c(=O)[nH]c2=O)C[C@@H](O)[C@H](O)[C@H](O)CO;6.3200002;6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE;PHR
+2c9b;O=c([nH]1)[nH]c(=O)c(c12)[nH]c(=O)n2C[C@@H](O)[C@H](O)[C@H](O)CO;5.54;6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE;PUG
+2c97;Clc1[nH]c(=O)[nH]c(=O)c1CCCCOP([O-])(O)O;6.1399999;6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE;JCL
+2c92;OP([O-])(O)OCCCCCn1c(=O)n(c(c12)[nH]c(=O)[nH]c2=O)C[C@@H](O)[C@H](O)[C@H](O)CO;5.6799998;6,7-DIMETHYL-8-RIBITYLLUMAZINE SYNTHASE;TP6
+1mrs;OP([O-])(O)OC[C@H]1O[C@H](C[C@@H]1O)n2c(=O)[nH]c(=O)c(c2)CO;3.96;THYMIDYLATE KINASE;5HU
+2bet;O=C([O-])[C@H](O)[C@H](O)COP([O-])(O)O;2.77;CARBOHYDRATE-PHOSPHATE ISOMERASE;DEZ
+2bes;OP([O-])(O)OC[C@@H](O)[C@@H](O)C(=O)NO;4.2399998;CARBOHYDRATE-PHOSPHATE ISOMERASE;RES
+2yim;OC(=C)[C@@H](C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP([O-])(O)OP([O-])(O)OC[C@@H](O1)[C@@H](OP([O-])(O)O)[C@@H](O)[C@@H]1n2cnc(c23)c(N)ncn3;3.9200001;PROBABLE ALPHA-METHYLACYL-COA RACEMASE MCR (2-METHYLACYL-COA RACEMASE) (2-ARYLPROPIONYL-COA EPIMERASE );MC4
+5d1w;O=C([O-])CCCCCCCCCCCCCCC;5.1199999;Rv3249c transcriptional regulator;PLM
+5d1r;CC(C)OC(=O)CCCCCCCCCCC;4.8400002;Rv1816 transcriptional regulator;56S
+4xty;n1cnc(N)c(c12)ncn2[C@@H]([C@H](F)[C@@H]3O)O[C@@H]3CNS(=O)(=O)NC(=O)CCCC[C@@H]4SC[C@@H]([C@@H]45)NC(=O)N5;9.21;Bifunctional ligase/repressor BirA;44L
+4xtv;N1C(=O)N[C@H]([C@H]12)CS[C@H]2CCCCC(=O)NS(=O)(=O)NC[C@H]3C[C@H](CC3)n(cn4)c(c45)ncnc5N;9.2700005;Bifunctional ligase/repressor BirA;44K
+4cix;c1ccccc1C[C@H](O)C(=C[C@]2(C(=O)[O-])O)[C@@H](O)[C@@H](C2)O;4.4699998;3-DEHYDROQUINATE DEHYDRATASE;W4N
+4ciy;c1ccccc1C[C@@H](O)C(=C[C@]2(C(=O)[O-])O)[C@@H](O)[C@@H](C2)O;4.5700002;3-DEHYDROQUINATE DEHYDRATASE;NDY
+4civ;OCC(=C1)[C@@H](O)[C@H](O)C[C@@]1(C(=O)[O-])O;4.9499998;3-DEHYDROQUINATE DEHYDRATASE;48P
+4ciw;OCCC(=C1)[C@@H](O)[C@H](O)C[C@@]1(C(=O)[O-])O;4.8200002;3-DEHYDROQUINATE DEHYDRATASE;XH2
+3saz;O=C([O-])C(=O)/C=C(\O)c1cccc(Br)c1;6.0999999;Malate synthase G;043
+2qo1;O=C([O-])CCCCCCCCCCOC(=O)S;5.5686359;3-oxoacyl-[acyl-carrier-protein] synthase 3;VZZ
+3tfu;Cc1ncc(COP([O-])(O)O)c(c1O)C/N=C(\C=C2)C(=O)N=C2CCCO;3.28;Adenosylmethionine-8-amino-7-oxononanoate aminotransferase;PL8
+5cxi;C1CC(=O)C=C([C@]12C)CC[C@H]3[C@H]4[C@](C)(CC[C@H]23)[C@H](CC4)[C@H](C)C(=O)SCCNC=O;6.5500002;HTH-type transcriptional repressor KstR;5TW
+4m0r;O=C([O-])c1ccccc1Nc2c(C(=O)[O-])c(ccc2)Nc3ccccc3C(=O)[O-];5.21;Anthranilate phosphoribosyltransferase;644
+5ld8;c1nn(C)c(c12)cc(cc2)NS(=O)(=O)CCCC;8.0500002;3-oxoacyl-[acyl-carrier-protein] synthase 1;6U5
+4b6o;COc1ccc(cc1)C[C@@H]([C@]2(C(=O)[O-])O)C(=O)[C@@H](O)[C@H](O)C2;7;3-DEHYDROQUINATE DEHYDRATASE;3DQ
+3veh;O=C([O-])/C(=C/C)OC1=CCC[C@@H](C(=O)[O-])[C@@H]1O;4.96;Isochorismate synthase/isochorismate-pyruvate lyase mbtI;0GA
+3rv6;O=C([O-])c1c(O)c(ccc1)OC(\C(=O)[O-])=C\c2ccccc2;4.6799998;Isochorismate synthase/isochorismate-pyruvate lyase mbtI;VAE
+4b6p;Fc1c(F)c(F)c(F)c(F)c1C[C@@H]([C@@]2(O)C(=O)[O-])C(=O)[C@@H](O)[C@H](O)C2;7.1300001;3-DEHYDROQUINATE DEHYDRATASE;2HN
+4b6q;c1csc(c12)ccc(c2)C[C@H]([C@]3(C(=O)[O-])O)C(=O)[C@@H](O)[C@@H](C3)O;7.5500002;3-DEHYDROQUINATE DEHYDRATASE;BZ5
+2pkn;OP(O)(O)CP(O)(O)OP(O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N(CN2)C(C23)NCNC3N;0;Adenosine kinase;ACP
+2pkm;OC[C@@H]1O[C@H]([C@H](O)[C@@H]1O)N(CN2)C(C23)NCNC3N;0;Adenosine kinase;ADN
+2pkk;OC[C@@H]1O[C@H]([C@H](O)[C@@H]1O)N2CNC(C23)[C@@H](N)NC(F)N3;0;Adenosine kinase;2FA
+3zxv;Nc1nccc(c1)-c2[nH]c(C(C)(C)C)nc2-c(c3)ccc(c34)cc(cc4)OC;7.3099999;GLUTAMINE SYNTHETASE 1;MXI
+3zxr;c1cccc(c12)cc(cn2)-c(nc3C(C)(C)C)c([nH]3)-c4ccncc4;7.6999998;GLUTAMINE SYNTHETASE 1;IQ1
+4owm;O=C([O-])c1cccc(F)c1N;2.96;Anthranilate phosphoribosyltransferase;3F0
+3nba;OP([O-])(O)OP([O-])(O)CP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;3.4100001;Phosphopantetheine adenylyltransferase;APC
+4xu0;Nc1ncnc(c12)n(cn2)[C@@H]3O[C@@H]([C@@H](O)[C@]3(O)C)COS(=O)(=O)NC(=O)CCCC[C@@H]4SC[C@@H]([C@@H]45)NC(=O)N5;9.1099997;Bifunctional ligase/repressor BirA;44N
+3qs8;O=C([O-])c1ccccc1Cc2ccccc2;4.7399998;Anthranilate phosphoribosyltransferase;17D
+5f1j;C1CCCC1CCC(=O)N2CCCC2;4.9200001;HTH-type transcriptional regulator EthR;5TO
+3rzi;O=C([O-])[C@@H]([NH3+])Cc1c[nH]c(c12)cccc2;4.6799998;Probable 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase AroG;TRP
+4rcg;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.0300002;Phosphoenolpyruvate carboxykinase [GTP];GDP
+3n7a;O=C([O-])[C@@]1(O)C[C@@H](O)[C@H](O)C=C1;3.7;3-dehydroquinate dehydratase;FA1
+3n76;O=C([O-])[C@]1(O)C=C([C@@H](O)[C@H](O)C1)/C=C/COc2ccccc2;6.8499999;3-dehydroquinate dehydratase;CA2
+4xu3;n1cnc(N)c(c12)ncn2COCCNS(=O)(=O)NC(=O)CCCC[C@@H]3SC[C@@H]([C@@H]34)NC(=O)N4;9.5;Bifunctional ligase/repressor BirA;44R
+4xu2;n1cnc(N)c(c12)ncn2[C@@H]([C@@H](C3)O)O[C@@H]3CNS(=O)(=O)NC(=O)CCCC[C@@H]4SC[C@@H]([C@@H]45)NC(=O)N5;9.2299995;Bifunctional ligase/repressor BirA;44Q
+4xu1;n1cnc(N)c(c12)ncn2[C@@H](C[NH2+]C3)O[C@@H]3COS(=O)(=O)NC(=O)CCCC[C@@H]4SC[C@@H]([C@@H]45)NC(=O)N5;9.4899998;Bifunctional ligase/repressor BirA;44O
+1g2o;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;10.55;PURINE NUCLEOSIDE PHOSPHORYLASE;IMH
+5ect;O=c1ccn(c(=O)[nH]1)[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)NP([O-])(O)OP([O-])(O)O;5.2800002;Deoxyuridine 5'-triphosphate nucleotidohydrolase;DUP
+3sfi;FC(F)(F)CCCC(=O)N1CCC(CC1)c2onc(n2)-c3sccn3;6.4000001;Transcriptional regulatory repressor protein (TETR-family);3SF
+5ecv;c1c[nH]c(c12)ccc(c2C)\C(O)=C\[C@H](O)C(=O)[O-];6.77;Malate synthase G;5M2
+4bfy;O=C([O-])COc1ccc(-c(cc2)ccc2C#N)c(c1)C[NH+]3CCN(CC3)c4ccccn4;6.9200001;PANTOTHENATE KINASE;ZVY
+4bfz;CNC(=O)COc1ccc(-c2ccc(C#N)cc2)c(c1)C[NH+]3CCN(CC3)c4ncccc4;6.2600002;PANTOTHENATE KINASE;ZVZ
+3n8k;Oc1cc(C(=O)[O-])cc(=O)[nH]1;4.0500002;3-dehydroquinate dehydratase;D1X
+3n8n;O=C([O-])[C@@]1(O)C[C@@H](O)[C@H](O)C(C1)C(=O)NC(C)(C)C;4.5700002;3-dehydroquinate dehydratase;N88
+4c6v;OC1=C(C(=O)C)C(=O)S[C@]1(C)\C=C(\C)C=C;4.5900002;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLG
+3r88;Nc1cc(OC)c(OC)cc1C(=O)[O-];4.8200002;Anthranilate phosphoribosyltransferase;14F
+4c6x;OC1=C(C)C(=O)S[C@]1(C)/C=C(C)/C=C;3.76;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLM
+4c6z;C=C/C(C)=C/[C@@]1(C)SC(=O)C(CC)=C1O;3.45;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLE
+4uns;CS(=O)(=O)Nc(cc1)ccc1-c2c(C#N)c(=O)[nH]c(c23)cc(CC)nc3C;6.6999998;THYMIDYLATE KINASE;QZ3
+4unr;c1cc(C(=O)[O-])ccc1-c2c(C#N)c(=O)[nH]c3c2ccc(c34)c(ccc4)-c5c[nH]nc5;8.6999998;THYMIDYLATE KINASE;QZE
+4unq;N#C[C@@H]1C(=O)N=C(C=C1[S@@H](C)O)c2cccc(c2)OC(F)(F)F;6.6199999;THYMIDYLATE KINASE;H6D
+4unp;Cc1nc(CCC)cc(c12)[nH]c(=O)cc2;3.23;THYMIDYLATE KINASE;TXW
+4unn;c1cc(C(=O)[O-])ccc1C([C@@H]2C#N)=C[C@H](NC2=O)c3cccc(c3)OC;6.3800001;THYMIDYLATE KINASE;QZZ
+3krd;CC(C)C[C@@H](CO)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)C[C@H](O)CC;8.1700001;Proteasome subunit alpha;FEB
+3sdg;FC(F)(F)CCC(=O)N1CCC(CC1)c2nc(no2)-c3sccn3;5.5500002;HTH-type transcriptional regulator EthR;3SE
+2qnz;CCCCCCCCCCOC=O;5.420217;3-oxoacyl-[acyl-carrier-protein] synthase 3;DFD
+2y76;c1csc(c12)ccc(c2)CC([C@]3(C(=O)[O-])O)=C([C@@H](O)[C@@H](C3)O)OCc(c4)ccc(c45)scc5;6.3600001;3-DEHYDROQUINATE DEHYDRATASE;CB7
+2y77;s1cccc1CC2=C([C@@H](O)[C@H](O)C[C@@]2(C(=O)[O-])O)OCc(c3)sc(c34)cccc4;6.5999999;3-DEHYDROQUINATE DEHYDRATASE;CB8
+3lf0;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.71;Nitrogen regulatory protein P-II;ATP
+2pzi;C1CC1C(=O)Nc(s2)c(C(=O)N)c(c23)CCCC3;6.0999999;Probable serine/threonine-protein kinase pknG;AXX
+3pfp;OP([O-])(O)O[C@@H](C(=O)[O-])CCCCCOP([O-])([O-])O;6.4400001;Probable 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase AroG;036
+3g1m;s1cccc1CC(=O)N2CCC(CC2)c3nc(no3)-c4cccs4;6.3000002;TRANSCRIPTIONAL REGULATORY REPRESSOR PROTEIN (TETR-FAMILY) ETHR;RF3
+5cw8;CSC(=O)[C@@H](C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@]1(C)CC[C@H]3[C@H]2CCC([C@@]34C)=CC(=O)CC4;7.2199998;HTH-type transcriptional repressor KstR;55X
+3zi0;c1ncnn1Cc(cccc2)c2C(=O)N(O)CC[C@H](P([O-])(O)O)c3cc(Cl)c(Cl)cc3;7.4000001;1-DEOXY-D-XYLULOSE 5-PHOSPHATE REDUCTOISOMERASE;FM8
+5cwa;O=C([O-])/C(=C/C)Oc1cccc(C(=O)[O-])c1O;4.77;Anthranilate synthase component 1;0GA
+3sad;c1cccc(c1C)/C(O)=C/C(=O)C(=O)[O-];5.96;Malate synthase G;040
+5hm3;c1ccccc1OCCCCCCCCCCC(=O)NS(=O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n3cnc(c34)c(N)ncn4;5.1700001;Long-chain-fatty-acid--AMP ligase FadD32;649
+3twp;O=C([O-])c1c(O)cccc1;3.9200001;Anthranilate phosphoribosyltransferase;SAL
+4xyc;n1ccn(c12)c3c([nH]c2=O)c4c(C3)c(ccc4)-c5ccccc5;7.5100002;Glutamine synthetase 1;2K9
+4giu;O=C([O-])c1cccc(C)c1Nc2c(C(=O)[O-])ccc(c2)C;5.3299999;Anthranilate phosphoribosyltransferase;636
+4ef6;O1COc(c12)cc(cc2)CCC(=O)[O-];2.9200001;Pantothenate synthetase;I2E
+4efk;CN(C)S(=O)(=O)c1ccsc1;2.49;Pantothenate synthetase;0OC
+4rlw;c1cc(O)cc(O)c1[C@H](O)/C=C/c2cc(O)c(O)cc2;4.8699999;(3R)-hydroxyacyl-ACP dehydratase subunit HadA;BUN
+4own;Nc1ccc(F)cc1C(=O)[O-];4.2199998;Anthranilate phosphoribosyltransferase;5RG
+4owo;O=C([O-])c1c(F)cccc1N;4.4699998;Anthranilate phosphoribosyltransferase;6F0
+4owv;O=C([O-])c1c(N)cccc1;4.3499999;Anthranilate phosphoribosyltransferase;BE2
+5kdf;CN(C)c1nc(N(C)C)nc(n1)-c2cccn2-c3ccccc3;3.27;Inorganic pyrophosphatase;6RU
+3isj;COc(c1)ccc(c12)[nH]c(c2)C(=O)NS(=O)(=O)C;3.6777806;Pantothenate synthetase;A8D
+4fzj;O=C([O-])c(s1)cc(c12)c(C)nn2C;3.1500001;Pantothenate synthetase;0W1
+5eyr;C[NH2+]Cc1ccc(cc1)N2CCC(CC2)CCC(=O)n3cccc3;5.3000002;EthR;5T0
+4g2r;O=C([O-])[C@@H](C)Oc1ccc(cc1)Oc2ncc(C(F)(F)F)cc2Cl;4.4499998;AccD6, Carboxyltransferase beta-subunit of Acyl-CoA Carboxylase;H1L
+4km0;Nc1nc(N)c(c(n1)CC)-c2ccc(Cl)cc2;6.04;Dihydrofolate reductase;CP6
+4km2;Nc1ncc(c(n1)N)Cc2cc(OC)c(OC)c(c2)OC;5.8400002;Dihydrofolate reductase;TOP
+5kde;C1CN1c2nc(nc(n2)N3CC3)-c4n(ccc4)-c5ccccc5;3.8900001;Inorganic pyrophosphatase;6RT
+4del;ONC(=O)COP([O-])(O)O;7.6799998;Fructose-bisphosphate aldolase;PGH
+4de7;O1[C@H](C)[C@@H](O)[C@@H](O)[C@@H]1n2c(=O)[nH]c(=O)cc2;4.8000002;GLUCOSYL-3-PHOSPHOGLYCERATE SYNTHASE (GpgS);UDP
+4de5;O=C([O-])[C@@H](O1)COc(c12)cccc2;3.1500001;Pantothenate synthetase;0JD
+3iub;COc(c1)ccc(c12)[nH]c(c2)C(=O)NS(=O)(=O)c(nc3)ccc3C;4.5376019;Pantothenate synthetase;FG2
+3iue;COc(c1)ccc(c12)n(CC(=O)[O-])c(c2)C(=O)NS(=O)(=O)c(nc3)ccc3C;5.8239088;Pantothenate synthetase;FG3
+3le8;COc(c1)ccc(c12)n(CC(=O)[O-])c(c2)CNC(=O)c(c3)oc(c34)cccc4;6.0700002;Pantothenate synthetase;2B5
+3iu9;Nc1nc([nH]n1)SCc(cc2)c(Cl)cc2Cl;6.6199999;Methionine aminopeptidase;T07
+3iu8;c1cc(F)ccc1CSc2ncn[nH]2;6.2399998;Methionine aminopeptidase;T03
+3iu7;O=C([O-])c1oc(cc1)-c2ccccc2Cl;4.8000002;Methionine aminopeptidase;FCD
+4c6u;OC1=C(C(=O)C)C(=O)S[C@]1(C)\C=C(\C)C=C;4.5900002;3-OXOACYL-[ACYL-CARRIER-PROTEIN] SYNTHASE 1;TLG
+2zjf;c1ccccc1NC(=O)Nc2ccccc2;7.7199998;Probable epoxide hydrolase ephB;BSU
+2y71;c1c(C)ccc(c12)sc(c2)COC(=C[C@]3(C(=O)[O-])O)[C@@H](O)[C@@H](C3)O;7.3699999;3-DEHYDROQUINATE DEHYDRATASE;CB6
+4bqs;O[C@@]12CC(C(=O)[O-])=C[C@H]([C@@H]2O)OCC=C1;4.21;SHIKIMATE KINASE;K2Q
+1mrn;O=c1[nH]c(=O)c(C)cn1[C@@H](C[C@@H]2O)O[C@@H]2COP([O-])(O)OP([O-])(O)OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc(c45)c(N)ncn5;4.52;Thymidylate Kinase;T5A
+4jmx;O=C[C@H]([C@H](O)C)[C@@H](C1)NC(C(=O)[O-])=C1S;7.21;Probable L,D-transpeptidase LdtA;IM2
+5dri;[nH]1ccc(c12)cc(cc2)C(=O)CC(=O)C(=O)[O-];7.6999998;Malate synthase G;5EQ
+5drc;c1cccc(c12)[nH]cc2C(=O)C[C@@H](C(=O)[O-])O;5.98;Malate synthase G;5ER
+4kij;Oc1c(O)cc(C(=O)[O-])cc1Oc2cc(N(=O)=O)ccc2;4.3000002;3-dehydroquinate dehydratase;KIJ
+4kiu;O=C([O-])c1cc(cc(c1)C(=O)[O-])OCc2cc(N(=O)=O)ccc2;3.8499999;3-dehydroquinate dehydratase;KIU
+4kiw;O=C([O-])c1cc(cc(c1)C(=O)[O-])NCc2cc(N(=O)=O)ccc2;5.1199999;3-dehydroquinate dehydratase;KIW
+2vvo;O[C@@H]1[C@H](O)[C@H](O)[C@H](O)[C@H](O1)COP([O-])(O)O;2.20066;RIBOSE-5-PHOSPHATE ISOMERASE B;A6P
+2vvp;O=C[C@H](O)[C@H](O)[C@H](O)COP([O-])(O)O;3.3979399;RIBOSE-5-PHOSPHATE ISOMERASE B;5RP
+5dtw;Nc1ncnc(c12)n(cn2)[C@@H]([C@H](O)[C@@H]3OP([O-])(O)O)O[C@@H]3COP([O-])(O)OP([O-])(O)OCC(C)(C)[C@H](O)C(=O)NCCC(=O)NCCSC(=O)CCCCCCCCCCCCCCCCCCC;5.46;enoyl-CoA hydratase echA6;5F9
+4gkm;O=C([O-])c1cc(C)ccc1Nc2ccccc2C(=O)[O-];5.1700001;Anthranilate phosphoribosyltransferase;683
+4lv4;O=C([O-])c(n1)ccc(c12)cccc2O;5;Fructose-bisphosphate aldolase;8HC
+4rhu;OP([O-])(O)CCOC[C@H](OCCP([O-])([O-])O)Cn1cnc(c12)c(=O)[nH]c(n2)N;6.1599998;Hypoxanthine-guanine phosphoribosyltransferase Hpt;3QE
+4rhx;OP([O-])(O)CC[N@@H+](CC=O)CC[N@H+](CCP([O-])([O-])O)CCn1cnc(c12)c(=O)[nH]c(n2)N;5.8000002;Hypoxanthine-guanine phosphoribosyltransferase;3QF
+3ivx;COc(c1)ccc(c12)n(CC(=O)[O-])c(c2)C(=O)NS(=O)(=O)c(c3)oc(c34)cccc4;5.7447276;Pantothenate synthetase;FG6
+4pvv;O[C@@H]1[C@H](O)[C@@H](CO)O[C@H]1n(cc2CC)c(c23)ncnc3N;6.48;Adenosine kinase;HO4
+3rux;N1C(=O)N[C@H]([C@H]12)CS[C@H]2CCCCC(=O)NS(=O)(=O)NC[C@@H](O3)[C@@H](O)[C@@H](O)[C@@H]3n4cnc(c45)c(N)ncn5;9.2799997;BirA bifunctional protein;BS5
+3o6t;c1cccc(c12)sc(n2)[C@@]3(O)C=CC(=O)CC3;5.2199998;Thioredoxin;PX5
+4n8q;O=C([O-])c1ccc(F)cc1N;3.4200001;Anthranilate phosphoribosyltransferase;FA0
+3s9z;O=C([O-])C(=O)/C=C(\O)c1ccccc1Br;6.2199998;Malate synthase G;I92
+2qnx;CCCCCCCCCCOC(=O)S;5.6197891;3-oxoacyl-[acyl-carrier-protein] synthase 3;UDT
+3cow;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3COS(=O)(=O)NC(=O)[C@H](O)C(C)(C)C;6.90309;Pantothenate synthetase;52H
+3s9i;O=C([O-])[C@@H](O)CC(=O)c1ccccc1;5.6999998;Malate synthase G;XI7
+3coz;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3COS(=O)(=O)NC(=O)[C@H]([NH3+])C(C)C;5.5686359;Pantothenate synthetase;54H
+3coy;CC(C)(C)[C@@H]([NH3+])C(=O)NS(=O)(=O)OC[C@@H]1[C@@H](O)[C@@H](O)[C@@H](O1)n2cnc(c23)c(N)ncn3;6.0177288;Pantothenate synthetase;53H
+1n3i;OC[C@H]1C[N@H+](C[C@@H]1O)Cc(c[nH]2)c(c23)nc[nH]c3=O;8.8900003;Purine Nucleoside Phosphorylase;DIH
+4rlt;c1cc(O)cc(c12)O[C@@H]([C@H](C2=O)O)c3ccc(O)c(c3)O;4.96;(3R)-hydroxyacyl-ACP dehydratase subunit HadA;FSE
+4rlu;Oc1ccc(c(c1)O)C(=O)/C=C/c2ccc(O)cc2;4.8200002;(3R)-hydroxyacyl-ACP dehydratase subunit HadA;HCC
+3ivg;COc(c1)ccc(c12)n(CC(=O)[O-])c(c2)CNS(=O)(=O)c(c3)oc(c34)cccc4;4.3010302;Pantothenate synthetase;FG5
+2wgs;c1cc(Cl)c(Cl)cc1Cn(c2=O)c(=O)n(C)c(c23)nc(n3C)N4CCOCC4;5.6020598;GLUTAMINE SYNTHETASE 1;1AZ
+4nni;O=C([O-])c1cnccn1;5.5;30S ribosomal protein S1;VGL

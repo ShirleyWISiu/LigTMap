@@ -1,0 +1,559 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+5diq;c1cccc(c12)cccc2COc3c(C(=O)[O-])cccc3;5.1700001;Farnesyl pyrophosphate synthase;5B9
+4iwd;C1C[NH2+]CCC1n(nc2)cc2-c(cn3)cc(c34)c(=O)c5c(cc4)ccc(c5)CS(=O)(=O)NCc6ncccc6;9;Hepatocyte growth factor receptor;1JC
+4ekg;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3C[N@H+](C)CCCNC(=O)Nc(cc4)ccc4C(C)(C)C;8.7700005;Histone-lysine N-methyltransferase, H3 lysine-79 specific;0QJ
+4lww;c1ccccc1S(=O)(=O)c2ccc(cc2)CNC(=O)c(c3)[nH]c(c34)ccnc4;7.54;Nicotinamide phosphoribosyltransferase;LWW
+4ek9;C[NH+](C)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc(c23)c(N)ncn3;4.4200001;Histone-lysine N-methyltransferase, H3 lysine-79 specific;EP4
+10gs;c1ccccc1[C@H](C(=O)[O-])NC(=O)[C@@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])CSCc2ccccc2;6.4000001;GLUTATHIONE S-TRANSFERASE P1-1;VWW
+5i9y;Cc1cccc(Cl)c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N(CC4)CC[NH+]4CCO;8.5500002;Ephrin type-A receptor 2;1N1
+5i9x;Clc1cc(Cl)c(cc1OC)Nc(c(C#N)cn2)c(c23)cc(OC)c(c3)OCCC[N@H+]4CC[N@H+](C)CC4;7.52;Ephrin type-A receptor 2;DB8
+1hvy;O=c1[nH]c(C)nc(c12)ccc(c2)CN(C)c(cc3)sc3C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];6.54;THYMIDYLATE SYNTHASE;D16
+5ety;c1cccc(c12)CN(C(=O)N2)CC3CCN(CC3)c(ncn4)c(c45)cc(OC)c(c5)OC;7.5100002;Tankyrase-1;K56
+1v2h;[nH]1cnc(c12)[nH]c(=[NH2+])[nH]c2=O;5.3000002;Purine nucleoside phosphorylase;GUN
+3smq;n1nsc(c12)cc(cc2)NC(=O)NCC[C@@H]3C=CCCC3;5.02;Protein arginine N-methyltransferase 3;TDU
+1pf7;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;10.14;PURINE NUCLEOSIDE PHOSPHORYLASE;IMH
+5ccl;O=C(C1)Nc(c12)ccc(c2)C(=O)NC3CC[NH2+]CC3;4.77;Histone-lysine N-methyltransferase SMYD3;4ZW
+3krl;C[NH+]1CCN(CC1)c2ccc(NC(=O)c3ccc(o3)C#N)c(c2)N4CCCCC4;9.1000004;Macrophage colony-stimulating factor 1 receptor, Basic fibroblast growth factor receptor 1;KRL
+2f89;OP([O-])(O)C(O)(P([O-])([O-])O)CC[NH3+];6.48;Farnesyl Diphosphate Synthase;210
+4eki;n1cnc(N)c(c12)ccn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3C[N@H+](C(C)C)CCCNC(=O)Nc(cc4)ccc4C(C)(C)C;10;Histone-lysine N-methyltransferase, H3 lysine-79 specific;0QK
+4pns;c1cc(=O)oc(c12)ccc(c2I)N;4.52;Tankyrase-2;32Y
+4pnq;c1c[nH]c(=O)c(c12)cccc2N;5;Tankyrase-2;32X
+4pnl;Cc(n1)[nH]c(=O)c(c12)CSCC2;5.52;Tankyrase-2;DRL
+3s7b;Clc1ccc(cc1Cl)CC[NH2+]CCC(=O)N(C2CCCCC2)CC[NH2+]CCc(ccc3O)c(c34)OCC(=O)N4;6.3000002;N-lysine methyltransferase SMYD2;NH5
+2wk6;O=C1N=C[C@@H](I)C(=O)N1;3.3187587;THYMIDINE PHOSPHORYLASE;IUR
+3asx;C1CC[C@@H](C(=O)[O-])CN1C(=O)CCC(=O)N(CC(C)(C)C)c2ccc(Cl)cc2[C@H](O)c3c(Cl)cccc3;7.6999998;Squalene synthase;D99
+3faa;n1ccnc(c12)cc(cc2)-c3c([nH]c(n3)NC(=O)C)-c4ccc(F)c(n4)C;8.1487417;TGF-beta receptor type-1;55F
+1ld8;c12c3N4CC[C@H](C4=O)[NH2+]Cc5n(cnc5)Cc6cc(c(C#N)cc6)Oc(c2)ccc1ccc3;8.46;protein farnesyltransferase alpha subunit;U49
+1ld7;c12c3N4C(=O)[C@H](CC4)[NH2+]CCc5n(cnc5)Cc6cc(c(C#N)cc6)Oc(c2)ccc1ccc3;8.96;protein farnesyltransferase alpha subunit;U66
+3qti;n1cccc(c12)cc(cc2)Cc3cnc(n34)ccc(n4)-c(c5)cnn5C;7.8499999;Hepatocyte growth factor receptor;3QT
+5eds;CS(=O)(=O)c1cc(ccc1)-n2c(nc(c23)ccc(F)c3)[C@H](C)Nc4ncnc(N)c4C#N;5.54;Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform;5MT
+4hlg;Oc1cc(ccc1)-c(o2)cc(=O)c(c23)cccc3;6.5100002;Tankyrase-2;20B
+5drt;c1cc(Cl)ccc1NC(=O)NNC(=O)Cn2nnnc2COc3ccccc3Cl;5.3600001;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5EG
+4gz3;c1cc(=O)[nH]c(=O)n1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(O)OP([O-])(O)O;5.7399998;UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit;UDP
+3n45;c1cccc(c12)N([C@@H](C2)C(=O)[O-])C(=O)OCc3ccccc3;3.3;FARNESYL PYROPHOSPHATE SYNTHASE;3N3
+3n49;O=C([O-])Cc(cs1)c(c12)c3c(cc2)cccc3;5.1500001;FARNESYL PYROPHOSPHATE SYNTHASE;3N4
+3kjd;NC(=O)c1cccc(c12)nc([nH]2)[C@@]3(C)CCC[NH2+]3;8.54;Poly [ADP-ribose] polymerase 2;78P
+4jvj;OP([O-])(O)C(P([O-])([O-])O)Nc(ncn1)c(c12)cc(s2)-c3ccc(C)cc3;7.6599998;Farnesyl pyrophosphate synthase;1MV
+4o28;c1c(F)cc(F)cc1S(=O)(=O)c(cc2)ccc2CNC(=O)c(cc3)cn(c34)ccn4;7.54;Nicotinamide phosphoribosyltransferase;1QS
+1pl0;NC(=O)c1ccc(cc1)S(=O)(=O)Nc(c2)ccc(c23)nc(N)[nH]c3=O;8.2200003;Bifunctional purine biosynthesis protein PURH;BW2
+3r7o;C1C[NH2+]CCC1n(nc2)cc2-c(cn3)cc(c34)c(=O)c5c(cc4)ccc(c5)NS(=O)(=O)N(C)C[C@@H]6COCCO6;8.3599997;Hepatocyte growth factor receptor;M61
+3qvv;c1cc(O)cc(c12)oc(=O)c(c2)C#N;4.4200001;Sulfotransferase 1A1;3QV
+3qvu;O=N(=O)c1ccc(O)cc1;3.55;Sulfotransferase 1A1;NPO
+3ie3;OCCCCCCSc1ccc(N(=O)=O)c(c12)non2;6.6799998;Glutathione S-transferase P;N11
+4o15;FC(F)(F)c1cccc(c1)S(=O)(=O)c2ccc(cc2)CNC(=O)c(c3)cnc(c34)[nH]nc4;8.6999998;Nicotinamide phosphoribosyltransferase;2P1
+4waf;[nH]1ccc(c12)c(ccn2)N(C3)[C@H](C)Cn(c34)ncc4-c(cc5)ccc5S(=O)(=O)N(C)C;5;Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform;3K6
+4ui3;FC(F)(F)c1ccc(cc1)-c(n2)[nH]c(=O)c(c23)cccc3;6.8800001;TANKYRASE-2;06R
+4ui6;COc1cccc(c12)c(=O)[nH]c(n2)-c3ccc(C(F)(F)F)cc3;7.0599999;TANKYRASE-2;ECZ
+4ui7;Cc1ccc(cc1)-c(n2)[nH]c(=O)c(c23)cccc3O;7.3600001;TANKYRASE-2;VT3
+4ui4;c1ccccc1COC(=O)NCc2ccc(cc2)-c(n3)[nH]c(=O)c(c34)cccc4;7.3499999;TANKYRASE-2;RJN
+4ui5;c1ccc(OC)c(c12)nc([nH]c2=O)-c3ccc(C)cc3;6.7800002;TANKYRASE-2;BJ4
+3l3m;[NH2+]1CCCC[C@H]1c(cc2F)ccc2-c(n3)[nH]c(c34)cccc4C(=O)N;8.2200003;Poly [ADP-ribose] polymerase 1;A92
+3ua9;n1cccc(c12)cccc2NC(=O)c3ccc(cc3)N(C4=O)C(=O)[C@H]5[C@@H](CC6)C[C@@H]6[C@@H]45;7.25;Tankyrase-2;IWR
+4hvs;c1ccnc(c12)[nH]cc2Cc3cnc(cc3)NCc4ccc(C(F)(F)F)cc4;7.8000002;Mast/stem cell growth factor receptor Kit;647
+3n6k;O=C([O-])Cn(c(c1)C(=O)[O-])c(c12)c3c(cc2)cccc3;6.7399998;FARNESYL PYROPHOSPHATE SYNTHASE;BFH
+3mv5;[NH3+][C@@H]1CCN(C1)c2ncnc(c23)[nH]cc3C;6.7399998;v-akt murine thymoma viral oncogene homolog 1 (AKT1);XFE
+3mvh;CCc(c[nH]1)c(c12)c(ncn2)N(C3)CC[C@]3([NH3+])CNC(=O)c4ccc(F)cc4F;9.3000002;v-akt murine thymoma viral oncogene homolog 1 (AKT1);WFE
+4uuh;c1ccc(C)c(c12)CC(=NC2=O)c3ccc(cc3)C[NH+]4CC[NH2+]CC4;7.77;TANKYRASE-1;T40
+1mzc;C1CCCN(C)C(=O)[C@]1(CC)c2cc(ccc2)Oc3c(C#N)ccc(c3)[C@](C)([NH3+])c4n(C)cnc4;10.22;Protein Farnesyltransferase alpha Subunit;BNE
+2wot;COc1c(OC)cc(cc1OC)Nc2cc(ccn2)Oc3cc(C)c(C)nc3-c4ccccn4;7.3565474;TGF-BETA RECEPTOR TYPE-1;ZZG
+2wou;Cc1ccc(c(n1)C)Oc2ccnc(c2)Nc3ccc(cc3)S(=O)(=O)N;7.1426673;TGF-BETA RECEPTOR TYPE-1;ZZF
+5adt;Cc1oc(cn1)C(=O)Nc2cc(Cl)c(cc2)C(=O)NCC3(CCOCC3)c4ccc(OC)cc4;5.6500001;TANKYRASE-2;1TC
+5adr;Cc1oc(cc1)C(=O)Nc2ccc(cc2)C(=O)NCC3(CCOCC3)c4ccc(OC)cc4;5.6399999;TANKYRASE-2;QS5
+5ads;COc1ccc(cc1)C2(CCOCC2)CNC(=O)c3c(Cl)cc(cc3)NC(=O)c4ccco4;5.6700001;TANKYRASE-2;QNS
+5adq;c1ccoc1C(=O)Nc2ccc(cc2)C(=O)NCC3(CCOCC3)c4ccc(OC)cc4;5.6999998;TANKYRASE-2;A95
+3ce0;C[NH+](C)CC(=O)N[C@@H](C1)CC[C@H]2[NH2+][C@H](O)[C@H]([C@H]3[C@@H]12)CCCC3;6.154902;Poly [ADP-ribose] polymerase 3;P34
+4j22;O=c([nH]1)cc(C)c(c12)ccc(c2)-c3ccc(cc3Cl)C(=O)NCC[NH+]4CCOCC4;7.7399998;Tankyrase-2;AJ7
+3kqs;[nH+]1c(N)[nH]c(c12)cccc2;5.1999998;Phenylethanolamine N-methyltransferase;AX7
+3kqt;Cn1c(N)nc(c12)cccc2;5.3400002;Phenylethanolamine N-methyltransferase;ES7
+3kqw;c1cc(Cl)cc(c12)[nH]cn2;4.0100002;Phenylethanolamine N-methyltransferase;ES9
+4tk5;C1NC(=O)c(c12)cccc2NC(=O)C[NH+]3CCN(CC3)C(=O)[C@@H]4[C@@H](O)[C@H](O)[C@@H](O4)n(cn5)c(c56)ncnc6N;7.4899998;Tankyrase-2;UHB
+2q7o;OC[C@@H]1[NH2+][C@@H]([C@@H](O)[C@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;7.9208188;Purine nucleoside phosphorylase;IMH
+3kqo;n1c[nH]c(c12)ncnc2Cl;3.8499999;Phenylethanolamine N-methyltransferase;ES4
+4y64;O=c1[nH]c(=O)ccn1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CNC(=O)[C@H]([NH3+])C;3.0999999;Histo-blood group ABO system transferase;48C
+4y63;N#N=N[C@@H](C)C(=O)NC[C@H]([C@@H](O)[C@H]1O)O[C@H]1n2ccc(=O)[nH]c2=O;3.5799999;Histo-blood group ABO system transferase;48O
+5ccm;O=C(N1)Cc(c12)cc(c(Cl)c2)C(=O)N[C@H](C[C@H]34)C[C@@H](CC3)N4S(=O)(=O)N5CCC(CC5)[NH2+]Cc6ccccc6;8.3999996;Histone-lysine N-methyltransferase SMYD3;4ZX
+3dkj;[O-]P([O-])(O)OP([O-])(O)O[C@@H]1[C@H](O)[C@H](O)[C@H](O1)COP([O-])(O)O;5.6989698;Nicotinamide phosphoribosyltransferase;PRP
+4l2g;c1ccccc1-c(cc2=O)oc(c23)ccc(F)c3;6.6799998;Tankyrase-2;1V4
+4zzx;COCCCN(C1=O)Cc(c12)cccc2C(=O)N;6.9000001;POLY [ADP-RIBOSE] POLYMERASE 2;FSU
+4zzz;COCCCN(C1=O)Cc(c12)cccc2C(=O)N;7.0599999;POLY [ADP-RIBOSE] POLYMERASE 1;FSU
+5ayf;C[NH+]1CCC(CC1)=C2c(cccc3)c3C=Cc(c24)cccc4;4.8200002;Histone-lysine N-methyltransferase SETD7;C7H
+4zz1;O=c1[nH]c(N)[nH+]c(c12)[nH]c(c2)CCCc(cs3)cc3C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];7.8899999;Trifunctional purine biosynthetic protein adenosine-3;3YF
+4zz2;O=c1[nH]c(N)[nH+]c(c12)[nH]c(c2)CCCc(sc3)cc3C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];8.04;Trifunctional purine biosynthetic protein adenosine-3;3YG
+4zz3;[nH+]1c(N)[nH]c(=O)c(c12)c(c[nH]2)CCc3ccc(cc3)C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];6;Trifunctional purine biosynthetic protein adenosine-3;4DW
+5ayy;O=C([O-])c1ncccc1C(=O)[O-];5.3200002;Nicotinate-nucleotide pyrophosphorylase [carboxylating];NTM
+4l2k;O1COc(c12)ccc(c2)-c(o3)cc(=O)c(c34)cccc4;6.4400001;Tankyrase-2;1V8
+3ggc;OP([O-])(O)CCOCCn1cnc(c12)c(=O)[nH]cn2;5.4436975;Hypoxanthine-guanine phosphoribosyltransferase;H26
+3ggj;O=c1[nH]c(N)[nH+]c(c12)n(cn2)CCOCCP([O-])(O)O;6;Hypoxanthine-guanine phosphoribosyltransferase;25H
+2on6;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;6.7600002;Purine nucleoside phosphorylase;IMH
+2onz;C1[NH2+]CCc(c12)ccc(c2)S(=O)(=O)Nc3ccc(Cl)cc3;8.8900003;Phenylethanolamine N-methyltransferase;TMJ
+2ony;C1[NH2+]CCc(c12)ccc(c2)S(=O)(=O)Nc3ccc(Cl)cc3;6.6799998;Phenylethanolamine N-methyltransferase;TMJ
+4lil;OP([O-])(O)OP([O-])(O)OP([O-])([O-])O;4.9000001;DNA primase small subunit;UTP
+4msk;c1cccc(c12)nc([nH]c2=O)CCC(=O)Nc3ccc(cc3)-c4nnc(o4)-c5ccccc5;7.1999998;Tankyrase-1;2C8
+4li8;C1OCCc(c12)nc([nH]c2=O)CN(Cc3cccs3)C(=O)C[N@@H+]4CC[C@H](CC4)C(=O)c5ccc(F)cc5;8.1199999;Tankyrase-1;1XQ
+4li6;c1ccccc1CCC(=O)N(Cc2sccc2)Cc(n3)[nH]c(=O)c(c34)cccc4;6.9699998;Tankyrase-1;1XO
+1lbk;O=C([O-])[C@@H]([NH3+])CCC(=O)N[C@@H](CS)C(=O)NCC(=O)[O-];3.1800001;Glutathione S-transferase class pi chimaera (CODA);GSH
+3ii5;C[NH+](C)Cc1ccc(cc1)-c(cn2)c(n23)nccc3-c4cccc(c4)NC(=O)c5cccc(c5)C(F)(F)F;7.6197886;B-Raf proto-oncogene serine/threonine-protein kinase;831
+4pmt;c1ccncc1CNc(cc2)nc(c23)c(ncn3)Nc4ccc(cc4)N5CCOCC5;6;High affinity nerve growth factor receptor;31Y
+4pms;c1ccccc1-c2nc(no2)Cn(c(C(=O)[O-])c3)c(c34)ccnc4-c5cccc(c56)cccc6;8.1000004;High affinity nerve growth factor receptor;31X
+4pmp;FC(F)(F)Oc(cc1)ccc1NC(=O)N(C2CC2)Cc3cccc(c3)-c4sccn4;6.4000001;High affinity nerve growth factor receptor;31W
+4pmm;c1c(C)ncn1-c(c(c2)OC)ccc2-c(nn3)cn3CC(=O)Nc(cc(n4)C5C=C5)n4-c6ccccc6;7.5700002;High affinity nerve growth factor receptor;31V
+5bvo;c1c(F)ccc(c12)oc(n2)N[C@@H](C)c3ccc(C)c(c3)NC(=O)c(cn4)n(c45)cccc5;8.3000002;Epithelial discoidin domain-containing receptor 1;4VE
+5bvn;Fc(c1)cccc1NC(=O)NCc(ccc2C)cc2NC(=O)c(cn3)n(c34)cccc4;8.8199997;Epithelial discoidin domain-containing receptor 1;4VD
+5bvk;Clc1ccccc1NC(=O)NCc2cccnc2;4;Epithelial discoidin domain-containing receptor 1;4VC
+5bvw;Cc1cccc(Cl)c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N(CC4)CC[NH+]4CCO;8.8199997;Epithelial discoidin domain-containing receptor 1;1N1
+4xmo;Cc1cc(on1)-c(c2)cc(F)c(n23)nnc3[C@@](F)(C)c(c4)ccc(c45)ncc(c5)OC;8.6999998;Hepatocyte growth factor receptor;46G
+3qfv;NC(=O)Nc(s1)c(C(=O)N)cc1-c(cc2)ccc2F;5.77;CDC42BPB protein;NM7
+5lt6;CCCCC[NH2+][C@@H](CC[C@@H](C(=O)[O-])[NH3+])C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.4099998;Histone-lysine N-methyltransferase SETD2;76J
+3vhe;c1cn(C)c(c12)c(ncn2)Oc3ccc(c(F)c3)NC(=O)Nc4cccc(c4)C(F)(F)F;8.21;Vascular endothelial growth factor receptor 2;42Q
+4hra;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3C[N@H+](C(C)C)[C@H](C4)C[C@H]4CCc(n5)[nH]c(c56)cc(cc6)C(C)(C)C;10.1;Histone-lysine N-methyltransferase, H3 lysine-79 specific;EP6
+4rxa;N1CCN=C1c2cc(ccc2)NC(=O)c3ccc(cc3)-c4ccc(cc4)C(=O)Nc5cc(ccc5)C6=NCCN6;5.7399998;Farnesyl pyrophosphate synthase;3F2
+3pb9;c1nccn1Cc2ccccc2;6.5799999;Glutaminyl-peptide cyclotransferase-like protein;1BN
+3pb8;O=C(C)NCCc1c[nH]cn1;5.2399998;Glutaminyl-peptide cyclotransferase-like protein;AHN
+4ear;[NH2+]=c([nH]1)[nH]c(=O)c(c12)[nH]cc2C[N@H+]3C[C@H](O)[C@H](C3)CO;9.8199997;Purine nucleoside phosphorylase;IM5
+3gep;[NH2+]=c([nH]1)[nH]c(=O)c(c12)ncn2C[C@@H](CO)OCP([O-])(O)O;3.7525177;Hypoxanthine-guanine phosphoribosyltransferase;24H
+4fmu;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3C[C@H](CC[C@@H](C(=O)[O-])[NH3+])[NH2+]CCC;6.4400001;Histone-lysine N-methyltransferase SETD2;0UM
+3g0f;NC(=O)c1c(C)[nH]c(c1C)\C=C\2C(=O)Nc(c23)ccc(F)c3;7.6575775;Mast/stem cell growth factor receptor;B49
+3kqp;c1ccnc(c12)ccc(N)c2;3.4200001;Phenylethanolamine N-methyltransferase;ES5
+3kqy;Nc([nH]1)nc(c12)c(O)ccc2;4.8200002;Phenylethanolamine N-methyltransferase;ES0
+4tk0;C1CNC(=O)c(c12)cccc2OCCCC[NH+]3CCCCC3;5.5500002;Tankyrase-2;32Z
+3kqm;Brc1cnc[nH]1;3.77;Phenylethanolamine N-methyltransferase;ES3
+2j9h;O=C([O-])[C@@H]([NH3+])CCC(=O)N[C@H](C(=O)NCC(=O)[O-])CSCCCCCC;3.3872161;GLUTATHIONE S-TRANSFERASE P;GTX
+4tkg;C1=CC1C(=O)N2CCN(CC2)C(=O)c3cc(ccc3F)Cc4n[nH]c(=O)c(c45)cccc5;6.8499999;Tankyrase-2;09L
+4tkf;n1cccc(c12)cccc2NC(=O)c(cc3)ccc3N(C4=O)C(=O)[C@@H]([C@@H]4[C@@H]56)[C@@H](C6)C=C5;6.5500002;Tankyrase-2;33C
+3bea;C[C@H]1CN(C[C@@H](C)[NH2+]1)c2ccc(cc2)Nc(nc3)nc(c34)n(cc(c4=O)C(=O)N)-c(cc5)cc(c56)CCC6;8.1549025;Macrophage colony-stimulating factor 1 receptor;IXH
+4gb9;CC(O)(C)[C@H](CC1)CC[N@@H+]1Cc(n2)n(C)c(c23)nc(nc3N4CCOCC4)-n5c(N(C)C)nc(c56)cccc6;6.27;Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform;0WR
+1rr6;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;10.25;Purine nucleoside phosphorylase;IMH
+1ydk;O=C([O-])[C@@H]([NH3+])CCC(=O)N[C@H](C(=O)NCC(=O)[O-])CSCCCCCC;5.8899999;Glutathione S-transferase A1;GTX
+4o0z;c1ccn(c12)cc(cc2)C(=O)NCc3ccc(cc3)S(=O)(=O)c4cc(F)cc(F)c4;7.2399998;Nicotinamide phosphoribosyltransferase;2RM
+1vjy;Cc1cccc(n1)-c2n[nH]cc2-c(cc3)nc(c34)cccn4;7.6399999;TGF-beta receptor type I;460
+4hlf;Oc1ccc(cc1O)-c(o2)cc(=O)c(c23)ccc(c3)O;6.0599999;Tankyrase-2;15Z
+4hlm;Oc1ccc(cc1O)-c(o2)cc(=O)c(c23)cccc3;6.77;Tankyrase-2;16S
+4hlh;c1cc(F)ccc1-c(cc2=O)oc(c23)cccc3;5.96;Tankyrase-2;20D
+4hlk;c1cc(C)ccc1-c(cc2=O)oc(c23)cccc3;5.96;Tankyrase-2;431
+4lpg;OP([O-])(O)C(P([O-])([O-])O)Nc(ncn1)c(c12)cc(s2)-c3ccc(C)cc3;4.25;Farnesyl pyrophosphate synthase;1MV
+4lph;OP([O-])(O)CNc(ncn1)c(c12)cc(s2)-c3ccc(C)cc3;5.04;Farnesyl pyrophosphate synthase;YL3
+3q6z;n1cnc(N)c(c12)ncn2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP([O-])(O)OP([O-])(O)OC[C@@H](O[C@@H]4O)[C@@H](O)[C@H]4O;3.72;Poly [ADP-ribose] polymerase 14;APR
+3q6w;C1C[NH2+]CCC1n(nc2)cc2-c(c3)cnc(c34)ccc5c(c4=O)cc(cc5)CCC(=O)NCc6ncccc6;7.5700002;Hepatocyte growth factor receptor;Q6W
+5a4c;CC[NH+](CC)CCCNc(nc1)nc(c12)nc(NC(=O)NC(C)(C)C)c(c2)-c3cc(OC)cc(c3)OC;8.2399998;FIBROBLAST GROWTH FACTOR RECEPTOR 1 (FMS-RELATED TYROSINE KINASE 2, PFEIFFER SYNDROME), ISOFORM CRA_B;XOJ
+2obf;OC[C@H]([NH2+]C1)Cc(c12)ccc(c2)S(=O)(=O)Nc3ccc(Cl)cc3;8.8500004;Phenylethanolamine N-methyltransferase;F83
+3rhk;c1cccc(c12)c(c[nH]2)[C@H]3[C@@H](C(=O)NC3=O)c(c4)c5cccc(c5n46)CC=C6;6.2600002;Hepatocyte growth factor receptor;M97
+1wok;c1ccc(C(=O)N)c(c12)nc(cn2)-c3ccc(Cl)cc3;7.48;Poly [ADP-ribose] polymerase-1;CNQ
+4hl5;COc1ccc(cc1)-c(o2)cc(=O)c(c23)ccc(c3)O;6.3499999;Tankyrase-2;15W
+3eqr;Cc1cccc(C)c1Nc(nn2CCC(C)(C)OC)c(c23)cnc(n3)Nc4ccc(cc4)N5CC[NH2+]CC5;8.6989698;Activated CDC42 kinase 1;T74
+3bgs;OC[C@@H]1C[N@H+](C[C@H]1O)Cc(c[nH]2)c(c23)nc[nH]c3=O;9.4202166;purine nucleoside phosphorylase;DIH
+4iue;O=c([nH]1)cc(C)c(c12)ccc(c2)-c3ccccc3F;6.5500002;Tankyrase-2;AJ4
+5brn;n1c[nH]c(=O)c(c12)ncn2C[C@@H](CO)OCCP([O-])(O)O;6.3000002;Hypoxanthine-guanine phosphoribosyltransferase;4X2
+4gdy;c1ccccc1Oc(c2)ccc(c23)n4c(n[nH]c4=O)c(c3)NCc5c(COP([O-])(O)O)cnc(C)c5O;7.0799999;Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial;0X1
+3ocp;C1OP([O-])(O)O[C@H]([C@@H]12)[C@@H](O)[C@@H](O2)n(cn3)c(c34)ncnc4N;7.5700002;PRKG1 protein;CMP
+1l5s;[nH]1c(=O)[nH]c(=O)c(c12)[nH]c(=O)[nH]2;3.26;Glycogen phosphorylase, liver form;URC
+4y62;O=c1[nH]c(=O)ccn1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CNC(=O)[C@@H](CO)n3cc(nn3)-c4ccccc4;2.95;Histo-blood group ABO system transferase;48E
+4avw;c1cccc(c12)c(=O)[nH]c3c2ccs3;7.6199999;TANKYRASE-2;G18
+4avu;c1cccc(c(=O)[nH]2)c1c(c23)cccc3;7.8499999;TANKYRASE-2;LDR
+3n5h;Clc1ccc(Cl)c(c12)c(c([nH]2)C(=O)[O-])CC(=O)[O-];5.6999998;FARNESYL PYROPHOSPHATE SYNTHASE;GO0
+4ibm;N1=NC(=O)c(c12)cc(nn2)-c3c(nn(c34)cccc4)-c5ccccc5;5.7399998;Insulin receptor;IR1
+5kit;CC(C)(C)OC(=O)N(CC1)CCC12[C@H](C2)CNC(=O)n(c3)cc(c34)cncc4;7.8899999;Nicotinamide phosphoribosyltransferase;6TA
+4eev;c1cc(F)ccc1N(C2=O)[C@H](C)C=C[C@H]2C(=O)Nc3ccc(c(F)c3)Oc(c4)c(cc(c45)n(C)nc5)-c6c[nH]nc6;8.3299999;Hepatocyte growth factor receptor;L1X
+1rw8;c1cc(F)ccc1-c(c(n23)CCC3)c(n2)-c4cccc(n4)C;6.7600002;TGF-beta receptor type I;580
+1uou;O=c1[nH]c(=O)[nH]c(c1Cl)CN2CCC=C2N;7.6999998;THYMIDINE PHOSPHORYLASE;CMU
+2y1w;C[NH2+]CC[N@H+](CC1)CC[C@H]1c(c2)ccc(c23)[nH]c(c3F)-c4c(OC)cccc4;6.3299999;HISTONE-ARGININE METHYLTRANSFERASE CARM1;849
+3rjw;C1CCCCC1c(n2)nc(N[C@H]3CC[N@@H+](CC3)C(C)C)c(c24)cc(OC)c(c4)OCCC[NH+]5CCCC5;7.5700002;Histone-lysine N-methyltransferase EHMT2;CIQ
+3ioi;OCC1CC[C@@H](S1)c(c2)c(=O)[nH]c(=O)n2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP(O)(O)OP([O-])([O-])O[C@@H]4[C@H](O)[C@@H](O)[C@@H](O)[C@H](O4)CO;6.2800002;Histo-blood group ABO system transferase;1GW
+4l2f;c1ccccc1-c(cc2=O)oc(c23)ccc(Cl)c3;6.23;Tankyrase-2;1V3
+2g8n;OC[C@H]([NH2+]C1)Cc(c12)ccc(c2)S(=O)(=O)Nc3ccc(Cl)cc3;7.1999998;Phenylethanolamine N-methyltransferase;F83
+4w9w;c1c(F)cccc1-c2cc(NC(=O)N)c(s2)C(=O)N[C@H]3CCC[NH2+]C3;7.48;BMP-2-inducible protein kinase;YDJ
+4gfo;Clc1cccc(Cl)c1C(=O)NC(=CC=N2)CC2=O;6.6199999;Non-receptor tyrosine-protein kinase TYK2;0X2
+5djv;O=C([O-])c(n1)ccc(c12)cc(-c3ccc[nH]3)cc2-c4cccc(c45)cccc5;7.1100001;Farnesyl pyrophosphate synthase;5BL
+5djp;O=C([O-])c(c1)[nH]c(c12)cccc2-c(ccc3)c(c34)cccc4;5.1500001;Farnesyl pyrophosphate synthase;5BJ
+5djr;O=C([O-])c(c1)[nH]c(c12)cccc2-c3cccc(c34)[nH]cc4;4.8600001;Farnesyl pyrophosphate synthase;5BK
+5ia4;C1COCC[NH+]1CCCOc(c2)c(OC)cc(c23)c(ccn3)Oc4ccc(cc4F)NC(=O)C5(CC5)C(=O)Nc6ccc(F)cc6;7.2800002;Ephrin type-A receptor 2;88Z
+5ia1;c1ccc(F)c(c1F)C2=NCc(c3c(c24)ccc(Cl)c4)cnc(n3)Nc(cc5)ccc5C(=O)[O-];6.2800002;Ephrin type-A receptor 2;ZZL
+3pbb;COc(c1)c(OC)ccc1/N=C(/S)NCCCn2ccnc2;7.02;Glutaminyl-peptide cyclotransferase;PBD
+4ufu;Cc1cccc(c12)c(=O)[nH]c(n2)-c3ccc(C(F)(F)F)cc3;8;TANKYRASE-2;2ZI
+4hhz;C1[NH2+][C@H](O)c(c2[C@H]13)cccc2CC[N@@H+]3CC(=O)N[C@@H](C)C(=O)N4CCC(CC4)c5ccc(F)cc5;7.7199998;Poly [ADP-ribose] polymerase 1;15S
+3fpd;COc(c1)c(OC)cc(c12)nc(N(CC3)CCC[N@H+]3C)nc2N[C@H]4CC[N@@H+](CC4)Cc5ccccc5;6.154902;Histone-lysine N-methyltransferase, H3 lysine-9 specific 5;Q4A
+4lts;c1ccc(OC(F)(F)F)cc1S(=O)(=O)c2ccc(cc2)C/[NH+]=C(\NC#N)Nc3ccncc3;8.3599997;Nicotinamide phosphoribosyltransferase;LTS
+4n3r;c1nc(N)nc(c12)ccc(c2)-c3cc(c(F)cc3)C(=O)Nc(cc4)cc(c45)NC(=O)CC5(C)C;6.8200002;Tankyrase-1;2GU
+5ggl;OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)[C@H]1Oc(cc2)ccc2N(=O)=O;1.78;Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1;6ZC
+2gvj;c1ccccc1C(=O)N2CCC(CC2)CCCCNC(=O)/C=C/c3cccnc3;9.5200005;Nicotinamide phosphoribosyltransferase;DGB
+3uh2;C[NH+](C)CC(=O)Nc(c1)ccc2[nH]c(=O)c(c3c12)cccc3;6;Tankyrase-1;P34
+3uh4;C1CSCc(c12)c(=O)[nH]c(n2)-c3ccc(C(F)(F)F)cc3;7.96;Tankyrase-1;XAV
+4rad;OP([O-])(O)CCOCC[N@@H+](CCP([O-])([O-])O)CCn1cnc(c12)c(=O)[nH]c(n2)N;7.0999999;Hypoxanthine-guanine phosphoribosyltransferase;3L5
+2wu6;Fc1cccc(F)c1NC(=S)n2nc(nc2N)Nc3ccc(cc3)S(=O)(=O)N;7.5300002;DUAL SPECIFICITY PROTEIN KINASE CLK3;DKI
+1pkx;OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc(c23)c(=O)[nH]c(=O)[nH]3;6.9200001;Bifunctional purine biosynthesis protein PURH;XMP
+3og7;Clc1ccc(cc1)-c(c2)cnc(c23)[nH]cc3C(=O)c4c(F)ccc(c4F)NS(=O)(=O)CCC;7.5100002;AKAP9-BRAF fusion protein;032
+2f94;OP([O-])(O)C(O)(P([O-])([O-])O)CC[N@@H+](C)CCCCC;6.71;Farnesyl Diphosphate Synthase;BFQ
+3vo3;Cn1nc(C)cc1C(=O)Nc2cccc(c2)Oc(cc3)nn(c34)cc(n4)NC(=O)C5CC5;8.8500004;Vascular endothelial growth factor receptor 2;0KF
+5bsk;Nc(n1)[nH]c(=O)c(c12)ncn2C[C@@H](CO)OCCP([O-])(O)O;6.2199998;Hypoxanthine-guanine phosphoribosyltransferase;4X7
+4n1z;CCCCCCCC[n+](c1)ccn1CC(O)(P([O-])(O)O)P([O-])([O-])O;9.1400003;Farnesyl pyrophosphate synthase;N1Z
+4k4f;c1ccccc1[C@@H](C2(C)C)N(C(O2)=O)c3ccc(cc3)C(=O)Nc4cccc(c45)cccn5;6.6999998;Tankyrase-1;K4F
+4k4e;COc1ccc(Cl)cc1NCC(=O)N[C@H]2CC[C@@H](CC2)n(c(=O)[nH]3)c(c34)cccc4;7.6199999;Tankyrase-1;K4E
+4uxq;n1cccc(n12)ncc2C#Cc3c(C)ccc(c3)C(=O)Nc4ccc(c(c4)C(F)(F)F)C[N@H+]5CC[N@H+](C)CC5;7.8000002;FIBROBLAST GROWTH FACTOR RECEPTOR 4;0LI
+4ux4;Cc1ccc(cc1)-c(c2)[nH]c(=O)c(c23)C=CCN3C;7.0100002;TANKYRASE-2;E9L
+4hmh;Oc1cc(ccc1)-c(o2)cc(=O)c(c23)ccc(c3)O;6.21;Tankyrase-2;F94
+5dsx;CNc(n1)ccnc1Nc(c2)ccc(c23)cc(C)n3-c4cc(cnc4Cl)-c5c(=O)n(C)ccc5C;8;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5EW
+5g1p;NC(=O)OP([O-])(O)O;5.1999998;CAD PROTEIN;CP
+5etj;[NH2+]=c([nH]1)[nH]c(=O)c(c12)[nH]cc2C[N@H+]3C[C@H](O)[C@H](C3)CO;10.18;Purine nucleoside phosphorylase;IM5
+2rd6;NC(=O)c1cccc(c12)[nH]c(n2)[C@@]3(C)CCC[NH2+]3;8.3000002;Poly [ADP-ribose] polymerase 1;78P
+5lxp;c1ccccc1[C@@H](C)Cn2cc(nn2)CNC(=O)CCCC(=O)Nc3cc(C(=O)N)ccc3;6.1199999;Poly [ADP-ribose] polymerase 14;7AG
+4l09;O=C([O-])c(cc1)ccc1-c(cc2=O)oc(c23)cccc3;6.0700002;Tankyrase-2;1UR
+4l0b;CN(C)c1ccc(cc1)-c(o2)cc(=O)c(c23)cccc3;7.1700001;Tankyrase-2;1UT
+4l0i;CCOC(=O)c1ccc(cc1)-c(o2)cc(=O)c(c23)cccc3;6.5700002;Tankyrase-2;1UW
+4l0t;O=N(=O)c(cc1)ccc1-c(cc2=O)oc(c23)cccc3;7.1799998;Tankyrase-2;1V0
+4l0v;c1cc(Cl)ccc1-c(cc2=O)oc(c23)cccc3;6.6300001;Tankyrase-2;1V1
+4l0s;N#Cc(cc1)ccc1-c(cc2=O)oc(c23)cccc3;6.8400002;Tankyrase-2;1UZ
+2w1i;C1CC1NC(=O)Nc2c[nH]nc2-c(n3)[nH]c(c34)cc(cc4)C[NH+]5CCOCC5;8.9208183;JAK2;L0I
+2an5;O[C@@H]1[C@@H]([NH3+])CCc(c12)cccc2;5.6799998;Phenylethanolamine N-methyltransferase;TTL
+3n46;c1cccc(c12)N([C@H](C2)C(=O)[O-])C(=O)OCc3ccccc3;4.3000002;FARNESYL PYROPHOSPHATE SYNTHASE;3N5
+4l34;c1cccc(c12)oc(cc2=O)-c3ccc(cc3)-c4nnn[nH]4;6.9400001;Tankyrase-2;1VG
+1l5q;Cn1c(=O)n(C)c(=O)c(c12)n(cn2)C;3.97;Glycogen phosphorylase, liver form;CFF
+1l5r;O=C1NC(=O)NC(C1=2)N(c3c(N2)cc(C)c(C)c3)C[C@H](O)[C@H](O)[C@H](O)CO;4.77;glycogen phosphorylase, liver form;RBF
+1p4r;Nc(n1)[nH]c(=O)c(c12)cc(cc2)S(=O)(=O)Nc3ccc(cc3)C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];8.1000004;Bifunctional purine biosynthesis protein PURH;354
+1i00;O=c1[nH]c(C)nc(c12)ccc(c2)CN(C)c(cc3)sc3C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];6.3400002;THYMIDYLATE SYNTHASE;D16
+2aox;C1CCCc(c12)c(N)c3c(n2)cccc3;7.4200001;Histamine N-methyltransferase;THA
+2aov;Nc1nc(C)c(c(n1)N)-c2cc(Cl)c(Cl)cc2;7.04;Histamine N-methyltransferase;C2M
+2aow;C1CCCc(c12)c(N)c3c(n2)cccc3;7.4200001;Histamine N-methyltransferase;THA
+2aou;c1cc(Cl)cc(c12)nccc2Nc3ccc(O)c(c3)C[NH+](CC)CC;7.73;Histamine N-methyltransferase;CQA
+4l2x;OP([O-])(O)C(P([O-])([O-])O)Nc(ncn1)c(c12)cc(s2)-c3ccc(cc3)C4C=C4;7.4099998;Farnesyl pyrophosphate synthase;YL2
+3v66;COc1c(OC)cccc1[C@H]2O[C@@H](c(ccc3)n3c(c24)ccc(Cl)c4)CC(=O)N5CCC(CC5)CC(=O)[O-];8.8900003;Squalene synthase;D3A
+4btk;COc(c1)c(OC)cc(c12)c(ncn2)Nc3cc(O)ccc3;6.6199999;TAU-TUBULIN KINASE 1;DTQ
+5ak0;C1CC[NH2+][C@@H]1C(=O)Nc2ccc(cc2)Oc(cc3)cc(c34)c(cn4C)-c5cn(C)nc5;7.6799998;6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 3;8V1
+5akw;Clc1ccc(cc1)[C@@H](N2)NC(=O)c(c23)cccc3;6.3899999;TANKYRASE-2;NKI
+5aku;CC(C)(C)c1ccc(cc1)[C@H](NC2=O)Nc(c23)cccc3;6.8200002;TANKYRASE-2;29F
+2vwy;CS(=O)(=O)c1cccc(c1)Nc2nccc(n2)Nc3c(Cl)ccc(c34)OCO4;7.0457573;EPHRIN TYPE-B RECEPTOR 4;7X5
+2vwx;NS(=O)(=O)c1cccc(c1)Nc2nccc(n2)Nc3c(Cl)ccc(c34)OCO4;7.3979402;EPHRIN TYPE-B RECEPTOR 4;7X4
+2vwz;CS(=O)(=O)Nc1cccc(c1)Nc2nccc(n2)Nc3c(Cl)ccc(c34)OCO4;6.1001797;EPHRIN TYPE-B RECEPTOR 4;7X6
+4gs6;Oc1cc(OC)cc(c12)\C=C\C[C@H](O)[C@H](O)[C@@H](O)CCC[C@H](C)OC2=O;7.1500001;Tak1-Tab1 fusion protein;1FM
+3sr4;O=C([O-])[C@@H]([NH3+])CCSC[C@@H](O1)[C@@H](O)[C@@H](O)[C@@H]1n2cnc(c23)c(ncn3)NC;6.54;Histone-lysine N-methyltransferase, H3 lysine-79 specific;TT8
+3ocb;c1c[nH]c(c12)ncnc2N3CCN(CC3)C(=O)[C@H](C[NH3+])Cc4ccc(Cl)cc4;8.3000002;v-akt murine thymoma viral oncogene homolog 1 (AKT1);XM1
+3gus;OCCCCCCSc1ccc(N(=O)=O)c(c12)non2;6.0500002;Glutathione S-transferase P;N11
+1l7x;Cn1c(=O)n(C)c(=O)c(c12)n(cn2)C;4.04;Glycogen phosphorylase, liver form;CFF
+4l4l;c1c(F)cc(F)cc1S(=O)(=O)c2ccc(cc2)CNC(=O)C(=C3)C=CC(N34)N(C=C4)[C@H]5[C@H](O)[C@H](O)[C@H](O5)COP([O-])(O)O;8.3000002;Nicotinamide phosphoribosyltransferase;1XC
+4l4m;c1c(F)cc(F)cc1S(=O)(=O)c(cc2)ccc2CNC(=O)c(cc3)cc(n34)ncc4;8;Nicotinamide phosphoribosyltransferase;1XD
+4bj9;C1NC(=O)c(c12)cccc2NC(=O)C[NH+]3CCN(CC3)C(=O)[C@@H]4[C@@H](O)[C@@H](O)[C@@H](O4)n(cn5)c(c56)ncnc6N;7.3499999;TANKYRASE-2;UHB
+3v0p;OCc1sc(cc1)-c2cn(c(=O)[nH]c2=O)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP([O-])(O)OP([O-])(O)O;6.2800002;Histo-blood group ABO system transferase;4GW
+4bjb;C[NH+](C)CC(=O)Nc(c1)ccc2[nH]c(=O)c(c3c12)cccc3;6.6599998;TANKYRASE-2;P34
+4bjc;C1CNC(=O)c(c2c13)cc(F)cc2[nH]c3-c4ccc(cc4)C[NH2+]C;7.8499999;TANKYRASE-2;RPB
+3fhb;O=C([O-])c1cc(N)ccc1;5.6989698;Poly [ADP-ribose] polymerase 3;GAB
+5aix;COc1cccc(c1)-c2ccc(cn2)C(=O)N[C@@H]3CC[N@H+](CC3)CC(F)(F)F;7.9200001;HEMATOPOIETIC PROSTAGLANDIN D SYNTHASE;KRX
+5aiv;COCCCNC(=O)c1nc(no1)-c(ccc2)c(c23)cc[nH]3;6.1900001;HEMATOPOIETIC PROSTAGLANDIN D SYNTHASE;M1W
+5kcv;C1CCC1([NH3+])c2ccc(cc2)-n(c(n3)-c(c4N)cccn4)c(c35)nc(cc5)-c6ccccc6;8.3000002;RAC-alpha serine/threonine-protein kinase;6S1
+2a14;O=C([O-])[C@@H]([NH3+])CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.6999998;indolethylamine N-methyltransferase;SAH
+5emm;c1cccc(c12)C[N@@H+](CC2)C[C@@H](O)CNC(=O)c3cc(ccc3)NC4CCOCC4;7.7399998;Protein arginine N-methyltransferase 5;5QL
+5eml;c1cccc(c12)C[N@@H+](CC2)C[C@H](O)CNC(=O)COc3cccc(c34)cccn4;7.6399999;Protein arginine N-methyltransferase 5;5QK
+5emk;c1cccc(c12)C[N@@H+](CC2)C[C@@H](O)CNC(=O)c3cc(ccc3)-c4ncccc4;7.8899999;Protein arginine N-methyltransferase 5;5QH
+3hb8;c1cc(=O)[nH]c(=O)n1[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)O;5.1199999;Thymidylate synthase;UMP
+5lyh;O=C([O-])c1cc(ccc1)S(=O)(=O)NCCn2cc(nn2)CCNC(=O)CCC(=O)Nc3cc(C(=O)N)ccc3;6.3099999;Poly [ADP-ribose] polymerase 14;7B8
+4wuy;C1CCC[NH+]1CCCNC(=O)c(c2)cc(cc2C#N)-c3ccccc3N4CC[NH+](CC4)CCn(cc5C)c(c56)cccc6;7.8200002;N-lysine methyltransferase SMYD2;3UJ
+1hnn;O=S(=O)(N)c(c1)ccc(c12)CC[NH2+]C2;6.2399998;PHENYLETHANOLAMINE N-METHYLTRANSFERASE;SKF
+3kcf;COCc1cccc(c1)-c2c(n(C)n(C)c2=O)-c(cc3)cc(c34)nccn4;7.4559321;TGF-beta receptor type-1;JZO
+1t46;c1ncccc1-c2ccnc(n2)Nc3c(C)ccc(c3)NC(=O)c4ccc(cc4)C[N@H+]5CC[N@H+](C)CC5;6.4299998;Homo sapiens v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog;STI
+4l6q;Fc1cc(C[NH3+])ccc1OC(C=C2)=C[CH](=C23)B([OH2])[OH]C3;6.27;Rho-associated protein kinase 2;1WU
+1gsf;O=C([O-])COc1c(Cl)c(Cl)c(cc1)C(=O)C(=C)CC;5;GLUTATHIONE TRANSFERASE A1-1;EAA
+2oj9;n1ccccc1CNC(=CC=NC2=O)[C@@H]2c([nH]3)nc(c34)c(C)cc(c4)-n5ccnc5;6.4099998;Insulin-like growth factor 1 receptor precursor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD221 antigen);BMI
+1v41;n1n[nH]c(c12)c(=O)[nH]c([nH+]2)N;4.6999998;Purine nucleoside phosphorylase;AZG
+4n9c;O=N(=O)c(cc1)cc(c12)nc[nH]2;3.9000001;Nicotinamide phosphoribosyltransferase;2ZM
+4n9b;n1ccc(n1C)C(=O)Nc2cccnc2;5.2800002;Nicotinamide phosphoribosyltransferase;2HH
+4n9d;CC(C)(C)c1ccc(cc1)S(=O)(=O)NCc2ccc(cc2)C(=O)Nc3cccnc3;7.7199998;Nicotinamide phosphoribosyltransferase;2HJ
+1bwn;OP([O-])(O)O[C@@H]1[C@H](O)[C@H](OP([O-])([O-])O)[C@@H](OP([O-])(O)O)[C@@H]([C@H]1O)OP([O-])([O-])O;7.0599999;BRUTON'S TYROSINE KINASE;4IP
+3dgq;O=C([O-])COc1c(Cl)c(Cl)c(cc1)C(=O)C(=C)CC;4.9200001;Glutathione S-transferase P;EAA
+3gjw;c1ccn(c12)c3c([nH]c2=O)cc(cc3)C[NH+]4CCCC4;8.3000002;Poly [ADP-ribose] polymerase 1;GJW
+4qxs;OP([O-])(O)C(P([O-])([O-])O)Cc(c([nH]1)[C@@H](C)C(C)C)c(c12)cc(cc2)-c3ccccc3;5.96;Farnesyl pyrophosphate synthase;WC1
+3gn7;NC(=O)c1cccc(c12)nc([nH]2)[C@]3(C)CCC[NH2+]3;8.3000002;Poly [ADP-ribose] polymerase 1;3GN
+5am7;C[NH+]1CCN(CC1)c(c2)ccc(c23)nc([nH]3)-c(c4N)c(=O)[nH]c(c45)cccc5F;7.1900001;FIBROBLAST GROWTH FACTOR RECEPTOR 1;38O
+5am6;C[NH+]1CCN(CC1)c(c2)ccc(c23)nc([nH]3)-c(c4N)c(=O)[nH]c(c45)cccc5F;6.73;FIBROBLAST GROWTH FACTOR RECEPTOR 1;38O
+2l84;Cc1cc(C)c(S([O-])(O)O)cc1/N=N/c2c(N)cc(O)c(C)c2;4.7199998;CREB-binding protein;J28
+4uvw;c1ccccc1-c(c2C)[nH]c(=O)c(c23)cccc3C;7.7199998;TANKYRASE-2;NYJ
+4uvv;c1cc(Cl)ccc1-c(c2)[nH]c(=O)c(c23)cccc3C;7.4899998;TANKYRASE-2;W8L
+4uvu;C1CCC[NH+]1Cc2ccc(cc2)-c(c3)[nH]c(=O)c(c34)cccc4C;5.9200001;TANKYRASE-2;U1T
+4uvy;COc1cccc(c12)c(=O)[nH]c(c2)-c3ccc(Cl)cc3;8.2600002;TANKYRASE-2;SGW
+4uvx;c1cc(Cl)ccc1-c(c2)[nH]c(=O)c(c23)cccc3F;7.96;TANKYRASE-2;H2W
+4ew2;O=C([O-])CCC(C([O-])[O-])NC(=O)c1ccc(cc1)C(SC)CCCC2C(=O)N[C](=[NH2+])=[NH2+]=C2N;6.6799998;Trifunctional purine biosynthetic protein adenosine-3;DXY
+4ew3;O=C([O-])CCC(C([O-])[O-])NC(=O)c1ccc(cc1)C(SC)CCCC2C(=O)N[C](=[NH2+])=[NH2+]=C2N;6.7399998;Trifunctional purine biosynthetic protein adenosine-3;DXZ
+3udd;c1cc(OC)ccc1-n(c(nn2)C)c2SCc3nc(no3)-c4ccc(cc4)OC;7.0999999;Tankyrase-1;34M
+1yq7;OP([O-])(O)C(O)(P([O-])([O-])O)Cc1cccnc1;7.0900002;Farnesyl pyrophosphate synthetase;RIS
+4n9e;c1ccccc1C(=O)N2CCC(CC2)Cn(cn3)c(c34)ccc(c4)C(=O)Nc5cccnc5;7.8200002;Nicotinamide phosphoribosyltransferase;2HL
+3lw0;N#Cc(c1)ccc(c12)[nH]cc2CCCC[N@H+](CC3)CC[C@@H]3NC(=O)c(ccc4)c(c45)[nH]cc5C#N;6.4000001;Insulin-like growth factor 1 receptor;CCX
+4gg7;c1ccc(N(=O)=O)cc1CNc(nc(n2)C(F)(F)F)c(c23)cc(cn3)-c(cn4)cn4C5CC[NH2+]CC5;8.1999998;Hepatocyte growth factor receptor;0J8
+4hyf;Clc1ccccc1-n2c(-c3ccc(cn3)S(=O)(=O)C)nnc2/C=C/c4nnc(o4)-c5ccc(C#N)cc5;7.5999999;Tankyrase-2;1AK
+3wcl;OP([O-])(O)C(P([O-])([O-])O)C[n+]1cn(cc1)CCCCCCCCCCCCCCC;6.5900002;Squalene synthase;BH3
+3wci;OP([O-])(O)C(O)(P([O-])([O-])O)C[n+]1cn(cc1)CCCCCCCCCCCCCCC;6.5700002;Squalene synthase;BH5
+3wch;OP([O-])(O)C(O)(P([O-])([O-])O)C[n+]1cn(cc1)CCCCCCCCCC;7.0500002;Squalene synthase;8PH
+4o1d;c1ccccc1C(=O)N2CCC(CC2)CCCCNC(=O)/C=C/c3cccnc3;7.6199999;Nicotinamide phosphoribosyltransferase;DGB
+3wcf;OP([O-])(O)C(P([O-])([O-])O)C[n+]1cn(cc1)CCCCCCCCCC;7.2800002;Squalene synthase;BH8
+4o1b;c1ccccc1C(=O)N2CCC(CC2)CCCCNC(=O)/C=C/c3cccnc3;6.4099998;Nicotinamide phosphoribosyltransferase;DGB
+4o10;c1ccn(c12)ccc(c2)C(=O)NCc(cc3)ccc3S(=O)(=O)c4cc(F)cc(F)c4;7.1100001;Nicotinamide phosphoribosyltransferase;2QF
+4o12;Clc1ccc(cc1)OCCCCCC/[NH+]=C(\NC#N)Nc2ccncc2;8.6999998;Nicotinamide phosphoribosyltransferase;2QG
+4o13;FC(F)(F)c1cccc(c1)S(=O)(=O)c2ccc(cc2)CNC(=O)c(c3)cnc(c34)[nH]nc4;7.8200002;Nicotinamide phosphoribosyltransferase;2P1
+4xyf;Cc1cc(on1)-c(c2)cc(F)c(n23)nnc3[C@@H](C)c(c4)ccc(c45)ncc(c5)OCCOC;9;Hepatocyte growth factor receptor;44X
+4m7b;C1=NNC(N12)=C(C=C(C)N2)NCCc3ccc(O)cc3;6.6999998;Tankyrase-2;28C
+5ais;C[NH+](C)CCCC(=O)Nc1cc(cnc1)-c(ccc2)c(c23)cc[nH]3;6.2399998;HEMATOPOIETIC PROSTAGLANDIN D SYNTHASE;CWC
+5acb;c1cccc(c12)[nH]cc2-c(n3)c(Cl)cnc3N[C@H](CCC4)CN4C(=O)c(cc5)ccc5NC(=O)CCC[NH+](C)C;6.8000002;CYCLIN-K;5I1
+3b2t;OP([O-])(C)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.2069082;Fibroblast growth factor receptor 2;M33
+2p4i;C1COCCN1c2ccc(C(F)(F)F)cc2NC(=O)c3cc(c(C)cc3)Oc4ncccc4-c5nc(NC)ncc5;8;Angiopoietin-1 receptor;MR9
+3s2a;c1cc(F)ccc1S(=O)(=O)Nc2cc(cnc2Cl)-c(cc3)cc(c34)c(ccn4)N5CCOCC5;8.0900002;Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform;2NQ
+3ff6;C1COCCN1C(=O)[C@H]2C[N@@H+](CCC2)C3CCN(CC3)C(=O)c4c(cccc5)c5cc(c46)cccc6;7.1500001;Acetyl-CoA carboxylase 2;RCP
+2opb;C1CSCCN1S(=O)(=O)c(c2)ccc(c23)C[C@H](CF)[NH2+]C3;8.7399998;Phenylethanolamine N-methyltransferase;F21
+3bz3;c1ccnc(N(C)S(=O)(=O)C)c1CNc2nc(ncc2C(F)(F)F)Nc(cc3)cc(c34)CC(=O)N4;8.8239088;Focal adhesion kinase 1;YAM
+5egs;c1ccccc1C[C@@H]2CC[N@@H+](CC2)CC[NH3+];6.0100002;Protein arginine N-methyltransferase 6;5NR
+1py5;c1cccnc1-c(n[nH]c2)c2-c3ccnc(c34)cccc4;7.29;TGF-beta receptor type I;PY1
+3n5j;Clc1cc(Cl)cc(c12)c(c([nH]2)C(=O)[O-])CC(=O)[O-];5.2199998;FARNESYL PYROPHOSPHATE SYNTHASE;GO1
+4kc4;O=c1[nH]c(=O)n(cc1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CNC(=O)c3cccc(n3)CO;3.23;Fucosylglycoprotein alpha-N-acetylgalactosaminyltransferase;WS3
+2f9k;OP([O-])(O)C(O)(P([O-])([O-])O)Cn1cncc1;7.0700002;Farnesyl Diphosphate Synthase;ZOL
+4rac;OP([O-])(O)COCC[N@@H+](CCP([O-])([O-])O)CCn1cnc(c12)c(=O)[nH]c(n2)N;7.52;Hypoxanthine-guanine phosphoribosyltransferase;3L4
+4rab;OP([O-])(O)CCOCC[N@H+](CCP([O-])([O-])O)CCn1c(Br)nc(c12)c(=O)[nH]c(n2)N;7.4000001;Hypoxanthine-guanine phosphoribosyltransferase;3L3
+4rao;OP([O-])(O)CCOCC[N@H+](CCP([O-])([O-])O)CCn1cnc(c12)c(=O)[nH]cn2;6;Hypoxanthine-guanine phosphoribosyltransferase;3L7
+4ran;N#CCC[N@@H+](CCP([O-])(O)O)CCn1cnc(c12)c(=O)[nH]c(n2)N;7.1500001;Hypoxanthine-guanine phosphoribosyltransferase;3L6
+4raq;OP([O-])(O)COCC[N@@H+](CCP([O-])([O-])O)CCn1cnc(c12)c(=O)[nH]cn2;6.7199998;Hypoxanthine-guanine phosphoribosyltransferase;3L8
+3od0;C1OP([O-])(O)O[C@H]([C@@H]12)[C@@H](O)[C@@H](O2)n(cn3)c(c34)[nH]c(=[NH2+])[nH]c4=O;7.9200001;PRKG1 protein;PCG
+2x7o;C1CCCC[NH+]1Cc2ccc(cc2)N/C(c3ccccc3)=C/4C(=O)Nc(c45)cc(cc5)C(=O)N(C)CC;7.4699998;TGF-BETA RECEPTOR TYPE I;ZOP
+3mo5;[NH3+]CCCCC[N@@H+](CC1)CC[C@H]1Nc(nc(n2)NCCC[NH+](C)C)c(c23)cc(OC)c(c3)OCCCCC[NH3+];6.8699999;Histone-lysine N-methyltransferase, H3 lysine-9 specific 5;E72
+4krs;C1CSc(n12)nnc2NC(=O)c3ccc(cc3)C(C)(C)C;6.52;Tankyrase-1;1SX
+1q3d;c1cccc(c1n2[C@]34C)c5c2c6n([C@H](O4)C[C@@H]([NH2+]C)[C@H]3OC)c7c(cccc7)c6c8c5CNC8=O;7.8200002;GLYCOGEN SYNTHASE KINASE-3 BETA;STU
+4bb4;COCCNC(=O)c1ccc(cc1)Nc(n2)ncc(c23)cc(cc3)-c4ccncc4;6.7199998;EPHRIN TYPE-B RECEPTOR 4;32W
+4azf;c1ccccc1NC2=NC(=O)C(=N2)Cc(c3)ccc(c34)OCO4;6.3499999;DYRK2 DUAL-SPECIFICITY TYROSINE-PHOSPHORYLATION REGULATED KINASE 2;3RA
+4nvq;C1CCC[NH+]1CCCOc(c(c2)OC)cc(NC3=[NH2+])c2C34CCC4;8.4799995;Histone-lysine N-methyltransferase EHMT2;2OD
+1juj;n1c(N)[nH]c(=O)c(c12)c(c[nH]2)CCc3ccc(cc3)C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];6.96;THYMIDYLATE SYNTHASE;LYA
+3hjo;O=C([O-])COc1c(Cl)c(Cl)c(cc1)C(=O)C(=C)CC;6.5228786;Glutathione S-transferase P;EAA
+3d94;C1C[N@H+](C)CC[N@H+]1[C@H](C2)C[C@H]2c(n(c34)ccnc3N)nc4-c(c5)ccc(c56)ccc(n6)-c7ccccc7;6.804101;Insulin-like growth factor 1 receptor beta chain;D94
+5emj;c1cccc(c12)C[N@@H+](CC2)C[C@@H](O)CNc3cc(ccn3)-c(c4)ccc(c45)ncn5C;7.48;Protein arginine N-methyltransferase 5;5QJ
+4ynd;O1CC(=O)Nc(c12)cccc2[C@@H](O)C[NH2+]CCN(C3CCCCC3)C(=O)CC[NH2+]CCc4cc(Cl)c(Cl)cc4;8.5500002;N-lysine methyltransferase SMYD2;4GQ
+4u0u;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.8200002;Adenosine monophosphate-protein transferase FICD;ADP
+2yhy;O=C(C)N[C@H]([C@H]1O)[C@@H](O)[C@H](O)[C@H](O1)CO;5.5999999;BIFUNCTIONAL UDP-N-ACETYLGLUCOSAMINE 2-EPIMERASE/N-ACETYLMANNOSAMINE KINASE;BM3
+4l33;N#CCOC(=O)c1ccc(cc1)-c(o2)cc(=O)c(c23)cccc3;8.1499996;Tankyrase-2;F70
+4xue;OC1=CN=C(N(C)[C@H]1O)c(ccc2)cc2-c3ccccc3;5.3000002;Catechol O-methyltransferase;43J
+4xuc;O[C@@H]1C=CN(C=C1O)c2cc(ccc2)-c3ccccc3;5.96;Catechol O-methyltransferase;43G
+3d1v;O=c1[nH]c(=S)[nH]c(c12)cccc2;3.489455;Purine nucleoside phosphorylase;D1V
+3owk;c1cc(O)cc(c12)ccc3c2[nH]c4c3c(Cl)ncc4C;5.8200002;CSNK2A1 protein;18E
+3owj;c1cc(O)cc(c12)c3c([nH]2)c(C)c4c(c3C)c(=O)[nH]cc4;6.0700002;CSNK2A1 protein;1EL
+3owl;Oc(c1)ccc(c12)c3c(cc2)[nH]c4c3c(Cl)ncc4C;6.1700001;CSNK2A1 protein;19E
+4yqv;O=C(C)N(C)Cc1cn(nc1)-c2ccccc2;5.71;Glutathione S-transferase omega-1;4GG
+4yqu;c1cc(OC)c(NC(=O)C)cc1S(=O)(=O)N2CCCCCC2;6.6599998;Glutathione S-transferase omega-1;4GB
+4yqm;CN(C)S(=O)(=O)c(c1Cl)cc(cc1)NC(=O)C;7.5100002;Glutathione S-transferase omega-1;4G9
+4abk;n1cnc(N)c(c12)ncn2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP(O)(O)OP([O-])([O-])OC[C@@H](O4)[C@@H](O)[C@@H](O)[C@H]4O;5.7199998;POLY [ADP-RIBOSE] POLYMERASE 14;AR6
+2vf6;OP([O-])(O)C(O)(P([O-])([O-])O)Cc(cn1)n(c12)cccc2;8.5200005;FARNESYL PYROPHOSPHATE SYNTHETASE;M0N
+4dvi;[C@@H]12[C@@H]3C=C[C@@H](C3)[C@@H]1C(=O)N(C2=O)c4ccc(cc4)C(=O)Nc(ccc5)c(c56)nccc6C;6.7199998;Tankyrase-1;2IW
+4u0i;n1cccc(n12)ncc2C#Cc3c(C)ccc(c3)C(=O)Nc4ccc(c(c4)C(F)(F)F)C[N@H+]5CC[N@H+](C)CC5;8.2200003;Mast/stem cell growth factor receptor Kit,Mast/stem cell growth factor receptor Kit;0LI
+4p5z;FC(F)(F)c1cc(ccc1)NC(=O)Nc2ccc(cc2)-n3c(N)c(C(=O)N)c(c34)nc5c(n4)cccc5;7.4099998;Ephrin type-A receptor 3;Q7M
+4f1q;O=C([O-])CCC(=O)Nc1cc(C(=O)N)ccc1;4.9499998;Poly [ADP-ribose] polymerase 14;0RZ
+5ece;c1cccc(c12)c(n[nH]c2=O)Cc3cccc(c3)C(=O)N4CCN(CC4)c5c(C#N)cccn5;8.0500002;Tankyrase-1;5N2
+5lsx;n1cnc(N)c(c12)ncn2[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)C[C@@H](CC[C@H]([NH3+])C(=O)[O-])[NH2+]Cc4ccccc4;5.9200001;Histone-lysine N-methyltransferase SETD2;76O
+5lsy;O=C([O-])[C@H]([NH3+])CC[C@H]([NH2+]CC(C)C)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;6.54;Histone-lysine N-methyltransferase SETD2;76M
+4m6p;c1ccccc1S(=O)(=O)c2ccc(cc2)CNC(=O)c(c3)cnc(c34)[nH]nc4;7.27;Nicotinamide phosphoribosyltransferase;20R
+4uhg;Cc1ccc(cc1)-c(n2)[nH]c(=O)c(c23)cccc3;6.27;TANKYRASE-2;SZ5
+1uwh;c1cc(Cl)c(C(F)(F)F)cc1NC(=O)Nc2ccc(cc2)Oc(ccn3)cc3C(=O)NC;7.6599998;B-RAF PROTO-ONCOGENE SERINE/THREONINE-PROTEIN KINASE;BAX
+13gs;n1ccccc1NS(=O)(=O)c2ccc(cc2)/N=N/c3cc(C(=O)[O-])c(O)cc3;4.6199999;GLUTATHIONE S-TRANSFERASE;SAS
+1wug;[NH3+]CCCNc1ccc(C)cc1N(=O)=O;5.8000002;Histone acetyltransferase PCAF;NP1
+4hw7;COc(c1)cnc(c12)[nH]cc2Cc3cnc(cc3)NCc4ccc(C(F)(F)F)cc4;7.21;Macrophage colony-stimulating factor 1 receptor;64M
+3mwe;O=C([O-])[C@H](O)[C@@H](O)C(=O)[O-];1.54;ATP-citrate synthase;TLA
+2oo8;C[NH+](C)CCCc1cc(cc(c1)C(F)(F)F)NC(=O)c2cc(c(C)cc2)Nc3ncccc3-c4ccncn4;9;Angiopoietin-1 receptor;RAJ
+5aeh;Clc1ccccc1N(c2ncncc2)C(=O)c3ccc(cc3)NC(=O)c4ccc(OC)cc4;7.4299998;TANKYRASE-2;8IR
+5lss;n1cnc(N)c(c12)ncn2[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3C[C@H](CC[C@H](C(=O)[O-])[NH3+])[NH2+]CCC;6.3099999;Histone-lysine N-methyltransferase SETD2;76H
+1jqe;c1cc(Cl)cc(n2)c1c(c(c23)cc(cc3)OC)N[C@H](C)CCC[NH+](CC)CC;6.4400001;Histamine N-Methyltransferase;QUN
+3kr8;C1CSCc(c12)c(=O)[nH]c(n2)-c3ccc(C(F)(F)F)cc3;8.1000004;Tankyrase-2;XAV
+3kr0;c1c(O)ccc(c12)nc([nH]2)N;4.6999998;Phenylethanolamine N-methyltransferase;172
+3kr1;c1cc(Cl)cc(c12)[nH]c(n2)N;5.7399998;Phenylethanolamine N-methyltransferase;VGD
+3kr2;Nc(n1)[nH]c(c12)ccc(F)c2;5.1399999;Phenylethanolamine N-methyltransferase;ET2
+2g71;FC(F)(F)CCNS(=O)(=O)c(c1)ccc(c12)C[C@H](CF)[NH2+]C2;7.46;Phenylethanolamine N-methyltransferase;FTS
+4ga3;CCCCn1cc[n+](c1)CC(O)(P([O-])(O)O)P([O-])([O-])O;7.52;Farnesyl pyrophosphate synthase;4GA
+4j3m;O=c([nH]1)cc(C)c(c12)ccc(c2)-c3ccc(C(=O)[O-])cc3Cl;7.6799998;Tankyrase-2;AJ8
+4j3l;COCCNC(=O)c1ccc(c(Cl)c1)-c(cc2)cc(c23)[nH]c(=O)cc3C;7.8000002;Tankyrase-2;AJ5
+3v0l;c1ccccc1-c2cn(c(=O)[nH]c2=O)[C@@H]3O[C@@H]([C@@H](O)[C@H]3O)COP([O-])(O)OP([O-])(O)O[C@H]4O[C@H](CO)[C@H](O)[C@H](O)[C@H]4O;5.52;Histo-blood group ABO system transferase;2GW
+1d6n;O=c1[nH]cnc(c12)CN=N2;4.5;PROTEIN (HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE);PPO
+4m6q;FC(F)(F)c1cccc(c1)S(=O)(=O)c2ccc(cc2)CNC(=O)c(c3)cnc(c34)n(nc4)[C@H]5[C@H](O)[C@H](O)[C@H](O5)COP([O-])(O)O;8.21;Nicotinamide phosphoribosyltransferase;20T
+1uu8;C[NH+](C)CCCn1cc(c(c12)cccc2)C3=C(C(=O)NC3=O)c4c[nH]c(c45)cccc5;5.0500002;3-PHOSPHOINOSITIDE DEPENDENT PROTEIN KINASE-1;BI1
+3n3l;O=C([O-])Cc(co1)c(c12)ccc(c2)OC;3.3;FARNESYL PYROPHOSPHATE SYNTHASE;MS0
+3n1v;Clc(c1)ccc(c12)sc(c2C)CC(=O)[O-];3.3;FARNESYL PYROPHOSPHATE SYNTHASE;3N1
+3n1w;Clc(c1)ccc(c12)scc2CC(=O)[O-];3.3;FARNESYL PYROPHOSPHATE SYNTHASE;3N2
+4d2r;C[N@H+]1CC[C@H](CC1)Oc2ccc(c(c2)OC)Nc3nccc(n3)-c(c[nH]4)c(c45)ccnc5;5.48;INSULIN-LIKE GROWTH FACTOR 1 RECEPTOR;DYK
+4eb8;[NH2+]=c([nH]1)[nH]c(=O)c(c12)[nH]cc2C[N@H+]3C[C@H](O)[C@H](C3)CO;9.8199997;Purine nucleoside phosphorylase;IM5
+3qk0;CC(=O)Nc(n1)sc(c12)cc(cc2)-c(cnc3Cl)cc3NS(=O)(=O)c(cc4)ccc4F;8.6999998;Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform;QK0
+4tjw;C[NH+](C)CC(=O)Nc(c1)ccc2[nH]c(=O)c(c3c12)cccc3;6.02;Tankyrase-2;P34
+4tju;c1ccc(C(=O)N)c(c12)nc(cn2)-c3ccc(Cl)cc3;5.4400001;Tankyrase-2;CNQ
+4tjy;NC(=O)c1cccc(c12)nc([nH]2)[C@]3(C)CCC[NH2+]3;6.4400001;Tankyrase-2;3GN
+4pnr;c1cccc(c12)c(=O)[nH]c3c2ccs3;6.3400002;Tankyrase-2;G18
+4pnt;c1ccc(O)c(c12)cc[nH]c2=O;5.8200002;Tankyrase-2;IQD
+4pnn;c1cccc(c12)nc[nH]c2=O;4.52;Tankyrase-2;JPZ
+4pnm;Oc1cccc(c12)c(=O)[nH]c(n2)C;5.8499999;Tankyrase-2;NU1
+2jdo;Clc1ccc(cc1)COCC[NH2+]CCNS(=O)(=O)c(ccc2)c(c23)ccnc3;6.6399999;RAC-BETA SERINE/THREONINE-PROTEIN KINASE;I5S
+3kpv;n1c[nH]c(c12)ncnc2N;3.74;Phenylethanolamine N-methyltransferase;ADE
+3kpw;c1cnc(N)c(c12)cccc2;4.8499999;Phenylethanolamine N-methyltransferase;1SQ
+3kpu;Oc1ccnc(c12)cccc2;3.1600001;Phenylethanolamine N-methyltransferase;ES1
+5dgm;OP([O-])(O)CNC(=O)c(n1CC([O-])=O)cc(c1c23)ccc2cccc3;6.4000001;Farnesyl pyrophosphate synthase;59Z
+3l3l;NC(=O)c1cccc(c12)CN(C2=O)C3CC[NH2+]CC3;7.48;Poly [ADP-ribose] polymerase 1;L3L
+4l6s;C[C@H](O1)C(=O)Nc(c12)cc(cc2)C[N@@H+]3CCC(=CC3)c4ccc(Cl)cc4;8.5200005;Poly [ADP-ribose] polymerase 1;1WQ
+3k8o;OC[C@@H](O)[C@@H](CO)[NH2+]Cc1c[nH]c(c12)c(=O)[nH]cn2;11.07;Purine nucleoside phosphorylase;229
+3k8q;n1c[nH]c(=O)c(c12)[nH]cc2C[NH2+]C(CO)CO;11.28;Purine nucleoside phosphorylase;22A
+4ryl;c1nccc(c12)cc(cc2)NC(=O)NCC(=O)N3CCCC3;7.2800002;PRMT3 protein;3ZG
+1ezf;O=C([O-])C[C@@H](C(=O)[O-])NC(=O)C[C@H](C(=O)N(CC(C)(C)C)c(c12)ccc(Cl)c2)O[C@@H]1c(ccc3)c(c34)cccc4;7.25;FARNESYL-DIPHOSPHATE FARNESYLTRANSFERASE;IN0
+3u6j;COc(c1)c(OC)cc(c12)nccc2Oc3c(F)cc(cc3)NC(=O)[C@@H](C(C)=[N+]4C)C(=O)N4c5ccccc5;8.21;Vascular endothelial growth factor receptor 2;03X
+3u6h;COc(c1)c(OC)cc(c12)nccc2Oc3c(F)cc(cc3)NC(=O)[C@@H](C(C)=[N+]4C)C(=O)N4c5ccccc5;9;Hepatocyte growth factor receptor;03X
+3u6i;COc(c1)ccc(c12)c(ccn2)Oc3ccc(cc3F)NC(=O)c(c4=O)c(C)n(C[C@@H](C)O)n4-c5ccccc5;9;Hepatocyte growth factor receptor;044
+4kzq;c1cccc(c12)oc(cc2=O)-c3ccc(O)cc3;6.0999999;Tankyrase-2;DFL
+4kzu;c1cc(Br)ccc1-c(cc2=O)oc(c23)cccc3;6.5;Tankyrase-2;A73
+4kzl;c1cc(F)ccc1-c(cc2=O)oc(c23)cccc3;6.1500001;Tankyrase-2;20D
+1wum;[NH3+]CCCNc1ccccc1N(=O)=O;5.29;Histone acetyltransferase PCAF;NP2
+2oc9;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;7.96;Purine nucleoside phosphorylase;IMH
+2oc4;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;7.0700002;Purine nucleoside phosphorylase;IMH
+5ggk;OC[C@@H](O1)[C@@H](O)[C@H](O)[C@H](O)[C@@H]1Oc2ccc(N(=O)=O)cc2;3.54;Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1;MBE
+5a46;C[NH+]1CCN(CC1)c(c2)ccc(c23)nc([nH]3)[C@@H]([C@H]4[NH3+])C(=O)Nc(c45)cccc5F;7.6599998;FIBROBLAST GROWTH FACTOR RECEPTOR 1 (FMS-RELATED TYROSINE KINASE 2, PFEIFFER SYNDROME), ISOFORM CRA_B;38O
+5ggn;CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1Oc2ccc(N(=O)=O)cc2;3.6600001;Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1;LEC
+2gss;O=C([O-])COc1c(Cl)c(Cl)c(cc1)C(=O)C(=C)CC;4.9400001;GLUTATHIONE S-TRANSFERASE P1-1;EAA
+2i1m;CC1CCN(CC1)c2ccc(CO)cc2NC(=O)c3ccc(o3)C#N;7.6199999;Macrophage colony-stimulating factor 1 receptor;5CN
+4ufy;Cc1ccc(cc1)-c(n2)[nH]c(=O)c(c23)cccc3C;8.1499996;TANKYRASE-2;M3W
+2zm3;C1CCC[NH+]1Cc(cc2)ccc2N/C=C/3C(=O)NC(=O)c(c34)ccc(Br)c4;6.211832;Insulin-like growth factor 1 receptor;575
+4h5e;OP([O-])(O)OP([O-])(O)OCCC(C)C;6.0700002;Farnesyl pyrophosphate synthase;IPR
+4h5d;OP([O-])(O)C(P([O-])([O-])O)Nc1cc(ccn1)-c2ccc(cc2)OC(C)C;6.2399998;Farnesyl pyrophosphate synthase;YS4
+4h5c;OP([O-])(O)C(P([O-])([O-])O)Nc1cc(ccn1)-c2ccc(cc2)OC(C)C;7.5500002;Farnesyl pyrophosphate synthase;YS4
+2y1x;[nH]1ccc(c12)c(ccc2)-c(o3)nnc3-c(cc(n4)C(F)(F)F)n4-c5cccc(c5)CNC(=O)[C@@H]([NH3+])C;7.5700002;HISTONE-ARGININE METHYLTRANSFERASE CARM1;845
+4ge9;OP([O-])(O)OCc1c(c(O)c(C)nc1)C/N=C(C(=O)N2O)\Cc(c23)cc(c(c3)OC)Cc4ccccc4;8.8000002;Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial;0L0
+4ge4;c1cc(OC)cc(c12)n(O)c(=O)c(c2)NCc3c(O)c(C)ncc3COP([O-])(O)O;8.1099997;Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial;0KE
+4ge7;c1ccccc1Oc(c2)ccc(c23)n(O)c(=O)c(c3)NCc4c(O)c(C)ncc4COP([O-])(O)O;8.1499996;Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial;0K5
+3pb7;COc(c1)c(OC)ccc1NC(=S)NCCCn2ccnc2;5.7399998;Glutaminyl-peptide cyclotransferase-like protein;PBD
+4f1l;O=C([O-])/C=C\C(=O)Nc1cc(C(=O)N)ccc1;5.1199999;Poly [ADP-ribose] polymerase 14;0RY
+3e01;c1cnnc(c12)[nH]nc2Cc(cc3)cc(Br)c3Oc(c4)cc(C#N)cc4C;7.5228791;Gag-Pol polyprotein;PZ2
+5arf;Clc1ccc(cc1)C2=N/[N+](C[C@@H]2N(CC)C(=O)CO)=C(/NC#N)Nc3cc(OC(F)F)ccc3;6.27;N-LYSINE METHYLTRANSFERASE SMYD2;I9H
+5arg;Clc1ccc(cc1Cl)C2=N/[N+](C[C@@H]2N(CC)C(=O)CO)=C(/NC#N)Nc3cc(OC(F)F)ccc3;7.5700002;N-LYSINE METHYLTRANSFERASE SMYD2;H41
+1em6;c1c(Cl)ccc(c12)[nH]c(c2)C(=O)NCCOCCOCCNC(=O)c([nH]3)cc(c34)cc(Cl)cc4;8.2200003;LIVER GLYCOGEN PHOSPHORYLASE;CP4
+1exv;c1ccccc1C[C@@H](C(=O)N2CC(C(=O)[O-])C2)NC(=O)c(c3)[nH]c(c34)ccc(Cl)c4;7.3499999;LIVER GLYCOGEN PHOSPHORYLASE;700
+3q71;n1cnc(N)c(c12)ncn2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP(O)(O)OP([O-])([O-])OC[C@@H](O4)[C@@H](O)[C@@H](O)[C@H]4O;5.2199998;Poly [ADP-ribose] polymerase 14;AR6
+4n4v;c1ccccc1[C@@H](C2(C)C)N(C(O2)=O)[C@H]3CC[C@@H](CC3)c4cc(c(N)nc4)-c5ncccn5;8.6999998;Tankyrase-1;2GY
+4ijq;OP([O-])(O)COCC(COCP([O-])([O-])O)Cn(cn1)c(c12)nc(N)[nH]c2=O;7.52;Hypoxanthine-guanine phosphoribosyltransferase;SV2
+3iny;c1c[nH]c(c12)[nH]c(=[NH2+])[nH]c2=O;3.6600001;Purine nucleoside phosphorylase;7DG
+4j21;O=c([nH]1)cc(C)c(c12)ccc(c2)-c(c3Cl)ccc(N)c3;7.4099998;Tankyrase-2;AJ6
+3qox;O=C([O-])[C@@H]([NH3+])CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;6.5700002;Histone-lysine N-methyltransferase;SAH
+4kfp;C1COCCC1[N@@H+](CC2)CC[C@H]2S(=O)(=O)c(cc3)ccc3CNC(=O)n(c4)cc(c45)cncc5;8;Nicotinamide phosphoribosyltransferase;1R7
+4pjt;c1c(F)cc2c(=O)[nH]nc(c2c13)[C@@H]([C@H](N3)c(cc4)ccc4F)c5ncnn5C;9.2399998;Poly [ADP-ribose] polymerase 1;2YQ
+3c4h;Cc(n1)[nH]c(=O)c(c12)CSCC2;5.6989698;Poly(ADP-ribose) polymerase 3;DRL
+3c4f;COc1cccc(c1)Cc2c[nH]c(c23)nccc3;5.7212458;Basic fibroblast growth factor receptor 1;C4F
+4gg5;C[NH+]1CCN(CC1)c(c2)cnc(c23)cc(C(F)(F)F)cc3NCc4cc(N(=O)=O)ccc4;9.0299997;Hepatocyte growth factor receptor;0J3
+3c49;C1C[NH2+]CCCN1C(=O)c2cc(ccc2F)Cc3n[nH]c(=O)c(c34)cccc4;7.154902;Poly(ADP-ribose) polymerase 3;KU8
+4bfp;c1ccc(c2c13)cccc2C(=O)N(C3=O)CCCSc4nnc(-c5ccncc5)n4-c6ccc(OC)cc6;7.8200002;TANKYRASE-2;SWY
+4kc2;O=c1[nH]c(=O)n(cc1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CNC(=O)c3cccc(n3)CO;3.3099999;Fucosylglycoprotein alpha-N-acetylgalactosaminyltransferase soluble form;WS2
+4kc1;O=c1[nH]c(=O)n(cc1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CNC(=O)c3cccc(n3)CO;2.9100001;Fucosylglycoprotein alpha-N-acetylgalactosaminyltransferase;WS1
+2afx;c1nccn1Cc2ccccc2;5.1500001;Glutaminyl-peptide cyclotransferase;1BN
+2afw;O=C(C)NCCc1c[nH]cn1;4.77;Glutaminyl-peptide cyclotransferase;AHN
+5kjn;c1cccc(c12)[nH]cc2CC[NH+](CC3)CCN3c4ccccc4-c5cc(cnc5)C(=O)NCCC[NH+]6CC=CC6;7.77;N-lysine methyltransferase SMYD2;6TL
+5kjm;C1CCC[NH+]1CCCNC(=O)c2cc(nc(c23)n[nH]c3)-c4ccccc4N5CC[NH+](CC5)CCc6ccc(Cl)c(Cl)c6;7.1900001;N-lysine methyltransferase SMYD2;6TM
+5kjk;Clc1ccc(cc1Cl)CC[N@H+](C2)C[C@H]2Oc3ccccc3-c4cc(ccn4)C(=O)NCCC[NH+]5CCCC5;7.9200001;N-lysine methyltransferase SMYD2;6T1
+3mo0;C[NH+](C)CCCNc(n1)nc(c(c12)cc(OC)c(c2)OC)N[C@@H]3CC[N@H+](CC3)Cc4ccccc4;6.8099999;Histone-lysine N-methyltransferase, H3 lysine-9 specific 5;E11
+3mo2;[NH3+]CCCCCOc(c1)c(OC)cc(c12)c(nc(n2)NCCC[NH+](C)C)N[C@@H]3CC[N@H+](CC3)Cc4ccccc4;6.6100001;Histone-lysine N-methyltransferase, H3 lysine-9 specific 5;E67
+1njs;O=C([O-])CC[C@@H](C(=O)[O-])NC(=O)c1ccc(cc1)[C@H](C(O)(O)C(F)(F)F)CCCc2c(=O)[nH]c(N)nc2N;7.8200002;Phosphoribosylglycinamide formyltransferase;KEU
+3qar;n1c(N)nc(C)nc1-n2c(Nc3ccn[nH]3)nc(c24)cccc4;6.4899998;Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform;QAR
+3qaq;N#CCNc1nc(ncn1)-n2c(nc(c23)cccc3)Nc4cc(O)ccc4;7;Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform;QAQ
+5a00;FC1(F)CCC(CC1)[N@H+]2CC[C@@H](CC2)N(C3=O)Cc(c34)cc(F)cc4C(=O)N;7.52;POLY [ADP-RIBOSE] POLYMERASE 1;D7N
+4ay6;c1cc(=O)[nH]c(=O)n1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP(O)(O)OP([O-])([O-])O[C@@H]3[C@H](NC(=O)C)[C@@H](O)[C@H](O)[C@H](S3)CO;5.1199999;UDP-N-ACETYLGLUCOSAMINE--PEPTIDE N-ACETYLGLUCOSAMINYLTRANS FERASE 110 KDA SUBUNIT;12V
+4ay5;c1cc(=O)[nH]c(=O)n1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(O)OP([O-])(O)O;6.27;UDP-N-ACETYLGLUCOSAMINE--PEPTIDE N-ACETYLGLUCOSAMINYL TRANSFERASE 110 KDA SUBUNIT;UDP
+4g2f;Cc1ccc(O)cc1N(C=2O)c(ncnc3N)c3[C@H](C24)CCCC4;6.8000002;EPH receptor A3;C07
+4yk0;O=C(N1)C[C@@H](C)Nc(c12)cccc2;3.74;CREB-binding protein;98
+1pwy;OCCOCn(cn1)c(c12)nc(N)[nH]c2=O;4.0500002;Purine nucleoside phosphorylase;AC2
+5hi7;C[NH+](C)CCC[N@@H+](CC[C@H]([NH3+])C(=O)[O-])C[C@H]([C@H]1O)O[C@H]([C@@H]1O)n(cn2)c(c23)ncnc3N;7.8499999;Histone-lysine N-methyltransferase SMYD3;62X
+4kww;O=C([O-])c1ccccc1C(=O)[O-];5.5500002;Nicotinate-nucleotide pyrophosphorylase [carboxylating];PHT
+4bs4;CC(C)c1ccc(cc1)-c(o2)cc(=O)c(c23)cccc3;8.2200003;TANKYRASE-2;A64
+4deg;Cc1cc(sn1)-c(n2)ccc(n23)nnc3CNc(ccn4)c(c45)ncc(c5)OC;8.2200003;Hepatocyte growth factor receptor;0JJ
+4dei;Cc1cc(sn1)-n(c2=O)ccc(c23)nnn3[C@@H](C)c(c4)ccc(c45)ncc(c5)OCCOC;9;Hepatocyte growth factor receptor;0JL
+4deh;c1ccnc(c12)ccc(c2)Cn3nnc(c34)CCN(C4=O)c5ccccc5;6.21;Hepatocyte growth factor receptor;0JK
+4dem;OP([O-])(O)C(P([O-])([O-])O)Nc1cc(ccn1)-c2ccc(cc2)OC(C)C;7.5500002;Farnesyl pyrophosphate synthase;YS4
+4tki;O=N(=O)c1cc(C(=O)N)ccc1I;6.3800001;Tankyrase-2;33E
+3pyy;c1ccccc1-n(cc2[C@H](C3=O)NC(=O)N3)nc2-c4ccc(F)cc4;6.8600001;V-abl Abelson murine leukemia viral oncogene homolog 1 isoform b variant;3YY
+1rt9;OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc[nH]c3=O;10.25;Purine nucleoside phosphorylase;IMH
+1yz3;Clc1c(Cl)ccc(c12)CC[NH2+]C2;8.8100004;Phenylethanolamine N-methyltransferase;SKA
+1w1d;OP([O-])(O)O[C@@H]1[C@H](O)[C@H](OP([O-])([O-])O)[C@@H](OP([O-])(O)O)[C@@H]([C@H]1O)OP([O-])([O-])O;6.52;3-PHOSPHOINOSITIDE DEPENDENT PROTEIN KINASE-1;4IP
+4nxu;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.54;Mitochondrial dynamic protein MID51;ADP
+4gk2;Cn1c(=O)[nH]c(=O)c(c12)[n+]3c([nH]2)n(c(c3)-c4c(C)ccc(c4)O)-c5ccccc5OC;8.8000002;EPH receptor A3;L66
+4gk3;Cn1c(=O)[nH]c(=O)c(c12)[n+]3c([nH]2)n(CCCC)c(c3)-c4c(C)cccc4;7.25;EPH receptor A3;L87
+5ij7;C[C@@H](O)C(=O)N(CC1)CCC1Oc(cc2Cl)c(Cl)c(c23)C(=O)N(CC3)Cc4c(CC)cc(C)[nH]c4=O;8.5100002;Enhancer of Zeste Homolog 2 (EZH2),Histone-lysine N-methyltransferase EZH2;6BN
+4hki;c1ccccc1-c(o2)cc(=O)c(c23)cccc3;6.8499999;Tankyrase-2;FLN
+4hkk;Oc1ccc(cc1)-c(cc2=O)oc(c23)cc(O)cc3O;5.54;Tankyrase-2;AGI
+4hkn;Oc1cc(O)cc(c12)oc(cc2=O)-c3cc(O)c(O)cc3;5.96;Tankyrase-2;LU2
+2q80;CC(C)=CCCC(\C)=C\CC/C(C)=C/CC/C(C)=C/COP([O-])(O)OP([O-])(O)O;4.5999999;Geranylgeranyl pyrophosphate synthetase;GRG
+4v04;n1cccc(n12)ncc2C#Cc3c(C)ccc(c3)C(=O)Nc4ccc(c(c4)C(F)(F)F)C[N@H+]5CC[N@H+](C)CC5;8.1099997;FIBROBLAST GROWTH FACTOR RECEPTOR 1 (FMS-RELATED TYROSINE KINASE 2, PFEIFFER SYNDROME), ISOFORM CRA_B;0LI
+3v5q;FC(F)(F)c1cccc(c1)NC(=O)Nc2cccc(c2)Nc(cc3)cc(c34)NC(=O)C\4=C/c5ccc[nH]5;7.4000001;NT-3 growth factor receptor;0F4
+4v01;n1cccc(n12)ncc2C#Cc3c(C)ccc(c3)C(=O)Nc4ccc(c(c4)C(F)(F)F)C[N@H+]5CC[N@H+](C)CC5;8.1099997;FIBROBLAST GROWTH FACTOR RECEPTOR 1 (FMS-RELATED TYROSINE KINASE 2, PFEIFFER SYNDROME), ISOFORM CRA_B;0LI
+4zzy;FC1(F)CCC(CC1)[N@H+]2CC[C@@H](CC2)N(C3=O)Cc(c34)cc(F)cc4C(=O)N;5.5999999;POLY [ADP-RIBOSE] POLYMERASE 2;D7N
+3krj;N#Cc1c[nH]c(n1)C(=O)Nc2ccc(C3CC[NH2+]CC3)cc2C4=CCCCC4;8.96;Macrophage colony-stimulating factor 1 receptor, Basic fibroblast growth factor receptor 1;KRJ
+4i9i;c1cccc(c12)nc([nH]c2=O)CCC(=O)Nc3ccc(cc3)C(=O)Nc4ccccc4OC;8.1000004;Tankyrase-1;1DY
+4x61;C1OCC1Nc(ncn2)cc2C(=O)NC[C@H](O)C[N@H+](CC3)Cc(c34)cccc4;9;Protein arginine N-methyltransferase 5;3XV
+2g70;OC[C@@H](C1)[NH2+]Cc(c12)cc(N(=O)=O)cc2;7.77;Phenylethanolamine N-methyltransferase;HNT
+2g72;C1CSCCN1S(=O)(=O)c(c2)ccc(c23)C[C@H](CF)[NH2+]C3;6.5;Phenylethanolamine N-methyltransferase;F21
+1bzy;OP([O-])(O)OC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)nc(N)[nH]c3=O;8.3400002;HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE;IMU
+1t5a;O=[C](=O)C([O-])[O-];4.6199999;Pyruvate kinase, M2 isozyme;OXL
+4ui8;FC(F)(F)c1ccc(cc1)-c(n2)[nH]c(=O)c(c23)cccc3O;7.5999999;TANKYRASE-2;IY5
+5dry;Clc1ccccc1-c2nnnn2CC(=O)NNC(=O)Nc(c3)ccc(c34)ccn4-c5c(Cl)cccc5;7.6999998;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5EK
+5al4;C[N@H+]1CC[N+](CC1)=C(N2)NC(=O)[C@@H](C2=3)CCCC3;6.52;TANKYRASE 2;WLH
+5al5;c1cnccc1C[N@H+]2CC[N+](CC2)=C(N3)NC(=O)[C@@H](C3=4)CCCC4;7.1500001;TANKYRASE-2;JL9
+5al2;CC(C)c1ccc(cc1)[C@H](NC2=O)Nc(c23)nccc3;6.4400001;TANKYRASE-2;O53
+4hj2;O=C([O-])[C@@H]([NH3+])CCC(=O)N[C@H](C(=O)NCC(=O)[O-])CSCCN(CCCl)c1ccc(cc1)CCCC(=O)[O-];2.53;Glutathione S-transferase A1;LZ6
+5dt2;CNc(n1)ccnc1Nc(cc2)cc(c23)n(c(c3)C)-c4ccccc4Oc5ccccc5;6.8200002;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5EV
+4l10;COc1ccc(cc1)-c(o2)cc(=O)c(c23)cccc3;7.1500001;Tankyrase-2;A63
+5ajv;N#Cc1c(N)[nH]c(c12)ccc(c2)Oc3ccc(cc3)NC(=O)[C@@H]([NH3+])CO;6.2399998;HUMAN PFKFB3;8R2
+5ajw;[NH3+]CC(=O)Nc1ccc(cc1)Oc(c2)ccc(c23)n(c(N)c3C#N)Cc4ccccc4;6.98;6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 3;S6L
+3o23;FC(F)(F)S(=O)(=O)c(cc1)ccc1N2C(=O)N([C@H](C2=O)C)Cc3ccnc(c34)cccc4;6.3000002;Insulin-like growth factor 1 receptor;MQY
+5ajx;Cc1noc(C)c1Cn(cc2C#N)c(c23)ccc(c3)Oc4ccc(cc4)NC(=O)[C@H]5[NH2+]CCC5;7.96;6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 3;FD9
+5ajy;Cn1cc(cn1)-c(c[nH]2)c(c23)cc(cc3)Oc4ccc(cc4)NC(=O)C[NH3+];6.3000002;6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 3;87T
+5ajz;N#Cc(c[nH]1)c(c12)cc(cc2)Oc3ccc(cc3)NC(=O)C[NH3+];5.6999998;6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 3;MJP
+2a4l;OC[C@@H](CC)Nc(n1)nc(c(c12)ncn2C(C)C)NCc3ccccc3;6.4000001;Homo sapiens cyclin-dependent kinase 2;RRC
+2d06;c1cc(O)cc(CC2)c1[C@@H](CC3)[C@@H]2[C@@H]([C@]34C)CC[C@@H]4O;4.0799999;Sulfotransferase 1A1;EST
+5dtm;CNC(=O)c([nH]c1)cc1C(=O)c2c(Cl)cccc2Cl;4.3000002;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5F4
+1n7i;C1CC[NH2+]Cc(c12)c(Cl)c(Cl)cc2;6.5900002;Phenylethanolamine N-methyltransferase;LY1
+1n7j;Ic(c1)ccc(c12)CC[NH2+]C2;6.4299998;Phenylethanolamine N-methyltransferase;IDI
+5dtr;COc1ccnc(c12)ccc(c2)N(C)c3c(Cl)cccc3Cl;4.4099998;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5F7
+5dtq;Clc1cccc(Cl)c1C(=O)c(cc2)cc(c23)cccn3;3.8599999;Histone-lysine N-methyltransferase, H3 lysine-79 specific;5F6
+3d4q;C1C[NH2+]CCC1[N@@H+]2NC(c3ccncc3)=C(C2)c(c4)ccc(c45)/C(CC5)=N/O;10.52288;B-Raf proto-oncogene serine/threonine-protein kinase;SM5
+2onb;OP([O-])(O)CCCP([O-])([O-])O;5.5700002;Thymidylate synthetase;7PA
+3i4b;c1ccccc1Nc(ncc2C)nc2-c3c[nH]c(c3)C(=O)N[C@H](CO)c4ccccc4;8.1499996;Glycogen synthase kinase-3 beta;Z48
+1s63;c1ccc(Cl)cc1N(C(=O)C2)CC[N@@H+]2Cc3n(cnc3)Cc4ccc(C#N)cc4;9.0500002;Protein farnesyltransferase/geranylgeranyltransferase type I alpha subunit;778
+4l31;COC(=O)c1ccc(cc1)-c(o2)cc(=O)c(c23)cccc3;6.79;Tankyrase-2;F08
+4l32;C[NH+]1CCN(CC1)C(=O)c2ccc(cc2)-c(o3)cc(=O)c(c34)cccc4;6.8400002;Tankyrase-2;1VF
+4nxv;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.4200001;Mitochondrial dynamic protein MID51;GDP
+3vjc;c1ccccc1C[C@@H](C)[C@H](OC(=O)C)C(=C)CC[C@]23O[C@H](C(=O)[O-])[C@@](O)(C([O-])=O)[C@@](O2)(C(=O)[O-])[C@@H]([C@H]3O)OC(=O)/C=C/[C@@H](C)C[C@@H](C)CC;7.7199998;Squalene synthase;ZGA
+2xvd;Cc1ccc(CO)cc1N(C(C)C)c2ccnc(n2)Nc3cc(cc(c3)S(=O)(=O)C)N4CCOCC4;8.6999998;EPHRIN TYPE-B RECEPTOR 4;AS6
+3gur;O=C([O-])[C@@H]([NH3+])CCC(=O)N[C@H](C(=O)NCC(=O)[O-])CS[C@@](c(c12)non1)(C=CC2N(=O)=O)SCCCCCCO;8;Glutathione S-transferase Mu 2;BYG
+4msg;c1cccc(c12)nc([nH]c2=O)SCCC(=O)N[C@H]3CC[C@@H](CC3)c4nnc(o4)-c5ccccc5;10;Tankyrase-1;2C6
+2osc;FC(F)(F)c(c1)cccc1C(=O)Nc2cc(c(C)cc2)Nc3ncccc3-c4ccncn4;7.77;Angiopoietin-1 receptor;MUH
+4li7;N#Cc(c1)c(Cl)cc(OC)c1C(=O)NCC[N@@H+]2CC[C@H](CC2)C(=O)c3ccc(F)cc3;6.1100001;Tankyrase-1;1XP
+2vx0;O1COc(c12)c(c(Cl)cc2)Nc3ccnc(n3)Nc4cccc(c4)N5CCOCC5;6.2399998;EPHRIN TYPE-B RECEPTOR 4;7X7
+2vx1;NC(=O)c1cccc(c1)Nc2nccc(n2)Nc3c(Cl)ccc(c34)OCO4;6.6575775;EPHRIN TYPE-B RECEPTOR 4;7X8
+1uu3;C[NH+](C)C[C@H](CC1)OCCn(c2)c(cccc3)c3c2C(C(=O)NC4=O)=C4c(c5)c(c6n15)cccc6;6.1199999;3-PHOSPHOINOSITIDE DEPENDENT PROTEIN KINASE-1;LY4
+2chw;COc1ccccc1-n(c2=O)c(nc(c23)cccc3Cl)CSc4ncnc(c45)nc[nH]5;4.77;PHOSPHATIDYLINOSITOL-4,5-BISPHOSPHATE 3-KINASE CATALYTIC SUBUNIT GAMMA ISOFORM;039
+5eym;CCNC(=O)C#Cc(cc1)cc(c12)NC(=O)[C@@H]2C(\c3ccccc3)=N\c(cc4)ccc4C[NH+](C)C;7.5999999;Dual specificity mitogen-activated protein kinase kinase 1;5U5
+4jnm;c1ccccc1S(=O)(=O)c2ccc(cc2)NC(=O)NCc3ccc(N)nc3;8.5200005;Nicotinamide phosphoribosyltransferase;1LJ
+4yzc;CO[C@@H]1[C@H]([NH2+]C)C[C@@H](O2)n3c(cccc4)c4c(c3c5n6[C@]12C)c7c(C[NH2+][C@@H]7O)c5c8c6cccc8;8.5200005;Serine/threonine-protein kinase/endoribonuclease IRE1;STU
+3tzm;O1COc(c12)ccc(c2)-c3nc(-c4ccc(cc4)C(=O)N)[nH]c3-c5ccccn5;7.77;TGF-beta receptor type-1;085
+4yz9;Cc1ccc(cc1)CNC(=O)N(C2)CCC[C@]23CC[N@H+](C3)Cc4ccc(Cl)c(Cl)c4;7.6999998;Serine/threonine-protein kinase/endoribonuclease IRE1;4K7
+4gk4;O=c1[nH]c(=O)n(C)c2[nH]c([n+]3c12)n(CCCC)c(c3)-c4c(C)ccc(c45)n[nH]c5;7.8499999;EPH receptor A3;L90
+3h9k;c1c(F)c(=O)[nH]c(=O)n1[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)O;7.8499999;Thymidylate synthase;UFP
+3qqu;c1cccc(c12)ncc(c2)Nc(n3)ccnc3Nc4ccc(c(c4)OC)N5CCOCC5;8.6199999;Insulin-like growth factor 1 receptor;01P
+5i5x;n1c[nH]c(=O)c(c12)c(C)c(s2)C(=O)Nc3nncs3;6.6999998;Branched-chain-amino-acid aminotransferase, mitochondrial;68C
+5dxt;NC(=O)[C@H](C)Oc(cc1)cc(c1c23)OCCn2cc(n3)-c4ncnn4C(C)C;9.6999998;Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform;5H5
+1k27;CSC[C@H]1[NH2+][C@H]([C@H](O)[C@@H]1O)c(c[nH]2)c(c23)ncnc3N;9;5'-Deoxy-5'-Methylthioadenosine Phosphorylase;MTM
+3rw9;[H]/N=C\CCSC[C@@H](O1)[C@@H](O)[C@@H](O)[C@@H]1n2cnc(c23)c(N)ncn3;5.96;Spermidine synthase;DSH
+4pml;Nc1cc(C(=O)N)ccc1;4.52;Tankyrase-2;3AB
+4hhy;C1NC(=O)c(c2[C@H]13)cccc2CCN3C(=O)C4CCN(CC4)C(=O)c5cc(ccc5F)Cc(n[nH]c6=O)c(c67)cccc7;8.7200003;Poly [ADP-ribose] polymerase 1;15R
+4rlp;FC(C=1)=CN2c(c34)c1c(C(=O)NC5=O)c5c4c(C=C(OC)CC=6)c6n3[Ru]278([N+]#[C]=S)S9CCS8CCS7CC(C9)NC;8.1400003;p70S6K1;72B
+4mt9;c1cc(C#N)ccc1O[C@@H](CC2)CC[C@H]2NC(=O)CCSc(n3)[nH]c(=O)c(c34)cccc4;10;Tankyrase-1;2D6
+4jlg;FC(F)(F)c1cc(ccc1)C[C@H](C(=O)N2CCCC2)NS(=O)(=O)c(c3)cc(F)c(c34)C[NH2+]CC4;8.6999998;Histone-lysine N-methyltransferase SETD7;1L8
+2rcw;CCC[N@H+](CC1)CC[C@@H]1c(n2)[nH]c(c23)cccc3C(=O)N;8.1000004;Poly [ADP-ribose] polymerase 1;AAI
+4l7r;CC[C@@H](CO)NC(=O)CCc(n1)[nH]c(=O)c(c12)cccc2;5.02;Poly [ADP-ribose] polymerase 3;M00
+4l7u;c1ccccc1C[C@@H](C(=O)OC)NC(=O)CCc(n2)[nH]c(=O)c(c23)cccc3;5.6599998;Poly [ADP-ribose] polymerase 3;1VC
+1jqd;O=C([O-])[C@@H]([NH3+])CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.1599998;Histamine N-Methyltransferase;SAH
+4l7l;c1ccccc1C[C@@H](CO)NC(=O)CCc(n2)[nH]c(=O)c(c23)cccc3;6;Poly [ADP-ribose] polymerase 3;1VA
+4l7o;c1nccn1-c2ccc(cc2)[C@H](C)NC(=O)CCc(n3)[nH]c(=O)c(c34)cccc4;4.8800001;Poly [ADP-ribose] polymerase 3;1VD
+4l7n;O=S(=O)(N)c1ccc(cc1)[C@H](C)NC(=O)CCc(n2)[nH]c(=O)c(c23)cccc3;4.8400002;Poly [ADP-ribose] polymerase 3;1VB
+4l70;c1ccccc1[C@H](CC)NC(=O)CCc(n2)[nH]c(=O)c(c23)cccc3;5.6599998;Poly [ADP-ribose] polymerase 3;1V9
+3vfq;n1cnc(N)c(c12)ncn2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP(O)(O)OP([O-])([O-])OC[C@@H](O4)[C@@H](O)[C@@H](O)[C@H]4O;5.1900001;Poly [ADP-ribose] polymerase 14;AR6
+1uk1;c1ccc(F)c(c12)c(=O)[nH]c(=O)n2CCCC[N@@H+]3CC=C(CC3)c4ccccc4;7.2199998;Poly [ADP-ribose] polymerase-1;FRQ
+1uk0;Cc1cccc(c12)c(=O)[nH]c(n2)CCC[N@H+]3CC=C(CC3)c4ccc(F)cc4;8.1000004;Poly [ADP-ribose] polymerase-1;FRM
+4x63;C1OCC1Nc(ncn2)cc2C(=O)NC[C@H](O)C[N@H+](CC3)Cc(c34)cccc4;6.77;Protein arginine N-methyltransferase 5;3XV
+4x60;C1OCC1Nc(ncn2)cc2C(=O)NC[C@H](O)C[N@H+](CC3)Cc(c34)cccc4;9;Protein arginine N-methyltransferase 5;3XV
+5al3;Clc1cc(Cl)ccc1[C@H](NC2=O)N(C)c(c23)nccc3;4.96;TANKYRASE 2;TGW
+5al1;CC(C)(C)c1ccc(cc1)[C@H](NC2=O)Nc(c23)nccc3;4.2800002;TANKYRASE 2;GN5
+4uw1;c1cc(C)ccc1C(=NC2=O)Cc(c23)c(OC)ccc3;7.7199998;TANKYRASE-1;92R
+4p0x;OC=1C(=O)C(C(C)C)=CC(C1[C@@]23C)=CC(=O)[C@H]3C(C)(C)CCC2;5.9200001;Farnesyl pyrophosphate synthase;1WO
+4p0v;O[C@@H]1C(=O)C(C(C)C)=CC(=C1[C@@]23C)CC(=O)[C@H]3C(C)(C)CCC2;5.9200001;Farnesyl pyrophosphate synthase;1WO
+4p0w;C[C@@H]1CCC[C@@H]([C@@]12C)[C@](C)([C@H](C)CC2)CC3=CC(=O)C=CC3=O;5.96;Farnesyl pyrophosphate synthase;1XH
+5g1n;OP([O-])(O)CC(=O)N[C@H](C([O-])=O)CC([O-])=O;7.77;CAD PROTEIN;PAL
+3k5k;C[N@H+]1CCCN(CC1)c(n2)nc(N[C@@H]3CC[N@@H+](C)CC3)c(c24)cc(OC)c(c4)OCCC[NH+](C)C;7.6399999;Histone-lysine N-methyltransferase, H3 lysine-9 specific 3;DXQ
+4wvl;O=C(C)NCCCCNc(ncn1)c(c12)ncn2[C@H](O3)[C@H](O)[C@H](O)[C@H]3C[N@H+](C(C)C)CCCNC(=O)Nc4ccc(cc4)C(C)(C)C;6.8800001;Histone-lysine N-methyltransferase, H3 lysine-79 specific;3US
+4jr5;c1ccncc1CNC(=S)Nc(cc2)ccc2S(=O)(=O)N3CCCCC3;8.1499996;Nicotinamide phosphoribosyltransferase;1LS
+3jdw;O=C([O-])[C@@H]([NH3+])CCC[NH3+];3.5999999;L-ARGININE\:GLYCINE AMIDINOTRANSFERASE;ORN
+4xx9;Cc1cccc(C)c1OCCSc(n2CC(=O)[O-])nc(c23)cccc3;5.0799999;3-phosphoinositide-dependent protein kinase 1;RF4

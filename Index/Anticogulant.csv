@@ -1,0 +1,264 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+2phb;c1cccc(=O)n1-c(cc2)cc(F)c2NC(=O)[C@H]3C[C@@H](OC)CN3C(=O)Nc(cc4)ccc4Cl;9.4948502;Coagulation factor X, heavy chain;230
+1zpc;NC(N)=[NH+]CCC[C@@H]([C@H](O)c1nccs1)NC(=O)[C@H](C(C)C)NC(=O)[C@H](O)c2cccc(Cl)c2;6.5999999;Coagulation factor XI;716
+1zpb;n1ccsc1[C@@H](O)[C@H](CCC[NH+]=C(N)N)NC(=O)[C@H](C(C)C)NC(=O)CCC(C)C;6.0700002;Coagulation factor XI;995
+1a4w;CN(C)c1cccc(c12)c(ccc2)S(=O)(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N3[C@H](CCCC3)CCC(=O)c4sccn4;5.9200001;ALPHA-THROMBIN (SMALL SUBUNIT);QWE
+1a46;c1ccccc1C[C@]([NH3+])(CC2)C(=O)N([N@H+]23)[C@@H](CC3)C(=O)N[C@@H](CCCC[NH3+])[C@H](O)C(=O)NC4CCCCC4;5.6999998;ALPHA-THROMBIN (SMALL SUBUNIT);00K
+4wxi;n1[nH]c(N)c(c12)ccc(c2)-c(ccn3)cc3[C@H](Cc4ccccc4)NC(=O)[C@H]5CC[C@@H](CC5)C[NH3+];8.0799999;COAGULATION FACTOR XI, LIGHT CHAIN;3VM
+3kl6;c1cc(Cl)cc(c12)ccc(c2)S(=O)(=O)C[C@@H](O)C(=O)N(CC3)CCC3N4CCCNC4=O;8.46;Coagulation Factor X heavy chain;443
+4crd;COC(=O)Nc(cc1)ccc1-c2c(Cl)nc([nH]2)CNC(=O)CCc3cc(Cl)ccc3-n4cnnn4;7.0999999;COAGULATION FACTOR XI;OTJ
+1zom;NC(N)=[NH+]CCC[C@@H]([C@H](O)c1nccs1)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCNC(=O)N)NC(=O)N[C@H](C)c2ccc(Br)cc2;7.52;Coagulation factor XI;339
+4yt6;CCOc(c1)cc(OC(C)C)c(F)c1[C@@H](Nc(cc2)ccc2C(=[NH2+])N)c3[nH]cc(n3)-c4ccccc4;7.96;Coagulation factor VII (heavy chain);4JY
+4zxx;c1cnc(N)c(c12)ccc(c2)N[C@H](c3ccccc3)C(=O)N4[C@H](CCC4)c5cc(NC(=O)C)ccc5S(=O)(=O)C(C)C;8.1000004;Coagulation factor VIIa heavy chain;4T0
+4zxy;Nc1nccc(c12)cc(cc2)N[C@H](c(ccc34)cc3)C(=O)NCc5cccc(c5)NC(=O)CCC4;6.4000001;Coagulation factor VIIa heavy chain;4T1
+3qto;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCC3=CN(C)CC=C3;4.1300001;Thrombin light chain;10P
+3qtv;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCC3=CCN(C)C=C3;4.6500001;Thrombin light chain;06P
+1oyt;c1cc(C(=[NH2+])N)ccc1[C@H]([N@H+]([C@@H]2[C@H]34)CCC2)[C@H]4C(=O)N(C3=O)Cc5ccc(F)cc5;7.2399998;thrombin light chain;FSN
+2xc4;c1cc(Cl)ccc1NC(=O)[C@@H]2[C@H](C[N@H+](C2)CC(F)(F)F)C(=O)Nc3ccc(cc3F)-n4ccccc4=O;8.0500002;ACTIVATED FACTOR XA HEAVY CHAIN;IVK
+2xc0;COc1ccc(cc1F)NC(=O)[C@@H](CN(C2)S(=O)(=O)C)[C@H]2C(=O)Nc(cc3)c(F)cc3-n4c(=O)cccc4;6.7199998;ACTIVATED FACTOR XA HEAVY CHAIN;8NC
+4ish;c1cccc2c1C[C@H]([C@H]2c(c34)cc(cc3)C(=[NH2+])N)[C@@H](N4)c5c(cc(O)c(c5)OC)-c6ccc(C(=O)[O-])cc6;8.7200003;Factor VII heavy chain;1GE
+4isi;[NH2+]=C(N)c1ccc(cc1)CNC(=O)[C@H](CC2(CC)CC)n(c23)c(=O)c(nc3Cl)NC4CCC4;8.1400003;Factor VII heavy chain;1GG
+1riw;C1=C[N+](=C(N)N)C=C1CCNC(=O)[C@H](C[C@@H]([C@@H]23)CC[C@H](C3)O)N2C(=O)[C@@H](Cc4ccccc4)NC(=O)[C@H](O)Cc5ccccc5;7.5500002;thrombin light chain;OSC
+2zfp;CC[C@@H]([NH3+])C(=O)N1CCC[C@H]1C(=O)NCc2cccc(Cl)c2;5.167491;Thrombin light chain;19U
+2j34;Clc(c1)ccc(c12)cc(s2)S(=O)(=O)N[C@H]3CCN(C3=O)[C@@H](C)C(=O)N4CCOCC4;7.8200002;ACTIVATED FACTOR XA HEAVY CHAIN;GS6
+2y82;[NH2+]1CCC[C@H]1c(c2)ccc(c2F)N3C(=O)[C@H](CC3)NS(=O)(=O)c(cc4)cc(c45)ccc(Cl)c5;8.3999996;ACTIVATED FACTOR XA HEAVY CHAIN;930
+2y81;C1CC[NH2+][C@H]1c(cc2F)ccc2N3C(=O)[C@H](CC3)NS(=O)(=O)c(cc4)cc(c45)ccc(Cl)c5;8.6999998;ACTIVATED FACTOR XA HEAVY CHAIN;931
+2y80;C[NH+](C)[C@@H]1CCc(c12)cc(cc2)N(C3=O)CC[C@@H]3NS(=O)(=O)c(c4)ccc(c45)cc(Cl)cc5;8.0500002;ACTIVATED FACTOR XA HEAVY CHAIN;439
+1wtg;[NH2+]=C(N)c1ccc(cc1)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](NS(=O)(=O)CC)Cc2ccc(cc2)-c3ccccc3;7.0300002;Coagulation factor VII;3BP
+3si4;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCC3=CC=CCN3C;3.8800001;Thrombin light chain;B04
+4y8y;COC(=O)Nc1ccc(cc1)-c([nH]2)c(Cl)nc2[C@H](CC(=O)N3CCOCC3)NC(=O)/C=C/c4c(ccc(Cl)c4)-n5cnnn5;9.1499996;Coagulation factor XIa;4D5
+4y8x;n1nncn1-c2c(cc(Cl)cc2)/C=C/C(=O)N[C@@H](Cc3ccccc3)c4nc(Cl)c([nH]4)-c5ccc(cc5)NC(=O)OC;8.4300003;Coagulation factor XIa;4GR
+4y8z;[nH]1c(=O)cc(O)c(c12)cc(cc2)-c(n3)c(Cl)[nH]c3[C@H](CC(=O)N4CC[NH+](C)CC4)NC(=O)\C=C\c(c5)c(ccc5Cl)-n6cnnn6;10.4;Coagulation factor XIa;4CE
+1uvs;C1CCCCC1S(=O)(=O)NCC(=O)N[C@@H](C(=O)N2CCCCC2)CCNc3ccncc3;5.4000001;THROMBIN;I11
+1g30;[NH2+]=C(N)c1ccc(cc1)NCc(n2C)nc(c23)cc(cc3)C4(CC4)/C(c5ncccc5)=N\OCC(=O)OCC;6.8499999;PROTHROMBIN;T87
+1g32;[NH2+]=C(N)c1ccc(cc1)NCc(n2C)nc(c23)cc(cc3)Cn(c(n4)C)c(c45)cccc5;6.1100001;PROTHROMBIN;R11
+1g37;CCCCOC(=O)[C@@H](O)[C@H]([C@H]1CC[C@H]([NH3+])CC1)NC(=O)[C@H](CC2)N([C@@H]23)C(=O)CN(C3)S(=O)(=O)Cc4ccccc4;10;ALPHA THROMBIN;110
+2p93;Clc1ccc(s1)C(=O)NCCNC(=O)c2ccc(cc2)-n3ccccc3=O;8.8199997;Factor Xa;ME1
+4bao;C1CCCCC1[C@@H]([NH2+]CC(=O)N)C(=O)N2[C@@H](CC2)C(=O)NCc3ccc(cc3)C(=[NH2+])N;8.3699999;THROMBIN LIGHT CHAIN;MVF
+4ban;C1CCCCC1[C@@H]([NH2+]CC(=O)NC)C(=O)N2[C@@H](CC2)C(=O)NCc3ccc(cc3)C(=[NH2+])N;8.6099997;THROMBIN LIGHT CHAIN;M6S
+2fda;s1ccnc1[C@@H](O)[C@@H](NC(=O)[C@H](C(C)C)NC(=O)N)CCC[NH+]=C(N)N;6.3000002;Coagulation factor XI;682
+3cen;n1cc(Cl)ccc1NS(=O)(=O)c2ccccc2NC(=O)c3ccc(cc3)-n4c(=O)cccc4;8.2596369;COAGULATION FACTOR X, HEAVY CHAIN;FXA
+2g00;O=C(N)c1cccc(c1)-n(nc2C(F)(F)F)c(c23)C(=O)N(CC3)c4ccc(cc4)-c5ccccc5C[NH+](C)C;9.7399998;Coagulation factor X;4QC
+3po1;CCOC(=O)C[n+]1c([NH+]=C(N)N)sc(c12)cc(O)cc2;4.02;Thrombin light chain;MKY
+1wv7;CCCOc(cc1)cc(c12)c(c[nH]2)C[C@@H](NS(=O)(=O)CC)C(=O)N[C@@H](CCC(=O)N)C(=O)NCc(cc3)ccc3C(=[NH2+])N;7.2600002;Coagulation factor VII;5PI
+4jzd;[NH2+]=C(N)c(cc1)ccc1NC(=O)c2nc(OC)ccc2-c3ccc(cc3C(=O)[O-])C(=O)N[C@H](CO)C(C)(C)C;8.3000002;Factor VIIa (Heavy Chain);1NJ
+4jze;CC(C)(C)[C@@H](CO)NC(=O)c1ccc(c(c1)C(=O)[O-])-c2ccc(OC)nc2C(=O)Nc(cc3)cc(c34)ccnc4N;8.1499996;Factor VIIa (Heavy Chain);1NK
+4jzf;CC(C)(C)[C@@H](CO)NC(=O)c1ccc(c(c1)C(=O)[O-])-c2ccc(OC)nc2C(=O)Nc3cccc(c3)C(=O)N;6.7600002;Factor VIIa (Heavy Chain);1NL
+4jyv;O=S(=O)(N)c(c1)cccc1S(=O)(=O)NC(=O)[C@@H](c(cc2OCC)ccc2OC(C)C)Nc(cc3)cc(c34)ccnc4;7.77;Factor VII light chain;1OJ
+1c1u;c1cc(C(N)=[NH2+])cc(c12)[nH]c(n2)Cc([nH]3)nc(c34)cccc4;8.25;ALPHA THROMBIN;BAI
+3iit;Clc(c1)ccc(c12)cc(nc2)C(=O)N[C@@H]3[C@@H](CCCC3)NC(=O)c(n4)sc(c45)C[N@@H+](C5)C;8.0200005;Activated factor Xa heavy chain;D14
+3hpt;C1CCCN1C(=O)CN2C(=O)[C@H](CCCC2)/[NH+]=C(\NC#N)Nc(c3)ccc(c34)oc(C)c4;8.1870871;Coagulation factor X;YET
+3kqc;CS(=O)(=O)c1ccccc1-c2ccc(cc2)N(CC3)C(=O)c(c34)n(nc4C(F)(F)F)-c(c5)cccc5-c6n[nH]c(=O)[nH]6;8.6599998;factor Xa heavy chain;LGK
+3kqb;CS(=O)(=O)c1ccccc1-c2ccc(c(F)c2)NC(=O)c3cc(C(F)(F)F)nn3-c(c4)cccc4-c5n[nH]c(=O)[nH]5;9.3000002;factor Xa heavy chain;LGJ
+3kqe;C1CCC[NH+]1Cc2ccccc2-c3ccc(cc3)N(CC4)C(=O)c(c45)n(nc5C)-c(c6)cccc6-c7n[nH]c(=O)[nH]7;8.0900002;factor Xa heavy chain;LGM
+3kqd;C1CCC[NH+]1Cc2ccccc2-c3ccc(cc3)N(CC4)C(=O)c(c45)n(nc5C(F)(F)F)-c(c6)cccc6-c7n[nH]c(=O)[nH]7;9.3999996;factor Xa heavy chain;LGL
+2j94;C1COCCN1C(=O)[C@H](C)N2CC[C@@H](C2=O)NS(=O)(=O)c3nnc([nH]3)-c4ccc(s4)Cl;6.27;COAGULATION FACTOR X;G15
+2aei;c1cccc(C(=O)[O-])c1Oc2nc(Oc3cc(C(=[NH2+])N)ccc3)c(F)c(c2F)N[C@@H](C)CCc4ccccc4;7.0700002;Coagulation factor VII;03R
+2bqw;C1C[N@@H+](C(C)C)CC[C@@H]1NC(=O)c(cc(c23)cccc2)n3CC(=O)Nc4ccc(Cl)cc4;8.5200005;COAGULATION FACTOR X;IIE
+2bq7;C1C[N@H+](C(C)C)CC[C@H]1NC(=O)c(cc(c23)cccc2)n3Cc4cccc(c4)OC;7.0500002;COAGULATION FACTOR X;IID
+1d3d;C1CCC[NH+]1Cc(c(Br)c2)ccc2Cc(c(c34)ccc(c3)O)c(s4)-c5ccc(cc5)OCC[NH+]6CCCC6;9.0900002;ALPHA-THROMBIN;BZT
+2bq6;C1C[N@@H+](C(C)C)CC[C@@H]1NC(=O)c(c(C#N)c(c23)cccc2C)n3Cc4noc(c4)-c5sc(Cl)cc5;10.15;COAGULATION FACTOR X;IIB
+1d3p;C1CCC[NH+]1CCOc(nc2)ccc2-c(s3)c(c(c34)ccc(c4)O)Cc5ccc(cc5)OCC[NH+]6CCCC6;7.3899999;ALPHA-THROMBIN;BT3
+4yt7;CC(C)Oc1cc(OCC)cc(c1F)[C@@H](Nc2ccc(cc2)C(=[NH2+])N)c(n3)[nH]cc3-c4ccccc4C(=O)N;8.7700005;Coagulation factor VII (heavy chain);4K1
+1c5n;NC(=[NH2+])c(s1)cc(c12)c(I)ccc2;4.6999998;Thrombin light chain;ESI
+3bg8;O=CNCCCC[NH+]=C(N)N;5.8860559;Coagulation factor XIa light chain;INH
+3dux;C1CCCCC1C[C@@H]([NH3+])C(=O)N2CCC[C@H]2C(=O)NCc3cc(Cl)ccc3;7;Thrombin Light Chain;64U
+5e2p;O=c([nH]1)cc(O)c(c12)cc(cc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)NCCc(c4)c(ccc4Cl)-n5cnnn5;8.8000002;Coagulation factor XIa light chain;7P0
+5e2o;O=C([O-])c1ccc(cc1)NC(=O)[C@H](Cc2ccccc2)NC(=O)CCc3c(ccc(Cl)c3)-n4cnnn4;8.6999998;Coagulation factor XIa light chain;5JM
+4yes;[nH]1c(C)ccc1C(=O)N2[C@@H](CCC2)C(=O)NCc3c(C[NH3+])ccc(Cl)c3;8.0200005;Thrombin light chain;45S
+3dhk;c1ccccc1C(c2ccccc2)[C@@H]([NH3+])C(=O)N3CCC[C@H]3C(=O)NCc4cccc(Cl)c4;7.3279023;Thrombin light chain;23U
+4loy;Clc1ccc(s1)C(=O)NC[C@@H](C(=O)N2CC[NH+](C)CC2)NS(=O)(=O)c3c(Cl)c(cc(F)c3)N4CCCCC4=O;8.0900002;Thrombin heavy chain;6XS
+2flr;c1cncc(c12)cc([nH]2)-c3cccc(c3O)-c4cccc(c4)CNC(=O)N;6.0999999;Coagulation factor VII;7NH
+2flb;c1cc(C(=[NH2+])N)cc(c12)[nH]c(n2)-c3c(O)c([nH]n3)-c4ccccc4;5.7399998;Coagulation factor VII;6NH
+1hdt;[NH2+]=C(N)NCCCC(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@H](C)O)C(=O)N[C@H](C(=O)[O-])Cc2ccccc2;7.7600002;ALPHA-THROMBIN;0E7
+5l2y;Nc1ncc(F)c(c12)cc(cc2)N[C@@H](C(=O)N(C3)C)c(cc4C)ccc4[C@@H](C)COC(=O)Nc(c5)ccc(c35)C6(C(=O)[O-])CCC6;9.8500004;Coagulation factor VII (Heavy Chain);70D
+5l2z;Nc1ncc(F)c(c12)cc(cc2)N[C@@H](C(=O)N(C3)C)c(cc4C)ccc4[C@@H](C)COC(=O)Nc(c5)ccc(c35)C6(C(=O)[O-])CCCCC6;10.22;Coagulation factor VII (Heavy Chain);70C
+5exn;n1nncn1-c(ccc(Cl)c2)c2\C=C\C(=O)N[C@@H](Cc3ccccc3)c4nccc(c4)-c(cc5)ccc5NC(=O)OC;7.6399999;Coagulation factor XIa light chain;5SU
+5exl;[nH]1nc(O)c(c12)cc(cc2)-c(ccn3)cc3[C@H](Cc4ccccc4)NC(=O)[C@H]5CC[C@@H](CC5)C[NH3+];8.4300003;Coagulation factor XIa light chain;5SS
+5exm;COC(=O)Nc(cc1)ccc1-c(ccn2)cc2[C@H](Cc3ccccc3)NC(=O)[C@H]4CC[C@@H](CC4)C[NH3+];8.1999998;Coagulation factor XIa light chain;5ST
+2bmg;Clc1cc(Cl)ccc1CCOc(c2OC)cc(cc2)C(=O)NCC3CCN(CC3)c4ccncc4;7.7447276;COAGULATION FACTOR X;I1H
+1o0d;[NH2+]=C(N)c1n(C)c(cc1)CNC(=O)[C@@H]2C=CCN2C(=O)[C@H]([NH2+]CC(=O)[O-])CC3CCCCC3;8.21;Thrombin light chain;163
+1mq5;c1cc(Cl)ccc1NC(=O)c2c(ccc(Cl)c2)NC(=O)c3scc(c3Cl)C[N@H+]4CC[N@H+](C)CC4;9;COAGULATION FACTOR X HEAVY CHAIN;XLC
+2cji;c1cc(Cl)cc(c12)ccc(c2)S(=O)(=O)N[C@H]3CCN(C3=O)[C@@H](C)C(=O)N4CCOCC4;8.2200003;ACTIVATED FACTOR XA HEAVY CHAIN;GSK
+1xka;c1cnccc1NCCC[C@H](C(=O)[O-])c2cccc(c2)-c3cccc(c3)C(N)=[NH2+];6.8800001;BLOOD COAGULATION FACTOR XA;4PP
+4btt;Clc1ccc(s1)-c2cc(no2)C[C@@H](C(=O)N3CCC(OC)CC3)NS(=O)(=O)c4c(CC)c(ccc4)N5CCOCC5=O;8.8400002;COAGULATION FACTOR X LIGHT CHAIN;VYR
+2b7d;c1cc(C(=[NH2+])N)cc(c12)[nH]c(n2)-c3cc([C@H](C(=O)[O-])CC(=O)[O-])cc(c3O)-c4c(O)ccc(c4)CNC(=O)N;8.6999998;Coagulation factor VII;C1B
+1w0y;[NH2+]=C(N)c1ccc(cc1)NCc2c(NS(=O)(=O)C)cc(c(c2)OC)OCc3ccccc3;6.4200001;BLOOD COAGULATION FACTOR VIIA;771
+1nt1;c1c(Cl)ccc(c12)OCC(=O)NCCC(=O)N[C@@H](C(=O)N3[C@H](C(=O)NC2)CCC3)C4CCCCC4;8.8900003;thrombin;T76
+2boh;C1C[N@@H+](C(C)C)CC[C@@H]1NC(=O)c(cc(c23)cccc2)n3Cc4noc(c4)-c5sc(Cl)cc5;8.5200005;COAGULATION FACTOR XA;IIA
+2bok;C[N+](C)(C)CCCN(C1=O)C(=O)[C@@H]([C@@H]12)[C@@H]([N@@H+]3[C@H]2CCC3)c4ccc(C(=[NH2+])N)cc4;6.5500002;COAGULATION FACTOR X;784
+1o2g;c1cc(C(=[NH2+])N)cc(c12)cc([nH]2)-c3cccc(c3O)-c4ccccc4;6.1199999;THROMBIN;696
+1d9i;C1C[C@@H]([NH3+])CC[C@@H]1CNC(=O)[C@H](C=CC2)n(n23)c(=O)n(c3=O)CCS(=O)(=O)c4ccccc4;9.1099997;THROMBIN;00P
+2w3i;c1cc(Cl)ccc1NC(=O)N(C[C@@]2(O)c(cc3)c(F)cc3F)[C@H](C2)C(=O)Nc4ccc(cn4)-n5ccccc5=O;10;COAGULATION FACTOR X, HEAVY CHAIN;L1C
+2w3k;c1ccccc1[C@]2(O)CN(C(=O)Nc3ccc(Cl)cc3)[C@H](C2)C(=O)Nc4c(F)cc(cc4)-n5ccccc5=O;10.09691;COAGULATION FACTOR X, HEAVY CHAIN;L1D
+2a2x;[NH2+]=C(N)c1ccc(cn1)CNC(=O)[C@H](C)N(C)C(=O)[C@H]([NH2+]CC(=O)[O-])CC2CCCCC2;7.6900001;Thrombin light chain;NA9
+1lqd;[NH2+]=C(N)c(c1)cccc1Cn2c(cc(c23)c(C)ccc3)C(=O)NCc4cc(C)cc(c4)C;8.0500002;Blood coagulation factor Xa;CMI
+1ta2;c1ccccc1C(c2ccccc2)[C@@H]([NH3+])C(=O)N3CCC[C@H]3C(=O)NCc4c(Cl)ccc(Cl)c4;8.5200005;thrombin;176
+1c5o;NC(=[NH2+])c1ccccc1;3.49;Thrombin light chain;BAM
+1w2k;[NH2+]=C(N)c1ccc(cc1)N[C@H](c2cc(OC)c(OC)cc2)C(=O)NCc3ccccc3;6.46;BLOOD COAGULATION FACTOR VIIA;380
+2ei6;c1cc(Cl)cc(c12)cc([nH]2)C(=O)N[C@H]3CCCC[C@H]3NC(=O)c(s4)nc(c45)CC[N@H+](C5)C;7.3872161;Coagulation factor X, heavy chain;D92
+4lxb;Clc1ccc(s1)C(=O)NC[C@@H](C(=O)N2C[C@H](CC2)[NH+](C)C)NS(=O)(=O)c3c(OC(F)F)c(ccc3)N4CCCCC4=O;8.1499996;Prothrombin, Thrombin light chain;7R9
+2cf9;[NH2+]=C(N)c1ccc(cc1)[C@H]2[C@H]([C@@H]3[C@@H]([N@@H+]24)CCC4)C(=O)N([C@@H]3C(C)C)Cc5ccc(OC)cc5;7.8200002;THROMBIN HEAVY CHAIN;348
+2cf8;[NH2+]=C(N)c1ccc(cc1)[C@H]2[C@H]([C@@H]3[C@@H]([N@@H+]24)CCC4)C(=O)N([C@@H]3C(C)C)Cc5ccc(Cl)cc5;8.1000004;THROMBIN HEAVY CHAIN;ESH
+2wyj;Clc1ccc(s1)/C=C/S(=O)(=O)N[C@H]2CCN(C2=O)c3c(F)cc(cc3)[C@H](C)[NH+](C)C;9;ACTIVATED FACTOR XA HEAVY CHAIN;898
+2wyg;Clc1ccc(s1)/C=C/S(=O)(=O)N[C@H]2CCN(C2=O)c3c(F)cc(cc3)[C@@H](C)[NH+](C)C;8.6999998;ACTIVATED FACTOR XA HEAVY CHAIN;461
+4nga;Nc1nccc(c12)cc(cc2)N[C@H](c3cc(OCC)c(cc3)OC(C)C)C(=O)NCc4ccccc4S(=O)(=O)C(C)C;7.77;Factor VIIa (Heavy Chain);2KF
+4ng9;c1cnc(N)c(c12)ccc(c2)N[C@H](c3cc(OCC)c(cc3)OC(C)C)C(=O)NCc(c4)cccc4S(=O)(=O)N;7.1199999;Factor VIIa (Heavy Chain);2KE
+4e7r;[NH2+]=C(N)c1cccc(c1)C[C@@H](C(=O)N(CC2)CCC2CC[NH3+])NS(=O)(=O)c(c3)cccc3-c4c(Cl)cc(Cl)cc4;7.6999998;Thrombin light chain;0NW
+3f68;C1CCCCC1C[C@@H](NC(=O)C)C(=O)N2CCC[C@H]2C(=O)NCc3cc(Cl)ccc3;5.0604806;Prothrombin;91U
+1mq6;c1cc(Cl)cnc1NC(=O)c2c(c(OC)cc(Cl)c2)NC(=O)c3scc(c3Cl)CN(C)C4=NCCO4;11.15;COAGULATION FACTOR X HEAVY CHAIN;XLD
+4btu;Clc1ccc(s1)C(=O)NC[C@@H](C(=O)N2CC[NH+](C)CC2)NS(=O)(=O)c3c(Cl)c(cc(F)c3)N4CCCCC4=O;9.3000002;COAGULATION FACTOR X LIGHT CHAIN;6XS
+2c90;Clc1ccc(cc1)-n2cnnn2;3.48;THROMBIN LIGHT CHAIN;C1M
+2vwm;O=c1ccccn1-c2cc(F)c(cc2)NC(=O)C[N+]3=C[C@H](NC(=O)c4ccc(s4)Cl)C[C@H]3C(=O)NCC5CC5;7.031517;ACTIVATED FACTOR XA HEAVY CHAIN;LZI
+2vwl;O=c1ccccn1-c(cc2F)ccc2NC(=O)C[N@@H+](C3)[C@H](CO)C[C@H]3NC(=O)c4ccc(s4)Cl;7.0222764;ACTIVATED FACTOR XA HEAVY CHAIN;LZH
+2vwo;Clc1ccc(s1)C(=O)N[C@@H]2[C@@H](F)C[N@H+](C2)CC(=O)Nc3c(F)cc(cc3)-n4c(=O)cccc4;7.5086384;ACTIVATED FACTOR XA HEAVY CHAIN;LZG
+2vwn;O=c1ccccn1-c(cc2F)ccc2NC(=O)C[N@@H+]3C[C@H](O)[C@H](C3)NC(=O)c4ccc(s4)Cl;8;ACTIVATED FACTOR XA HEAVY CHAIN;H25
+1qbv;c1ccccc1C[C@@H]([NH3+])C(=O)N2CCC[C@H]2C(=O)NCCNc3ccncc3;5.3899999;THROMBIN (LIGHT CHAIN);PPX
+1z71;ON1CC=CC=C1C(F)(F)CNC2=CCC(Cl)=C(N2O)CC(=O)N[C@H](C)c3cc(Cl)ccc3;9.1800003;thrombin;L17
+1fax;c1cc(C(=[NH2+])N)cc(c12)cc(cc2)C[C@H](C(=O)[O-])c(cc3)ccc3O[C@@H](CC4)C/[N+]4=C(/N)C;7.3899999;FACTOR XA;DX9
+1tom;[NH3+][C@@H]1CC[C@H](CC1)CNC(=O)[C@@H]2CCCN2C(=O)[C@H]([NH2+]C)Cc3ccccc3;8.3000002;ALPHA-THROMBIN;MIN
+3cs7;COc1ccc(cc1)-n2nc(C(F)(F)F)c(c23)CCN(C3=O)c(cc4)ccc4C5(CC5)C[NH+]6CCCC6;10.67778;Coagulation factor X;LG0
+1mu8;c1cccnc1C(F)(F)CNc2c(=O)n(c(cn2)C)CC(=O)NCc3c(F)c(C)ccn3;9;THROMBIN;CDB
+1mu6;c1cccnc1C(F)(F)CNc2c(=O)n(c(cn2)C)CC(=O)NCc3c(F)cccn3;8.3800001;THROMBIN;CDA
+1mue;O=n1ccccc1C(F)(F)CNc2c(=O)n(c(Cl)cn2)CC(=O)NCc3ccccc3F;8.6400003;THROMBIN;CDD
+5k0h;c1ccccc1COC[C@@H](NS(=O)(=O)Cc2ccccc2)C(=O)NCC(=O)NCc3ccc(C(=[NH2+])N)cc3;7.0900002;Coagulation factor X;6PK
+2j4i;CS(=O)(=O)NCCN(C(C)C)C(=O)[C@H](C)N1C(=O)[C@H](CC1)NS(=O)(=O)c(cc2)cc(c23)ccc(Cl)c3;9;COAGULATION FACTOR X;GSJ
+4na7;c1ccccc1[C@@]2(C)C[C@H](Nc(c23)ccc(c3)C(=[NH2+])N)c(cc(c4)NC(=O)CC(C)C)cc4-c5ccc(C(=O)N)cc5C(=O)[O-];9.6999998;Coagulation factor XI;1T5
+4na8;NC(=O)c1ccc(c(C(=O)[O-])c1)-c2cc(ccc2)[C@@H](Nc(c34)ccc(c3)C(=[NH2+])N)C[C@]4(C)c5ccccc5;8.8199997;Coagulation factor XI;1T6
+4ax9;C1CC[N+](=C(N)N)C[C@@H]1CNC(=O)C[C@@H](C(=O)N(CC(=O)[O-])C2CC2)NS(=O)(=O)c(c3)ccc(c34)cccc4;9.5699997;PROTHROMBIN;N5N
+2pks;Cc1cccc(c1)C(=O)c2ccnc(c2)NCc3ccc(cc3)C(=[NH2+])N;4.9586072;Thrombin light chain;G44
+1qj1;c1ccccc1C[C@H](NC(=O)[C@@H]([NH3+])CC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H]([C@@H](C)CC)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N[C@H](C(=O)[O-])CC(C)C)Cc3ccc(cc3)OS(=O)(=O)O;8.0500002;THROMBIN;166
+1qj7;c1ccccc1C[C@H](NC(=O)[C@@H]([NH3+])CC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H]([C@@H](C)CC)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N[C@H](C(=O)[O-])CC(C)C)Cc3ccc(cc3)OS(=O)(=O)O;8.1000004;THROMBIN;GR1
+1jwt;c1ccccc1CS(=O)(=O)N(CC2=O)C[C@@H](N23)CC[C@H]3C(=O)NC[C@H]4CC[N+](CC4)=C(N)NO;7.8499999;Prothrombin;BLI
+3ffg;O[C@@H]1CC[N@H+](C1)Cc2ccccc2-c3ccc(cc3)N(CC4)C(=O)c(c45)n(nc5C(F)(F)F)-c6cc(ccc6)-c7n[nH]c(=O)[nH]7;9.0799999;Coagulation factor X, heavy chain;FFG
+5egm;c1nncn1-c(cc2Cl)ccc2C(=O)N[C@](C3)(c4ccccc4)CCc5c(-c6[nH]nnn6)c(c7n35)cc(C)cc7;8.6199999;Coagulation factor IX;5NY
+1a5g;c1ccccc1C[C@]([NH3+])(CC2)C(=O)N([N@H+]23)[C@@H](CC3)C(=O)N[C@@H](CCCNC(=[NH2+])N)[C@H](O)C(=O)NCCc4ccccc4;10.15;ALPHA-THROMBIN (SMALL SUBUNIT);00L
+1nfw;c1cncc(c12)cc([nH]2)CN3C(=O)CN(CC3)S(=O)(=O)/C=C/c4ccc(Cl)s4;8.96;COAGULATION FACTOR XA, heavy chain;RRR
+1nfu;[NH2+]=C(N)c1cc(ccc1)CN2C(=O)CN(CC2)S(=O)(=O)c(c3)sc(c34)cc(Cl)cc4;7.7399998;COAGULATION FACTOR XA, HEAVY CHAIN;RRP
+2xbx;c1cc(Cl)ccc1NC(=O)[C@@H](CN(C2)S(=O)(=O)C)[C@H]2C(=O)Nc(cc3)c(F)cc3-n4c(=O)cccc4;7.8200002;ACTIVATED FACTOR XA HEAVY CHAIN;RR8
+2xbv;c1cc(Cl)cnc1NC(=O)[C@@H]2[C@H](C[N@H+](C2)CC(F)F)C(=O)Nc3ccc(cc3F)-n4ccccc4=O;8.4300003;ACTIVATED FACTOR XA HEAVY CHAIN;XBV
+2xbw;c1cc(Cl)ccc1NC(=O)[C@@H](CN(C2)S(=O)(=O)N)[C@H]2C(=O)Nc(cc3)c(F)cc3-n4c(=O)cccc4;8;ACTIVATED FACTOR XA HEAVY CHAIN;455
+1nfy;[NH2+]=C(N)c1ccc(cc1)CN2C(=O)CN(CC2)S(=O)(=O)c(c3)sc(c34)cc(Cl)cc4;8.8900003;Coagulation factor XA, heavy chain;RTR
+1nfx;c1cncc(c12)cc(n2CCO)CN3C(=O)CN(CC3)S(=O)(=O)c(c4)sc(c45)cc(Cl)cc5;8.5200005;COAGULATION FACTOR XA, heavy chain;RDR
+2f9b;c1cc(N)nc(c12)cc([nH]2)-c3cc(CC(=O)[O-])cc(c3O)-c4cccc(N(=O)=O)c4;6.52;Coagulation factor VII;N1H
+1g2m;[NH2+]=C(N)c1ccc(cc1)NCc(n2C)nc(c23)cc(cc3)Cn(c(n4)C)c(c45)cccc5;7.4000001;COAGULATION FACTOR X;R11
+3m37;[NH3+]Cc1ccccc1-n2nc(C(F)(F)F)cc2C(=O)Nc3ccc(cc3F)-c4ccccc4S(=O)(=O)N;9.04;Coagulation factor X;M37
+3m36;[NH3+]Cc(c1)cccc1-n2nc(C(F)(F)F)cc2C(=O)Nc3ccc(cc3F)-c4ccccc4S(=O)(=O)C;9.8199997;Coagulation factor X;M35
+2j2u;c1cc(Cl)cc(c12)cc([nH]2)S(=O)(=O)N[C@@H]3C(=O)N(CC3)[C@@H](C)C(=O)N4CCOCC4;7.3299999;COAGULATION FACTOR X HEAVY CHAIN;GSQ
+1qhr;[NH2+]=C(N)CCCC[C@@H](C=O)[C@H]1CCC[C@@H]1O;6.8899999;ALPHA THROMBIN;157
+3si3;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCc3ccccn3;4.1599998;Thrombin light chain;B03
+3sha;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCc3cnccc3Cl;5.5900002;Thrombin light chain;P97
+2bz6;C1OCC[C@H]1Oc(c2F)cc(OCC)cc2[C@H](C(=O)[O-])Nc3ccc(C(=[NH2+])N)cc3;7.0900002;BLOOD COAGULATION FACTOR VIIA;346
+2zzu;[NH2+]=C(N)c1ccc(cc1)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](NS(=O)(=O)CC)Cc(c[nH]2)c(c23)cc(cc3)OCc4cccc(c4)C(=O)[O-];7.4099998;Factor VII light chain;359
+3da9;CCCNC(=O)[C@@H]1CCCN1C(=O)[C@H]([NH3+])C(c2ccccc2)c3ccccc3;5.5086384;Thrombin light chain;44U
+4a7i;CC(C)[N@@H+]1CC[C@H](CC1)NS(=O)(=O)CCNC(=O)c2ccc(Cl)s2;8.6999998;FACTOR X LIGHT CHAIN;A7I
+2r2m;[NH2+]=C(N)NOCCNC(=O)Cc1c(F)c(ccc1Cl)NCC(F)(F)c2ccccc2;7.3269792;Thrombin light chain;I50
+1g2l;[NH2+]=C(N)c1ccc(cc1)NCc(n2C)nc(c23)cc(cc3)C4(CC4)/C(c5ncccc5)=N\OCC(=O)OCC;7.2399998;COAGULATION FACTOR X;T87
+1ksn;c1cn(=O)ccc1-c(cc2)ccc2C(=O)N[C@H](C)[C@H](C(=O)OC)Cc(ccc3)cc3C(N)=[NH2+];9.3999996;COAGULATION FACTOR XA;FXV
+2fzz;o1nc(N)c(c12)cc(cc2)-n(nc3C(F)(F)F)c(c34)C(=O)N(CC4)c5ccc(cc5)-c6c(cccc6)C[N@@H+]7CC[C@H](C7)O;10.52;Coagulation factor X;5QC
+2zgx;CC[C@@H]([NH3+])C(=O)N1[C@@H](CCC1)C(=O)NCc2ccc(C(=[NH2+])N)cc2;6.7447276;Thrombin Light Chain;29U
+2gde;OS([O-])(O)OC[C@@H](OC)C(=O)N[C@H]([C@H](Cl)C(C)C)C(=O)N([C@H]([C@@H]12)C[C@H](O)[C@H](C1)O)[C@@H](C2)C(=O)NCCC3=CC[N+](C3)=C(N)N;8.2441254;Thrombin light chain;SN3
+1d4p;NC(=[NH2+])c(c1)ccc(c12)[nH]c(c2)C(=O)N3CCC(CC3)Cc4ccccc4;6.3000002;ALPHA-THROMBIN;BPP
+4y79;C1COCCN1C(=O)[C@H](C)N2CC[C@@H](C2=O)NS(=O)(=O)/C=C/c3ccc(Cl)cc3;7.96;Coagulation factor X;4O6
+1wu1;c1c(Cl)ccc(c12)[nH]c(c2)S(=O)(=O)N(CC3)CCN3C(=O)c4ncc(cn4)-c5ccncc5;7.7399998;Coagulation factor X, heavy chain;D91
+3egk;c1ccccc1CC(NC(=O)C([NH3+])C)C(=O)NC(CCC(=O)[O-])C(=O)NC(C)C(=O)NC(C(C)CC)C(=O)N2C(CCC2)C(=O)NC(C)C(=O)NC(CCC(=O)[O-])[C](=O)=NC(C(=O)O)Cc3ccc(cc3)OS([O-])(O)O;4.657578;Thrombin light chain;M18
+1wun;c1cccc(c12)c(c[nH]2)C[C@@H](NS(=O)(=O)CC)C(=O)N[C@@H](CCC(=O)N)C(=O)NCc(cc3)ccc3C(=[NH2+])N;7.21;Coagulation factor VII;P5B
+2fes;[NH2+]=C(N)c1ccc(s1)CNC(=O)[C@@H]2CCCN2C(=O)[C@H]([NH2+]CC(=O)[O-])CC3CCCCC3;9.0100002;Thrombin light chain;3SP
+2feq;[NH2+]=C(N)c1csc(n1)CNC(=O)[C@@H]2C=CCN2C(=O)[C@H]([NH2+]CC(=O)[O-])CC3CCCCC3;8.8599997;Thrombin light chain;34P
+4bti;Clc1ccc(s1)C(=O)NC[C@@H](C(=O)N2C[C@H](CC2)[NH+](C)C)NS(=O)(=O)c3c(OC(F)F)c(ccc3)N4CCCCC4=O;9.6999998;COAGULATION FACTOR X HEAVY CHAIN;7R9
+3hnb;Clc1cc(Cl)ccc1OC[C@H](O)C[n+]2c(N)n(c(c23)cccc3)CC[NH+]4CCCCC4;5.1100001;Coagulation factor VIII;768
+2y5h;Clc1ccc(s1)-c2nc(co2)[C@H]3[C@H]([C@@H]4[C@@H]([N@@H+]35)CCC5)C(=O)N(C4=O)CCC[N+](C)(C)C;5.79;ACTIVATED FACTOR XA HEAVY CHAIN;Y5H
+2y5f;Clc1ccc(s1)-c2cc(no2)[C@H]3[C@H]([C@@H]4[C@@H]([N@@H+]35)CCC5)C(=O)N(C4=O)CCC[N+]6(CCO)CCCC6;8.6999998;ACTIVATED FACTOR XA HEAVY CHAIN;XWG
+2y5g;Clc1ccc(s1)-c2oc(nc2)[C@H]3[C@H]([C@@H]4[C@@H]([N@@H+]35)CCC5)C(=O)N(C4=O)CCC[N+](C)(C)C;6.8400002;ACTIVATED FACTOR XA HEAVY CHAIN;FJD
+1aht;O=C([O-])[C@@H](O)Cc1ccc(cc1)C(=[NH2+])N;6.21;ALPHA-THROMBIN (SMALL SUBUNIT);APA
+1d6w;c1nc(N)[nH]c1[C@@H](CC2)CC[C@H]2NC(=O)[C@H](C=CC3)n(n34)c(=O)n(c4=O)CCS(=O)(=O)c5ccccc5;5.96;THROMBIN;00R
+1fpc;CN(C)c1cccc(c12)c(ccc2)S(=O)(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N3CCC(CC3)CC;7;thrombin;0ZI
+2p95;s1c(Cl)ccc1C(=O)N[C@@H]2CCC[C@@H]2NC(=O)c3ccc(cc3)-n4ccccc4=O;9.3699999;Factor Xa;ME5
+2p94;O=c1ccccn1-c(cc2)ccc2C(=O)N[C@H]3CCCC[C@H]3NC(=O)c(c4)ccc(c45)c(Cl)c[nH]5;9.1700001;Factor Xa;ME4
+2y7z;C[NH+](C)[C@H]1CCc(c12)cc(cc2)N(C3=O)CC[C@@H]3NS(=O)(=O)c(c4)ccc(c45)cc(Cl)cc5;8.6999998;ACTIVATED FACTOR XA HEAVY CHAIN;C0Z
+2y7x;C1C[NH2+]Cc(c12)ccc(c2F)N3C(=O)[C@H](CC3)NS(=O)(=O)c(cc4)cc(c45)ccc(Cl)c5;8.8900003;ACTIVATED FACTOR XA HEAVY CHAIN;MZA
+4az2;c1cccc(c12)ccc(c2)S(=O)(=O)N[C@H](Cc3ccccc3)C(=O)NC[C@H]4C[N+](=C(N)N)CCC4;7.3299999;THROMBIN LIGHT CHAIN;9MU
+4bah;C1CCCCC1[C@@H]([NH2+]CC(=O)[O-])C(=O)N2[C@@H](CC2)C(=O)NCc3ccc(cc3)C(=[NH2+])N;8.6999998;THROMBIN LIGHT CHAIN;MEL
+1wqv;CCCS(=O)(=O)N[C@H]([C@@H](O)C)C(=O)N[C@@H](CCSC)C(=O)NCc(cc1)ccc1C(=[NH2+])N;6.8899999;Coagulation factor VII;PSM
+4jyu;Nc1nccc(c12)cc(cc2)N[C@H](c3cc(OCC)c(cc3)OC(C)C)C(=O)NS(=O)(=O)c4ccccc4;8;Factor VII light chain;1OK
+1ezq;c1ccc(C[NH3+])cc1-c(cc2)ccc2C(=O)N[C@H](C)[C@H](C(=O)OC)Cc(ccc3)cc3C(N)=[NH2+];9.0500002;COAGULATION FACTOR XA;RPR
+1c4u;Brc1ccc(cc1)S(=O)(=O)CCn(c2=O)c(=O)n(n23)[C@@H](C=CC3)C(=O)NC[C@@H]4CC[C@H](CC4)C(N)=[NH2+];10.37;thrombin;IH1
+1c4v;NC(=[NH2+])[C@H](CC1)CC[C@@H]1CNC(=O)[C@H](C=C(C2)C)n(n23)c(=O)n(c3=O)CC(c4ccccc4)c5ccccc5;10.8;THROMBIN:SHORT CHAIN;IH2
+1bmm;c1cccc(c12)ccc(c2)S(=O)(=O)N[C@@H](CO)C(=O)N3CCC[C@H]3CNC(=O)CCC[NH+]=C(N)N;7.0999999;ALPHA-THROMBIN;BM2
+1bmk;Fc1ccc(cc1)-c(nc2)c(n2CC3CC3)-c(n4)ccnc4N;7.5999999;PROTEIN (MAP KINASE P38);SB5
+1o5b;[NH2+]=C(N)c(s1)cc(c12)c(I)ccc2;5.77;Urokinase-type plasminogen activator;ESI
+1wss;c1ccc(C(=O)[O-])cc1CS(=O)(=O)N[C@H]([C@H](C)CC)C(=O)N[C@@H](CCC(=[NH2+])N)C(=O)NCc(cc2)ccc2C(=[NH2+])N;7.77;Coagulation factor VII;3CB
+3liw;[C@H]12C[C@H]3C[C@@H](C2)C[C@H](C3)[C@H]1NC(=O)N[C@H](Cc4cccc(c4)C(=[NH2+])N)C(=O)NCCc5ccccc5;7.5999999;Activated factor Xa heavy chain;RUP
+5l30;Nc1nccc(c12)cc(cc2)N[C@@H](C(=O)N(C3)C)c(cc4C)ccc4[C@@H](C)COC(=O)Nc(c5)ccc(c35)C6(CC6)c7[nH]nnn7;9.1400003;Coagulation factor VII (Heavy Chain);70A
+2vh6;CS(=O)(=O)c1ccccc1-c2cc(F)c(cc2)N3C(=O)[C@H](CC3)NS(=O)(=O)/C=C/c4sc(Cl)cc4;9.6989698;ACTIVATED FACTOR XA HEAVY CHAIN;GSV
+1fjs;Oc1ccc(C(N)=[NH2+])cc1Oc2nc(c(F)c(c2F)N(C)CC(=O)[O-])Oc3cccc(c3)C4=NCCN4C;9.96;COAGULATION FACTOR XA;Z34
+4ayy;C1CC[N+](=C(N)N)C[C@@H]1CNC(=O)C[C@@H](C(=O)N2[C@@H](C(=O)[O-])C[C@H](C)CC2)NS(=O)(=O)c(c3)ccc(c34)cccc4;8.1700001;THROMBIN LIGHT CHAIN;9MX
+1w7x;c1ccccc1[C@@H](C(=O)[O-])NC(=O)[C@H](Nc2ccc(cc2)C(=[NH2+])N)c3cc(OC)c(cc3)OCc4ccccc4;8.3999996;BLOOD COAGULATION FACTOR VIIA;413
+3utu;c1cc(C#N)ccc1CNC(=O)C[C@H](NS(=O)(=O)c2ccc(OC)c(Cl)c2)C(=O)N3[C@@H](CCC3)C(=O)NCc4ccc(C(=[NH2+])N)cc4;10.92;Thrombin light chain;1TS
+2uwp;Clc1ccc(s1)CCS(=O)(=O)N[C@H]2CCN(C2=O)[C@@H](C)C(=O)N3CCOCC3;6.8099999;COAGULATION FACTOR X;894
+2uwo;Clc1ccc(s1)/C(C)=C/S(=O)(=O)N[C@H]2CCN(C2=O)[C@@H](C)C(=O)N3CCOCC3;8.6999998;COAGULATION FACTOR X;701
+2uwl;Clc1ccc(s1)/C=C/S(=O)(=O)N[C@H]2CCN(C2=O)[C@@H](C)C(=O)N3CCOCC3;8.3999996;COAGULATION FACTOR X;895
+1f0s;c1ccnc(c12)cc(s2)S(=O)(=O)N[C@@H](CC3)C(=O)N3Cc([nH]4)cc(c45)ccnc5;7.7399998;COAGULATION FACTOR XA;PR2
+1f0r;c1cnc(N)c(c12)cc(cc2)CN3C(=O)[C@H](CC3)NS(=O)(=O)c(s4)cc(c45)nccc5;7.6599998;COAGULATION FACTOR XA;815
+3p17;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCc3cnccc3;4.48;thrombin light chain;99P
+1lhd;[NH3+]CCCC[C@@H](B(O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)C)Cc2ccccc2;9.6199999;ALPHA-THROMBIN;DI2
+4x6m;[nH]1nc(N)c(c12)ccc(c2)-c(n3)c(Cl)[nH]c3[C@H](Cc4ccccc4)NC(=O)NCc(c5)c(C[NH3+])ccc5Cl;8.2399998;Coagulation factor XI, light chain;3Y3
+2jh5;Clc1ccc(s1)/C=C/S(=O)(=O)N[C@H]2CCN(C2=O)[C@@H](C)C(=O)N3CCOCC3;6.4400001;THROMBIN LIGHT CHAIN;895
+2jh6;Clc1ccc(s1)CCS(=O)(=O)N[C@H]2CCN(C2=O)[C@@H](C)C(=O)N3CCOCC3;7.77;THROMBIN LIGHT CHAIN;894
+1ghy;c1cc(C(N)=[NH2+])cc(c12)[nH]c(n2)-c3ncccc3O;8.1000004;THROMBIN;121
+1ghv;c1cc(C(N)=[NH2+])cc(c12)nc([nH]2)-c3ccc[nH]c3=O;4.3499999;THROMBIN;120
+1ghw;c1cc(C(=[NH2+])N)cc(c12)nc([nH]2)-c3ccccc3O;4.1999998;THROMBIN;BMZ
+1lpg;c1ccccc1COc(cc2)cc(c23)cc(n3Cc4cc(C(=[NH2+])N)ccc4)C(=O)NCc5ccc(cc5)[N+](C)(C)C;7.0900002;Blood coagulation factor Xa;IMA
+1lpk;[NH2+]=C(N)c(c1)cccc1Cn2c(cc(c23)cccc3)C(=O)OCc4cccc(c4)C(=[NH2+])N;7.5500002;Blood coagulation factor Xa;CBB
+4na9;O=C([O-])c1ccccc1-c(cc(c2)N)cc2[C@@H](Nc(c34)ccc(c4)C(=[NH2+])N)C[C@@H]3c5ccccc5;7.3899999;Coagulation factor VII heavy chain;1T7
+1lpz;[NH2+]=C(N)c(c1)cccc1Cn2c(cc(c23)c(C)ccc3)C(=O)NCc4cc(Cl)cc(Cl)c4;7.5999999;Blood coagulation factor Xa;CMB
+3lc3;[NH2+]=C(N)c(c1)sc(c12)ccc(c2)-c3ccc(OC)c(c3)OC;5.23;Coagulation factor IX;IYX
+3lc5;[NH2+]=C(N)c(c1)sc(c12)cccc2O[C@H](c3ccccc3)c4onc(n4)-c5ccccc5;6.5700002;Coagulation factor IX;IZX
+3qx5;c1ccccc1C[C@@H]([NH3+])C(=O)N2[C@@H](CCC2)C(=O)NCC3=CC(Cl)C=CN3C;4.1999998;Thrombin light chain;02P
+4zae;c1c(C)c(C)cc(c12)nc([nH]2)[C@H](c3ccccc3)CNC(=O)c4c(Cl)cc(cc4Cl)-n5cnnc5;8.4399996;Coagulation factor IX;4M1
+4cr9;n1c(N)cc(C)c(c12)cc(N)cc2;4.0999999;COAGULATION FACTOR XI;OTW
+4cr5;c1cc(Cl)cc(c12)ccc(=O)[nH]2;4.1500001;COAGULATION FACTOR XIA;0TU
+4cra;O=c([nH]1)cc(O)c(c12)cc(cc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)NCc(ccc4)c(c45)ccc(n5)N;7.2199998;COAGULATION FACTOR XI;XJ8
+4crc;n1n[nH]nc1-c(cc2)ccc2NC(=O)[C@H](Cc3ccccc3)NC(=O)/C=C/c4cc(Cl)ccc4-n5cnnn5;8.7200003;COAGULATION FACTOR XI;OTM
+4crb;O=c([nH]1)cc(O)c(c12)cc(cc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)NCCc(c4)c(ccc4Cl)-n5cnnn5;7.5700002;COAGULATION FACTOR XI;7P0
+4crf;O=c([nH]1)cc(O)c(c12)cc(cc2)C(=O)N[C@@H](Cc3ccccc3)C(=O)NCc4cc(=O)[nH]c(c45)ccc(Cl)c5;9.3000002;COAGULATION FACTOR XI;R9B
+1nzq;[NH2+]=C(N)c1n(C)cc(c1)CNC(=O)[C@@H]2C=CCN2C(=O)[C@H]([NH2+]CC(=O)[O-])CC3CCCCC3;7.96;Thrombin light chain;162
+1v3x;C1C[N@@H+](C)Cc(c12)sc(n2)C(=O)N3CCN(C[C@@H]3C(=O)N)S(=O)(=O)c(cc4)cc(c45)ccc(Cl)c5;7.6199999;Coagulation factor X, HEAVY CHAIN;D76
+3sw2;c1cc(Cl)cc(c12)ccc(c2)S(=O)(=O)N[C@H](C3=O)CCCN3CC(=O)N(C4)C[C@H]5C[C@@H]4Cn(c56)c(=O)ccc6;8.3299999;Coagulation factor X;FI1
+1doj;c1ccccc1C[C@@H]([NH2+]C)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H](CCCNC(=[NH2+])N)[C@H](O)c(n3)sc(c34)cc(C(=O)[O-])cc4;8.96;ALPHA-THROMBIN;1Z0
+1gj5;c1cc(C(N)=[NH2+])cc(c12)[nH]c(n2)-c3cccc(c3O)-c4ccccc4;4.96;THROMBIN;130
+4x8s;COc1cc(Br)ccc1O;1.89;Factor VIIa (Heavy Chain);3Z7
+4x8t;O=C1NCCc(c12)ccc(Cl)c2;2.05;Factor VIIa (Heavy Chain);3Z8
+4x8u;O=C([O-])c([nH]1)cc(c12)cc(Cl)cc2;2.46;Factor VIIa (Heavy Chain);3ZB
+4x8v;C1CNC(=O)c(c12)cc(cc2)N[C@H](c(cc3OC)ccc3OC)C(=O)N4CCC[C@@H]4c5cc(NC(=O)OC)ccc5S(=O)(=O)C(C)C;6.8899999;Factor VIIa (Heavy Chain);3Z9
+4ty7;n1[nH]c(N)c(c12)ccc(c2)-c3c(Cl)[nH]c(n3)[C@H](Cc4ccccc4)NC(=O)[C@H]5CC[C@@H](CC5)C[NH3+];9.5200005;Coagulation factor XI;39F
+4ty6;C1C[C@H](C[NH3+])CC[C@H]1C(=O)N[C@@H](Cc2ccccc2)c3nc(c[nH]3)-c4ccc(cc4)C(=O)N;7.52;Coagulation factor XI;39D
+2vvv;O=c1ccccn1-c(cc2F)ccc2NC(=O)Cn3cnc(n3)NC(=O)c4ccc(s4)Cl;8.2218485;ACTIVATED FACTOR XA HEAVY CHAIN;H21
+2vvu;O=c1ccccn1-c(cc2F)ccc2NC(=O)C[N@H+]3C[C@@H](CC3)NC(=O)c4ccc(s4)Cl;8.0969105;ACTIVATED FACTOR XA HEAVY CHAIN;H22
+4g8r;FC(F)(F)c1cccc(c1)OC(=O)NC[C@H](OC(=O)c2cc(O)c(O)c(O)c2)COC(=O)c3cc(O)c(O)c(O)c3;7.6599998;Plasminogen activator inhibitor-1;96P
+4g8o;FC(F)(F)c1cccc(c1)OC(=O)NC[C@H](OC(=O)c2cc(O)c(O)c(O)c2)COC(=O)c3cc(O)c(O)c(O)c3;7.6599998;Plasminogen activator inhibitor 1;96P
+2anm;[NH2+]=C(N)c1ccc(cn1)CNC(=O)[C@@H]2CCCN2C(=O)[C@H]([NH2+]CC(=O)[O-])CC3CCCCC3;8.7399998;thrombin;CDO
+2ank;C1CCCCC1C[C@@H]([NH2+]CC(=O)[O-])C(=O)NC2(CCCC2)C(=O)NCc3ccc(nc3)C(=[NH2+])N;7.3299999;Thrombin heavy chain;N12
+2c8w;COc1ccc(cc1)S(=O)(=O)NC[C@@H](O)[C@H](Cc2ccccc2)[NH2+]Cc3cc(Cl)ccc3-n4cnnn4;8.4300003;THROMBIN LIGHT CHAIN;C7M
+2c8x;COc1cc(C)c(c(C)c1C)S(=O)(=O)NC[C@@H](O)[C@H](Cc2ccccc2)[NH2+]Cc3cccc(Cl)c3;6.6599998;THROMBIN LIGHT CHAIN;C5M
+4z0k;c1nncn1-c(cc2)ccc2C(=O)N[C@@](C)(C3)CCc4nn(c5c34)c(C)ccc5O;6.3400002;Coagulation factor IX;4LN
+1zgv;Cc1ccc(Cl)cc1NC(N2)=NN(C2=3)C(=CC(N3)C)NCCCC;6;Thrombin;501
+1z6e;o1nc(N)c(c12)cc(cc2)-n3nc(C(F)(F)F)cc3C(=O)Nc4c(F)cc(cc4)-n5ccnc5C[NH+](C)C;9.7200003;Coagulation factor X;IK8
+1z6j;c1cnccc1NC(=O)c2c(ccc(c2)C(=[NH2+])N)CNC(=O)Cn3c(=O)c(NC(C)C)ncc3-c4cc(N)cc(c4)C(=O)N[C@H](C)CC;8.0299997;Coagulation factor VII;PY3
+2ra0;Nc1noc(c12)ccc(c2)-n(nc3C(=O)N)c(c34)c(F)c(cc4)-c(cc5)c(F)cc5-n(ccn6)c6C[NH+](C)C;7.7986031;Coagulation factor X;JNJ
+4yzu;c1nncn1-c(cc2)ccc2C(=O)NCCc(n3)[nH]c(c34)cc(C)c(c4)C;5.0500002;Coagulation factor IX;4K6
+1k22;C1CCCCC1[C@@H]([NH2+]CC(=O)[O-])C(=O)N2[C@@H](CC2)C(=O)NCc3ccc(cc3)C(N)=[NH2+];8.3999996;Prothrombin;MEL
+1k21;NC(N)=[NH+]CCCNC(=O)[C@H](CCCC1)N1C(=O)[C@H]([NH2+]CC(=O)[O-])CC2CCCCC2;8.3800001;Prothrombin;IGN
+4ayv;C1CC[N+](=C(N)N)C[C@@H]1CNC(=O)C[C@@H](C(=O)N(CC(=O)[O-])Cc2ccccc2)NS(=O)(=O)c(c3)ccc(c34)cccc4;9.1700001;THROMBIN LIGHT CHAIN;9MQ
+1lhc;NC(N)=[NH+]CCC[C@@H](B(O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)C)Cc2ccccc2;10.4;ALPHA-THROMBIN;DP7
+1lhg;[NH3+]CCC[C@@H](B(O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)C)Cc2ccccc2;7.0999999;ALPHA-THROMBIN;DI5
+1lhf;[NH3+]CCCCC[C@@H](B(O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)C)Cc2ccccc2;8.0900002;ALPHA-THROMBIN;DI4
+1lhe;[NH2+]=C(N)CCCC[C@@H](B(O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](NC(=O)C)Cc2ccccc2;9.54;ALPHA-THROMBIN;DI3
+4x6n;Nc1n[nH]c(c12)cc(cc2)-c3nc([nH]c3Cl)[C@H](Cc4ccccc4)NC(=O)NCc5c(ccc(Cl)c5)-n6cnnn6;8.8199997;Coagulation factor XI, light chain;3Y5
+4x6o;n1nncn1-c(ccc(Cl)c2)c2CCC(=O)N[C@@H](Cc3ccccc3)c4nc(c(Cl)[nH]4)-c5ccc(cc5)NC(=O)OC;8.7200003;Coagulation factor XI, light chain;3Y4
+4x6p;Nc1n[nH]c(c12)cc(cc2)-c3nc([nH]c3)[C@H](Cc4ccccc4)NC(=O)\C=C\c(c5)c(ccc5Cl)-n6cnnn6;8.3000002;Coagulation factor XI, light chain;3YU
+2p16;COc1ccc(cc1)-n(nc2C(=O)N)c(c23)C(=O)N(CC3)c4ccc(cc4)N(C5=O)CCCC5;10.1;Coagulation factor X (EC 3.4.21.6) (Stuart factor) (Stuart-Prower factor);GG2
+2c4f;[NH2+]=C(N)c1cccc(c1)Oc2c(F)c(N(C(C)C)C(C)C)c(F)c(n2)Oc3c(C(=O)[O-])cc(cc3)C(=O)NCC(C)C;7.6999998;COAGULATION FACTOR VII PRECURSOR;GIL
+1ypg;[NH2+]=C(N)c1ccc(cc1)[C@H]2[C@H]([C@@H]3[C@@H]([N@@H+]24)CCC4)C(=O)N([C@@H]3C5CC5)Cc(c6)ccc(c67)OCO7;8;Thrombin light chain;UIR
+1ype;[NH2+]=C(N)c1ccc(cc1)[C@H]2[C@H]([C@@H]3[C@@H]([N@@H+]24)CCC4)C(=O)N([C@@H]3CC)Cc(cc5)cc(c56)OCO6;8.1000004;Thrombin light chain;UIP
+4bam;C1CCCCC1[C@@H]([NH2+]CC(=O)N(C)C)C(=O)N2[C@@H](CC2)C(=O)NCc3ccc(cc3)C(=[NH2+])N;8.9399996;THROMBIN LIGHT CHAIN;MM9

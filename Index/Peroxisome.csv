@@ -1,0 +1,16 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+3g8i;c1ccccc1-c(oc2C)nc2CCOc3ccc(c(c34)scc4)C[C@@H](C(=O)[O-])OC;7.4202166;Peroxisome proliferator-activated receptor alpha;RO7
+3tkm;O=C([O-])COc1ccc(cc1C)SCc2sc(nc2C)-c(cc3F)ccc3C(F)(F)F;9;Peroxisome proliferator-activated receptor delta;GW0
+4y29;O1COc(c2)c1cc(c23)ccc4c3N(C)Cc5c4ccc(OC)c5OC;6.25;Peroxisome proliferator-activated receptor gamma;CTI
+2i4j;CC[C@@](C(=O)[O-])(C)Oc1ccc(cc1)CCN(CCCCCCC)c(o2)nc(c23)cccc3;6.1599998;Peroxisome proliferator-activated receptor gamma;DRJ
+1kkq;FC(F)(F)c(cc1)ccc1C(=O)/C=C(C)\N[C@H](CNC(=O)CC)Cc2ccc(cc2)OCCc(n3)c(C)oc3-c4ccccc4;6.6199999;PEROXISOME PROLIFERATOR ACTIVATED RECEPTOR;471
+4jaz;Oc1cc(O)cc(c1)/C=C/c2ccc(O)cc2;5.04;Peroxisome proliferator-activated receptor gamma;STL
+3dy6;c1cccc(c12)CCN(C2)S(=O)(=O)c3cc(ccc3)C(=O)Nc4c(C(=O)[O-])cccc4;6.9000001;Peroxisome proliferator-activated receptor delta;DY6
+3ty0;c1cc(OC)cc(c12)onc2-n3c(=O)n(c(c34)cccc4)Cc(c5)cccc5[C@]6(C)C(=O)NC(=O)O6;7.0799999;Peroxisome proliferator-activated receptor gamma;082
+3osi;Oc1c(Cl)cc(cc1Cl)C(C)(C)c(cc2Cl)cc(Cl)c2O;5.2199998;Peroxisome proliferator-activated receptor gamma;XDH
+4xuh;Fc(c1)ccc(c12)C(\C(C)=C2CC(=O)[O-])=C\c3ccc(SC)cc3;5.73;Peroxisome proliferator-activated receptor gamma;SFI
+3fur;Clc1cc(Cl)ccc1S(=O)(=O)Nc2cc(Cl)c(c(Cl)c2)Oc(c3)cnc(c34)cccc4;8;Peroxisome proliferator-activated receptor gamma;Z12
+3osw;Oc1c(Br)cc(cc1Br)C(C)(C)c(cc2Br)cc(Br)c2O;6.1500001;Peroxisome proliferator-activated receptor gamma;XDI
+3kdt;c1cc(Cl)ccc1-c(o2)nc(c2C)COc3cccc(c3)CN(CC(=O)[O-])C(=O)OC;6.5900002;Peroxisome proliferator-activated receptor alpha;7HA
+3kdu;Cc1ccc(cc1)OC(=O)N(CC(=O)[O-])Cc2cccc(c2)OCc3c(C)oc(n3)-c4ccc(Cl)cc4;6.46;Peroxisome proliferator-activated receptor alpha;NKS
+5f9b;CC(C)(C1)CC[C@](C(=O)[O-])([C@@H](C2)O)[C@@H]1C([C@@]23C)=CC[C@H]4[C@@]3(C)CC[C@@H]5[C@]4(C)CC[C@H](O)[C@@]5(C)CO;4.2600002;Peroxisome proliferator-activated receptor gamma;5VN

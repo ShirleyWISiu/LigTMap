@@ -1,0 +1,99 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+2qwb;O=C([O-])[C@@]1(O)C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;2.74;NEURAMINIDASE;SIA
+2qwc;O=C([O-])C1=C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;3.55;NEURAMINIDASE;DAN
+2qwf;O=C([O-])C1=C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)C(=O)N(C)CCC;5.6700001;NEURAMINIDASE;G20
+2qwg;O=C([O-])C1=C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](O1)C(=O)N(CC)CC;3.6400001;NEURAMINIDASE;G28
+2qwd;O=C([O-])C1=C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;4.8499999;NEURAMINIDASE;4AM
+2qwe;O=C([O-])C1=C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;7.48;NEURAMINIDASE;GNA
+5efc;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;4.8499999;Polymerase basic protein 2;GTP
+4m3m;O=C([O-])C1=C[C@H]([NH3+])[C@H](NC(=O)C)[C@@H](C1)OC(CC)CC;9.0500002;Neuraminidase;22N
+1a4g;O=C([O-])C1=C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;8.3999996;NEURAMINIDASE;ZMR
+1a4q;O=C([O-])C1=C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](O1)C(=O)N(CCC)CCc2ccccc2;5.4400001;NEURAMINIDASE;DPC
+4hzw;O=C([O-])C1=C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)CO;8.8800001;Neuraminidase;LNV
+4hzz;O=C([O-])c1cc(N)c(NC(=O)C)c(c1)OC(CC)CC;8.0799999;Neuraminidase;G39
+4hzx;O=C([O-])[C@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;9.3000002;Neuraminidase;G39
+3k39;NC(N)=[NH+][C@H]1[C@@H]([C@H](O)[C@@H](C(=O)[O-])C1)[C@H](C(CC)CC)NC(=O)C;8.0799999;Neuraminidase;BCZ
+3k37;NC(N)=[NH+][C@H]1[C@@H]([C@H](O)[C@@H](C(=O)[O-])C1)[C@H](C(CC)CC)NC(=O)C;8.9200001;Neuraminidase;BCZ
+3k3a;O=C([O-])C1=C[C@H]([C@@H]([C@H](C1)[NH3+])NC(=O)C)OC(CC)CC;7.0799999;Neuraminidase;G39
+4ks5;CC(C)(O)c1cn(nn1)[C@@H]2[C@@H](NC(=O)C)[C@@H](CC(=C2)C(=O)[O-])OC(CC)CC;6.8899999;Neuraminidase;1SO
+4ks3;CCC(CC)O[C@H]1[C@H](NC(=O)C)[C@H](C=C(C1)C(=O)[O-])n2cc(nn2)CCCO;6.3699999;Neuraminidase;1SL
+5cgv;Clc1ccc(cc1)C[C@]2(C(=O)/C=C(\O)C(=O)[O-])CC[N@@H+](CC2)Cc3ccccc3;6.4699998;Polymerase acidic protein;0N8
+3ckz;O=C([O-])C1=C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;8.7212467;Neuraminidase;ZMR
+4qn7;O=C([O-])[C@@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;9.0799999;Neuraminidase;G39
+4b7j;O=C([O-])[C@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;7.9499998;NEURAMINIDASE;G39
+1bji;O=C([O-])C1=C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](O1)C(=O)N(CCC)CCc2ccccc2;8.6999998;NEURAMINIDASE;DPC
+4q46;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;3.77;Polymerase basic protein 2;GDP
+4bgx;O[C@H]1[C@H](O)[C@@H](O)[C@@H](O)[C@H](O1)CO[C@]2(C(=O)[O-])C[C@H](O)[C@@H](NC(=O)C)[C@@H](O2)[C@H](O)[C@H](O)CO;1.77;HEMAGGLUTININ;SIA
+3ti8;O=C([O-])[C@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)CO;9.0500002;Neuraminidase;LNV
+3ti6;O=C([O-])[C@@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;9.2700005;Neuraminidase;G39
+3ti4;O=C([O-])[C@@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)COC=O;6.02;Neuraminidase;LVO
+3ti5;O=C([O-])[C@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;8.9499998;Neuraminidase;ZMR
+3ti3;O=C([O-])[C@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)CO;8.7399998;Neuraminidase;LNV
+3tib;O=C([O-])[C@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)COC=O;6.8899999;Neuraminidase;LVO
+3tic;O=C([O-])[C@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;8.8699999;Neuraminidase;ZMR
+3tia;O=C([O-])[C@@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)CO;8.5100002;Neuraminidase;LNV
+5i13;Clc1ccc(cc1)/N=N/Cc2ccc(O)c(O)c2O;5.0799999;Polymerase acidic protein;4P9
+4or6;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.3099999;Polymerase basic protein 2;GDP
+4mwx;O=C([O-])[C@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;7.1199999;Neuraminidase;ZMR
+4mwq;O=C([O-])[C@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;9.1000004;Neuraminidase;G39
+4mwr;O=C([O-])[C@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;9.3900003;Neuraminidase;ZMR
+4mwu;O=C([O-])[C@@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)CO;8.4899998;Neuraminidase;LNV
+4mwv;NC(N)=[NH+][C@H]1[C@@H]([C@H](O)[C@@H](C(=O)[O-])C1)[C@H](C(CC)CC)NC(=O)C;9.3999996;Neuraminidase;BCZ
+4mww;O=C([O-])[C@@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;3.6700001;Neuraminidase;G39
+4avg;Clc1ccc(cc1)C[C@]2(C(=O)CC(=O)C(=O)[O-])CC[N@@H+](CC2)CC3CCCCC3;7.2199998;POLYMERASE PA;SL6
+4ks4;CCC(CC)O[C@H]1[C@H](NC(=O)C)[C@H](C=C(C1)C(=O)[O-])n2cc(nn2)[C@H](O)CC;7.1399999;Neuraminidase;1SN
+4ks2;CCC(CC)O[C@@H]1C=C(C(=O)[O-])C[C@H]([NH+]=C(N)N)[C@H]1NC(=O)C;9.3400002;Neuraminidase;1SJ
+2ly0;c1ccsc1-c(c2)onc2C[NH2+]C34C[C@@H]5C[C@H](C3)C[C@H](C4)C5;4.8000002;Membrane ion channel M2;A2Y
+4awm;Oc1c(O)c(O)cc(c1)[C@@H](O2)[C@@H](Cc(c23)c(O)cc(c3)O)OC(=O)c4cc(O)c(O)c(c4)O;5.7199998;POLYMERASE PA;KDH
+4mwy;O=C([O-])[C@@H]1C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](OC)[C@H](O)CO;7.0500002;Neuraminidase;LNV
+4p1u;n1cc(F)cc(c12)c(c[nH]2)-c3ncc(F)c(n3)N[C@H]([C@H]([C@@H]45)C(=O)[O-])[C@H](CC4)CC5;8.5200005;Polymerase basic protein 2;21G
+1xog;CC(=O)N[C@@H](CC(C)C)[C@H](O[C@H](C1)C(=O)[O-])[C@@H]1C(=O)OC;6.3899999;Neuraminidase;ABW
+1xoe;CC(=O)N[C@@H](CC(C)C)[C@H]([NH2+][C@H](C1)C(=O)[O-])[C@@H]1C(=O)OC;7.3899999;Neuraminidase;ABX
+4w9s;Oc1c[nH]c(nc1=O)-c2ccc(cc2)-c3nnn[nH]3;6.8200002;Polymerase acidic protein;3K1
+4e5j;O=C(C)Nc1cccc(c1)-c2nc(=O)c(O)c([nH]2)C(=O)[O-];4.73;Polymerase protein PA;581
+4e5h;Clc1ccc(cc1)C[C@@]2(C(=O)CC(=O)C(=O)[O-])CC[NH+](CC2)Cc3ccccc3;6.3699999;Polymerase protein PA;0N8
+4e5i;O=C([O-])c1c(O)c(=O)nc([nH]1)-c2ncn(C)c2;5.3000002;Polymerase protein PA;0N9
+4e5f;O=C(C1)[N+](=O)C(=O)c(c12)cccc2;4.8200002;Polymerase protein PA;0N7
+4e5g;O=C([O-])C(\O)=C\C(=O)c1ccccc1;4.6700001;Polymerase protein PA;XI7
+4ncm;n1cc(Cl)cc(c12)c(c[nH]2)-c(n3)ncc(F)c3N[C@@H](C)C(=O)N(C)C;7;Polymerase basic protein 2;704
+4yyl;Fc1ccc(cc1)OCC(=O)c2ccc(O)c(O)c2O;5.0100002;Polymerase acidic protein;4KN
+3cl2;O=C([O-])C1=C[C@H]([C@@H]([C@H](C1)[NH3+])NC(=O)C)OC(CC)CC;7.5867;Neuraminidase;G39
+3cl0;O=C([O-])C1=C[C@H]([C@@H]([C@H](C1)[NH3+])NC(=O)C)OC(CC)CC;7.0716038;Neuraminidase;G39
+4d8s;CCC(CC)O[C@H]1[C@H](NC(=O)C)[C@@H](O)C=C(O1)C(=O)[O-];6.4899998;Neuraminidase;0HX
+1b9s;CC(=O)Nc1ccc(C(=O)[O-])cc1NC(=O)C(CC)CC;3.1800001;PROTEIN (NEURAMINIDASE);FDI
+1b9v;C1CC(=O)N(C1(CO)CO)c2ccc(C(=O)[O-])cc2NC(CC)CC;3.6500001;PROTEIN (NEURAMINIDASE);RA2
+1b9t;C1CC(=O)N(C1(CO)CO)c2ccc(C(=O)[O-])cc2[NH+]=C(N)N;5.0999999;PROTEIN (NEURAMINIDASE);RAI
+5ega;c1c(O)c(O)c(O)cc1C(=O)N/N=C/c(cc2O)cc(O)c2O;5.0599999;Polymerase acidic protein;GK0
+4mk5;Oc1ccc(nc1O)-c2cc(OC)ccc2;6.3499999;POLYMERASE PA;28A
+4mk1;Oc1cc(Br)cnc1O;4.8000002;POLYMERASE PA;27Y
+4mk2;O=c1c(O)cc(c[nH]1)-c2cccc(C#N)c2;6.1399999;POLYMERASE PA;28B
+4nrk;O=C([O-])[C@H]1C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;7.6199999;Hemagglutinin HA1 chain;SIA
+4nrl;O=C([O-])[C@H]1C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;8.6199999;Hemagglutinin HA1 chain;SIA
+1f8c;O=C([O-])C1=C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;7.4000001;NEURAMINIDASE;4AM
+1f8b;O=C([O-])C1=C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;5.4000001;NEURAMINIDASE;DAN
+1f8e;O=C([O-])C1=C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)C[NH3+];4.8200002;NEURAMINIDASE;49A
+1f8d;O=C([O-])C1=C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)C[NH3+];3.4000001;NEURAMINIDASE;9AM
+5efa;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)[n+](cn2C)c(c23)[nH]c(=[NH2+])[nH]c3=O;4.8299999;Polymerase basic protein 2;MGT
+1nnb;O=C([O-])C1=C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;5;NEURAMINIDASE;DAN
+5fdd;O=Cc1cc(cc(N(=O)=O)c1O)Cc2c(Cl)cccc2;4.1999998;Polymerase acidic protein,Polymerase acidic protein;4P8
+5fdg;Clc1ccc(cc1)C[C@@]2([C@H](O)CC(=O)C(=O)[O-])CC[N@H+](CC2)Cc3ccccc3;6.3699999;Polymerase acidic protein;0N8
+4awf;O=C([O-])C(=O)CC(=O)c1ccccc1;5.5700002;POLYMERASE PA;XI7
+4awg;Clc1ccc(cc1)C[C@]2(C(=O)/C=C(\O)C(=O)[O-])C[N@H+](CCC2)Cc3ccccc3;5.96;POLYMERASE PA;CI3
+4awk;c1ccccc1CS(=O)(=O)N(C2)CCC[C@]2(C(=O)CC(=O)C(=O)[O-])Cc3ccc(Cl)cc3;6.8899999;POLYMERASE PA;CI1
+1hge;CO[C@]1(C(=O)[O-])C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;2.27;HEMAGGLUTININ, (G135R), HA1 CHAIN;MNA
+1hgj;CO[C@]1(C(=O)[O-])C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)C[NH3+];1.66;HEMAGGLUTININ, CHAIN HA1;AMN
+1hgi;CO[C@]1(C(=O)[O-])C[C@H](OC(=O)C)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;2.6800001;HEMAGGLUTININ, CHAIN HA1;ANA
+4cpz;O=C([O-])[C@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;7.6799998;NEURAMINIDASE;ZMR
+4cpy;O=C([O-])C1=C[C@H]([C@@H]([C@H](C1)[NH3+])NC(=O)C)OC(CC)CC;6.3099999;NEURAMINIDASE;G39
+1vcj;C1CC(=O)N([C@@]1(CO)C[NH3+])c2ccc(C(=O)[O-])cc2NC(CC)CC;4.5900002;NEURAMINIDASE;IBA
+4dgr;C1CC(=O)N(C1(CO)CO)c(cc2)c(cc2C(=O)[O-])C[NH+](CCC)CCC;5.04;Neuraminidase;3LV
+1inf;O=C([O-])c1cc([NH+]=C(N)N)c(cc1)NC(=O)C;5;INFLUENZA VIRUS B/LEE/40 NEURAMINIDASE;ST4
+1ing;O=C([O-])c1cc(NC(=O)CO)c(cc1)NC(=O)C;2;INFLUENZA A SUBTYPE N2 NEURAMINIDASE;ST5
+4ks1;CCC(CC)O[C@@H]1CC(C(=O)[O-])=C[C@H]([NH3+])[C@H]1NC(=O)C;8.8199997;Neuraminidase;2H8
+5jyy;O=C([O-])C(O1)=C[C@H]([NH+]=C(N)N)[C@@H](NC(=O)C)[C@@H]1[C@@H]([C@H](O)CO)OC(=O)NCCOC;8.1000004;Neuraminidase;6PY
+4b7r;O=C([O-])[C@@H]1C[C@H]([NH3+])[C@@H](NC(=O)C)[C@@H](C1)OC(CC)CC;9.6400003;NEURAMINIDASE;G39
+1inh;O=C([O-])c1cc(NC(=O)C[NH3+])c(cc1)NC(=O)C;2.3;INFLUENZA A SUBTYPE N2 NEURAMINIDASE;ST6
+4mx0;NC(N)=[NH+][C@H]1[C@@H]([C@H](O)[C@@H](C(=O)[O-])C1)[C@H](C(CC)CC)NC(=O)C;6.73;Neuraminidase;BCZ
+4b7n;O=C([O-])C1=C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;8.7799997;NEURAMINIDASE;ZMR
+4b7q;O=C([O-])[C@@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;9.7399998;NEURAMINIDASE;ZMR
+4or4;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N(C[N+]2=C)c(c23)[nH]c(=[NH2+])[nH]c3=O;4.5700002;Polymerase basic protein 2;M7G

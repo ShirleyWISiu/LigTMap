@@ -1,0 +1,524 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+2bbb;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@@]3(Cc4ccccc4)C(=O)C(=CN3)[C@H](C[C@@H]5CC(=O)N)c(c56)cccc6;8.6199999;Protease;HH1
+1rev;[nH]1c(=S)n(c2c13)C[C@H](C)[N@@H+](CC=C(C)C)Cc2cc(Cl)c3;7.48;HIV-1 REVERSE TRANSCRIPTASE;TB9
+3zsz;CC[C@H](C)NC(=O)c1ccccc1C[N@@H+](C)Cc(cc2)c(C(=O)[O-])c(c23)OCO3;2.7;INTEGRASE;OM2
+3zsx;c1ccccc1CNC(=O)c2ccccc2C[N@@H+](CC=C)Cc(cc3)c(C(=O)[O-])c(c34)OCO4;3.28;INTEGRASE;N44
+3zsy;C1CCCCC1CNC(=O)c2ccccc2C[N@@H+](C)Cc(cc3)c(C(=O)[O-])c(c34)OCO4;3.23;INTEGRASE;OM3
+2r5p;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;8.4814863;Protease;MK1
+3s54;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;9.6400003;Protease;017
+3s56;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;9.6199999;Protease;ROC
+3s53;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;9.6400003;Protease;017
+1hvs;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;10.3;HIV-1 PROTEASE;A77
+1hvr;c1cccc(c12)cc(cc2)CN(C3=O)[C@H](Cc4ccccc4)[C@H](O)[C@@H](O)[C@@H](Cc5ccccc5)N3Cc(c6)ccc(c67)cccc7;9.5100002;HIV-1 PROTEASE;XK2
+1hvh;c1cc(CO)ccc1CN2C(=[NH+]C#N)N(Cc3ccc(cc3)CO)[C@H](Cc4ccccc4)[C@H](O)[C@@H](O)[C@H]2Cc5ccccc5;7.96;HIV-1 PROTEASE;Q82
+1hvk;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;10.96;HIV-1 PROTEASE;A79
+1hvj;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;11.4;HIV-1 PROTEASE;A78
+1hvl;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;9.9499998;HIV-1 PROTEASE;A76
+3iaw;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)[C@H](O)[NH2+][C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;5.8000002;[Gly51;2NC
+3ckt;NC(=O)c1ccc(cc1)S(=O)(=O)N(CC=C(C)C)[C@H]2C[NH2+]C[C@@H]2N(CC=C(C)C)S(=O)(=O)c(cc3)ccc3C(=O)N;6.3200002;Protease;YDP
+1zp8;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)n3cc(nn3)COC(=O)N[C@@H]([C@H](O)C4)c(c45)cccc5;8.7700005;Pol polyprotein;AB2
+1k6v;O1COc(c12)cc(cc2)C[N@H+]3C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC3)C[C@@H](O)C[C@@H]([C@H](C)c4ccccc4)C(=O)N[C@H]([C@H](O)C5)c(c56)cccc6;6.9200001;POL polyprotein;XN2
+1k6t;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H]([C@H](C)c3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;7.6199999;POL polyprotein;XN1
+1k6p;O1COc(c12)cc(cc2)C[N@H+]3C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC3)C[C@@H](O)C[C@@H](Cc4ccccc4)C(=O)N[C@H]([C@H](O)C5)c(c56)cccc6;7.3600001;POL polyprotein;XN3
+1k6c;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;7.48;POL polyprotein;MK1
+1zpa;CC(C)(C)OC(=O)NCc(cc1)ccc1C(=O)NCc2cn(nn2)[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(cc4)OC;8.3999996;Pol polyprotein;A83
+3tam;n1cccc(c12)c([nH]n2)CN(CC=C3C)C(=O)C3Oc4cc(C#N)cc(Cl)c4;8.4300003;Reverse transcriptase/ribonuclease H;M06
+2f80;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.1800003;POL POLYPROTEIN;017
+2f81;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.52;POL POLYPROTEIN;017
+4o0j;c1c(C)c(C)ccc1-c2nc(C)c([C@@H](C(=O)[O-])OC(C)(C)C)c(c2C)-c3ccc(Cl)cc3;4.8899999;Integrase;LF8
+1sdt;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;9.2700005;protease RETROPEPSIN;MK1
+1sdu;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;10.07;protease RETROPEPSIN;MK1
+1sdv;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;8.7399998;protease RETROPEPSIN;MK1
+2hny;C1CC1N2c(nccc3)c3C(=O)Nc(c24)c(C)ccn4;5.9299998;Reverse transcriptase/ribonuclease H;NVP
+2avv;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;9.2600002;Pol polyprotein;MK1
+2avq;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;4.3899999;Pol polyprotein;2NC
+2avs;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;7.5700002;Pol polyprotein;MK1
+2avm;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;5.6999998;HIV-1 protease;2NC
+2avo;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;8.8500004;Pol polyprotein;MK1
+2wkz;c1cccc(c12)[C@@H]([C@H](O)C2)NC(=O)[C@](O)(Cc3ccccc3)CC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc4ccc(cc4)-c5ncccc5;8.7695513;PROTEASE;5AH
+3ao1;c1cc(O)cc(c12)OCO2;2.26;POL polyprotein;BZX
+2r5q;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;8.5686359;Protease;1UN
+1hxw;s1cncc1COC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4csc(n4)C(C)C;10.82;HIV-1 PROTEASE;RIT
+1hxb;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;9.9200001;HIV-1 PROTEASE;ROC
+4tsx;c1cccc(c12)c(c(c(n2)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c(cc3)cc(c34)CCCO4;4.9899998;Integrase;LF0
+2ien;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;9;Protease;017
+2uxz;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@](O)(Cc3ccccc3)CCC[N@H+](Cc4ccc(Br)cc4)NC(=O)[C@H](C(C)(C)C)NC(=O)OC;8.4814863;HIV-1 PROTEASE;HI1
+3mxd;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@@H](OC4=O)CN4c5ccccc5O;8.8299999;HIV-1 protease;K53
+3mxe;n1csc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@@H](OC4=O)CN4c5ccccc5C(F)(F)F;10.01;HIV-1 protease;K54
+3ovn;Cn1nc(cc1N)-c2sccc2;2.55;POL polyprotein;MPV
+2psv;CNC(=O)CCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC2CC2)S(=O)(=O)c3occc3;7.2399998;Protease;MUV
+2psu;c1ccc(OC)cc1S(=O)(=O)N(CC2CC2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)CCC(=O)NC;7.6199999;Protease;MUU
+3i0r;O=S(=O)(N)c1cc(Cl)c(cc1)NC(=O)CSC(=O)N2CCCc(c23)cc(C)cc3;8.5228786;Reverse transcriptase/ribonuclease H;RT3
+3i0s;Clc(c1)cc(Cl)c(c12)N(CCC2)C(=O)SCC(=O)Nc3c(Cl)cc(S(=O)(=O)N)cc3;9;Reverse transcriptase/ribonuclease H;RT7
+1hvi;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;10.92;HIV-1 PROTEASE;A77
+1bdq;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)c3[nH]ccn3;6.3400002;HIV-1 PROTEASE;IM1
+1bdr;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)c3[nH]ccn3;6.6799998;HIV-1 PROTEASE;IM1
+2q5k;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;11.3;Protease;AB1
+2q54;c1ccccc1C[C@H](NC(=O)[C@H](C(C)C)NC(=O)C)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H]3CN(C(O3)=O)c4cccc(c4)C(=O)C;9.0100002;Protease;MU1
+2q55;c1ccccc1N(C2)C(=O)O[C@@H]2C(=O)N[C@@H](Cc3ccccc3)[C@@H](O)C[C@H](Cc4ccccc4)NC(=O)[C@H](C(C)C)N5CCCNC5=O;8.6899996;Protease;MU0
+5kgw;c1cccc(c12)n(C)c([C@@H](C(=O)[O-])OC(C)(C)C)c2-c(cc3)cc(c34)CCCO4;4.79;Integrase;7SK
+5c42;N#Cc(c1)cn(c12)cccc2Oc3ccccc3OCCn4c(=O)[nH]c(=O)cc4;8.7200003;HIV-1 Reverse Transcriptase, p66 subunit;29T
+4o4g;N#Cc(cc1)ccc1Nc(ncn2)nc2Nc3c(C)cc(C)cc3C;8.0500002;HIV-1 reverse transcriptase, p66 subunit;2RT
+1sh9;s1cncc1COC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4csc(n4)C(C)C;6.0300002;POL polyprotein;RIT
+3lpu;c1cc(Cl)cc(c12)c(c(c(n2)C)[C@@H](C(=O)[O-])CCC)-c3ccccc3;5.8600001;Integrase;976
+3lpt;Clc(c1)ccc(c12)[nH]c(=O)c(CC(=O)[O-])c2-c3ccccc3;4.9099998;Integrase;723
+4djo;COc1ccc(cc1)S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)OCCNC(=O)C(Cl)Cl;11.52;Pol polyprotein;MK5
+4djr;O=C1N[C@@H](CC1)COC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(C[C@@H](C)CC)S(=O)(=O)c(c3)ccc(c34)ncs4;11.52;Pol polyprotein;0KJ
+4djp;COC(=O)[C@@H](C)COC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(C[C@@H](C)CC)S(=O)(=O)c2ccc(cc2)OC;10.55;Pol polyprotein;M73
+4djq;c1cc(OC)ccc1S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)OCCN3CCNC3=O;10.32;Pol polyprotein;M86
+4o44;C1COCC[NH+]1CCCOc(n2)nc(Nc3ccc(C#N)cc3)nc2Nc4c(C)cc(C)cc4C;7.8499999;HIV-1 reverse transcriptase, p66 subunit;2RS
+3lp1;C1CCCC1c(c(n2=O)O)c(O)c(c23)cccn3;6.9200001;Reverse transcriptase/ribonuclease H;LP8
+3lp0;c1ccnc(c12)N(O)C(O)=C(C2O)C(=O)OCC;6.96;Reverse transcriptase/ribonuclease H;LP7
+3i6o;O1CC/C=C/CCCCN(S(=O)(=O)c(c12)ccc(c2)OC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;10.346787;Protease;GR6
+1g35;c1cc(CO)ccc1CN(S2(=O)=O)[C@H](COc3ccccc3)[C@H](O)[C@@H](O)[C@@H](COc4ccccc4)N2Cc5ccc(cc5)C(=O)OC;8.1400003;HIV-1 PROTEASE;AHF
+2hb3;C1CO[C@@H]([C@@H]12)C[C@@H](C2)OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(cc4)CO;11.35;Protease;GRL
+4u7q;s1cncc1COC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)OCc4cc(=O)oc(c45)cc(cc5)N(CC)CC;9.7399998;V-1 protease;3EM
+4u7v;s1cncc1COC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@@H](NC(=O)[C@@H]([NH3+])C(C)C)Cc3ccccc3;5.4899998;V-1 protease;3EN
+2r38;NC(=O)c1ccc(cc1)S(=O)(=O)N(Cc2ccccc2)[C@H]3C[NH2+]C[C@@H]3N(S(=O)(=O)c(cc4)ccc4C(=O)N)Cc5ccccc5;7.443697;Protease;G4G
+5f4p;C[NH2+]Cc(c1)ccc(c12)[C@@H]([C@H](C2)CNC(=[NH2+])N)NC(=O)C(=O)Nc3cc(F)c(Cl)cc3;7.3299999;ENVELOPE GLYCOPROTEIN GP120 of HIV-1 clade C;5VG
+5f4r;Clc1ccc(cc1F)NC(=O)C(=O)N[C@@H]2[C@@H](C[NH+]=C(N)N)Cc(c23)cc(cc3)C[N+](C)=C(N)N;7.02;ENVELOPE GLYCOPROTEIN GP120 of HIV-1 clade C;5VF
+5f4u;Clc1ccc(cc1F)NC(=O)C(=O)N[C@@H]2[C@@H](C[NH+]=C(N)N)Cc(c23)ccc(c3)C[N+](C)=C(N)N;7.02;ENVELOPE GLYCOPROTEIN GP120 of HIV-1 clade C;5VH
+5f4l;C[NH2+]Cc(cc1)cc(c12)[C@@H]([C@H](C2)CNC(=[NH2+])N)NC(=O)C(=O)Nc3cc(F)c(Cl)cc3;7.6199999;ENVELOPE GLYCOPROTEIN GP120 of HIV-1 clade C;5VE
+2won;CCc1nn(CCO)c(CC)c1Oc2cc(C#N)cc(c2)C#N;6.1999998;HIV-1 REVERSE TRANSCRIPTASE;ZZE
+2r3t;NC(=O)c1ccc(cc1)S(=O)(=O)N(Cc2ccccc2)[C@H]3C[NH2+]C[C@@H]3N(S(=O)(=O)c(cc4)ccc4C(=O)N)Cc5ccccc5;5.8538718;Protease;G4G
+2r3w;c1ccccc1CN(S(=O)(=O)c(cc2)ccc2N)[C@H]3C[NH2+]C[C@@H]3N(Cc4ccccc4)S(=O)(=O)c5ccc(N)cc5;6.8927898;Protease;G3G
+4fe6;C\N=C(C)\[C@H]1C(=O)Nc(c12)ccc(c2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@H]4CO[C@H]([C@H]45)OCC5;10;HIV protease;0TQ
+2fdd;O1COc(c12)ccc(c2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]3CO[C@H]([C@H]34)OCC4)Cc5ccc(cc5)OCc6nc(C)sc6;8.3199997;Gag-Pol polyprotein;385
+2fde;O1COc(c12)ccc(c2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]3CO[C@H]([C@H]34)OCC4)Cc5ccc(cc5)OCc6nc(C)sc6;9.1499996;Gag-Pol polyprotein;385
+3ig1;O=C1C(=O)C=C(C(C)C)C=CC1O;6.1399999;HIV-1 Reverse Transcriptase p66 subunit;JTH
+3tkw;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;5.27;Protease;017
+2pwc;c1ccccc1CN(S(=O)(=O)c(cc2)ccc2N)[C@H]3C[NH2+]C[C@@H]3N(Cc4ccccc4)S(=O)(=O)c5ccc(N)cc5;6.5686359;Gag-Pol polyprotein (Pr160Gag-Pol);G3G
+2pwr;NC(=O)c1ccc(cc1)S(=O)(=O)N(Cc2ccccc2)[C@H]3C[NH2+]C[C@@H]3N(S(=O)(=O)c(cc4)ccc4C(=O)N)Cc5ccccc5;6.5850272;Gag-Pol polyprotein (Pr160Gag-Pol);G4G
+3ggv;n1ccccc1-c(cc2)ccc2C[C@@H](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)(C)C)n4ccn(c4=O)Cc5cccc(n5)C(C)(C)O;10.853872;V-1 protease;GGV
+3ggu;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;9.7695513;Protease;017
+2i4x;COc(cc1)ccc1S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]2CO[C@H]([C@H]23)OCC3)Cc4ccc(cc4)OCP(=O)(OCC)OCC;11.72;Protease;KGQ
+2i4w;COc(cc1)ccc1S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]2CO[C@H]([C@H]23)OCC3)Cc4ccc(cc4)OCP(=O)(OCC)OCC;11.59;Protease;KGQ
+2i4v;C1CO[C@@H]([C@@H]12)OC[C@@H]2OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(OC)cc4;11.2;Protease;DJR
+2i4u;C1CO[C@@H]([C@@H]12)OC[C@@H]2OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(OC)cc4;11.57;Protease;DJR
+1idb;Cc1cccc(C)c1OCC(=O)N[C@@H](Cc2ccccc2)[C@H](O)C[N@H+]3[C@H](C(=O)NC(C)(C)C)C[C@@H](CC3)S(=O)(=O)c4ccncc4;7.96;HIV-2 PROTEASE;0DO
+1ida;c1cccc(c12)nc(cc2)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@H+]4[C@H](C(=O)NC(C)(C)C)C[C@@H](CC4)SCc5cnccc5;8.6999998;Protease;0PO
+4ej8;O=C([O-])c(cc1)cc(c12)[nH]cc2;5.3899999;Protease;1F1
+3ao2;O1COc(c12)cc(cc2Br)-c3nn(C)c(c3)N;3.77;POL polyprotein;AVX
+1aid;c1cc(Cl)ccc1[C@@]2(O)CC[N@@H+](CC2)CCCC3(SCCS3)c4ccc(F)cc4;4.8200002;HUMAN IMMUNODEFICIENCY VIRUS PROTEASE;THK
+3zso;c1cc(OC)ccc1C(c2ccc(cc2)OC)NC(=O)c3ccccc3C[N@@H+](CC=C)Cc(cc4)c(C(=O)[O-])c(c45)OCO5;5.1199999;INTEGRASE;O2N
+3zsq;c1cc(OC)ccc1[C@H](CCC)NC(=O)c2ccccc2C[N@@H+](CC=C)Cc(cc3)c(C(=O)[O-])c(c34)OCO4;4.96;INTEGRASE;O4N
+3oxc;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.4099998;Protease;ROC
+4xrq;c1cccc(c12)[nH]c(C)c2CC(=O)N[C@@H](Cc3ccccc3)C(=O)N(C)c4ccccc4;6.6300001;Capsid protein p24;1B0
+1qs4;n1[nH]nnc1C(=O)CC(=O)c2c[nH]c(c23)ccc(Cl)c3;5.6399999;PROTEIN (HIV-1 INTEGRASE (E.C.2.7.7.49));100
+4q1x;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;11.15;ASPARTYL PROTEASE;017
+4h4m;c1cc(=O)[nH]c(=O)n1CCOc(cc2Cl)c(cc2)Oc3cc(Cl)cc(c3)/C=C/C#N;8.5200005;Reverse transcriptase/ribonuclease H, Exoribonuclease H, p66 RT;494
+2upj;CC(C)(C)OC(=O)NCCC(=O)Nc1cccc(c1)[C@H](C2CC2)c3c(=O)oc(cc3O)[C@H](CC)Cc4ccccc4;7.3899999;HIV-1 PROTEASE;U02
+2bqv;c1ccccc1C[N@@H+](NC(=O)[C@H](C(C)C)NC(=O)OC)C[C@@](O)(Cc2ccccc2)C(=O)N[C@@H]3[C@H](O)Cc(c34)cccc4;8.0500002;HIV-1 PROTEASE;A1A
+2f8g;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.6999998;POL POLYPROTEIN;017
+2nmy;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.3699999;PROTEASE;ROC
+3el9;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccn3;8.3999996;Protease;DR7
+3el4;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;7.1700001;Protease;ROC
+3el5;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;7.7199998;Protease;1UN
+3el0;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)C4=CC=CC(=O)C4C;7.4699998;Protease;1UN
+3el1;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccn3;9.6400003;Protease;DR7
+4cgj;O1COc(c12)c(C(=O)[O-])c(cc2)C[C@@H](c(c34)cccc3)[C@H](C4)NC(=O)CCCCC[NH3+];2.8399999;INTEGRASE;NZL
+4hla;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.8;Protease;017
+1hyv;c1ccccc1[AsH](c2ccccc2)(c3ccccc3)c4ccccc4;2.3;INTEGRASE;TTA
+3djk;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@H]3COCOCC3;10.58503;Protease;G55
+1bqn;CC(C)OC(=O)N([C@H](C(=S)N1)CSC)c(c12)cc(cc2)OC;6.2199998;REVERSE TRANSCRIPTASE;HBY
+1bqm;CC(C)OC(=O)N([C@H](C(=S)N1)CSC)c(c12)cc(cc2)OC;7.3499999;REVERSE TRANSCRIPTASE;HBY
+2i0a;O=C(C)c1ccc(cc1)N2C(=O)O[C@@H](C2)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(OC)cc4;11.4;Protease;MUI
+2i0d;COc(cc1)ccc1S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@H]3OC(=O)N(C3)c4cccc(c4)C(=O)C;12.1;Protease;MUT
+2rf2;c1cc(Br)cc(c12)c(c([nH]2)C(=O)N)S(=O)(=O)N3CCCC3;8.4436979;Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4) (p66 RT);MRX
+1hbv;[NH3+][C@@H](C)C(=O)N[C@@H](C)C1=C[C@@H](Cc2ccccc2)C[N@@H+](CC1)[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)OC;6.3699999;HIV-1 PROTEASE;GAN
+3u7s;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.431798;Pol polyprotein;017
+3bgb;c1cc(N)ccc1S(=O)(=O)N(CC(C)C)CC[NH2+]CCN(CC(C)C)S(=O)(=O)c2ccc(N)cc2;6.0457568;Protease;LJG
+3bgc;c1ccccc1CN(S(=O)(=O)c2ccc(N)cc2)CC[NH2+]CCN(Cc3ccccc3)S(=O)(=O)c4ccc(N)cc4;5.0177288;Protease;LJH
+2nmz;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.3699999;PROTEASE;ROC
+4ye3;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@H](CO4)OC;8.3699999;Protease;G04
+2xye;c1ccccc1C[C@@](O)(C(=O)N[C@@H](C(C)(C)C)C(=O)NC)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccc3;8.3400002;PROTEASE;CXG
+2xyf;c1ccccc1C[C@@](O)(C(=O)N[C@@H](C(C)(C)C)C(=O)NC)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3cscc3;8.4399996;PROTEASE;G40
+2pym;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;6.8239088;PROTEASE RETROPEPSIN;1UN
+1t7j;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;8.6999998;Pol Polyprotein;478
+1bwb;c1cccc(c12)[nH]c(n2)NC(=O)c(ccc3)cc3CN(C4=O)[C@H](Cc5ccccc5)[C@H](O)[C@@H](O)[C@@H](Cc6ccccc6)N4Cc7cc(ccc7)C(=O)Nc(n8)[nH]c(c89)cccc9;8.4200001;PROTEIN (HIV-1 PROTEASE);146
+2azc;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)[C@@H](C)NC(=O)OCc4ccccc4;6.7399998;PROTEASE RETROPEPSIN;3TL
+2azb;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@H](CO)Cc2ccccc2;7.1900001;PROTEASE RETROPEPSIN;3TL
+3irx;Cn1c(=O)oc(c12)c(C)cc(c2)C(\c(cc3C)cc(C(=O)SC)c3OC)=C\CCCc(o4)nnc4C;9;Reverse transcriptase/ribonuclease H;UDR
+2az9;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@H](CO)Cc2ccccc2;7.6599998;PROTEASE RETROPEPSIN;3TL
+2az8;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@H](CO)Cc2ccccc2;8.2200003;PROTEASE RETROPEPSIN;3TL
+1c70;c1cccc(c12)cc(o2)C[N@H+]3C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC3)C[C@@H](O)C[C@@H](Cc4ccccc4)C(=O)N[C@H]([C@H](O)C5)c(c56)cccc6;10.3;PROTEIN (PROTEASE);L75
+2fle;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)[C@@H](O)[C@H](CC3CCCCC3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;7.8499999;pol protein;AI
+2b5j;CCc1c(C)nc(O)c(I)c1Oc2cccc(c2)CCC#N;9.1000004;Reverse transcriptase P66 SUBUNIT;3AC
+1ebw;c1ccccc1CO[C@@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)NC)[C@H](O)[C@@H](O)[C@H](C(=O)N[C@@H]([C@@H](C)CC)C(=O)NC)OCC2=CCC=CC2;9.0500002;HIV-1 PROTEASE;BEI
+1eby;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3ccccc3)[C@H](O)[C@@H](O)[C@@H](OCc4ccccc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;9.6999998;HIV-1 PROTEASE;BEB
+1ebz;c1ccccc1CO[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NC)[C@H](O)[C@@H](O)[C@@H](OCc2ccccc2)C(=O)N[C@@H]3[C@H](O)Cc(c34)cccc4;9.3999996;HIV-1 PROTEASE;BEC
+5jg1;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCCO3)CC45C[C@@H]6C[C@H](C5)C[C@H](C4)C6;8.7200003;Protease;6KR
+4kb9;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CCC3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;11;Protease;G79
+3ith;CN(C)c1cc(C=C)nc(n1)S(=O)(=O)C;8.1000004;Reverse transcriptase/ribonuclease H;EDM
+2lya;CCCCCCCC(=O)O[C@@H](COP([O-])(O)OCC[N+](C)(C)C)COC(=O)CCCCCCC;4.1900001;Matrix protein p17;PC8
+3c6t;Clc1cc(S(=O)(=O)N)ccc1NC(=O)COc(c2)cc(Cl)cc2Oc(cc3Cl)cc(c3)C#N;8.6757174;Reverse transcriptase;M14
+2ieo;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.4899998;Protease;017
+3c6u;N#Cc(c1)cc(Cl)cc1Oc2c(Cl)ccc(c2)OCc3[nH]nc(c34)cccc4;8.8696661;Reverse transcriptase;M22
+3zt3;c1cccc(c12)C[C@@H](O)C\2=C\c(cc3)c(C(=O)[O-])c(c34)OCO4;2.8399999;INTEGRASE;ZT4
+3zt2;c1cccc(c12)CC(=O)C\2=C\c(cc3)c(C(=O)[O-])c(c34)OCO4;2.8399999;INTEGRASE;ZT2
+4dfg;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](C3)C[C@@H]([C@@H]34)[C@@H](CO4)NC(=O)OC;11.74;Protease;0JV
+4eyr;s1cncc1COC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4csc(n4)C(C)C;6.6300001;HIV-1 PROTEASE;RIT
+1izh;c1ccccc1C[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](Cc2ccccc2)C[C@H](O)[C@@H](NC(=O)OC(C)(C)C)Cc3ccccc3;7.6999998;proteinase;Q50
+1izi;c1ccccc1C[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](Cc2ccccc2)C[C@H](O)[C@@H](NC(=O)OC(C)(C)C)Cc3ccccc3;6.5900002;proteinase;Q50
+4nyf;c1cccc(c12)c(c(c(n2)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c3ccc(Cl)cc3;7.3099999;Integrase;4BI
+3cyw;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;7.7695508;HIV-1 Protease;017
+3cyx;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8;HIV-1 Protease;ROC
+4e1n;c1cccc(c12)c(c(c(n2)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c(cc3F)c(C)c(c34)CCCO4;7.1700001;HIV-1 integrase;TQX
+4e1m;c1cccc(c12)c(c(c(n2)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c3ccc(C)c(c3)C;7.2600002;HIV-1 Integrase;TQ2
+1dtq;c1cc(C#N)cnc1NC(=S)NCCc2nccc(c2F)OCC;8.2200003;HIV-1 RT A-CHAIN;FPT
+1lzq;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)CC[NH2+][C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N)Cc3ccccc3;8.3900003;PROTEASE RETROPEPSIN;0ZQ
+2hs2;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.3100004;protease;017
+2hs1;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.4799995;HIV-1 Protease;017
+4ojr;CC(C)(C)O[C@H](C(=O)[O-])c(n(C)c1=O)c(c(c12)cccc2)-c(c3C)cc(F)c(c34)OCCC4;7.4200001;HIV-1 Integrase;2SQ
+4hdf;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;8.4899998;HIV-1 Protease;G52
+4hdb;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;8.0500002;HIV-1 Protease;G52
+4hdp;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;7.5100002;HIV-1 Protease;G52
+1msn;Cc1c(O)cccc1C(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CS3)[C@@H](C3(C)C)C(=O)NCc4ccccc4C;9.0900002;POL polyprotein;JE2
+1msm;Cc1c(O)cccc1C(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CS3)[C@@H](C3(C)C)C(=O)NCc4ccccc4C;10.48;POL polyprotein;JE2
+5kgx;c1cccc(c12)n(C)c([C@@H](C(=O)[O-])OC(C)(C)C)c2-c(cc3)cc(c34)CCCO4;4.8000002;Integrase;7SK
+2qci;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;8.3372421;Protease;065
+4i8w;C1CO[C@@H]([C@@H]12)OC[C@@H]2O[C@H](O)[NH2+][C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(C(=O)[O-])cc4;10.9;Protease;G07
+4i8z;C1CO[C@@H]([C@@H]12)OC[C@@H]2OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(cc4)C(=O)N;11.05;Protease;G08
+1tcx;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)c3ncc[nH]3;6.9499998;HIV PROTEASE;IM1
+3st5;O1C[C@H](O)[C@H]([C@H]12)C[C@H](C2)OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(cc4)OC;11.3;Protease;G89
+5jfp;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)CC45C[C@@H]6C[C@H](C5)C[C@H](C4)C6;9.3199997;Protease;6KK
+1b6m;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@H](O)C[NH2+][C@@H](C2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCOc(ccc23)cc3;8.3999996;RETROPEPSIN;PI6
+1npw;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@@]3(Cc4ccccc4)C(=O)C(=CN3)[C@H]([C@@H](C5)OC(=O)N)c(c56)cccc6;8.6999998;POL polyprotein;LGZ
+1npv;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@@H](O)C[C@@]3(Cc4ccccc4)C(=O)C(=CN3)[C@@H]5CNC(=O)c(c56)cccc6;8.2399998;POL polyprotein;L27
+1npa;c1cccc(c12)[C@@H]([C@@H](C2)OC(=O)N)C(=CN3)C(=O)[C@]3(Cc4ccccc4)C[C@H](O)[C@H](Cc5ccccc5)NC(=O)O[C@@H]6COCC6;8.6999998;POL polyprotein;3NH
+1z1r;c1ccccc1S(=O)(=O)N(CCC(C)C)C[C@@H](O)[C@H](C2)NC(=O)[C@H](CC(=O)N)NC(=O)CCCOc(ccc23)cc3;9.2200003;Pol polyprotein;HBH
+1z1h;c1ccccc1S(=O)(=O)N(CCC(C)C)C[C@@H](O)[C@H](C2)NC(=O)[C@H](C(C)C)NC(=O)CCCOc(ccc23)cc3;8.3999996;Pol polyprotein;HBB
+3ok9;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;11.23;Protease;G52
+2aoc;O=C(C)N[C@@H]([C@@H](C)OC)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;4.8899999;HIV-1 PROTEASE;2NC
+2aog;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;6.2800002;HIV-1 PROTEASE (RETROPEPSIN);2NC
+2aod;O=C(C)N[C@@H]([C@@H](C)OC)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;5.6599998;HIV-1 PROTEASE;2NC
+2aoe;[NH2+]=C(N)NCCC[C@H]([NH3+])C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C[NH2+][C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N)CCCC;7.6199999;POL POLYPROTEIN;0Q4
+3m9f;Nc1ccc(cc1)S(=O)(=O)N(CCC(C)C)[C@H](CO)CCC[C@H](C)NC(=O)[C@@H](NC(=O)OC)C(c2ccccc2)c3ccccc3;11.15;HIV-1 protease;595
+1qbs;c1cc(CO)ccc1CN(C2=O)[C@H](Cc3ccccc3)[C@H](O)[C@@H](O)[C@@H](Cc4ccccc4)N2Cc5ccc(cc5)CO;9.4700003;HIV-1 PROTEASE;DMP
+1qbt;c1cccc(c12)[nH]c(n2)NC(=O)c(ccc3)cc3CN(C4=O)[C@H](Cc5ccccc5)[C@H](O)[C@@H](O)[C@@H](Cc6ccccc6)N4Cc7cc(ccc7)C(=O)Nc(n8)[nH]c(c89)cccc9;10.62;HIV-1 PROTEASE;146
+1qbu;s1ccnc1NC(=O)c(ccc2)cc2CN(C3=O)[C@H](Cc4ccccc4)[C@H](O)[C@@H](O)[C@H](N3CC5CC5)Cc6ccccc6;10.24;HIV-1 PROTEASE;846
+5bry;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@H](CO4)[NH2+]C;11.82;Protease;4UY
+3a2o;Cc1cc(N)cc(C)c1OCC(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CSC3(C)C)[C@@H]3C(=O)NCC(C)=C;9.0799999;PROTEASE;KNJ
+3t3c;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.23;HIV-1 protease;017
+1ivp;c1cccc(c12)c(ccc2)OCC(=O)N[C@@H](Cc3[nH]cnc3)C(=O)N[C@@H](CC4CCCCC4)C(=O)[C@H](O)[C@@H](C(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCc5ccccn5;7.52;HIV-2 PROTEASE;1ZK
+3nu4;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;8.8199997;protease;478
+3nu5;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;8.3500004;protease;478
+3nu6;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.3000002;Protease;478
+3nu3;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.8199997;Protease;478
+3nu9;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.0500002;Protease;478
+3nuo;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.8000002;Protease;478
+2be2;c1c(C)cc(C)cc1Oc(c2I)c(c(C)[nH]c2=O)CSCc3occc3;8.6999998;REVERSE TRANSCRIPTASE P66 SUBUNIT;R22
+3nuj;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.3900003;Protease;478
+4cig;COc1cccc(c1C(=O)[O-])C[N@H+](C)Cc(cc(c23)cccc3)c(c2)C(=O)NCc4ccc(cc4)OC;3.6700001;INTEGRASE;X0P
+1hsg;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;9.4200001;HIV-1 PROTEASE;MK1
+1hsh;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;9.4200001;HIV-II PROTEASE;MK1
+3d1z;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.7958803;HIV-1 Protease;017
+3d1x;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.6575785;HIV-1 Protease;ROC
+3d1y;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.2218475;HIV-1 Protease;ROC
+4mc6;c1c(F)ccc(c12)S(=O)(=O)N(C[C@H](C2)C(C)C)C[C@@H](O)[C@@H](NC(=O)NC(C)(C)C)Cc3ccccc3;9.5900002;Protease;23K
+4mc1;c1c(F)ccc(c12)S(=O)(=O)N(C[C@@H](C2)C(C)(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H]4COCC4;7.8499999;Protease;526
+4mc2;c1c(F)ccc(c12)S(=O)(=O)N(C[C@H](C2)C(C)(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H]4COCC4;8.1899996;Protease;525
+4mc9;c1c(F)ccc(c12)S(=O)(=O)N(C[C@H](C2)C(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H]4COCC4;9.4399996;Protease;23L
+3t1a;Clc1c(C[NH3+])cc(Cl)cc1Oc(c(Cl)cc2)c(c23)nnn3Cc([nH]n4)c(c45)cccn5;8.3699999;Reverse Transcriptase;5MA
+4ncg;N#Cc1cc(Cl)cc(c1)Oc(c2C(F)(F)F)c(=O)n(cc2)Cc3n[nH]c(=O)n3C;7.96;Reverse transcriptase/ribonuclease H;2KW
+3spk;c1ccccc1CC[C@@]2(CCC)OC(=O)[C@@H](C(=O)C2)[C@H](CC)c3cccc(c3)NS(=O)(=O)c4ncc(C(F)(F)F)cc4;8.5200005;HIV-1 protease;TPV
+3t19;Clc1c(C[NH3+])cc(Cl)cc1Oc(c(Cl)cc2)c(c23)nnn3Cc([nH]n4)c(c45)cccn5;8.6599998;Reverse Transcriptase;5MA
+4qgi;c1cccc(c12)NC(=CC2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C[C@@H]3C=CCCC3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;3.9000001;Protease;ROC
+2f3k;c1ncccc1OCC(=O)N[C@@H](C(C)(C)S(=O)(=O)C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)C[N@@H+]([C@@H](C3)C(=O)NC(C)(C)C)C[C@H]([C@H]34)CCCC4;7.8899999;Protease;RO1
+3dya;N#Cc1cc(Cl)cc(c1)Oc2c(Br)ccc(c2F)Cc(n[nH]3)c(c34)ccnn4;8.5228786;REVERSE TRANSCRIPTASE/RIBONUCLEASE H;PZL
+1qbr;s1ccnc1NC(=O)c(ccc2)cc2CN(C3=O)[C@H](Cc4ccccc4)[C@H](O)[C@@H](O)[C@@H](Cc5ccccc5)N3Cc6cc(ccc6)C(=O)Nc7nccs7;10.57;HIV-1 PROTEASE;XV6
+4u8w;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)C(F)(F)CO3)Cc4ccccc4;11.24;HIV-1 Protease;G10
+2qi0;Fc1cccc(c1C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(Cc3cccs3)S(=O)(=O)c4cc(OC)ccc4;7.3767509;Protease;MZ3
+2qi1;COc(c1)cccc1S(=O)(=O)N(Cc2sccc2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)c4ccc(O)c(c4)O;7.3010302;Protease;MZ4
+2qi3;c1ccccc1C[C@H](NC(=O)[C@@H](O)C(C)C)[C@H](O)CN(C[C@@H](C)CC)S(=O)(=O)c(c2)ccc(c23)ncs3;10.20066;Protease;MZ5
+2qi4;c1ccc(O)cc1C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(C[C@@H](C)CC)S(=O)(=O)c(cc3)cc(c34)scn4;10.4437;Protease;MZ6
+2qi5;s1cnc(c12)ccc(c2)S(=O)(=O)N(CCCCC)C[C@@H](O)[C@@H](NC(=O)[C@H](C(C)C)NC(=O)C)Cc3ccccc3;10.85387;Protease;MZ7
+2qi6;s1cnc(c12)ccc(c2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)c4cccc(O)c4;10.56864;Protease;MZ8
+2qi7;CCC(=O)CCC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(C[C@@H](C)CC)S(=O)(=O)c2ccc(cc2)OC;10.20761;Protease;MZ9
+1zsr;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[NH2+][C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N)Cc3ccccc3;9.8199997;PROTEASE RETROPEPSIN;0ZT
+3bva;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCC[NH+]=C(N)N;6.5228791;Protease (Retropepsin);2NC
+3bvb;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;5.4948502;Protease (Retropepsin);017
+4ck3;[NH3+]CCCC(=O)NC[C@@H](CC(C)C)Cc(c1C(=O)[O-])ccc(c12)OCO2;3.5699999;INTEGRASE;K1T
+1zsf;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@H](O)C[NH2+][C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N)Cc3ccccc3;9.9200001;PROTEASE RETROPEPSIN;0ZS
+2z4o;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;9.5686359;Protease;065
+2pyn;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;7.5686359;PROTEASE RETROPEPSIN;1UN
+4gw6;c1c(Br)ccc(c12)nc(C)c([C@@H](C(=O)[O-])OC(C)(C)C)c2-c3ccc(Cl)cc3;6.1999998;Gag-Pol polyprotein;LF2
+4jmu;C1C[C@@H](C)CC[C@@H]1C(=O)N(C(C)C)c2ccc(cc2C(=O)[O-])Oc3ccc(cc3)NC(=O)c4ccc(cc4)OC;5.4699998;Gag-Pol polyprotein;1ML
+2o4p;c1ccccc1CC[C@@]2(CCC)OC(=O)C(=C(C2)O)[C@H](CC)c3cccc(c3)NS(=O)(=O)c4ncc(C(F)(F)F)cc4;10.72;protease;TPV
+2o4s;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;10.51;protease;AB1
+2o4k;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccn3;10.46;protease;DR7
+2o4l;c1ccccc1CC[C@@]2(CCC)OC(=O)C(=C(C2)O)[C@H](CC)c3cccc(c3)NS(=O)(=O)c4ncc(C(F)(F)F)cc4;9.2200003;protease;TPV
+2o4n;c1ccccc1CC[C@@]2(CCC)OC(=O)C(=C(C2)O)[C@H](CC)c3cccc(c3)NS(=O)(=O)c4ncc(C(F)(F)F)cc4;7.8200002;protease;TPV
+1dtt;c1cc(Cl)cnc1NC(=S)NCCc2nccc(c2F)OCC;8.3000002;HIV-1 RT A-CHAIN;FTC
+1bwa;s1ccnc1NC(=O)c(ccc2)cc2CN3C(=O)N(Cc4cc(ccc4)C(=O)Nc5nccs5)[C@H](Cc6ccccc6)[C@H](O)[C@@H](O)[C@H]3Cc7ccccc7;8.6000004;PROTEIN (HIV-1 PROTEASE);XV6
+2i4d;C1CO[C@@H]([C@@H]12)OC[C@@H]2OC(=O)N[C@@H](Cc3ccc(cc3)OCP([O-])(O)O)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(OC)cc4;11.68;Protease;QFI
+2ban;COCCN(C)c(c1=O)c(c(CC)c(C)[nH]1)Cc2cccc(C)c2;9;Reverse transcriptase P66 subunit;357
+2r43;c1ccccc1CN(S(=O)(=O)c(cc2)ccc2N)[C@H]3C[NH2+]C[C@@H]3N(Cc4ccccc4)S(=O)(=O)c5ccc(N)cc5;6;Protease;G3G
+3tgs;Clc1ccc(cc1)NC(=O)C(=O)NC(CC2(C)C)CC([NH2+]2)(C)C;5.3899999;HIV-1 clade C1086 gp120 core;03G
+1yt9;O/N=C/c1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@H](C(C)C)N3CCN(C3=O)Cc4nc(C)sc4;8.3000002;Pol polyprotein;OIS
+2pk5;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](C3(C)C)N(CS3)C(=O)[C@@H](O)[C@H](Cc4ccccc4)NC(=O)[C@H](CS(=O)(=O)C)NC(=O)COc5cccc(c56)cncc6;10.7;Protease;075
+1bdl;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)c3[nH]ccn3;5.8499999;HIV-1 PROTEASE;IM1
+3r0w;n1ccccc1C(=O)N[C@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)CC(=O)N[C@@H](CCl)C(=O)N[C@H](C(=O)N)CC(C)C;4.52;Multidrug-resistant clinical isolate 769 HIV-1 Protease;RSY
+3r0y;n1ccccc1C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)CC(=O)N[C@@H](C(=O)NCCC)Cc3ccccc3;4.8400002;Multidrug-resistant clinical isolate 769 HIV-1 Protease;RSZ
+3bxs;[O-]C([O-])[C@H](C1)NC(=O)[C@H](C(C)C)NC(=O)CCCCOc(ccc12)cc2;5.09691;Protease;DRS
+1sgu;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;5.3699999;POL polyprotein;MK1
+1tkz;C1CCCCC1Sc(c(c(=O)[nH]2)CCC)c(c23)cc(Cl)cc3;6.6199999;Pol polyprotein, Reverse transcriptase, Chain A;H16
+1tkx;C1CC1C#COc(c(c(=O)[nH]2)C(C)C)c(c23)cc(F)cc3;7.54;Pol polyprotein, Reverse transcriptase, Chain A;GWB
+5ivs;c1ccccc1C(c2ccccc2)[C@H](NC(=O)OC)C(=O)Nc3ccccc3CC[C@H](C[NH2+]4)OC[C@H]4COC(=O)NCc5ccccc5;8.21;Protease;6EF
+5ivt;FC(F)(F)CNC(=O)OC[C@H](CO1)[NH2+]C[C@H]1CCc2c(cncc2F)NC(=O)[C@@H]([NH3+])[C@@H](c3ccc(Cl)cc3)c4cc(F)cc(F)c4;9.1000004;Protease;6EE
+1tv6;c1cccc(c12)sc(=O)n2Cc3ccc(cc3)-n(c(n4)C)c(c45)ccnc5;5.4000001;reverse transcriptase p66 subunit;CP9
+1tvr;[nH]1c(=S)n(c2c13)C[C@H](C)[N@@H+](CC=C(C)C)Cc2cc(Cl)c3;7.48;REVERSE TRANSCRIPTASE;TB9
+4ejl;O=C([O-])CCc1c[nH]c(c12)cccc2;5.1399999;Protease;IOP
+4zls;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)Cc(ccc2)cc2-c3cc(OC)cc(c3)OC;9.0900002;Protease;G61
+3hdk;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;4.7600002;[Aib51/51']HIV-1 protease;2NC
+4cgi;O1COc(c12)c(C(=O)[O-])c(cc2)C[C@@H](c(c34)cccc3)[C@H](C4)NC(=O)CCCCC[NH3+];3.1199999;INTEGRASE;NZL
+2uy0;COC(=O)N[C@@H](C(C)(C)C)C(=O)NN(Cc1ccc(Br)cc1)C(=O)CC[C@@](O)(Cc2ccccc2)C(=O)N[C@@H]3[C@H](O)Cc(c34)cccc4;6.9208188;HIV-1 PROTEASE;HV1
+4qag;c1cc(O)c(O)c(c12)oc(=O)cc2CC(=O)[O-];5.3200002;Reverse transcriptase/ribonuclease H;F95
+3dcr;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C(O)(O)C[C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;8.2006598;Chemical analogue HIV-1 protease;KVS
+2aqu;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccn3;9.3199997;HIV-1 Protease;DR7
+3o99;Nc1ccc(cc1)S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.82;Pol polyprotein;K13
+3o9e;Nc1ccc(cc1)S(=O)(=O)N(CC(CC)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;11.3;Pol polyprotein;A60
+3o9d;n1csc(c12)cc(cc2)S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;10.72;Pol polyprotein;K19
+3o9g;OCc1ccc(cc1)S(=O)(=O)N(CC(CC)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;12.3;Protease;F53
+3o9f;COc1ccc(cc1)S(=O)(=O)N(CC(CC)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;12.7;Protease;K2D
+3o9a;COc1ccc(cc1)S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.7;Pol polyprotein;K14
+3o9c;O1COc(c12)cc(cc2)S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;12.05;Pol polyprotein;K20
+3o9b;OCc1ccc(cc1)S(=O)(=O)N(C[C@@H](C)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;12.3;Pol polyprotein;K2A
+3o9i;n1csc(c12)cc(cc2)S(=O)(=O)N(CC(CC)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;11.82;Protease;A61
+3o9h;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(CC)CC)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;12.1;Protease;K2E
+2idw;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.8900003;Protease;017
+3hbo;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;5.0900002;[D-Ala51/51']HIV-1 protease;2NC
+1iky;N#Cc1cnc(cc1)NC(=S)N[C@@H]2C[C@@H]2c3c(OC)ccc(c3O)C(=O)C;8.2600002;POL POLYPROTEIN;MSD
+1ikx;n1c(Cl)cc(N)nc1S[C@@H](C)c(nc2)cc(c23)cco3;8.1499996;POL POLYPROTEIN;PNU
+1ikw;c1cc(Cl)cc(c12)[C@@](C(F)(F)F)(OC(=O)N2)C#CC3CC3;8.6000004;POL POLYPROTEIN;EFZ
+1ikv;c1cc(Cl)cc(c12)[C@@](C(F)(F)F)(OC(=O)N2)C#CC3CC3;6.2800002;POL POLYPROTEIN;EFZ
+4qnb;c1cccc(c12)[nH]c(C)c2CC(=O)N[C@@H](Cc3ccccc3)C(=O)N(C)c4ccccc4;6.5900002;CAPSID PROTEIN P24;1B0
+3lzs;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.96;HIV-1 protease;017
+9hvp;c1ccccc1COC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C(O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)OCc4ccccc4;8.3500004;HIV-1 PROTEASE;0E9
+1mtr;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@H](O)C[NH2+][C@@H](C2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCOc(ccc23)cc3;8.3999996;HIV-1 PROTEASE;PI6
+4o55;c1cc(Cl)cc(c12)[nH]c(n2)-c3c(C)c(c(c(n3)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c4ccccc4;5.3000002;Integrase;LF9
+4o5b;c1cc(Cl)cc(c12)nc([nH]2)-c3c(C)c(c(c(n3)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c4ccccc4;8.3000002;Integrase;LF9
+3aid;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[N@@+](C)(Cc2ccccc2)NC(=O)c3ccccc3;6.8600001;HUMAN IMMUNODEFICIENCY VIRUS PROTEASE;ARQ
+1g2k;c1ccc(C(=O)NC)cc1CN(S2(=O)=O)[C@H](COc3ccccc3)[C@H](O)[C@@H](O)[C@H](N2Cc4ccccc4)COc5ccccc5;7.96;PROTEASE RETROPEPSIN;NM1
+7upj;C1CCCCCc(c12)c(O)c(c(=O)o2)[C@@H](C3CC3)c4cccc(c4)NS(=O)(=O)c5ccccc5;8.4899998;HIV-1 PROTEASE;INU
+4u0e;c1cccc(c12)[nH]c(C)c2CC(=O)N[C@@H](Cc3ccccc3)C(=O)N(C)c4ccccc4;6.9200001;Capsid protein p24;1B0
+4u0f;Oc1ccc(cc1)[C@@H]2NC(=O)c(c23)n[nH]c3-c4ccccc4;5.9200001;Capsid protein p24;3A8
+1iiq;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[NH2+][C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)Cc3ccccc3;7.48;PROTEASE RETROPEPSIN;0ZR
+2zga;NC(=O)c1ccc(cc1)S(=O)(=O)N(CC[NH3+])CC=C(C)C;6.3200002;Protease;YDP
+1ajv;c1ccccc1CN(S2(=O)=O)[C@H](COc3ccccc3)[C@H](O)[C@@H](O)[C@H](N2Cc4ccccc4)COc5ccccc5;7.7199998;HIV-1 PROTEASE;NMB
+1ajx;c1ccccc1CN2C(=O)N(Cc3ccccc3)[C@H](COc4ccccc4)[C@H](O)[C@@H](O)[C@H]2COc5ccccc5;7.9099998;HIV-1 PROTEASE;AH1
+1ody;c1cccc(c12)cccc2C[C@H](NC(=O)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)[C@@H](O)CC(=O)N[C@@H](CC)C(=O)N[C@H](C(=O)N)Cc3cccc(c34)cccc4;8.1000004;HIV-1 PROTEASE;LP1
+3tlh;c1ccccc1C[C@@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)OCc2ccccc2;8.8199997;PROTEIN (PROTEASE);3TL
+1d4y;c1ccccc1CC[C@@]2(CCC)OC(=O)C(=C(C2)O)[C@H](CC)c3cccc(c3)NS(=O)(=O)c4ncc(C(F)(F)F)cc4;11.1;PROTEIN (HIV-1 PROTEASE);TPV
+1d4l;c12ccc(cc2)OCCCCCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C1)[C@H](O)CN(CCC(C)C)S(=O)(=O)c3ccc(N)cc3;8.7700005;HIV-1 PROTEASE;PI9
+1d4k;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](Cc3ccccc3)C[C@H](O)C[NH2+][C@@H](C4)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCCCOc(ccc45)cc5;9.2200003;HIV-1 PROTEASE;PI8
+1d4j;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3ccccc3)[C@H](O)[C@@H](O)[C@@H](OCc4ccccc4)C(=O)NCc5c(F)cccc5Cl;8.3599997;HIV-1 PROTEASE;MSC
+1d4i;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3ccccc3)[C@H](O)C[C@@H](OCc4ccccc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;8.8500004;HIV-1 PROTEASE;BEG
+1d4h;c1ccccc1CNC(=O)[C@H](OCc2ccccc2)[C@H](O)[C@@H](O)[C@@H](OCc3ccccc3)C(=O)N[C@@H]4[C@H](O)Cc(c45)cccc5;10;HIV-1 PROTEASE;BEH
+1uwb;[nH]1c(=S)n(c2c13)C[C@H](C)[N@H+](CC=C(C)C)Cc2c(Cl)cc3;8.3400002;REVERSE TRANSCRIPTASE;TBO
+4a6c;c1cccc(c12)C[C@@H](O)[C@H]2N(C[C@H]3O)C(=O)[C@]3(Cc4ccccc4)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc(cc5)ccc5-c6ccncc6;7.9200001;POL PROTEIN;QG9
+4a6b;c1cccc(c12)C[C@@H](O)[C@H]2N(C[C@H]3O)C(=O)[C@]3(Cc4ccccc4)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc(cc5)ccc5-c6ccccc6;8.3800001;POL PROTEIN;QG8
+4dko;C[N@H+]1C(C)(C)C[C@H](CC1(C)C)NC(=O)C(=O)Nc(cc2F)ccc2Cl;6.52;HIV-1 gp120 core;0LM
+4dkq;c1cc(Cl)c(F)cc1NC(=O)C(=O)N[C@@H]2[C@@H]([NH+]=C(N)N)Cc(c23)cccc3;6.5999999;clade A/E 93TH057 HIV-1 gp120 core;0LK
+4dkp;c1cc(Cl)c(F)cc1NC(=O)C(=O)N[C@@H]2[C@@H]([NH3+])Cc(c23)cccc3;5.7199998;clade A/E 93TH057 HIV-1 gp120 core;0LL
+4dkr;Clc1ccc(cc1F)NC(=O)C(=O)N[C@@H]([C@@H](C2)[NH+]=C(N)N)c(c23)cccc3;6.52;HIV-1 gp120 core;0LJ
+5kr2;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.4799995;Protease PR5-SQV;ROC
+5kr0;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.1499996;Protease E35D-APV;478
+5kr1;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)C=CO3)Cc4ccccc4;9.4899998;Protease PR5-DRV;017
+1vru;c1c(C)ccc(C(=O)C)c1N[C@H](C(=O)N)c2c(Cl)cccc2Cl;7;HIV-1 REVERSE TRANSCRIPTASE;AAP
+1vrt;Cc1ccnc(c12)N(C3CC3)c4c(C(=O)N2)cccn4;7.0999999;HIV-1 REVERSE TRANSCRIPTASE;NVP
+3qip;n1c(O)c(O)c(C(=O)[O-])nc1Cc(c(c23)cccc2)c([nH]3)-c4ccccc4;6.8899999;Reverse HIV-1 reverse transcriptase p66;P4Y
+3qio;N1C(=O)[N+](=O)C(=O)c(c12)cc(cc2)S(=O)(=O)c3ccccc3;6.8400002;Gag-Pol polyprotein,Ribonuclease HI,Gag-Pol polyprotein;QID
+3qin;COc1ccc(cc1Br)Cc2nc(C(=O)[O-])c(O)c(n2)O;6.8699999;Gag-Pol polyprotein,Ribonuclease HI,Gag-Pol polyprotein;P1Y
+5kqy;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)C=CO3)Cc4ccccc4;9.29;Protease E35D-DRV;017
+5kqx;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.4399996;Protease E35D-SQV;ROC
+4lh5;C1CCCc(c12)c(c(c(n2)C)[C@@H](C(=O)[O-])OC(C)(C)C)-c(cc3)cc(c34)CCCO4;6.6999998;Integrase;LF0
+2i5j;c1cccc(c12)c(c(OC)cc2)C/N=N/C(=O)c3cc(O)c(O)cc3;6.3000002;Reverse transcriptase/ribonuclease H P66 subunit;K05
+3zpu;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[N@@H+](Cc1ccc(Br)cc1)CCC[C@@](O)(Cc(ccc23)cc3)C(=O)N[C@@H](C(C)(C)C)C(=O)NC/C=C\C2;8.3800001;PROTEASE;M8B
+3zpt;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[N@@H+](Cc1ccc(Br)cc1)CCC[C@@](O)(C2)C(=O)N[C@@H](C(C)C)C(=O)NC/C=C\Cc(ccc23)cc3;8.5100002;PROTEASE;M8Y
+3zps;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[N@@H+](Cc1ccc(Br)cc1)CCC[C@@](O)(Cc2ccccc2)C(=O)N[C@@H](C(C)(C)C)C(=O)NCC=C;8.3000002;PROTEASE;EQM
+2q64;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;8.5228786;PROTEASE RETROPEPSIN;1UN
+2q63;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;7.1804562;PROTEASE RETROPEPSIN;1UN
+4dmn;Clc1ccc(cc1)-c2c([C@@H](C(=O)[O-])OC)c(C)nc(c23)ccc(Br)c3;5.6399999;HIV-1 Integrase;0L9
+2xde;c1cccc(c12)[nH]c(C)c2CC(=O)N[C@@H](Cc3ccccc3)C(=O)N(C)c4ccccc4;5.4699998;GAG POLYPROTEIN;1B0
+1jlq;Nc1cccc(c1C#N)S(=O)(=O)c2cc(C)cc(c2)C;8.1499996;HIV-1 RT, A-CHAIN;SBN
+1jld;c1cccc(c12)nc(cc2)C(=O)N[C@@H]([C@H](O)C)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)CNC(=O)[C@@H](C(C)(C)C)CC(=O)NC(CC)CC;6.73;HIV-2 PROTEASE;0PP
+2wl0;c1cccc(c12)[C@@H]([C@H](O)C2)NC(=O)[C@](O)(Cc3ccccc3)CC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc4ccc(cc4)-c5ncccc5;7.7958798;PROTEASE;5AH
+4inb;FC(F)(F)c(c1)ccc(c12)N(C)C(=O)C(=C\NCCOC)\C(=O)N2c3ccccc3;6.0500002;Gag protein;1F6
+3hlo;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;6.21;'covalent dimer' [Gly51/D-Ala51'] HIV-1 protease;2NC
+5dgw;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CCO3)[C@@H]([C@@H]34)[C@H](CO4)[NH2+]CC;11.05;Pol protein;5B5
+5dgu;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CCO3)[C@@H]([C@@H]34)[C@H](CO4)OC;11.35;Pol protein;5B7
+2pk6;c1nccc(c12)c(ccc2)OCC(=O)N[C@@H](CSC)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C(=O)N(CS4)[C@@H](C4(C)C)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;10.89;Protease;O33
+4yhq;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)C(F)(F)CO3)Cc4ccccc4;8.7700005;Protease;G10
+3th9;c1c(F)ccc(c12)S(=O)(=O)N(C[C@H](C2)C)C[C@@H](O)[C@@H](NC(=O)OC(C)(C)C)Cc3ccccc3;7.6999998;Gag-Pol polyprotein;9Y9
+3nf9;c1c(Cl)ccc(c12)CC(=O)N2Cc(cc3)c(C(=O)[O-])c(c34)OCO4;3.54;Integrase;CD9
+3nf8;c1cc(Cl)cc(c12)CC(=O)N2Cc(cc3)c(C(=O)[O-])c(c34)OCCO4;3;Integrase;CDQ
+3nf7;c1cc(Cl)cc(c12)CC(=O)N2Cc(cc3)c(C(=O)[O-])c(c34)OCO4;3.47;Integrase;CIW
+3nf6;O1COc(c12)c(C(=O)[O-])c(cc2)CN(C(=O)C3)c(c34)cccc4;3.53;Integrase;IMV
+2bpv;c1ncccc1/C=C/C(=O)N(C[C@H]2C(=O)NC(C)(C)C)CC[N@H+]2C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]4[C@@H](C)CC[C@H]4O;7.6700001;HIV-1 PROTEASE;1IN
+2bpx;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;9.3999996;HIV-1 PROTEASE;MK1
+2bpy;C[NH+]1CCN(CC1)c(nc2)c(Cl)nc2C(=O)N(C[C@H]3C(=O)NC(C)(C)C)CC[N@H+]3C[C@@H](O)C[C@@H](Cc4ccccc4)C(=O)N[C@H]5[C@@H](C)CC[C@H]5O;7.4000001;HIV-1 PROTEASE;3IN
+2k4i;[O-]P([O-])(O)O[C@H]([C@H]1O)[C@H](OP([O-])(O)O)[C@@H](O)[C@@H](O)[C@H]1OP([O-])(O)OC[C@H](OC(=O)CCC)COC(=O)CCC;3.8446641;HIV-2 myristoylated matrix protein;PBU
+3dk1;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](C3)C[C@@H]([C@@H]34)OCCO4;9.7447271;Protease;G05
+3d20;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.3010302;HIV-1 Protease;017
+3ao5;O1COc(c12)cc(cc2Br)-c3n(C)nc(c3)N;2.23;POL polyprotein;BBY
+3ao4;O1COc(c12)cc(cc2)-c3cc(N)n(n3)C;2.0699999;POL polyprotein;833
+4q1w;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;11.7;ASPARTYL PROTEASE;017
+4q1y;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.35;aspartyl protease;017
+4ll3;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;11.57;Protease;017
+3i7e;C1CO[C@@H]([C@@H]12)OC[C@@H]2OC(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c4ccc(OC)cc4;10.853872;HIV-1 protease;DJR
+1mui;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;11.89;protease;AB1
+4m8y;COc(cc1)ccc1S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]2CO[C@H]([C@H]23)OCC3)Cc4ccc(cc4)OCP(=O)(OCC)OCC;9.96;Protease;KGQ
+4m8x;COc(cc1)ccc1S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@H]2CO[C@H]([C@H]23)OCC3)Cc4ccc(cc4)OCP(=O)(OCC)OCC;10.2;Protease;KGQ
+4phv;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](Cc3ccccc3)CC(O)C[C@@H](Cc4ccccc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;9.1700001;HIV-1 PROTEASE;VAC
+5bs4;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@H]3CO[C@H]([C@H]34)OC[C@@H]4[NH2+]C;11;Protease;4UX
+3zt1;c1cc(OC)ccc1CNC(=O)c2ccccc2C[NH2+]Cc(cc3)c(C(=O)[O-])c(c34)OCO4;2.7;INTEGRASE;OM1
+3zt4;c1cccc(c12)CC(=O)C\2=C\c(cc3)c(C(=O)[O-])c(c34)OCO4;2.8;INTEGRASE;ZT2
+4a4q;c1cccc(c12)C[C@@H](O)[C@H]2N(C[C@H]3O)C(=O)[C@]3(Cc4ccccc4)CC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc(cc5)ccc5-c6ccncc6;9.3999996;PROTEASE;UX9
+2nnp;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.3699999;PROTEASE;ROC
+3di6;c1ccccc1Oc2c(Cl)ccc(c2F)CC3=CCC(=O)N=N3;7;Reverse transcriptase/ribonuclease H;PDZ
+2nnk;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;8.3699999;PROTEASE;ROC
+6upj;C1CCCCc(c12)c(O)c(c(=O)o2)[C@@H](CC)c3ccccc3;6.3200002;HIV-2 PROTEASE;NIU
+1mes;c1cc(CO)ccc1CN(C2=O)[C@H](Cc3ccccc3)[C@H](O)[C@@H](O)[C@@H](Cc4ccccc4)N2Cc5ccc(cc5)CO;7.6999998;HIV-1 PROTEASE;DMP
+1meu;c1cc(CO)ccc1CN(C2=O)[C@H](Cc3ccccc3)[C@H](O)[C@@H](O)[C@@H](Cc4ccccc4)N2Cc5ccc(cc5)CO;6.0999999;HIV-1 PROTEASE;DMP
+1met;c1cc(CO)ccc1CN(C2=O)[C@H](Cc3ccccc3)[C@H](O)[C@@H](O)[C@@H](Cc4ccccc4)N2Cc5ccc(cc5)CO;9.3999996;HIV-1 PROTEASE;DMP
+1m0b;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)CC[NH2+][C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N)Cc3ccccc3;8.8199997;PROTEASE RETROPEPSIN;0ZQ
+1c6y;c1ccncc1C[N@H+]2C[C@@H](C(=O)NC(C)(C)C)[N@@H+](CC2)C[C@@H](O)C[C@@H](Cc3ccccc3)C(=O)N[C@H]([C@H](O)C4)c(c45)cccc5;9.5100002;PROTEIN (PROTEASE);MK1
+3qo9;O=c1[nH]c(=O)n(cc1C)[C@@H]([C@@H]2O[Si](C)(C)C(C)(C)C)O[C@H](CO[Si](C)(C)C(C)(C)C)[C@@]23OS(=O)(=O)C=C3N;5.9200001;Reverse transcriptase/ ribonuclease H;QO9
+1vij;c1cccc(c12)c(ccc2)C[C@@H](CS(=O)(=O)C(C)(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc3ccccc3)[C@@H](O)[C@H](O)[C@H](Cc4ccccc4)NC(=O)[C@H](C(C)C)NC(=O)[C@@H](CS(=O)(=O)C(C)(C)C)Cc(ccc5)c(c56)cccc6;9.5200005;HIV-1 PROTEASE;BAY
+1vik;c1cccc(c12)c(ccc2)C[C@H](CS(=O)(=O)C(C)(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc3ccccc3)[C@@H](O)[C@H](O)[C@H](Cc4ccccc4)NC(=O)[C@H](C(C)C)NC(=O)[C@@H](CS(=O)(=O)C(C)(C)C)Cc(ccc5)c(c56)cccc6;9.5200005;HIV-1 PROTEASE;BAY
+1w5y;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3cc(F)ccc3F)[C@H](O)[C@@H](O)[C@@H](OCc4c(F)ccc(F)c4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;8.4799995;POL POLYPROTEIN;BE6
+1w5x;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3cccc(F)c3F)[C@H](O)[C@@H](O)[C@@H](OCc4c(F)c(F)ccc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;8.3999996;POL POLYPROTEIN;BE5
+1w5w;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3ccc(F)cc3F)[C@H](O)[C@@H](O)[C@@H](OCc4c(F)cc(F)cc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;8.8000002;POL POLYPROTEIN;BE4
+1w5v;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3cccc(F)c3)[C@H](O)[C@@H](O)[C@@H](OCc4cc(F)ccc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;8.1499996;HIV-1 PROTEASE;BE3
+1heg;[NH3+][C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)CCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)OC;7.7399998;HIV-1 PROTEASE;PSI
+1gnn;C1CCCCC1C[C@H](NC(=O)C)[C@@H](O)C[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(N)=[NH2+];5.6799998;HIV-1 PROTEASE;U0E
+1a9m;C1CCCCC1C[C@H](NC(=O)C)[C@@H](O)C[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCC[NH+]=C(N)N;6.9200001;HIV-1 PROTEASE;U0E
+2jle;Cc1[nH]nc(c12)ccc(F)c2Oc3cc(C#N)cc(c3)C#N;6.415669;REVERSE TRANSCRIPTASE/RNASEH;I15
+3ttp;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;9.1199999;HIV-1 protease;017
+1a94;[NH2+]=C(N)NCCC[C@H]([NH3+])C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N)CCCC;7.8499999;PROTEASE;0Q4
+4ahs;c1ccc(C(=O)[O-])c(c12)occ2;2.1900001;INTEGRASE;AKH
+4ahr;O1COc(c12)cc(cc2)CCC(=O)[O-];2.1900001;INTEGRASE;I2E
+4ahu;c1cccc(c12)[nH]cc2C(=O)[O-];2.27;INTEGRASE;ICO
+4ahv;[NH3+]Cc1ccccc1-n2cccn2;1.8200001;INTEGRASE;Z5P
+2qd7;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;9.1000004;Protease;065
+2qd6;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;8.6777811;Protease;065
+2qd8;O1COc(c12)cc(cc2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)CCO4)Cc5ccccc5;9.0705814;Protease;065
+3is9;COc1c(C#N)cc(cc1C(=O)OC)C(c(cc(C#N)c2OC)cc2C(=O)OC)=CCCCC(=O)OC;6.4200001;Reverse transcriptase/ribonuclease H;AC7
+4ah9;c1ccccc1-c2nsc(n2)N3CC[NH2+]CCC3;2.46;INTEGRASE;0MB
+1bv9;s1ccnc1NC(=O)c(ccc2)cc2CN3C(=O)N(Cc4cc(ccc4)C(=O)Nc5nccs5)[C@H](Cc6ccccc6)[C@H](O)[C@@H](O)[C@H]3Cc7ccccc7;9.96;PROTEIN (HIV-1 PROTEASE);XV6
+1bv7;s1ccnc1NC(=O)c(ccc2)cc2CN3C(=O)N(Cc4cc(ccc4)C(=O)Nc5nccs5)[C@H](Cc6ccccc6)[C@H](O)[C@@H](O)[C@H]3Cc7ccccc7;10.3;PROTEIN (HIV-1 PROTEASE);XV6
+3qaa;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@H](CO4)OC;11.54;HIV-1 Protease;G04
+1ec3;n1ccccc1CNC(=O)[C@H](C(C)C)NC(=O)[C@H](OCc2ccccc2)[C@H](O)[C@@H](O)[C@@H](OCc3ccccc3)C(=O)N[C@@H](C(C)C)C(=O)NCc4ccccn4;9.04;HIV-1 PROTEASE;MS3
+1ec2;c1ncccc1-c(cc2)ccc2CO[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NC)[C@H](O)[C@@H](O)[C@H](C(=O)N[C@@H](C(C)C)C(=O)NC)OCc3ccc(cc3)-c4cccnc4;10;HIV-1 PROTEASE;BEJ
+1ec1;c1sccc1-c(cc2)ccc2CO[C@@H](C(=O)N[C@@H](C(C)C)C(=O)NC)[C@H](O)[C@@H](O)[C@H](C(=O)N[C@@H](C(C)C)C(=O)NC)OCc3ccc(cc3)-c4cscc4;8.9200001;HIV-1 PROTEASE;BEE
+1ec0;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H](OCc3ccccc3F)[C@H](O)[C@@H](O)[C@@H](OCc4c(F)cccc4)C(=O)N[C@@H]5[C@H](O)Cc(c56)cccc6;8.4899998;HIV-1 PROTEASE;BED
+3drs;c1c(Cl)cc(/C=N/[H])cc1Oc(c2Cl)cc(cc2)OCc([nH]n3)c(c34)cccn4;9.3010302;Reverse transcriptase/ribonuclease H;R8D
+3drr;c1c(Cl)cc(C#N)cc1Oc(c2Cl)cc(cc2)OCc([nH]n3)c(c34)ccc(n4)N;9.3979397;Reverse transcriptase/ribonuclease H;R8E
+3drp;c1c(Cl)cc(C#N)cc1Oc(c2Cl)cc(cc2)OCc([nH]n3)c(c34)ccc(n4)N;9.6989698;Reverse transcriptase/ribonuclease H;R8E
+1gno;C1CCCCC1C[C@H](NC(=O)C)[C@@H](O)C[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(N)=[NH2+];7.6999998;HIV-1 PROTEASE;U0E
+1gnm;C1CCCCC1C[C@H](NC(=O)C)[C@@H](O)C[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(N)=[NH2+];6.25;HIV-1 PROTEASE;U0E
+3fsm;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;7;COVALENT DIMER [L-Ala51, D-Ala51'] HIV-1 PROTEASE;2NC
+4cp7;CCCc1ccc(cc1)C[C@@](O)(C(=O)N[C@@H](C(C)C)C(=O)NCCC)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccncc3;8.1099997;PROTEASE;9MW
+4cps;c12ccc(cc2)C/C=C\CNC(=O)[C@H](C(C)C)NC(=O)[C@@](C1)(O)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc3ccc(cc3)-c4ccncc4;8.2700005;PROTEASE;1T8
+4cpr;C=CCNC(=O)[C@H](C(C)C)NC(=O)[C@](O)(Cc(cc1)ccc1CC=C)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3sccc3;7.46;PROTEASE;378
+4cpq;C=CCc1ccc(cc1)C[C@@](O)(C(=O)N[C@@H](C(C)C)C(=O)NCC=C)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3cccnc3;7.7399998;PROTEASE;9MW
+4cpw;c12ccc(cc2)CC/C=C\NC(=O)[C@H](C(C)C)NC(=O)[C@@](C1)(O)CCC/[N+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)=C/c3ccc(cc3)-c4ccsc4;7.5;PROTEASE;V78
+4cpu;c12ccc(cc2)C/C=C\CNC(=O)[C@H](C(C)C)NC(=O)[C@@](C1)(O)CCC/[N+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)=C/c3ccc(cc3)C4=CCSC4;7.5300002;PROTEASE;V78
+4cpt;c12ccc(cc2)C/C=C\CNC(=O)[C@H](C(C)C)NC(=O)[C@@](C1)(O)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc3ccc(cc3)-c4cccnc4;7.6999998;PROTEASE;1T8
+4cpx;c12ccc(cc2)C/C=C\CNC(=O)[C@H](C(C)C)NC(=O)[C@@](C1)(O)CCC[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc3ccc(cc3)[C@H]4C=CCS4;7.77;PROTEASE;J3W
+1rti;OCCOCn1c(=O)[nH]c(=O)c(C)c1Sc2ccccc2;4.77;HIV-1 REVERSE TRANSCRIPTASE;HEF
+1rth;c1ccnc(c12)N(CC)c3c(N(C2=O)C)ccc(N(=O)=O)c3;6.4000001;HIV-1 REVERSE TRANSCRIPTASE;U05
+1rt1;c1ccccc1Cc2n(COCC)c(=O)[nH]c(=O)c2C(C)C;8.1000004;HIV-1 REVERSE TRANSCRIPTASE;MKC
+1rt2;c1ccccc1Cc2n(c(=O)[nH]c(=O)c2C(C)C)COCc3ccccc3;8.2200003;HIV-1 REVERSE TRANSCRIPTASE;TNK
+3vf7;COc1ccc(cc1)S(=O)(=O)N(C[C@H]2CCC(=O)N2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H](C4)C[C@@H]([C@@H]45)CCO5;9.1000004;protease;031
+1hih;c1ccccc1C[C@H](NC(=O)[C@H](C(C)C)NC(=O)C)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)C)NC(=O)C)CC2CCCCC2;8.0500002;HIV-1 PROTEASE;C20
+1hii;c1ccccc1C[C@H](NC(=O)[C@H](C(C)C)NC(=O)C)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)C)NC(=O)C)CC2CCCCC2;7.2800002;HIV-2 PROTEASE;C20
+1hiv;c1cccc(c12)c(ccc2)OCC(=O)N[C@@H](Cc3[nH]cnc3)C(=O)N[C@@H](CC4CCCCC4)[C@@H](O)[C@H](O)[C@@H](C(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCc5ccccn5;9;HIV-1 PROTEASE;1ZK
+4j93;c1ccccc1-c2[nH]nc(c23)C(=O)N[C@H]3c4cccnc4;4.6999998;Gag protein;1JR
+2rkf;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;9.0809221;PROTEASE RETROPEPSIN;AB1
+1dmp;Nc(c1)cccc1CN(C2=O)[C@H](Cc3ccccc3)[C@H](O)[C@@H](O)[C@@H](Cc4ccccc4)N2Cc5cc(N)ccc5;9.5500002;HIV-1 PROTEASE;DMQ
+3eky;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccn3;9.6400003;Protease;DR7
+1mrx;Cc1c(O)cccc1C(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CS3)[C@@H](C3(C)C)C(=O)NC(C)(C)C;7.2600002;POL polyprotein;K57
+3ekq;c1cccc(c12)nc(cc2)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C[N@@H+]([C@@H](C4)C(=O)NC(C)(C)C)C[C@H]([C@H]45)CCCC5;6.75;Protease;ROC
+3ekp;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;8.8900003;Protease;478
+1mrw;Cc1c(O)cccc1C(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CS3)[C@@H](C3(C)C)C(=O)NC(C)(C)C;9.6999998;POL polyprotein;K57
+3ekt;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.59;Protease;017
+3ka2;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H]([C@@H](O)[NH3+])CCCNC(=[NH2+])N;6.6199999;[L-Ala51;2NC
+5jfu;COc1ccc(cc1)S(=O)(=O)N(Cc2ccccc2)C[C@@H](O)[C@H](CC34C[C@@H]5C[C@H](C4)C[C@H](C3)C5)NC(=O)O[C@H]6CO[C@H]([C@H]67)OCC7;8.0699997;Protease;6KQ
+3kfn;c1ccccc1COC(=O)/N=C(C)/C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C(=O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)C(\C)=N\C(=O)OCc4ccccc4;4.7399998;Protease;3TL
+4l1a;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;8.2700005;MDR769 HIV-1 protease;AB1
+4heg;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;8.9200001;HIV-1 protease;G52
+3m8p;Cc1cc(C#N)cc(C)c1Oc2nc(nc(N)c2Br)Nc3ccc(C#N)cc3;8.6800003;Reverse transcriptase/ribonuclease H;65B
+3m8q;Cc1cc(C#N)cc(C)c1Oc2nc(ncc2)N[C@H]3CC[N@@H+](CC3)Cc4ccc(cc4)S(=O)(=O)C;9.5200005;Reverse transcriptase/ribonuclease H;DJZ
+4he9;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@@H](CO3)[C@@H]([C@@H]34)[C@@H]5[C@H](O4)OCC5;8.46;HIV-1 protease;G52
+3h5b;COc1ccc(cc1)S(=O)(=O)N(C[C@H]2CCC(=O)N2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H](C4)C[C@@H]([C@@H]45)CCO5;10.004365;HIV-1 protease;031
+2cej;c1cc(Br)ccc1C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)C[C@@](O)(Cc2ccccc2)C(=O)N[C@@H]3[C@H](O)Cc(c34)cccc4;8.6199999;POL PROTEIN;1AH
+2cen;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@](O)(Cc3ccccc3)C[N@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc4ccc(cc4)-c5cccnc5;8.3000002;POL PROTEIN;4AH
+2cem;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@](O)(Cc3ccccc3)C[N@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc4ccc(cc4)-c5ccccn5;7.9200001;POL PROTEIN;2AH
+4i7f;n1cccc(c12)N(C)C(=O)c3c(N2CC)ncc(c3)CCc(cc4)ccc4OCP(=O)(OCC)OCC;7;Reverse transcriptase;NVE
+1pro;c1ccccc1C[N@H+]2N(Cc3ccc(O)c(c3)OC)C(=O)N(Cc4cc(OC)c(O)cc4)[C@@H]([C@H](O)C2)Cc5ccccc5;11.3;HIV-1 PROTEASE;A88
+2lyb;CCCCCCCC(=O)O[C@@H](COP([O-])(O)OC[C@H]([NH3+])C([O-])[O-])COC(=O)CCCCCCC;4.46;Matrix protein p17;8SP
+3kdb;Cc1cccc(C)c1OCC(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CSC3(C)C)[C@@H]3C(=O)N[C@@H]4[C@H](O)Cc(c45)cccc5;9.8500004;Protease;006
+3kdc;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@H]3N(CSC3(C)C)C(=O)[C@@H](O)[C@H](Cc4ccccc4)NC(=O)COc5c(Cl)cccc5Cl;9.2799997;Protease;JZP
+3kdd;Fc1cccc(F)c1OCC(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CSC3(C)C)[C@@H]3C(=O)N[C@@H]4[C@H](O)Cc(c45)cccc5;8.46;Protease;JZQ
+5upj;c1ccccc1[C@H](CC)c(c(=O)o2)c(O)c(c23)CCCCCC3;7.1199999;HIV-2 PROTEASE;UIN
+1dif;n1ccccc1CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C(F)(F)C(O)(O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)N(C)Cc4ccccn4;10.66;HIV-1 PROTEASE;A85
+1b6k;O=C1CCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccc(O)cc2)[C@H](O)C[NH2+][C@@H](C3)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCOc(ccc34)cc4;8.7399998;RETROPEPSIN;PI5
+1b6l;c12ccc(cc2)OCCCC(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](C1)[C@H](O)C[N@H+]3[C@@H](CCCC3)C(=O)NC(C)(C)C;8.3000002;RETROPEPSIN;PI4
+1b6p;CCC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc1ccc(O)cc1)[C@H](O)C[NH2+][C@@H](C2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NCCCOc(ccc23)cc3;8.5200005;RETROPEPSIN;PI7
+4i54;[NH2+]=C(N)NC[C@@H](C1)[C@H](c(c12)cccc2)NC(=O)C(=O)Nc3cc(F)c(Cl)cc3;6.96;HIV-1 glycoprotein;1C1
+1hpo;C1CCCCCc(c12)c(O)c(c(=O)o2)[C@@H](C3CC3)c4cccc(c4)NS(=O)(=O)c5ccc(C#N)cc5;9.2200003;HIV-1 PROTEASE;UNI
+1hpv;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.2200003;HIV-1 PROTEASE;478
+1hps;c1ccccc1C[C@@H](c2[nH]c(cn2)C(=O)C(C)C)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)OCc4ccccc4;9.2200003;HIV-1 PROTEASE;RUN
+1hpx;c1cncc(c12)cccc2OCC(=O)N[C@@H](CSC)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)C(=O)N4CSC[C@H]4C(=O)NC(C)(C)C;11.26;HIV-1 PROTEASE;KNI
+1tl3;C1CCCCC1Oc(c(c(=O)[nH]2)C(C)C)c(c23)cc(Cl)cc3;6.1999998;Pol polyprotein, Reverse transcriptase, Chain A;H20
+1tl1;C1CCCCC1[S@@](=O)c(c(c(=O)[nH]2)CCC)c(c23)cc(Cl)cc3;6.4200001;Pol polyprotein, Reverse transcriptase, Chain A;H18
+3bc4;[NH3+]CCOC(=O)Cc(ccc1)c(c12)cccc2;5.3467875;protease;LLG
+1hos;c1ccccc1COC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)P([O-])(O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)OCc4ccccc4;8.5500002;HIV-1 PROTEASE;PHP
+2rkg;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;8.0861864;PROTEASE RETROPEPSIN;AB1
+2m3z;c1ccoc1/C=C2\S\C(NC2=O)=N/N=C(C(=O)N3)\c(c34)cc(cc4)S([O-])(O)O;6.5700002;NUCLEOCAPSID PROTEIN P7;1HF
+3lzv;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.59;HIV-1 Protease;017
+3lzu;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;10.06;HIV-1 protease;017
+1kzk;Oc1cccc(c1C)C(=O)N[C@@H](Cc2ccccc2)[C@H](O)C(=O)N(CSC3(C)C)[C@@H]3C(=O)NCc4c(C)cccc4;10.39;Protease;JE2
+2p3d;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)OCc4ccccc4;6.7399998;Pol protein;3TL
+2p3c;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)OCc4ccccc4;7.6199999;protease;3TL
+2p3b;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)OCc4ccccc4;8.4799995;protease;3TL
+2p3a;c1ccccc1COC(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)[C@@H](O)[C@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)OCc4ccccc4;7.96;protease;3TL
+2qnq;Clc1ccccc1S(=O)(=O)N(Cc2ccccc2)[C@@H]3[C@H](C[NH2+]C3)N(S(=O)(=O)c4ccccc4Cl)Cc5ccccc5;6.1135092;Gag-Pol polyprotein (Pr160Gag-Pol);QN3
+2qnp;c1ccccc1S(=O)(=O)N(Cc2ccc(I)cc2)[C@@H]3[C@H](C[NH2+]C3)N(S(=O)(=O)c4ccccc4)Cc5ccc(I)cc5;6.408936;Gag-Pol polyprotein (Pr160Gag-Pol);QN2
+2qnn;NC(=O)c1ccc(cc1)S(=O)(=O)N(Cc2ccc(C(F)(F)F)cc2)[C@H]3C[NH2+]C[C@@H]3N(Cc4ccc(C(F)(F)F)cc4)S(=O)(=O)c5ccc(C(=O)N)cc5;7.154902;Gag-Pol polyprotein (Pr160Gag-Pol);QN1
+3haw;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;6;[L-Ala51/51']HIV-1 protease;2NC
+3hau;O=C(C)N[C@@H]([C@H](O)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC)C[NH2+][C@@H](CCCC)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@H](C(=O)N)CCCNC(=[NH2+])N;6.3800001;HIV-1 protease;2NC
+3ekx;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)C4=CC=CC(=O)[C@H]4C;9.4099998;Protease;1UN
+3ekw;COC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[N@@H+](NC(=O)[C@H](C(C)(C)C)NC(=O)OC)Cc2ccc(cc2)-c3ccccn3;7.96;Protease;DR7
+3ekv;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;9.4099998;Protease;478
+4jlh;Clc1ccc(cc1)-c2c([C@@H](C(=O)[O-])OC)c(C)nc(c23)ccc(Br)c3;5.4000001;HIV-1 Integrase catalytic core domain;0L9
+1ohr;C1CCC[C@H]([C@H]12)C[C@@H](C(=O)NC(C)(C)C)[N@@H+](C2)C[C@@H](O)[C@H](CSc3ccccc3)NC(=O)c4cccc(O)c4C;8.6999998;ASPARTYLPROTEASE;1UN
+3vfa;COc1ccc(cc1)S(=O)(=O)N(C[C@H]2CCC(=O)N2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H](C4)C[C@@H]([C@@H]45)CCO5;9.1899996;protease;031
+3vfb;COc1ccc(cc1)S(=O)(=O)N(C[C@H]2CCC(=O)N2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H](C4)C[C@@H]([C@@H]45)CCO5;9.04;protease;031
+3vf5;COc1ccc(cc1)S(=O)(=O)N(C[C@H]2CCC(=O)N2)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@@H](C4)C[C@@H]([C@@H]45)CCO5;9.3400002;Protease;031
+3gi5;O=C(C)c1cccc(c1)N2C(=O)O[C@@H](C2)C(=O)N[C@@H](Cc3ccccc3)[C@H](O)CN(CC(C)C)S(=O)(=O)c(c4)ccc(c45)OCO5;11.22;Protease;K62
+3gi4;O1COc(c12)ccc(c2)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc3ccccc3)NC(=O)[C@H]4OC(=O)N(C4)c5cccc(c5)C(F)(F)F;10.8;Protease;K60
+3gi6;COc(cc1)ccc1S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@H]3OC(=O)N(C3)c4cccc(c4)C(F)(F)F;11.22;Protease;D78
+2pqz;c1ccccc1CN(S(=O)(=O)c2ccccc2)[C@H]3C[NH2+]C[C@@H]3N(S(=O)(=O)c4ccccc4)Cc5ccccc5;5.667562;Gag-Pol polyprotein (Pr160Gag-Pol);G0G
+3s43;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;8.6000004;Protease;478
+3s45;C1COC[C@H]1OC(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3;8.4899998;Protease;478
+4zip;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)c3cc(C)cc(c3)C(=O)N(C)Cc4nc(C)oc4C;9.6800003;Protease;G64
+3lp2;CCOC(=O)c(c(n1=O)O)c(O)c(c12)cc(cn2)Oc3ccc(cc3)N(CC)CC;6.6599998;Reverse transcriptase/ribonuclease H;LP9
+1htg;c1cccc(c12)[nH]c(n2)CNC(=O)C[C@@H](O)[C@@H](Cc3ccccc3)NC(=O)[C@@H](C4(C)C)[NH2+][C@H](S4)[C@@H](C(=O)NCc5ccccc5)NC(=O)Cc6ccccc6;8.4200001;HIV-1 PROTEASE;G37
+1htf;c1ccccc1C[C@H](CO)NC(=O)[C@@H](C2(C)C)[NH2+][C@H](S2)[C@@H](C(=O)NCc3ccccc3)NC(=O)Cc4ccccc4;6.8299999;HIV-1 PROTEASE;G26
+1hte;c1ccccc1CNC(=O)[C@H]([C@@H](S2)[NH2+][C@@H](C(=O)[O-])C2(C)C)NC(=O)Cc3ccccc3;5.6399999;HIV-1 PROTEASE;G23
+4cjq;c1cccc(c12)[nH]cc2CC(=O)NC[C@@H](CC(C)C)Cc(cc3)c(C(=O)[O-])c(c34)OCO4;3.5899999;INTEGRASE;VXO
+4cjp;c1ncccc1C(=O)NC[C@@H](CC(C)C)Cc(cc2)c(C(=O)[O-])c(c23)OCO3;3.3199999;INTEGRASE;4D2
+4cjr;COc1cccc(c1C(=O)[O-])C[N@H+](C)Cc(cc(c23)OCO3)c(c2)C(=O)NCc4ccc(cc4)OC;3.0999999;INTEGRASE;FYM
+2qhz;c1ccccc1C[C@H](NC(=O)\C=C(\C(F)(F)F)C)[C@H](O)CN(Cc2cccs2)S(=O)(=O)c3cc(F)c(F)cc3F;7.2757239;Protease;MZ2
+2qhy;c1ccccc1C[C@H](NC(=O)[C@H](C)NC(=O)C)[C@H](O)CN(Cc2cccs2)S(=O)(=O)c3cc(F)c(F)cc3F;7.4814858;Protease;MZ1
+2qhc;O=C1NCCCN1[C@@H](C(C)C)C(=O)N[C@@H](Cc2ccccc2)C[C@H](O)[C@H](Cc3ccccc3)NC(=O)COc4c(C)cccc4C;8.9586077;PROTEASE RETROPEPSIN;AB1
+4cj4;O1COc(c12)c(C(=O)[O-])c(cc2)C[C@H](CC(C)C)CNC(=O)c3ccncc3;3.3599999;HIV INTEGRASE;S3G
+3pwm;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;9.1000004;Protease;017
+3so9;Nc1ccc(cc1)S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@@H](NC(=O)O[C@@H](CO2)[C@@H]([C@@H]23)CCO3)Cc4ccccc4;8.5600004;HIV-1 protease;017
+4gvm;c1c(Br)ccc(c12)nc(C)c([C@@H](C(=O)[O-])OC(C)(C)C)c2-c3ccc(Cl)cc3;6.1100001;Gag-Pol polyprotein;LF2
+1hwr;c1ccccc1C[C@@H](N(CC=C)C(=O)N2CC=C)[C@H](O)[C@@H](O)[C@H]2Cc3ccccc3;8.3299999;HIV-1 PROTEASE;216
+1tkt;C1CCCCC1Oc(c(c(=O)[nH]2)CCC)c(c23)cc(Cl)cc3;6.1500001;Pol polyproteins [Reverse transcriptase], Chain A;H12
+1sbg;c1ccccc1C[C@H](NC(=O)OC(C)(C)C)[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H](C(C)C)c3ncc[nH]3;7.7399998;HIV-1 PROTEASE;IM1

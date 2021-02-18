@@ -1,0 +1,89 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+5j9f;O=c1[nH]c(N)[nH+]c(c12)[nH]c(c2)CCNc3ccc(cc3)C(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];7.23;Trifunctional purine biosynthetic protein adenosine-3;83A
+4ogv;Clc1cc(ccc1)[C@H]2O[C@@H](CC(=O)[O-])C(=O)N([C@@H](CC)CS(=O)(=O)C(C)(C)C)[C@@H]2c3ccc(Cl)cc3;8.0500002;E3 ubiquitin-protein ligase Mdm2;2U7
+4ogt;CC(C)(C)S(=O)(=O)C[C@H](C1CC1)N(C2=O)[C@H](c3ccc(Cl)cc3)[C@@H](c(cc4Cl)ccc4)O[C@]2(C)Cc5ccc(C(=O)[O-])cn5;10;E3 ubiquitin-protein ligase Mdm2;2U6
+4ogn;CC(C)(C)S(=O)(=O)C[C@H](C1CC1)N(C2=O)[C@H](c3ccc(Cl)cc3)[C@@H](c(cc4Cl)ccc4)C[C@]2(C)Cc5ccc(C(=O)[O-])cn5;10;E3 ubiquitin-protein ligase Mdm2;2U5
+4mdn;c1c(Cl)ccc(c12)c(c(C(=O)[O-])[nH]2)[C@]3(C(=O)NC(C)(C)C)N(C4=O)[C@]34c5ccc(cc5)OCc6ccc(Cl)cc6;6.2199998;E3 ubiquitin-protein ligase Mdm2;Y30
+4mdq;c1ccccc1CNC(=O)[C@H]([NH2+][C@@H](CC(C)C)C(=O)NO)c2c(C(=O)NO)[nH]c(c23)cc(Cl)cc3;5.9200001;E3 ubiquitin-protein ligase Mdm2;28W
+4jv9;Clc1ccc(cc1)[C@H]2N(C)C(=O)[C@H](Cc3ccccc3)O[C@H]2c4ccc(Cl)cc4;5.7399998;E3 ubiquitin-protein ligase Mdm2;1MO
+4jve;Clc1ccc(cc1)[C@H]2N([C@@H](C(=O)[O-])CCC)C(=O)[C@H](Cc3ccc(F)cc3)O[C@H]2c4ccc(Cl)cc4;7.0700002;E3 ubiquitin-protein ligase Mdm2;1MQ
+5f6v;Oc1ccccc1-c2c(O)cccc2;2.24;SUMO-conjugating enzyme UBC9;5VL
+5f6d;c1cccc(NS2(=O)=O)c1c(c23)cccc3;2.52;SUMO-conjugating enzyme UBC9;5VJ
+4zfi;c1cc(Cl)ccc1C[C@]2(O)C(=C(C(=O)N2C)Cc3ccc(Cl)cc3)c4c[nH]c(c45)cc(Cl)cc5;6.3000002;E3 ubiquitin-protein ligase Mdm2;4NJ
+5laz;O=C([O-])c1ccc(cc1)[C@H]([NH2+]2)C[C@H]([N@H+]3CC4CC4)[C@@H]2[C@H](c(c5F)cccc5Cl)[C@@]36c7c(NC6=O)cc(Cl)cc7;8.3999996;E3 ubiquitin-protein ligase Mdm2;6ST
+3cm2;CC[C@H]([NH3+])C(=O)N[C@H](C1=O)[C@@H](C[NH3+])CC[C@H](N12)CC[C@H]2C(=O)NC(c3ccccc3)c4ccccc4;6.4685211;Baculoviral IAP repeat-containing protein 4;X23
+5c0k;CC(C)[C@@H](C(=O)N)NC(=O)[C@H](C)[NH3+];2.9200001;E3 ubiquitin-protein ligase XIAP;4WK
+3vzv;CN(C)C(=O)[C@H](CCC1)N1C(=O)[C@@H]([C@@H]2C(C)C)SC(N23)=N[C@@](C)(c4ccc(Cl)cc4)[C@H]3c5ccc(Cl)cc5;8.04;E3 ubiquitin-protein ligase Mdm2;VZV
+3w69;c1cc(Cl)ccc1[C@@H]2[C@](C)(c(cc3)ccc3Cl)Nc([n+]24)sc(c4C(C)C)C(=O)N5[C@@H](CC[C@H]5CC)C(=O)N6C[C@@H](C)N(C(=O)C)CC6;7.2399998;E3 ubiquitin-protein ligase Mdm2;LTZ
+3vbg;c1cc(Cl)c(C)c(c12)[nH]cc2/C=C(\NC3=O)C(=O)N3Cc(cc4F)ccc4F;7.48;E3 ubiquitin-protein ligase Mdm2;03M
+3rz3;COCC(=O)N[C@H]([C@H](O)[C@H](C(=O)[O-])O)Cc1ccc(cc1)-c2cc(Cl)cc(Cl)c2;5.7600002;Ubiquitin-conjugating enzyme E2 R1;U94
+4w9i;CC(=O)N1C[C@H](O)C[C@H]1C(=O)N2C[C@H](O)C[C@H]2C(=O)NCc3ccc(cc3)-c4scnc4C;5.96;Transcription elongation factor B polypeptide 2;3JS
+4ycu;C1CC[C@H](C)O[C@H]1C[C@H](OC2=O)Cc(c23)cc(O)cc3O;5.48;Lysine--tRNA ligase;KRS
+4ycw;C1CC[C@H](C)O[C@H]1C[C@H](OC2=O)Cc(c23)cc(O)cc3O;5.6799998;Lysine--tRNA ligase;KRS
+5lli;C1CC1(C#N)C(=O)N[C@@H](C(C)(C)C)C(=O)N2C[C@H](O)C[C@H]2C(=O)NCc3ccc(cc3)-c4scnc4C;7.0500002;Transcription elongation factor B polypeptide 2;6Z3
+5c83;C[C@H]1[NH2+]C[C@H](COC)[N@H+](C1)CC(=O)N(CC2(C)C)c(c23)cc(nc3)Cc4ccccc4;6.8000002;E3 ubiquitin-protein ligase XIAP;4YN
+2lzg;Clc1ccc(cc1)[C@H]2N(CC3CC3)C(=O)[C@@H](CC(=O)[O-])C[C@@H]2c4cccc(Cl)c4;7.77;E3 ubiquitin-protein ligase Mdm2;13Q
+4b9k;Nc1c(C)c(ccc1)C(=O)N2[C@@H](C[C@@H](O)C2)C(=O)NCc3ccc(cc3)-c4c(C)ncs4;6.1700001;TRANSCRIPTION ELONGATION FACTOR B POLYPEPTIDE 2;TG0
+3lbk;c1cc(Cl)cc(c12)[nH]c(C(=O)[O-])c2-c3c(-c4ccccc4)ncn3Cc5ccc(Cl)cc5;6.04;E3 ubiquitin-protein ligase Mdm2;K23
+3lbl;c1cc(Cl)cc(NC2=O)c1[C@]23[C@@H](CC(C)(C)C)[NH2+][C@@H](C(=O)N)[C@H]3c4c(F)c(Cl)ccc4;7.4400001;E3 ubiquitin-protein ligase Mdm2;MI6
+1t4e;Clc1ccc(cc1)[C@@H](C(=O)[O-])N(C2=O)[C@@H](c3ccc(Cl)cc3)C(=O)Nc(c24)ccc(I)c4;7.0999999;Ubiquitin-protein ligase E3 Mdm2;DIZ
+4w9l;CC(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](C(C)(C)C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2ccc(cc2)-c3scnc3C;5.02;Transcription elongation factor B polypeptide 2;3JJ
+4w9h;CC(=O)N[C@@H](C(C)(C)C)C(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2ccc(cc2)-c3scnc3C;6.73;Transcription elongation factor B polypeptide 2;3JF
+4w9d;CC(C)(C)CC(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2ccc(cc2)-c3ocnc3C;4.9899998;Transcription elongation factor B polypeptide 2;3JK
+4w9e;CC(C)(C)CC(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2ccc(cc2)-c3scnc3;5.1500001;Transcription elongation factor B polypeptide 2;3JT
+4w9f;CC(C)(C)CC(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2ccc(cc2)-c3scnc3C;5.4899998;Transcription elongation factor B polypeptide 2;3JU
+4w9g;CC(C)(C)CC(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2cc(C)c(cc2)-c3scnc3;5.2600002;Transcription elongation factor B polypeptide 2;3JV
+4w9c;CC(C)(C)CC(=O)N1C[C@H](O)C[C@H]1C(=O)NCc2ccc(cc2)-c3ocnc3;4.6500001;Transcription elongation factor B polypeptide 2;3JG
+4jv7;Brc1ccc(cc1)[C@H]2N(C)C(=O)[C@H](Cc3ccccc3)O[C@H]2c4ccc(Br)cc4;6;E3 ubiquitin-protein ligase Mdm2;1MN
+3tu1;Fc1ccc(cc1F)CN(C=O)[C@@H](C(=O)NC(C)(C)C)c2c(C(=O)[O-])[nH]c(c23)cc(Cl)cc3;6.5999999;E3 ubiquitin-protein ligase Mdm2;07G
+4kju;c1c(Br)sc(c12)c(C(=O)N)cnc2N;8.2200003;E3 ubiquitin-protein ligase XIAP;1RH
+4ci1;O=C1NC(=O)CC[C@@H]1N(C2=O)C(=O)c(c23)cccc3;6.5999999;DNA DAMAGE-BINDING PROTEIN 1;EF2
+4ci2;O=C1NC(=O)CC[C@@H]1N(C2=O)Cc(c23)c(N)ccc3;6.75;DNA DAMAGE-BINDING PROTEIN 1;LVY
+5f6u;CCOC(=O)CCc1cc(O)c(cc1)-c2ccccc2O;2.52;SUMO-conjugating enzyme UBC9;5VK
+4oba;Clc1cc(ccc1)[C@H]2O[C@H](CC(=O)[O-])C(=O)N([C@@H](C3CC3)CS(=O)(=O)C(C)(C)C)[C@@H]2c4ccc(Cl)cc4;9.3999996;E3 ubiquitin-protein ligase Mdm2;2TW
+4kjv;O=C(N)c(c1)sc(c12)c(C(=O)N)cnc2N;7.7399998;E3 ubiquitin-protein ligase XIAP;1RK
+3hfv;O=C([O-])[C@@H]([NH3+])Cc1cccc(c1)O;4.8664613;Phenylalanyl-tRNA synthetase, mitochondrial;MTY
+4dij;C1COCC[NH+]1CCNC(=O)c([nH]2)c(c(c23)ccc(Cl)c3)-c4n(Cc5ccc(Cl)cc5)cnc4-c6ccccc6;7.52;E3 ubiquitin-protein ligase Mdm2;BLF
+3eyl;CC[C@H]([NH3+])C(=O)N[C@H](C1=O)[C@@H](CC[NH3+])CC[C@H](N12)CC[C@H]2C(=O)NC(c3ccccc3)c4ccccc4;6.5999999;Baculoviral IAP repeat-containing protein 4;SMK
+4odf;CC(C)(C)S(=O)(=O)C[C@H](C1CC1)N(C2=O)[C@H](c3ccc(Cl)cc3)[C@@H](c(cc4Cl)ccc4)O[C@@]2(C)Cc5ccc(C(=O)[O-])cn5;10;E3 ubiquitin-protein ligase Mdm2;2U1
+4ode;c1cc(Cl)c(F)cc1[C@@H](N(C2=O)[C@@H](C3CC3)CS(=O)(=O)C(C)(C)C)[C@@H](c(cc4Cl)ccc4)C[C@]2(C)Cc5sc(cn5)CC(=O)[O-];10;E3 ubiquitin-protein ligase Mdm2;2U0
+3jzk;c1cc(Br)ccc1[C@H]2C(=C3Nc(n24)ncn4)[C@@H](c5ccc(Br)cc5)Oc6c3cccc6;5.9100947;E3 ubiquitin-protein ligase Mdm2;YIN
+4ttv;C1C[C@@H](C(=O)[O-])[C@@H]1[C@@H]2C/C=C/C=C(\C#N)[C@H](O)[C@@H](C)C[C@H](C)C[C@H](C)C[C@H](C)[C@@H](O)CC(=O)O2;6.6799998;Threonine--tRNA ligase, cytoplasmic;BC9
+4qo4;Clc(c1)cccc1[C@@H](C2)[C@@H](c(cc3)ccc3Cl)N(C(=O)[C@@]2(C)CC(=O)[O-])[C@@H](CC)c(n4)cccc4C5C=C5;8.3000002;E3 ubiquitin-protein ligase Mdm2;35S
+4jwr;Clc1cc(ccc1)[C@@H]2O[C@@H](CC(=O)[O-])C(=O)N([C@@H](CC)CO)[C@@H]2c3ccc(Cl)cc3;6.21;E3 ubiquitin-protein ligase Mdm2;1MY
+4qoc;O=C([O-])C[C@@]1(C)C[C@H](c(cc2Cl)ccc2)[C@@H](c3ccc(Cl)cc3)N(C1=O)[C@@H](C4C=C4)CS(=O)(=O)N5CCCC5;9.9200001;E3 ubiquitin-protein ligase Mdm2;35T
+4hwt;c1cc(Cl)ccc1[C@]2(C)N=C(C)N([C@]2(C)c3ccc(Cl)cc3)C(=O)N4CC[NH+](CC4)CCCS(=O)(=O)C;4.3000002;Threonine--tRNA ligase, cytoplasmic;1B2
+4hy0;[NH3+][C@@H](C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@H](C(=O)[O-])C(C)C;6.6999998;E3 ubiquitin-protein ligase XIAP;1AQ
+4oq3;c1ccc(C)cc1-c(n2-c(cc3Cl)c(C)cc3)nc(C(=O)[O-])c2-c4cc(Cl)ccc4;8.1000004;E3 ubiquitin-protein ligase Mdm2;2V8
+5c7d;C[C@@H]1C[N@@H+](CC[NH2+]1)CC(=O)N(CC2)c(c23)cc(Cl)nc3;5.1100001;E3 ubiquitin-protein ligase XIAP;4YF
+5c7a;C[C@@H]1C[N@@H+](CC[NH2+]1)CC(=O)N(CC2)c(c23)cccc3;3.3099999;E3 ubiquitin-protein ligase XIAP;4YE
+5c7c;C[C@@H]1C[N@@H+](CC[NH2+]1)CC(=O)N(CC2(C)C)c(c23)cc(Cl)cc3;5.2600002;E3 ubiquitin-protein ligase XIAP;4YC
+5c7b;C[C@@H]1C[N@@H+](CC[NH2+]1)CC(=O)N2CCCC2;3;E3 ubiquitin-protein ligase XIAP;4YD
+5c84;C[C@H]1[NH2+]C[C@H](COC)[N@H+](C1)CC(=O)N(CC2(C)C)c(c23)cc(Cl)nc3;6.1900001;E3 ubiquitin-protein ligase XIAP;4YL
+3hl5;C1CCCCC1[C@H](NC(=O)[C@H](C)[NH2+]C)C(=O)N2CC[C@H](C)[C@H]2C(=O)Nc3ccccc3-c4ncccn4;4.4685211;Baculoviral IAP repeat-containing protein 4;9JZ
+3jrx;c1ccccc1[C@@H](OC(=O)[C@@H](C)[C@]23O)CCCC[C@H](OC)[C@H](OC)\C=C\[C@H](C)[C@H](O3)[C@@H](C)[C@H](O)[C@H]2OC;9;Acetyl-CoA carboxylase 2;S1A
+4zyf;C1C(=O)N(C)CC[N@@H+]1[C@@H](CC2)CC[C@H]2CN(C)c(cc3)ccc3N(C(=O)C4)[C@@H](c(cc5)ccc5Cl)c(c46)cc(c(c6)OC)OC(C)C;8.6400003;E3 ubiquitin-protein ligase Mdm2;4T4
+4zyc;CCOc(c1)c(OCC)cc(c12)[C@H](c(cc3)ccc3Cl)N(C(=O)C2)c4c(cc(C)cc4)OCc5nnn[nH]5;6.4200001;E3 ubiquitin-protein ligase Mdm2;4SS
+4zyi;CC[C@@H](C)Oc(c(c1)OC)cc(c12)[C@H](c(cc3)ccc3Cl)N(C(=O)C2)c4ccc(cc4)N(C)Cc5ccncc5;8.1000004;E3 ubiquitin-protein ligase Mdm2;4TH
+4hbm;Clc1ccc(cc1)[C@H]2N([C@H](CO)CC)C(=O)[C@@H](CC(=O)[O-])C[C@@H]2c3cccc(Cl)c3;7.9200001;E3 ubiquitin-protein ligase Mdm2;0Y7
+5c3k;C[C@H]([NH3+])C(=O)Nc1cccc(n1)N;3.96;E3 ubiquitin-protein ligase XIAP;4XF
+5hmh;O=C([O-])CCCOc1ccccc1N(CC2)CCN2C(=O)[C@]3(Oc(c4)csc4C(F)(F)F)CCCN([C@@H]3CCC)C(=O)c5c(C(F)(F)F)ccnc5;8.1499996;E3 ubiquitin-protein ligase Mdm2;62R
+5hmi;c1nccc(C(F)(F)F)c1C(=O)N(CCC2)[C@H](CCC)[C@]2(Oc3csc(C(F)(F)F)c3)C(=O)N4CCN(CC4)c5c(cccc5)OCCO;7.8200002;E3 ubiquitin-protein ligase Mdm2;62T
+5hmk;FC(F)(F)c1ccncc1C(=O)N([C@@H]2CCC)CCC[C@@]2(Oc3ccc(C(F)(F)F)cc3)C(=O)N4CCN(CC4)c5ccccc5OCCO;7.4000001;E3 ubiquitin-protein ligase Mdm2;62Q
+3g76;c1ccccc1Sc2nnnn2C[C@@H]3CCCN3C(=O)[C@H]([C@@H](C)OC)NC(=O)[C@H](C)[NH2+]C;6.636764;Baculoviral IAP repeat-containing protein 4;CZ3
+1rv1;c1cc(Br)ccc1[C@@H]2N=C(c3c(OCC)cc(cc3)OC)N([C@@H]2c4ccc(Br)cc4)C(=O)N5CC[NH+](CC5)CCO;6.8499999;Ubiquitin-protein ligase E3 Mdm2;IMZ
+5c91;c1cc(OC)cc(c12)c(c(C)n2C)C(=O)NCCCC(=O)OC;3.6099999;E3 ubiquitin-protein ligase NEDD4;4YU
+4q93;Oc1cc(O)cc(c1)/C=C\c2ccc(O)cc2;4.6500001;Tyrosine--tRNA ligase, cytoplasmic;STL
+5trf;c1cc(Cl)cc(NC2=O)c1[C@@]23[C@@H](c4cccc(Cl)c4F)[C@@H]([NH2+][C@H]3CC(C)(C)C)C(=O)N[C@H]5CC[C@H](O)CC5;9.0600004;E3 ubiquitin-protein ligase Mdm2;7HC
+5lay;c1cc(Cl)cc(NC2=O)c1[C@@]23[C@@H](c(c4F)cccc4Cl)[C@H]([NH3+])[C@H](C)[N@H+]3Cc5cccc(c5)OCC;7.4699998;E3 ubiquitin-protein ligase Mdm2;6SS
+5lav;CC(C)(C)C[N@@H+]1C[C@@H]([NH3+])[C@H](c(c2)cccc2Cl)[C@@]13c4c(NC3=O)cc(Cl)cc4;6.0900002;E3 ubiquitin-protein ligase Mdm2;6SK
+5law;c1cc(Cl)cc(NC2=O)c1[C@@]23[C@@H](c4cccc(Cl)c4)[C@H]5[C@H](CC[N@H+]5CC(=O)[O-])[N@H+]3CC6CC6;7.0999999;E3 ubiquitin-protein ligase Mdm2;6SJ
+4zgk;c1c(Cl)ccc(c12)c(c[nH]2)C3=C(Cc(cc4)ccc4Cl)C(=O)O[C@]3(O)Cc5ccc(Cl)cc5;5.5100002;E3 ubiquitin-protein ligase Mdm2;4NX
+4hg7;CC(C)C[C@H]([NH3+])C(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N2[C@@H](CCC2)C(=O)N[C@@H]([C@H](O)C)C(=O)N[C@H](C(=O)[O-])C(C)C;7.0500002;E3 ubiquitin-protein ligase Mdm2;NUT
+4oas;O=C([O-])C[C@@]1(C)C[C@H](c(cc2Cl)ccc2)[C@H](N(C1=O)[C@@H](CC)CS(=O)(=O)C(C)(C)C)c3ccc(Cl)cc3;10;E3 ubiquitin-protein ligase Mdm2;2SW
+3v3l;n1cnc(N)c(c12)ncn2[C@H]3[C@@H]([C@H](O)[C@H](O3)COP(O)(O)O)O[C@@H]4[C@H](O)[C@H](O)[C@H](O4)COP([O-])([O-])[O-];6.4299998;E3 ubiquitin-protein ligase RNF146;V3L
+4erf;O=C([O-])C[C@@]1(C)C[C@H](c(cc2Cl)ccc2)[C@H](N(C1=O)[C@@H](CC)[C@@H](O)C)c3ccc(Cl)cc3;9.3999996;E3 ubiquitin-protein ligase Mdm2;0R3
+4ere;Clc1ccc(cc1)[C@H]2N([C@@H](CC)C(=O)OC(C)(C)C)C(=O)[C@@H](CC(=O)[O-])C[C@@H]2c3cccc(Cl)c3;8.3800001;E3 ubiquitin-protein ligase Mdm2;0R2
+4wt2;O=C([O-])c1ccc(cc1OC)NC(=O)C[C@@]2(C)C[C@H](c3cc(Cl)ccc3)[C@H](N(C2=O)[C@@H](C4CC4)CS(=O)(=O)C(C)(C)C)c5cc(F)c(Cl)cc5;10.42;E3 ubiquitin-protein ligase Mdm2;3UD
+4occ;Clc1cc(ccc1)[C@H]2O[C@H](CC(=O)[O-])C(=O)N([C@@H](CC)CS(=O)(=O)C(C)(C)C)[C@@H]2c3ccc(Cl)cc3;8.6999998;E3 ubiquitin-protein ligase Mdm2;2TZ
+3cm7;CC[C@H]([NH3+])C(=O)N[C@H](C1=O)[C@@H](CO)CC[C@H](N12)CC[C@H]2C(=O)NC(c3ccccc3)c4ccccc4;6.5700002;Baculoviral IAP repeat-containing protein 4;X22

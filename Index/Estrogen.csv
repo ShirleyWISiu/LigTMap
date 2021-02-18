@@ -1,0 +1,76 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+1g50;c1cc(O)cc(CC2)c1[C@@H](CC3)[C@@H]2[C@@H]([C@]34C)CC[C@@H]4O;6.2800002;ESTROGEN RECEPTOR;EST
+2p7a;Clc1ccc(O)cc1C;6.1034741;Estrogen-related receptor gamma;43M
+2p7g;Oc1ccc(cc1)C(C)(C)c2ccc(O)cc2;6.5272441;Estrogen-related receptor gamma;2OH
+2p7z;c1ccccc1C(\CC)=C(\c2ccc(O)cc2)c3ccc(cc3)OCC[NH+](C)C;6.5816989;Estrogen-related receptor gamma;OHT
+2j7x;c1cc(O)cc(CC2)c1[C@@H](CC3)[C@@H]2[C@@H]([C@]34C)CC[C@@H]4O;8.7700005;ESTROGEN RECEPTOR BETA;EST
+1uom;C1CCCC[NH+]1CCOc2ccc(cc2)[C@H](c(c34)ccc(c4)O)N(CC3)c5ccccc5;7.7199998;ESTROGEN RECEPTOR;PTI
+1g3m;Clc(c1)c(O)c(Cl)cc1-c2cc(Cl)c(O)c(Cl)c2;10;ESTROGEN SULFOTRANSFERASE;PCQ
+2q70;c1cc(O)cc(c12)[C@H]3[C@H](CC(F)(F)C3)[C@@H](O2)c(cc4)ccc4O;8.0799999;Estrogen receptor;DC8
+1sj0;c1cc(O)cc(c12)S[C@H](c3ccc(O)cc3)[C@@H](O2)c4ccc(cc4)OCC[NH+]5CCCCC5;9.1000004;Estrogen receptor;E4D
+2nv7;c1cccc(c12)c(/C=N/O)ccc2-c3ccc(O)cc3;8.3000002;Estrogen receptor beta;555
+2giu;CCCC[C@]12C(=C(Br)C(=O)CC1)c3c(C2)cc(O)cc3;8.8199997;Estrogen receptor beta;FBR
+1vjb;c1ccccc1C(\CC)=C(\c2ccc(O)cc2)c3ccc(cc3)OCC[NH+](C)C;7.8899999;Estrogen-related receptor gamma;OHT
+2i0g;c1c(O)ccc(c1[C@@H]23)O[C@H]([C@H]2CCC3)c4ccc(O)cc4;9.7200003;Estrogen receptor beta;I0G
+2qe4;COCc1cc(O)cc(c12)[C@H]3[C@H](CCC3)[C@@H](O2)c4ccc(O)cc4;7.96;Estrogen receptor;JJ3
+2gpp;CC(C)c1ccc(cc1)\C=N\NC(=O)c2ccc(O)cc2;5.6999998;Estrogen-related receptor gamma;1BA
+2ewp;c1ccccc1\C(CCCO)=C(\c(cc2)ccc2O)c3ccc(cc3)OCC[NH+](C)C;7.0999999;Estrogen-related receptor gamma;TXF
+2i0j;c1c(O)ccc(c1[C@@H]23)O[C@H]([C@H]2CCC3)c4ccc(O)cc4;8.5699997;Estrogen receptor alpha;I0G
+2qa8;Oc1cc(O)cc(c12)occ(c2=O)-c3ccc(O)cc3;6;Estrogen receptor;GEN
+2b1z;C[C@@]1(O)CC[C@H]([C@@]12C)c3c(CC2)c4c(cc3)cc(O)cc4;7.1023731;Estrogen receptor;17M
+1yye;Oc1c(F)cc(cc1)-c(c2)cc(C#N)c(c23)cc(O)cc3;8.5699997;Estrogen receptor beta;196
+1yy4;Clc1c(O)ccc(c12)cc(cc2)-c3ccc(O)cc3;8.6000004;Estrogen receptor beta;4NA
+2fai;OC[C@@]12[C@H](C)[C@@H](C(C)=CC1)[C@H](OC2)c3ccc(O)cc3;6.2399998;Estrogen receptor;459
+2b1v;OC[C@@]12C[C@@H](C(C)=CC1)[C@H](OC2)c3ccc(O)cc3;5.7399998;Estrogen receptor;458
+5ak2;Cc1cc(F)ccc1-c(c(=O)oc(c23)cc(O)cc3)c2Cc4ccc(cc4)/C=C/C(=O)[O-];8.4099998;ESTROGEN RECEPTOR;85Z
+5fqr;c1c(O)ccc(c12)[C@H]([N@@H+](CC2)CC(C)C)c3ccc(cc3)/C=C/C(=O)[O-];7.5900002;ESTROGEN RECEPTOR;QHG
+5fqs;c1c(O)ccc(c12)[C@](C)([N@@H+](CC2)CC(C)C)c3ccc(cc3)/C=C/C(=O)[O-];7.3600001;ESTROGEN RECEPTOR;J0W
+5fqp;c1c(O)ccc(c12)[C@H]([N@@H+]([C@H](C)C2)CC(C)C)c3ccc(cc3)/C=C/C(=O)[O-];7.7199998;ESTROGEN RECEPTOR ALPHA;GQD
+5fqv;Cc(c1)c(O)cc(c12)CC[N@@H+](CC(C)C)[C@@H]2c3ccc(cc3)/C=C/C(=O)[O-];6.21;ESTROGEN RECEPTOR ALPHA;VQI
+5fqt;c1cc(O)c(C)c(c12)CC[N@@H+](CC(C)C)[C@@H]2c3ccc(cc3)/C=C/C(=O)[O-];6.8000002;ESTROGEN RECEPTOR ALPHA;7QN
+1xqc;c1cc(O)cc(c12)CCN(c3ccccc3)[C@@H]2c4ccc(cc4)N(CC5)C[C@@H]([N@H+]56)CCCC6;7.1999998;Estrogen receptor;AEJ
+2z4b;c1cc(O)cc(c12)[C@H]3[C@H](CC(F)(F)C3)[C@@H](O2)c(cc4)ccc4O;9.3599997;Estrogen receptor beta;DC8
+1xp9;c1cc(O)cc(c12)S[C@H](c3ccc(O)cc3)[C@@H](O2)c4ccc(cc4)OC[C@H](C)[NH+]5CCCC5;8.8900003;Estrogen receptor;AIJ
+2qtu;COCc1cc(O)cc(c12)[C@H]3[C@H](CC(F)(F)C3)[C@@H](O2)c4ccc(O)cc4;9.2799997;Estrogen receptor beta;3AS
+4mga;CC(C)(C)CC(C)(C)c1ccc(O)cc1;5.8600001;Estrogen receptor;27L
+4mgb;Oc1c(Cl)cc(cc1Cl)C(C)(C)c(cc2Cl)cc(Cl)c2O;5.4400001;Estrogen receptor;XDH
+4mgc;Oc1cc(O)ccc1C(=O)c2ccc(O)cc2O;6.3200002;Estrogen receptor;27M
+4mgd;Oc1ccc(cc1)C(C(Cl)(Cl)Cl)c2ccc(O)cc2;4.6900001;Estrogen receptor;27N
+4mg8;O=C1O[C@@H](C)CCC[C@H](O)CCCCCc(c12)cc(O)cc2O;6.48;Estrogen receptor;27J
+4mg9;CCCCOC(=O)c1ccc(O)cc1;5.6799998;Estrogen receptor;27K
+4mg5;ClC1(Cl)[C@]2(Cl)[C@@]3(Cl)[C@](Cl)(C4=O)[C@@H]2[C@@]5(Cl)[C@]1(Cl)[C@]3(Cl)[C@@]45Cl;5.3400002;Estrogen receptor;27E
+4mg6;CCCCOC(=O)c1ccccc1C(=O)OCc2ccccc2;5.6199999;Estrogen receptor;27G
+4mg7;CC(C)[C@](O)(CC1)[C@@H]([C@]12C)[C@H](CC(C)=CC2)OC(=O)c3ccc(O)cc3;6.3600001;Estrogen receptor;27H
+2r6y;c1cc(O)cc(c12)sc(-c(cc3)ccc3O)c2C(=O)c4ccc(cc4)OCC[NH+]5CCCC5;9.4948502;Estrogen receptor;LLC
+2r6w;c1cc(O)cc(c12)sc(-c3ccc(O)cc3)c2C(=O)c(cc4)ccc4OCC[N@H+]5CC[C@H](C)CC5;9.3565474;Estrogen receptor;LLB
+1a52;c1cc(O)cc(CC2)c1[C@@H](CC3)[C@@H]2[C@@H]([C@]34C)CC[C@@H]4O;9.8599997;ESTROGEN RECEPTOR;EST
+1err;c1cc(O)ccc1-c(s2)c(c(c23)ccc(O)c3)C(=O)c4ccc(cc4)OCC[NH+]5CCCCC5;8.1099997;ESTROGEN RECEPTOR;RAL
+2pog;Oc1cccc(c12)O[C@H]([C@@H]3[C@H]2CCC3)c4ccc(O)cc4;9.54;Estrogen receptor;WST
+1nde;c1cc(O)ccc1CCNc(nc2N3CC[NH2+]CC3)nc(n2)SCCCc4ccc(Cl)cc4;7.8200002;Estrogen receptor beta;MON
+1zky;C[C@@H]1C=C(C)[C@H]([C@@H](C)[C@]12CO)[C@@H](OC2)c3ccc(O)cc3;6.25;Estrogen receptor;689
+2e2r;Oc1ccc(cc1)C(C)(C)c2ccc(O)cc2;8.2596369;Estrogen-related receptor gamma;2OH
+1x7e;N#CCc1cc(O)cc(c12)cc(o2)-c3ccc(O)cc3;5.9699998;Estrogen receptor 1 (alpha);244
+1x7b;C=Cc1cc(O)cc(c12)nc(o2)-c3ccc(O)c(F)c3;8.3900003;Estrogen receptor beta;041
+1x7r;Oc1cc(O)cc(c12)occ(c2=O)-c3ccc(O)cc3;8.0500002;Estrogen receptor 1 (alpha);GEN
+1x76;Oc1ccc(cc1)-c(c2)oc(c23)c(C#N)cc(c3)O;8.7200003;Estrogen receptor beta;697
+3cbp;O=C([O-])[C@@H]([NH3+])CC[C@H]([NH3+])C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.5999999;Histone-lysine N-methyltransferase SETD7;SFG
+2zas;Oc1ccc(cc1)C(C)(C)c2ccccc2;7.8569851;Estrogen-related receptor gamma;1OH
+1xp6;c1cc(O)cc(c12)S[C@H](c3ccc(O)cc3)[C@@H](O2)c4ccc(cc4)OCC[N@@H+]5C[C@@H](C)[C@H](C)C5;9.3999996;Estrogen receptor;AIU
+1u3s;c1cc(O)cc(c12)ccc(c2)-c3noc(c34)cc(O)cc4;8.8500004;Estrogen receptor beta;797
+1u3r;c1c(O)ccc(c12)nc(o2)-c3cccc(c34)c(O)ccc4;8.3000002;Estrogen receptor beta;338
+1u3q;c1c(O)ccc(c12)c(no2)-c3c(O)cc(O)cc3;8.46;Estrogen receptor beta;272
+2ayr;c1cc(S(=O)(=O)C)ccc1-c(cc2)c(c(c23)ccc(c3)O)Oc(cc4)ccc4OCC[NH+]5CCCCC5;9.29;Estrogen receptor;L4G
+1zaf;c1c(O)ccc(c12)C(Br)=C(C2=O)c3ccc(O)cc3;7.6999998;Estrogen receptor beta;789
+1x78;N#CCc1cc(O)cc(c12)cc(o2)-c3ccc(O)cc3;7.8499999;Estrogen receptor beta;244
+1u9e;c1cc(O)cc(c12)cc(o2)-c3ccc(O)cc3;8.2399998;Estrogen receptor beta;397
+2jj3;COCc1cc(O)cc(c12)[C@H]3[C@H](CCC3)[C@@H](O2)c4ccc(O)cc4;9.5500002;ESTROGEN RECEPTOR BETA;JJ3
+3ert;c1ccccc1C(\CC)=C(\c2ccc(O)cc2)c3ccc(cc3)OCC[NH+](C)C;9.6000004;PROTEIN (ESTROGEN RECEPTOR ALPHA);OHT
+3erd;c1cc(O)ccc1C(\CC)=C(CC)\c2ccc(O)cc2;9.8999996;ESTROGEN RECEPTOR ALPHA;DES
+1xpc;c1cc(O)cc(c12)S[C@H](c3ccc(O)cc3)[C@@H](O2)c4ccc(cc4)OC[C@@H](C)[NH+]5CCCC5;8.7700005;Estrogen receptor;AIT
+1xp1;c1cc(O)cc(c12)S[C@H](c3ccc(O)cc3)[C@@H](O2)c4ccc(cc4)OCC[N@@H+]5C[C@H](C)[C@@H](C)C5;9.3000002;Estrogen receptor;AIH
+2iog;c1cc(O)ccc1CC[C@@H](C)NC(=O)Cc(c([nH]2)-c3ccccc3)c(c24)ccc(c4)OCC[NH+]5CCCCC5;8.1000004;Estrogen receptor;IOG
+2iok;c1cc(O)ccc1CC[C@@H](C)NC(=O)Cc(c(c23)cccc3)c([nH]2)-c4ccccc4;9;Estrogen receptor;IOK
+2p15;c1cc(O)cc(CC2)c1[C@@H](CC3)[C@@H]2[C@@H]([C@]34C)CC[C@@]4(O)/C=C/c5ccccc5C(F)(F)F;10.3;Estrogen receptor;EZT
+2pjl;c1cc(C)ccc1-n2cc(c(c23)cccc3)C[NH2+]CC4CCCCC4;6.7199998;Steroid hormone receptor ERR1;047
+2qh6;Oc1ccc(cc1)C([C@H]23)=C(c4ccc(O)cc4)[C@@H](O2)[C@H](C(=O)OCC)[C@@H]3C(=O)OCC;6;Estrogen receptor;ODE
+4pxm;c1cc(O)cc(CC2)c1[C@@H](CC3)[C@@H]2[C@@H]([C@]34C)CC[C@@H]4O;8.8900003;Estrogen receptor;EST

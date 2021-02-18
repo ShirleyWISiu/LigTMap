@@ -1,0 +1,159 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+3gol;Clc1cc(Cl)c(cc1)[C@@H]2N(C(=O)C)c(cccc3O)c3NC(=C24)CC(C)(C)CC4=O;7.0915151;RNA-directed RNA polymerase;XND
+4nld;CN(C)S(=O)(=O)NC(=O)c(c1)ccc(c2C3CCCCC3)c1n(C4)c2c(ccc(c5)OC)c5[C@H](C6)[C@@]46C(=O)N([C@@H]78)[C@@H](CC8)C[N@@H+](C7)C;7.6999998;RNA-directed RNA polymerase;2N7
+3g86;CS(=O)(=O)Nc(cc1)cc(c12)S(=O)(=O)C=C(N2)c(c3O)c(=O)n(c(c34)ccc(F)c4)Cc5ccc(F)cc5;8.3010302;RNA-directed RNA polymerase;T18
+2p59;C1=CC1NC(=O)[C@H](O)[C@H](CCC)NC(=O)[C@H](C2)N([C@H]([C@H]23)CCCC3)C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C4CCCCC4)NC(=O)c5[nH]cc(c5)N(=O)=O;7.3010302;NS3;GG4
+3hky;c1ccc(O)c(c12)NC3=C(S(=O)(=O)CC(C3)(C)C)[C@@H](N2C(=O)c4c(C)oc(n4)C)c5ccc(cc5F)OCC(=C)C;7.0999999;RNA-directed RNA polymerase;IX6
+3hkw;c1ccc(O)c(c12)NC3=C(S(=O)(=O)CC(C3)(C)C)[C@@H](N2C(=O)c4c(C)oc(n4)C)c5ccc(cc5F)OCC(=C)C;8.6400003;NS5B RNA-dependent RNA polymerase;IX6
+3skh;c1ccccc1Cn(c(c23)ccc(Cl)c2)c(C(=O)[O-])c3-c4ccccc4F;6.0500002;HCV NS5B RNA_DEPENDENT RNA POLYMERASE;058
+3ska;O=c1[nH]cccc1-c2c(C(=O)[O-])n(c(c23)ccc(c3)C(F)(F)F)Cc4cc(N)ncc4;7.4899998;HCV NS5B RNA_DEPENDENT RNA POLYMERASE;053
+3ske;c1c(N)nccc1Cn(c(c23)ccc(c2)C(F)(F)F)c(C(=O)[O-])c3-n(c4=O)c(=O)[nH]c(c45)csc5;7.77;HCV NS5B RNA_DEPENDENT RNA POLYMERASE;054
+4jvq;C1C[C@@H](C)CC[C@@H]1C(=O)N(C(C)C)c2ccc(cc2C(=O)[O-])Oc3ccc(cc3)NC(=O)c4ccc(cc4)OC;6.1999998;Genome polyprotein;1ML
+2xcn;C1CCCC1OC(=O)N[C@@H](C(C)(C)C)C(=O)N2[C@H](C(=O)N[C@H](B(O)O)CCO)C[C@H](C2)Oc(ncc3)c(c34)cccc4;6.9200001;NS3 PROTEASE;C8D
+4eo8;CC(C)(C)C#Cc(sc1C(=O)[O-])cc1N([NH+](C)C)C(=O)[C@H]2CC[C@H](C)CC2;8.1499996;RNA-directed RNA polymerase;0S3
+4eo6;CC(C)(C)C#Cc1cc(c(s1)C(=O)[O-])N(C(C)C)C(=O)[C@@H]2CC[C@@H](C)CC2;8.6999998;RNA-directed RNA polymerase;0S2
+4nwk;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)C=C)NC(=O)[C@@H]3C[C@@H](Oc(ncc4)c(c45)ccc(c5)OC)CN3C(=O)[C@H](C(C)(C)C)NC(=O)OC(C)(C)C;8.6999998;HCV NS3 1a Protease;2R8
+3igv;O=S(=O)(C)Nc(c1)ccc(c12)NC(=NS2(=O)=O)C3=C(O)C[C@H](CC)N(C3=O)Cc4ccc(F)cc4;7.6020598;RNA-DIRECTED RNA POLYMERASE;B80
+4j06;Brc1sc(cc1)S(=O)(=O)Nc2c(C(=O)[O-])ccc(Cl)c2;5.3400002;Genome polyprotein;1JG
+4j04;c1c(Cl)c(Cl)cc(Cl)c1S(=O)(=O)Nc2c(C(=O)[O-])ccc(Cl)c2;4.96;Genome polyprotein;1JF
+4j08;Cc1ccc(cc1)S(=O)(=O)Nc2c(C(=O)[O-])cc(cc2)Oc3ccccc3;6.6599998;Genome polyprotein;1JH
+3lkh;CCCCN(C)C(=O)c1c(F)cccc1OCC(=O)N[C@H](CO)Cc2ccccc2;6.0999999;RNA-directed RNA polymerase;LT6
+3cwj;O=S(=O)(C)Nc(c1)ccc(c12)NC(=CS2(=O)=O)c3c(O)c(-c4cccs4)nn(c3=O)CCC(C)C;8;RNA-DIRECTED RNA POLYMERASE;321
+3p8o;C1CCCC1OC(=O)N[C@@H](C(C)(C)C)C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C(=O)[O-])[C@@H](C3)C=C)Oc(c(c45)ccc(c5)OC)cc(n4)-c6csc(n6)NC(=O)C(C)C;8.7200003;HCV serine protease NS3;L5T
+3p8n;C1CCCC1OC(=O)N[C@@H](C(C)(C)C)C(=O)N2C[C@@H](C[C@H]2C(=O)N[C@@]3(C(=O)[O-])[C@@H](C3)C=C)Oc(c(c45)ccc(c5Br)OC)cc(n4)-c6csc(n6)NC(=O)C(C)C;9.2799997;HCV serine protease NS3;L4T
+2obo;CC(C)(C)OC(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]12)C2(C)C)[C@@H]1C(=O)N[C@H]([C@@H](O)C(=O)N)CC3CC3;7.2399998;HCV NS3 protease;HUD
+3gyn;O=S(=O)(C)Nc(c1)ccc(c12)N=C(NS2(=O)=O)C(=C3O)C(=O)N(C4CCCC4)C[C@@]3(C)CCC(C)C;7.2146702;RNA-directed RNA polymerase;B42
+4ty8;c1cc(C)cc(c12)ccc(o2)=O;2.03;Polyprotein;3AV
+4tyb;c1ccccc1[C@H](C#N)[NH+]2CCOCC2;1.7;Polyprotein;3B1
+2qe5;O=C([O-])c1ccccc1NC(=O)COc2ccc(Cl)cc2;5.79;RNA-directed RNA polymerase;617
+2qe2;CC(=O)c1cc(F)c(Cl)cc1NCC(=O)Nc2ccccc2C(=O)[O-];7.77;RNA-directed RNA polymerase;452
+2d41;CC(=O)c(s1)ccc1-c2cc(c(s2)C(=O)[O-])NS(=O)(=O)c3ccc(C)cc3C;6.8200002;polyprotein;SNH
+2gvf;c1ccc(cc12)OCCO[C@H]3CN(C(=O)[C@@H](NC(=O)CC2)C4CCCCC4)[C@@H](C3)C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)N(C)C)c5ccccc5;7.5999999;polyprotein;NHN
+3frz;n1c(C)cc(C)n(c12)nc(n2)CC(=C(O)C3)C(=O)O[C@]3(C4CCCC4)CCc5cc(CC)nc(c5)CC;8.1549015;RNA-directed RNA polymerase;AG0
+3sv8;n1ccncc1C(=O)N[C@@H](C2CCCCC2)C(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]34)CCC4)[C@@H]3C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NC5CC5;7.9099998;NS3 protease, NS4A protein;SV6
+3sv9;n1ccncc1C(=O)N[C@@H](C2CCCCC2)C(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]34)CCC4)[C@@H]3C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NC5CC5;5;NS3 protease, NS4A protein;SV6
+3sv6;n1ccncc1C(=O)N[C@@H](C2CCCCC2)C(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]34)CCC4)[C@@H]3C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NC5CC5;7.46;NS3 protease, NS4A protein;SV6
+3sv7;n1ccncc1C(=O)N[C@@H](C2CCCCC2)C(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]34)CCC4)[C@@H]3C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NC5CC5;6.0799999;NS3 protease, NS4A protein;SV6
+5etx;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N(C3)C(=O)[C@H](C(C)(C)C)NC(=O)OC(C)(C)C)C[C@H]3Oc(c(n4)CC)nc(c45)cc(cc5)OC;6.8099999;NS3 protease;5RS
+4ojq;O=C([O-])Cc1c[nH]c(c12)ccc(Br)c2;3.3;Serine protease NS3;2SX
+4txs;N#CCc(cc1)ccc1O;3;Polyprotein;3AQ
+3d5m;c1c(Cl)c(F)ccc1CN([C@H]2C(C)(C)C)C(=O)C(=C2O)C3=NS(=O)(=O)c(c34)c(ccc4)CNS(=O)(=O)C;8;RNA-directed RNA polymerase;4MS
+2dxs;O=C([O-])C(C)(C)NC(=O)c(cc1)cc(c12)n3c(c4c(OCC3)cccc4)c2C5CCCCC5;7.3400002;Genome polyprotein;JTP
+4g93;c1cc(N(=O)=O)ccc1C(=O)N[C@H](C(=O)N2CCCCC2)[C@H](Br)c3c(OC)cccc3;3.52;Capsid protein;0YP
+2yoj;O=c1[nH]cnc(c12)cc(F)c(c2)Cn(c(c34)cc(F)c5c4occ5)c(C(=O)[O-])c3C6=CCC=NC6=O;8.3000002;RNA-DIRECTED RNA POLYMERASE;8Y6
+3mf5;c1ccccc1-c2sc(C(=O)[O-])c(c2)-c3c(cccc3)[C@H]4CC[C@H](C)CC4;5.3600001;RNA-directed RNA polymerase;HJZ
+3br9;CC(C)CCn(c1=O)nc(-c2cccs2)c(O)c1C(NS3(=O)=O)=Nc(c34)ccc(c4)O[C@H](C)C(=O)N;7.2076082;RNA-directed RNA polymerase;DEY
+5epy;COc(c1)ccc(c12)nc(CC)c(n2)O[C@@H](C3)C[C@@H](C(=O)N4)N3C(=O)[C@@H](NC(=O)OC(C)(C)C)CCCCC\C=C\[C@@H](C5)[C@]45C(=O)NS(=O)(=O)C6CC6;7.4000001;NS3 protease;5R2
+5epn;COc(c1)ccc(c12)nc(CC)c(n2)O[C@@H](C3)C[C@@H](C(=O)N4)N3C(=O)[C@@H](NC(=O)OC(C)(C)C)CCCCCCC[C@@H](C5)[C@]45C(=O)NS(=O)(=O)C6CC6;8.6599998;NS3 protease;5R2
+2hwi;Fc1ccc(cc1)[C@@H](C(=O)[O-])NC2=NC(=O)C(\S2)=C\c3ccc(o3)CC;5.52;RNA-directed RNA polymerase (NS5B) (p68);VRX
+2hwh;o1c(C)ccc1Cc2sc(nc2O)NS(=O)(=O)c3ccc(C)cc3;5.6999998;RNA-directed RNA polymerase (NS5B) (p68);RNA
+2xwy;C[NH+](C)CC[N@@H+](C)[C@H](C1)COc(cccc2)c2c3c(c(c4n13)ccc(c4)C(=O)[O-])C5CCCCC5;5.2199998;RNA-DIRECTED RNA POLYMERASE;IB8
+3tyq;c1ccc(N(=O)=O)cc1Cn(c(c23)ccc(c2)CC)c(C(=O)[O-])c3-c4c(=O)[nH]ccc4;8.3000002;RNA-directed RNA polymerase;HI4
+4iz0;c1c(Cl)c(Cl)cc(Cl)c1S(=O)(=O)Nc2noc(c2)C;4;RNA-directed RNA polymerase;2BI
+4ktc;c1cccc(c12)CCN(C2)C(=O)O[C@@H](C3)C[C@@H](C(=O)N4)N3C(=O)[C@@H](NC(=O)OC5CCCC5)CCCCCCC[C@H](C6)[C@]46C(=O)NS(=O)(=O)C7CC7;9;Serine protease NS3;1X3
+4tn2;c1ccccc1-c(sc2C(=O)[O-])cc2N3C(=O)CC[C@@H]3C4CCCCC4;6.9200001;Genome polyprotein;33J
+2xni;N12C(=O)[C@H](C(C)(C)C)NC(=O)OCC(C)(C)CCCCc3c4c(ccc3)CN(C4)C(=O)O[C@@H](C1)C[C@H]2C(=O)N[C@H](B(O)O)CCO;7.3699999;NS3 PROTEASE;TR8
+5czb;Cc(n1)cc(N)n(c12)nc(c2)-c3ccc(cc3)-n(n4)cc(C(=O)[O-])c4N[P@](=O)(OC)c(c(c5)C)ccc5C;8;NS5B;55W
+3gnv;c1ccccc1COc(cc2Cl)ccc2[C@H](N3C(=O)C)C(C(=O)CC(C)(C)C4)=C4Nc(c35)c(O)ccc5;7.031517;RNA-directed RNA polymerase;XNZ
+3gnw;Cc(n1)cccc1C(=O)N2[C@H](C(S(=O)(=O)CC(C)(C)C3)=C3Nc(c24)c(O)ccc4)c5c(F)cc(cc5)OCc6ccccc6;9.1023731;RNA-directed RNA polymerase;XNC
+3cj2;Brc1cc(c(N)cc1)C(=O)N2C[C@H](C)C[C@@H](C2)C;4.8538718;RNA-directed RNA polymerase;SX3
+3cj3;Clc1ccccc1C[C@H]2CCCN2C(=O)c3c(N)ccc(Br)c3;4.2441249;RNA-directed RNA polymerase;SX4
+3cj4;O=C([O-])CCC(=O)Nc1ccc(Br)cc1C(=O)N2C[C@H](C)C[C@@H](C2)C;6.5086379;RNA-directed RNA polymerase;SX5
+3cj5;C1COCCN1C(=O)CCC(=O)Nc2ccc(Br)cc2C(=O)N3C[C@@H](C)C[C@H](C3)C;6.3372421;RNA-directed RNA polymerase;SX6
+4dru;O=C1NS(=O)(=O)N(C)CCCCN(C)C(=O)C(C2)=Cc(cc(OC)cc3)c3c(n2c4cc15)c(c4cc5)C6CCCCC6;8.6199999;RNA-directed RNA polymerase;0LN
+2f9v;CC(C)COC(=O)N[C@@H](C1CCCCC1)C(=O)NN(CC2CC2)C(=O)N[C@@H](CC3CC3)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)[O-])c4ccccc4;7.8200002;NS3 protease/helicase;BN6
+2f9u;C1CCCCC1[C@H](NC(=O)OC(C)(C)C)C(=O)N([C@@H](C2)CC3)[C@@H]([C@H]23)C(=O)N[C@@H](CCCC)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)N(C)C)c4ccccc4;7.3899999;NS3 protease/helicase';5NH
+4mka;O=S(=O)(C)Nc(cc1)cc(c12)c(=O)oc(c2)-c3c(OC)c(C(C)(C)C)cc(c3)C4=CCC=NC4=O;9;RNA-DIRECTED RNA POLYMERASE;2AY
+4mk8;O=c1[nH]cccc1-c(cc2C(C)(C)C)cc(c2OC)CCc3ccc(cc3)NS(=O)(=O)C;9;RNA-DIRECTED RNA POLYMERASE;28Q
+4mk9;O=C1N=CCC=C1c2cc(C(C)(C)C)c(OC)c(c2)-c(n3)oc(c34)ccc(c4)NS(=O)(=O)C;8.0500002;RNA-DIRECTED RNA POLYMERASE;28R
+4mk7;c1cc[nH]c(=O)c1-c2ccc(OC)c(c2)C(C)(C)C;6.3600001;RNA-DIRECTED RNA POLYMERASE;28O
+2who;Brc1cc(ccc1)N(C2=O)C(=O)c3ccc(c(c3c24)ccc4)NCCO;7.6989698;RNA-DIRECTED RNA POLYMERASE;VGI
+4u01;CC(C)c(n1)csc1-c(n2)cc(c(c23)ccc(c3F)OC)O[C@@H](C4)CN(C(=O)N5)[C@@H]4C(=O)N(C)CCCC/C=C\[C@H](C6)[C@]56C(=O)NS(=O)(=O)C7(C)CC7;8.46;Non-structural 3 protease;39W
+3cde;s1cccc1-c2nn(CCC(C)C)c(=O)c(c2O)C(=N3)NS(=O)(=O)c(c34)cc(cc4)NS(=O)(=O)C;7.6575775;RNA-directed RNA polymerase;N3H
+3hhk;O=C(N)COc(c1)ccc(c12)NC(=NS2(=O)=O)c(c3O)c(=O)n(CCC(C)C)c(c34)cccc4;8.2218485;HCV NS5 polymerase;77Z
+4mib;O=C1N=CCC=C1c(cc(C(C)(C)C)c2OC)c(c23)ncc(c3)N4CC[C@@H](C4)CNS(=O)(=O)C;9.6999998;RNA-DIRECTED RNA POLYMERASE;28M
+3phe;C[NH+]1CCN(CC1)c(c(F)c2)cc(c23)n(Cc4ccc(cc4)S(=O)(=O)C)cc(c3=O)C(=O)OCc5ccc(Cl)cc5;7.8000002;HCV encoded nonstructural 5B protein;C9A
+3q0z;O=C([O-])\C=C\c(cc1)ccc1NC(=O)C2(CCCC2)NC(=O)c(c3)ccc(c3n45)c(C6CCCCC6)c4c7c(NC(=O)C5)cccc7;7.6999998;RNA-directed RNA polymerase;23E
+4ju3;Cc1ccc(cc1)S(=O)(=O)Nc2c(C(=O)[O-])cc(cc2)Oc3ccc(C(=O)[O-])cc3;7.0700002;Genome polyprotein;1O1
+4ju4;Fc1cc(Br)ccc1S(=O)(=O)Nc2c(C(=O)[O-])cc(cc2)Oc3ccccc3;6.4699998;Genome polyprotein;1O3
+4ju7;C[C@H]1CC[C@@H](CC1)C(=O)N(C(C)C)c2c(C(=O)[O-])cc(cc2)Oc3ccccc3;6.1700001;Genome polyprotein;1O6
+3mww;C1CCCCC1c(c(c23)ccc(c2)C(=O)[O-])c(-c4ccoc4)n3CC(=O)N5CCC(C(=O)[O-])CC5;7.2399998;Genome polyprotein;BIW
+3lox;C1CCCCC1(C)NC(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]23)C3(C)C)[C@@H]2C(=O)N[C@H]([C@@H](O)C(=O)N)CC4CCC4;8.1000004;HCV NS3 Protease;MCX
+3u4r;O=S(=O)(C)Nc(c1)cccc1S(=O)(=O)NC(=O)c(c2C3=CCC=NC3=O)n(c(c24)ccc(Cl)c4)Cc5ccnc(c5)N;7.4099998;RNA-directed RNA polymerase;08F
+3u4o;c1c(N)nccc1Cn(c(c23)ccc(Cl)c2)c(C(=O)[O-])c3[C@@H]4C=CC=NC4=O;7.2800002;RNA-directed RNA polymerase;08E
+2hai;CC(C)Oc(c1F)ccc(c1)CC[C@]2(CC(O)=CC(O2)=O)C3CCCC3;6.2800002;HEPATITIS C VIRUS NS5B RNA POLYMERASE;PFI
+3cso;c1cccc(N2)c1N(C(=O)C)[C@H](C(=C23)C(=O)CC(C3)(C)C)c4ccc(c(Cl)c4)OCc5ccccc5;5.7695513;RNA-directed RNA polymerase;XNI
+3tyv;Fc1ccc(F)cc1Cn(c(c23)cc(F)c(c2)C)c(C(=O)NS(=O)(=O)C4CC4)c3[C@@H]5C=CC=NC5=O;8.1000004;RNA-directed RNA polymerase;HI3
+2oc7;C1CCCCC1[C@H](NC(=O)OC(C)(C)C)C(=O)N(C[C@@H]([C@@H]23)OC3(C)C)[C@@H]2C(=O)N[C@H]([C@@H](O)C(=O)N)CC4CCC4;5.8499999;Hepatitis C Virus;HU4
+2oc0;C1CCCCC1[C@H](NC(=O)OC(C)(C)C)C(=O)N(C[C@@H]([C@@H]23)C3(C)C)[C@@H]2C(=O)N[C@H]([C@@H](O)C(=O)N)CC4CCC4;7.8200002;Hepatitis C Virus;HU1
+2oc1;CC(C)C\C=C\C[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)[O-])c1ccccc1;5.3699999;Hepatitis C virus;HU2
+2i1r;CCc1ccc(o1)/C=C2\S/C(NC2=O)=N\[C@H](c3nnn[nH]3)c4ccc(F)cc4;5.0100002;RNA-directed RNA polymerase (NS5B) (P68);VXR
+4ju6;C[C@H]1CC[C@@H](CC1)C(=O)N(C(C)C)c2c(C(=O)[O-])cc(cc2)Oc3ccccc3;6.1700001;Genome polyprotein;1O6
+3fqk;C1CC1c(c2)c(N(S(=O)(=O)C)CCO)cc(c23)oc(c3C(=O)NC)-c4ccc(F)cc4;7.0900002;RNA-directed RNA polymerase;79Z
+3fql;C1CC1c(c2)c(N(S(=O)(=O)C)CCO)cc(c23)oc(c3C(=O)NC)-c4ccc(F)cc4;7.1500001;RNA-directed RNA polymerase;79Z
+4ih5;c1[nH]nc(c12)ncnc2NNc3ccccc3;4.1100001;RNA-directed RNA polymerase;12R
+4ih7;O=C1N=CC=C[C@@H]1c2cccc(c2)C(C)(C)C;5.2399998;RNA-directed RNA polymerase;1ER
+4ih6;O=C1[C@H](C(C)C)NC(=O)N1Cc2ccc(cc2)C(C)(C)C;4.7399998;RNA-directed RNA polymerase;1EP
+3vqs;C1CC1c(n2)ncc(c23)sc(n3)N4C[C@@H](N(CC4)S(=O)(=O)c5ccc(C(F)(F)F)cc5)C(=O)NCc6ccc(c(F)c6)OC(F)(F)F;7.75;RNA-directed RNA polymerase;JT1
+2fm2;CC(C)(C)OC(=O)N[C@@H](C(C)(C)C)C(=O)N(C[C@@H]([C@@H]12)C2(C)C)[C@@H]1C(=O)N[C@@H](CC3CC3)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)N(C)C)c4ccccc4;8.1499996;NS3 protease/helicase;3BC
+1nhu;c1ccccc1C[C@@H](C(=O)[O-])N(C(=O)c2ccc(Cl)cc2Cl)Cc3cccc(c3)C(F)(F)F;5.6599998;HEPATITIS C VIRUS NS5B RNA-DEPENDENT RNA POLYMERASE;153
+1nhv;Clc1cc(Cl)ccc1C(=O)N([C@H](C(=O)[O-])Cc2ccccc2)Cc3ccc(s3)-c(c4)oc(c45)cccc5;5.6599998;HEPATITIS C VIRUS NS5B RNA-DEPENDENT RNA POLYMERASE;154
+1rtl;C1CCCC1NC(=O)N[C@@H](C(C)C)C(=O)N2[C@H](C3(C=O)CCC3)[C@H](CC2)NC(=O)C4CC4;5.5900002;NS3 protease/helicase;CPX
+4mz4;c1cccc(c12)cc(cn2)Cn(c(c34)cc(F)c(c3)C)c(C(=O)[O-])c4C5=CCC=NC5=O;7.8899999;RNA-directed RNA polymerase;2F3
+4oks;O=N(=O)c1ccc(OC)c(c1)Cn2cc(CC(=O)[O-])c(c23)ccc(c3)-c4cc(N)cc(N)c4;4.48;Serine protease NS3;2T9
+4ok3;Clc1cc(ccc1)Cn(cc2CC(=O)[O-])c(c23)cccc3;4.1500001;Serine protease NS3;2SY
+4ok6;O=N(=O)c1ccc(OC)c(c1)Cn2cc(CC(=O)[O-])c(c23)cccc3;4.8499999;Serine protease NS3;2T7
+2d3z;Fc1ccc(cc1)-c(s2)cc(c2C(=O)[O-])NS(=O)(=O)c3ccc(C)cc3;6.6399999;polyprotein;FIH
+2d3u;N#Cc1ccc(cc1)-c(s2)cc(c2C(=O)[O-])NS(=O)(=O)c(c3C)cccc3;6.9200001;polyprotein;CCT
+2jc0;FC(F)(F)c1ccc(cc1)C(=O)N([C@@]2(C(=O)[O-])CC(C)C)[C@H]([C@H](C2)C(=O)[O-])c3sccc3;4.6999998;RNA-DEPENDENT RNA-POLYMERASE;699
+4b6e;Nc1cccc(c12)cn[nH]2;2.3;NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3;10L
+4b6f;[NH3+]Cc1ccc(cc1)Oc2ccccc2;3.3;NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3;20L
+5tri;Clc1ccc(cc1)COc(cccc2C(=O)[O-])c2N(C3)C(=O)c(c34)cccc4;5.0599999;NS5B RNA-DEPENDENT RNA POLYMERASE;7HM
+5trh;c1ccccc1C(=O)Nc2c(cccc2C(=O)[O-])OCc3ccc(Cl)cc3;5.0799999;NS5B RNA-DEPENDENT RNA POLYMERASE;7HL
+5trk;c1ccccc1C(=O)Nc(cc2C(=O)NCC(=O)[O-])c(cc2)OCc3ccc(Cl)cc3;5.21;Genome polyprotein;7HH
+5trj;Clc1ccc(cc1)COc(cccc2C(=O)[O-])c2NC(=O)c3ccccc3OCC(=O)[O-];5.9200001;RNA-DEPENDENT RNA POLYMERASE;7HO
+3cvk;O=S(=O)(C)Nc(cc1)cc(c12)S(=O)(=O)NC(=N2)C(=C(O)[C@@H]([N@H+]34)CCC3)C(=O)N4CCC(C)(C)C;8;RNA-directed RNA polymerase;N34
+3uph;c1coc2c1ccc(c23)n(Cc4cc(F)ccc4F)c(C(=O)NS(=O)(=O)C)c3[C@@H]5C=CC=NC5=O;7.8200002;RNA-directed RNA polymerase;0C1
+3upi;C[C@@H]1COc2c1ccc(c23)n(Cc4cc(F)ccc4F)c(C(=O)NS(=O)(=O)C)c3[C@@H]5C=CC=NC5=O;8.2200003;RNA-directed RNA polymerase;0C2
+4jju;Fc1cc(F)ccc1Cn2cnc(=O)c(c23)cc(cc3)Oc4ncccc4C(F)(F)F;6.29;Genome polyprotein;1MB
+4jjs;C[C@H]1CC[C@@H](CC1)C(=O)N(C(C)C)c2c(C(=O)[O-])cc(cc2)Oc3ccccc3C(F)(F)F;6.6999998;Genome polyprotein;1M9
+4gmc;c1ccccc1S(=O)(=O)NC(=O)c(c2)ccc(c23)c(C4CCCCC4)c(-c5ccoc5)n3CC(=O)N6CCOCC6;7.7399998;NS5B polymerase;1BI
+3h59;c1cc(F)c(C)cc1CN(C2=O)[C@@H](C(C)(C)CC)C(O)=C2C(=CS3(=O)=O)Nc(c34)ccc(c4)NS(=O)(=O)C;7.8860564;RNA-directed RNA polymerase;H59
+2fvc;c1cccc(c12)S(=O)(=O)NC(=N2)c(c3O)c(=O)n(CCC(C)C)c(c34)cccc4;7.4899998;polyprotein;888
+3h5u;CS(=O)(=O)NCc(ccc1)c(c12)S(=O)(=O)N=C2C3=C(O)[C@H](C(C)(C)C)N(C3=O)Cc4ccc(F)cc4;8.5228786;RNA-directed RNA polymerase;H5U
+3h5s;c1cc(F)c(C)cc1CN2C(=O)C(=C(O)[C@@H]2C(C)(C)C)C(=NS3(=O)=O)c(c34)ccc5c4CN(CC5)S(=O)(=O)C;8.3010302;RNA-directed RNA polymerase;H5S
+2a4r;CC(C)COC(=O)N[C@@H](C1CCCCC1)C(=O)N[C@@H](CC2CC2)C(=O)N[C@@H](CC3CC3)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)[O-])c4ccccc4;7.8200002;NS3 protease/helicase;BNH
+2a4q;c1ccc(cc12)CCCCCCCC(=O)N[C@@H](C3CCCCC3)C(=O)N[C@@H](C2)C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NCC(=O)N[C@@H](C(=O)[O-])c4ccccc4;7.1799998;NS3 protease/helicase';FNH
+2a4g;CC(C)COC(=O)N[C@@H](C1CCCCC1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC)[C@@H](O)C(=O)NCC(=O)N[C@H](C(=O)N)c2ccccc2;7.1799998;NS3 protease/helicase;UNH
+4ty9;c1nc(N)ccc1C(F)(F)F;2.05;Polyprotein;3B0
+4tya;O=C([O-])c1ccc(C(F)(F)F)cc1;2.3900001;Polyprotein;3AE
+3bsc;COc(c1)ccc(c12)N=C(NS2(=O)=O)c3c(O)c(nn(c3=O)CCC(C)C)-c4ccccc4;4.4814858;RNA-directed RNA polymerase;2PD
+3sue;C1=CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N3C(=O)[C@H](C(C)(C)C)NC(=O)O[C@H](C4)[C@@H]45)C[C@H](C3)Oc6c(CCCCC5)nc7c(n6)cc(cc7)OC;9.0799999;NS3 protease, NS4A protein;SUE
+3sud;C1=CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N3C(=O)[C@H](C(C)(C)C)NC(=O)O[C@H](C4)[C@@H]45)C[C@H](C3)Oc6c(CCCCC5)nc7c(n6)cc(cc7)OC;9.8500004;NS3 protease, NS4A protein;SUE
+3sug;C1=CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N3C(=O)[C@H](C(C)(C)C)NC(=O)O[C@H](C4)[C@@H]45)C[C@H](C3)Oc6c(CCCCC5)nc7c(n6)cc(cc7)OC;6.21;NS3 protease, NS4A protein;SUE
+3suf;C1=CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N3C(=O)[C@H](C(C)(C)C)NC(=O)O[C@H](C4)[C@@H]45)C[C@H](C3)Oc6c(CCCCC5)nc7c(n6)cc(cc7)OC;7.5599999;NS3 protease, NS4A protein;SUE
+3su5;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N34)C[C@H](C4)OC(=O)n5cc6c(c5)c(ccc6)CCCCC(C)(C)COC(=O)N[C@H](C3=O)C(C)(C)C;5.5799999;NS3 protease, NS4A protein;SU3
+3su4;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N34)C[C@H](C4)OC(=O)n5cc6c(c5)c(ccc6)CCCCC(C)(C)COC(=O)N[C@H](C3=O)C(C)(C)C;6.2600002;NS3 protease,NS4A protein;SU3
+3su6;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N34)C[C@H](C4)OC(=O)N5Cc6c(C5)c(ccc6)CCCCC(C)(C)COC(=O)N[C@H](C3=O)C(C)(C)C;6.02;NS3 protease, NS4A protein;SU3
+3su1;C1CC1S(=O)(=O)NC(=O)[C@]23[C@@H](C2)/C=C\CCCCC[C@H](NC(=O)OC(C)(C)C)C(=O)N4[C@H](C(=O)N3)C[C@H](C4)OC(=O)n(c5)cc(c56)c(F)ccc6;6.6799998;Genome polyprotein;TSV
+3su0;C1CC1S(=O)(=O)NC(=O)[C@]23[C@@H](C2)/C=C\CCCCC[C@H](NC(=O)OC(C)(C)C)C(=O)N4[C@H](C(=O)N3)C[C@H](C4)OC(=O)n(c5)cc(c56)c(F)ccc6;6.79;Genome polyprotein;TSV
+3su3;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N34)C[C@H](C4)OC(=O)n5cc6c(c5)c(ccc6)CCCCC(C)(C)COC(=O)N[C@H](C3=O)C(C)(C)C;9.1300001;NS3 protease, NS4A protein;SU3
+3su2;C1CC1S(=O)(=O)NC(=O)[C@]23[C@@H](C2)/C=C\CCCCC[C@H](NC(=O)OC(C)(C)C)C(=O)N4[C@H](C(=O)N3)C[C@H](C4)OC(=O)n(c5)cc(c56)c(F)ccc6;7.3499999;Genome polyprotein;TSV
+1yvx;c1cc(C)ccc1C(=O)N(C(C)C)c2c(C(=O)[O-])sc(c2)-c3ccccc3;5.0999999;RNA dependent RNA polymerase;IPC
+1yvz;Clc1cc(Cl)ccc1C(=O)N(C(C)C)c2c(C(=O)[O-])sc(c2)-c3ccccc3;5.3600001;RNA dependent RNA polymerase;JPC
+1yvf;c1ccccc1C(=O)N/C(C(=O)[O-])=C\c2ccc(cc2)Oc3c(Br)cccc3;7;HCV NS5B POLYMERASE;PH7
+2wcx;C1CCCCC1c2c(n(C)c(c23)cc(s3)C(=O)[O-])-c4ccccc4;7.6020598;RNA-DIRECTED RNA POLYMERASE;VGC
+3d28;c1cccc(c12)C(=NS2(=O)=O)C3=C(O)[C@H](C(C)C)N(C3=O)Cc4ccccc4;5.8538718;RNA-directed RNA polymerase;B34
+5eqq;C1CC1S(=O)(=O)NC(=O)[C@@]2([C@@H](C2)CC)NC(=O)[C@@H](N(C3)C(=O)[C@H](C(C)(C)C)NC(=O)OC(C)(C)C)C[C@H]3Oc(c(n4)CC)nc(c45)cc(cc5)OC;8.1700001;NS3 protease;5RS
+3h98;CC(C)CCN(c(n12)ncc2)C(=O)[C@@H]([C@H]1O)C(=NS3(=O)=O)Nc(c34)ccc(c4)NS(=O)(=O)C;8.3010302;RNA-directed RNA polymerase;B5P
+4ok5;O=C([O-])Cc1cn(c(c12)cccc2)Cc3cc(C#C)ccc3;4.5100002;Serine protease NS3;2T2
+4j0a;Cc1ccc(cc1)S(=O)(=O)Nc2c(C(=O)[O-])ccc(c2)Oc3ccccc3;6.8000002;Genome polyprotein;1JL
+3co9;c1ccn(c12)n(CCC(C)C)c(=O)c(c2O)C(=N3)NS(=O)(=O)c(c34)cc(cc4)NS(=O)(=O)C;8;RNA-directed RNA polymerase;3MS
+1z4u;c1cccc(Br)c1Oc(cc2)ccc2/C=C(C(=O)[O-])\NC(=O)C34C[C@H]5C[C@@H](C3)C[C@H](C5)C4;7.1500001;HCV NS5B POLYMERASE;PH9
+1os5;Oc1ccc(cc1)CC[C@]2(C3CCCC3)OC(=O)C(=C(O)C2)Sc4cc(C)c(N)cc4C(C)(C)C;6.8499999;Hepatitis C virus NS5B RNA polymerase;NH1
+2o5d;CCc1ccc(o1)/C=C2/C(=O)N=C(S2)N[C@@H](c3ccc(F)cc3)C(=O)NS(=O)(=O)c4ccc(N(=O)=O)cc4;5.1500001;HCV;VR1
+2gc8;Clc1cc(N)c(cc1C)S(=O)(=O)N2CCC[C@H]2C(=O)[O-];5.5100002;RNA-directed RNA polymerase;885
+4b73;c1ccccc1Oc(c2F)c(Cl)ccc2[C@@H](CC)[NH2+][C@@H](C)CC(=O)N;7.21;NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3;4VA
+4b71;c1ccccc1Oc2c(Cl)ccc(c2F)[C@H]([NH3+])CC;5.8899999;NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3;DJL
+4b76;Fc1ccc(C[NH3+])c(F)c1Oc2ccccc2;4.54;NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3;PW1
+4b74;[NH3+]CCNC(=O)C[C@H](C)[NH2+][C@H](CC)c1ccc(Cl)c(c1F)Oc2ccccc2;7.6599998;NON-STRUCTURAL PROTEIN 4A, SERINE PROTEASE NS3;1LH

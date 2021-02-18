@@ -1,0 +1,167 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+2ydw;c1ccccc1C2=N[C@H](c(nnc3C)n3c(c24)cccc4)NC(=O)OCc5ccccc5;7.3400002;BROMODOMAIN-CONTAINING PROTEIN 2;WSH
+4a9i;c1cccc(n12)c(cc2C(=O)C)-c3ncccc3;4.9000001;BROMODOMAIN CONTAINING 2;P9I
+3aqa;c1cccc(c12)n(c(S)[n+]2C)CCSc([nH]3)nc(c34)cccc4;4.5500002;Bromodomain-containing protein 2;BYH
+4tqn;O=C([O-])c1cccc(c1)C(=O)Nc2cc(C(=O)C)ccc2OCC;6.1100001;CREB-binding protein;UL4
+4qb3;C1CNC(=O)c(c12)c3c(cccc3)n2CCCCNC(=O)C;5.4699998;Bromodomain-containing protein 4;30M
+5ku3;C1OCC[C@@H]1n2nc(c(c23)CN(C(=O)C)CC3)Nc4ccc(cc4F)-c5cnn(c5)C;4.8899999;Bromodomain-containing protein 4;6XH
+4ogj;C1CCC[NH+]1CCOc2ccc(cc2)Nc3nc(c(cn3)C)Nc4cc(ccc4)S(=O)(=O)NC(C)(C)C;6.79;Bromodomain-containing protein 4;2TA
+4ogi;C1CCCC1N2[C@H](CC)C(=O)N(C)c(c23)cnc(n3)Nc4ccc(cc4OC)C(=O)N[C@H]5CC[N@H+](C)CC5;7.4299998;Bromodomain-containing protein 4;R78
+4x2i;Cc1nnc2[C@H](C)CN(c(c3n12)cccc3)c4ccc(Cl)cc4;6.46;Bromodomain-containing protein 4;3X0
+5l8t;O=S1(=O)C[C@@H](CCC1)Nc(c2C)cccn2;3.55;Bromodomain adjacent to zinc finger domain protein 2B;6RR
+4uiw;FC(F)(F)c(c1)cccc1-c2cn(CC)c(=O)c(c23)cc(s3)C(=[NH2+])NC(CC4)CCS4(=O)=O;7.3000002;BROMODOMAIN-CONTAINING PROTEIN 9;H1B
+4uit;COc1ccc(cc1OC)C(=CN(C)C2=O)[C@@H](C2=3)S[C@@H](C3)C(=O)N4CCN(CC4)S(=O)(=O)C;6.6999998;BROMODOMAIN-CONTAINING PROTEIN 9;N1D
+4uiu;O=S1(=O)CCC(CC1)NC(=O)c(s2)cc(c23)c(=O)n(C)cc3-c4ccc(OC)c(c4)OC;7.9000001;BROMODOMAIN-CONTAINING PROTEIN 9;TVU
+4uiz;COc1ccc(cc1OC)-c(cn(C)c2=O)c(c23)sc(c3)C(=O)N4CCN(CC4)S(=O)(=O)C;4.6999998;BROMODOMAIN-CONTAINING PROTEIN 4;N1D
+4uix;O=S1(=O)CCC(CC1)NC(=O)c(s2)cc(c23)c(=O)n(C)cc3-c4ccc(OC)c(c4)OC;7.3000002;BROMODOMAIN-CONTAINING PROTEIN 4;TVU
+4uiy;FC(F)(F)c(c1)cccc1-c2cn(C)c(=O)c(c23)cc(s3)C(=[NH2+])NC(CC4)CCS4(=O)=O;5.5999999;BROMODOMAIN-CONTAINING PROTEIN 4;5V2
+4nue;n1ccccc1NS(=O)(=O)c2ccc(cc2)/N=N/C3=C[C@@H](C)C(=O)C(C)=C3N;6.8200002;Bromodomain-containing protein 4;NUE
+4nud;NC1=CC(=O)[C@H](C)C=C1/N=N/c2ccc(cc2)S(=O)(=O)Nc3ncccc3;7.0700002;Bromodomain-containing protein 4;NUD
+4nuc;Oc1c(C)cc(cc1C)/N=N/c2ccc(cc2)S(=O)(=O)Nc3ncccc3;6.04;Bromodomain-containing protein 4;435
+4pce;O=C1CCCc(c12)n(c(c2)CC)Cc3ccccc3;5.1500001;Bromodomain-containing protein 4;2N0
+4pci;c1cccc(c12)N(C)C(=O)C[C@H](N2)c3ccccc3;5.1199999;Bromodomain-containing protein 4;2NJ
+5j0d;CCC(=O)N(CCO1)Cc(c12)cc(-c3cc(OC)cc(c3)OC)cc2C(=O)N[C@@H](CCC4)C[N@@H+]4C;6.8699999;CREB-binding protein;6F9
+4j0r;Cc1noc(C)c1-c(cc(c2)O)cc2[C@H](O)c3ccccc3;6.4099998;Bromodomain-containing protein 4;1H2
+4j0s;Cc1noc(C)c1-c(cc(c2)O)cc2[C@@H](O)c3ccccc3;6.4200001;Bromodomain-containing protein 4;1H3
+3u5l;Clc(c1)ccc(c12)n3c(nnc3C)N(C)N=C2c4ccccc4;6.1900001;Bromodomain-containing protein 4;08K
+3u5j;c1c(Cl)ccc(c12)n3c(nnc3C)CN=C2c4ccccc4;5.6100001;Bromodomain-containing protein 4;08H
+5ji8;c1cc(C(=O)N)cc(c12)sc(n2)N;4.6300001;Bromodomain-containing protein 9;6KT
+5a7c;O=C(C)NCCCCCCNC(=O)C;3.74;BROMODOMAIN-CONTAINING PROTEIN 3;5D4
+5i83;c1ccccc1[C@@H](C)Oc(c2)ccc(c23)NC(=O)C[C@H](N3)C;5.3899999;CREB-binding protein;68Y
+5a5s;COc1cncc(c1)-c(c(c23)cc(C)c(=O)[nH]3)cnc2NC4CC[NH2+]CC4;5.9000001;BROMODOMAIN-CONTAINING PROTEIN 4;NP8
+4wiv;Cc1onc(C)c1-c2ccc(cc2)C(N3)=C(NC(C)(C)C)N(C3=4)C=CNC4;6.2600002;Bromodomain-containing protein 4;3P2
+5hls;o1nc(C)c(c12)c3c(cccc3)C(=N[C@H]2CC(=O)N)c4ccc(Cl)cc4;7.4099998;Bromodomain-containing protein 4;62G
+5lj1;FC1(F)CCC(CC1)CO[C@H](C[NH2+]C[C@@H]2OC)[C@@H]2Nc(c(c34)[nH]c(=O)c(c4)C)ncc3-c5cncc(C)c5;4.5;Bromodomain-containing protein 4;6XX
+5lj2;Nc(c1)cncc1-c2cnc(c(c23)[nH]c(=O)c(C)c3)N[C@@H]4CC[NH2+]C[C@H]4OCC(CC5)CCS5(=O)=O;5;Bromodomain-containing protein 4;6XW
+4akn;Cc1noc(C)c1-c(cc2)cc(c23)ncc(C(=O)[O-])c3Nc4ccccc4C(C)(C)C;6.0999999;BROMODOMAIN-CONTAINING PROTEIN 2;S5B
+5cp5;CCN(C1=O)c2ccc(c(c2c13)ccc3)S(=O)(=O)Nc4ccc(F)cc4;5.9099998;Bromodomain-containing protein 4;EB0
+5dlz;Cc1cc(ccc1)C[N@@H+]2CC[C@@H](CC2)CNC(=O)CCCOc3cc(=O)n(C)c(c34)cccc4;5.7399998;Bromodomain-containing protein 4;5D1
+5dlx;Clc1cc(ccc1)N2CC[NH+](CC2)CCCNC(=O)C3CCN(CC3)c(n4)ccc(n45)nnc5C;5.6999998;Bromodomain-containing protein 4;5D2
+4qr3;C1CCCC1NS(=O)(=O)c2cc(ccc2)-c3csc(=O)[nH]3;5.8499999;Bromodomain-containing protein 4;BNJ
+4qr5;C1CC1C(=O)Nc2cc(-c3csc(=O)[nH]3)cc(c2)S(=O)(=O)NC4CCCC4;7.2199998;Bromodomain-containing protein 4;BNM
+4qr4;C1CCCC1NS(=O)(=O)c2cc(ccc2Cl)-c3csc(=O)[nH]3;6.5999999;Bromodomain-containing protein 4;BNK
+3p5o;Clc1ccc(cc1)C2=N[C@@H](CC(=O)NCC)c(nnc3C)n3c(c24)ccc(c4)OC;7.2600002;Bromodomain-containing protein 4;EAM
+5dw2;Nc1cc(OC)cc(OC)c1C(=O)N;5.8400002;Bromodomain-containing protein 4;5GD
+4lzr;O=C(C)N[C@H]1CCc(cc(OC)c(OC)c2OC)c2c(c13)ccc(c(=O)c3)OC;4.6999998;Bromodomain-containing protein 4;LOC
+4lzs;CC(=O)c1c(CC)c(C(=O)NC)[nH]c1C;4.8000002;Bromodomain-containing protein 4;L46
+5i7x;CN(C)C(=O)c(ccc1)cc1-c(cn(C)c2=O)c(c23)cc[nH]3;7.2800002;Bromodomain-containing protein 9;67B
+5dw1;COc(c1)cc(OC)c(c12)c(=O)[nH]c(n2)-c(cc3C)cc(C)c3OCC[NH+]4CCCC4;7.0999999;Bromodomain-containing protein 2;5GD
+4ps5;C1CCC[NH+]1CCOc2ccc(cc2)Nc3nc(c(cn3)C)Nc4cc(ccc4)S(=O)(=O)NC(C)(C)C;6.54;Bromodomain-containing protein 4;2TA
+4bjx;c1cc(Cl)ccc1N[C@@H]2C[C@H](C)N(C(=O)C)c(c23)ccc(c3)-c4ccc(C(=O)[O-])cc4;7.6599998;BROMODOMAIN-CONTAINING PROTEIN 4;73B
+4z1q;Nc1ccc(cn1)-c(c2)ccc(c23)n4c(nnc4C)[C@H](C)CN3c5ccc(Cl)cc5;7.8200002;Bromodomain-containing protein 4;558
+4z1s;Nc1ccc(cn1)-c(c2)ccc(c23)n4c(nnc4C)[C@@H](C)CN3c5ccc(Cl)cc5;6.0999999;Bromodomain-containing protein 4;559
+5i40;c1cn(C)c(=O)c(c12)[nH]cc2;4.8600001;Bromodomain-containing protein 9;67N
+5i80;CN(C)C(=O)c(ccc1)cc1-c(cn(C)c2=O)c(c23)cc[nH]3;7.21;Bromodomain-containing protein 4;67B
+4qzs;n1nc(C)n(c12)c3c(c(C)c(s3)C)C(c(cc4)ccc4Cl)=N[C@H]2CC(=O)OC(C)(C)C;7.0500002;Bromodomain-containing protein 4;JQ1
+4hbx;N1C(=O)N(C)Cc(c12)cc(cc2)S(=O)(=O)N3CCCC3;5.7199998;Bromodomain-containing protein 4;14X
+4hby;C1N(C)C(=O)Nc(c12)ccc(c2)S(=O)(=O)Nc3ccccc3;5.3600001;Bromodomain-containing protein 4;13F
+4hbw;CCNS(=O)(=O)c(c1)ccc(c12)NC(=O)N(C2)C;5.3200002;Bromodomain-containing protein 4;14Z
+5d3j;CCN(CC)S(=O)(=O)c(ccc1)cc1NC(=O)c([nH]c2C)c(CC)c2C(=O)C;5.2399998;Bromodomain-containing protein 4;L33
+5d3h;CCN(CC)S(=O)(=O)c(ccc1O)cc1NC(=O)c2c(CC)c(c(C)[nH]2)C(=O)CO;5.0999999;Bromodomain-containing protein 4;57G
+5d3n;Cc1ccc(S(=O)(=O)NC)cc1NC(=O)c([nH]c2C)c(CC)c2C(=O)C;5.04;Bromodomain-containing protein 4;L40
+5d3l;CCc1c(C(=O)C)c(C)[nH]c1C(=O)Nc2cc(c(C)cc2O)S(=O)(=O)N(CC)CC;6.0599999;Bromodomain-containing protein 4;57F
+5d3s;CCc1c(C(=O)C)c(C)[nH]c1C(=O)Nc2cc(c(F)cc2)S(=O)(=O)N3CCOCC3;5.8899999;Bromodomain-containing protein 4;579
+5d3p;CCc1c(C(=O)C)c(C)[nH]c1C(=O)n2ccc(c23)ccc(c3)S(=O)(=O)NC;5.1300001;Bromodomain-containing protein 4;57E
+5d3t;CCc1c(C(=O)C)c(C)[nH]c1C(=O)N(C)Cc2cccc(c2)C(=O)N;4.9200001;Bromodomain-containing protein 4;56Y
+4qew;COC(=O)[C@H](CC)[C@@H]1N=C(c(c2n(c13)c(nn3)C)cc(cc2)OC)c4ccc(Cl)cc4;7.0700002;Bromodomain-containing protein 2;31P
+2yem;c1ccccc1C2=N[C@H](c(nnc3C)n3c(c24)cccc4)NC(=O)OCc5ccccc5;7.8099999;BROMODOMAIN-CONTAINING PROTEIN 4;WSH
+2yek;Clc1ccc(cc1)C2=N[C@@H](CC(=O)NCC)c(nnc3C)n3c(c24)ccc(c4)OC;7.21;BROMODOMAIN-CONTAINING PROTEIN 2;EAM
+5i8b;O=C(N1)C[C@@H](C)Nc(c12)c(ccc2)-c3cccc(c3)OCc4ccccc4;6.96;CREB-binding protein;69F
+5i8g;O=C(N1)C[C@@H](C)Nc(c12)c(ccc2)-c(cc3)cc(c34)c(nn4C)-c5cnn(c5)C;7.52;CREB-binding protein;69E
+5ei4;[nH]1[nH]c(=[NH2+])nc1SCc(n2)n(CC)c(c23)c(=O)[nH]c(=O)n3Cc(cc4)ccc4Cl;4.5799999;Bromodomain-containing protein 4;5NV
+5eis;CCn(cn1)c(c12)c(=O)[nH]c(=O)n2Cc3ccc(Cl)cc3;5.7399998;Bromodomain-containing protein 4;5OU
+4xy9;c1cc(OC)c(cc1Br)-c2nc(N)nc(c23)nc[nH]3;5.3299999;Bromodomain-containing protein 4;43U
+4xy8;c1cc(OC)c(cc1Br)-c2nc(N)nc(c23)[nH]cn3;6.4000001;Bromodomain-containing protein 9;43U
+5ktx;C1OCC[C@@H]1n2nc(c(c23)CN(C(=O)C)CC3)Nc4ccc(cc4F)-c5cnn(c5)C;7.6999998;CREB-binding protein;6XH
+5ktu;O=C(C)N(C1)CCc(c12)[nH]nc2Nc3ccccc3;6.21;CREB-binding protein;6XB
+5ktw;CC(C)NC(=O)c1cccc(c1)Nc2nn(CC3CC3)c(c24)CCN(C4)C(=O)C;7.52;CREB-binding protein;6XG
+5acy;c1ccccc1N[C@H](C[C@H](C)N2C(=O)C)c(c23)cc(cc3)-c4ccc(cc4)C[NH+]5CCCCC5;8.1899996;BROMODOMAIN-CONTAINING PROTEIN 4;9S3
+5f1h;c1cncc(c12)c(=O)n(C)cc2-c3cc(OC)c(C[NH+](C)C)cc3OC;7.8499999;Bromodomain-containing protein 9;5U6
+5f1l;O=c1c(C)cc(cn1C)-c(cc2OC)cc(OC)c2C[N@H+]3C[C@H](C3)O;7.6799998;Bromodomain-containing protein 9;5U2
+4uiv;FC(F)(F)c(c1)cccc1-c2cn(C)c(=O)c(c23)cc(s3)C(=[NH2+])NC(CC4)CCS4(=O)=O;7.8000002;BROMODOMAIN-CONTAINING PROTEIN 9;XZB
+5egu;CCCCn(c(=O)[nH]c1=O)c(c12)nc(n2CC)CSc(n3)nc(n34)nc(C)c(c4C)CCCC;5.8499999;Bromodomain-containing protein 4;5NQ
+4men;n1cnn(c12)c(cc(n2)C)N(C)Cc3ccc(C)cc3;3.9000001;Bromodomain-containing protein 4;25K
+4meo;O=C(C)Nc1cccc(c1)C2=C[C@@H](C)N(O)c(c23)cccc3;3.5999999;Bromodomain-containing protein 4;25V
+4mep;O=C1N=C[C@@H](C=C1Cl)c2nc(-c3ccccc3)nn2-c4c(C)cccn4;5.3299999;Bromodomain-containing protein 4;24Y
+4meq;n1c(N)nn(c12)c(cc(n2)C)-c3ccccc3;3.5999999;Bromodomain-containing protein 4;25O
+4ir5;OCc1ccccc1-c2cc(C(=O)C)n(c23)ccc(c3)Oc4ccccc4;6.21;Bromodomain adjacent to zinc finger domain protein 2B;IR5
+4z93;Cc1onc(C)c1-c(c(c2)OC)cc3[nH]c(c4c23)ccnc4-c(c5C)c(n[nH]5)C6CC6;7.3499999;Bromodomain-containing protein 4;4LD
+5l96;Cc1ncccc1N[C@H](C)CS(=O)(=O)C;3.3;Bromodomain adjacent to zinc finger domain protein 2B;6RZ
+5l97;O=S(=O)(C)[C@H]1CC=C[C@H]1Nc(c2C)cccn2;3;Bromodomain adjacent to zinc finger domain protein 2B;6RW
+5l98;c1ccnc(C)c1N[C@@H](C)c(c2)ccc(c23)OCCO3;3.3099999;Bromodomain adjacent to zinc finger domain protein 2B;6RY
+5l99;s1ccc(c12)ncc(c2)[C@H](C)Nc3c(C)nccc3;3.3199999;Bromodomain adjacent to zinc finger domain protein 2B;6S0
+4f3i;Clc1ccc(cc1)C2=N[C@@H](CC(=O)OC)c(nnc3C)n3c(c24)sc(C)c4C;7.4400001;Bromodomain-containing protein 4;0S6
+4xub;Cc1cn(nn1)CCn2cnc(-c3cn(C)nc3)c2-c4ccc(/C=N/[H])cc4;5.9699998;Bromodomain adjacent to zinc finger domain protein 2B;43D
+4xua;Cc1cn(nn1)CCn2cnc(-c3ccccc3)c2-c4ccc(C#N)cc4;4.5900002;Bromodomain adjacent to zinc finger domain protein 2B;43C
+4qev;COC(=O)[C@H](C)[C@@H]1N=C(c(c2n(c13)c(nn3)C)cc(cc2)OC)c4ccc(Cl)cc4;7.6599998;Bromodomain-containing protein 2;31O
+4ir6;CS(=O)(=O)c1ccccc1-c2cc(C(=O)C)n(c23)ccc(c3)Oc4ccccc4;6.0799999;Bromodomain adjacent to zinc finger domain protein 2B;IR6
+4o78;COc(c1)c(OC)c(OC)cc1Nc2nccc(n2)Nc(c3)ccc(c34)c(C)n[nH]4;5.3400002;Bromodomain-containing protein 4;SAV
+4o77;Fc1ccc(cc1)-c2c(-c3ccncc3)nc([nH]2)-c4ccc(O)cc4;5.5999999;Bromodomain-containing protein 4;2RE
+4o74;C1CCCC1N2[C@H](CC)C(=O)N(C)c(c23)cnc(n3)Nc4ccc(cc4OC)C(=O)N[C@@H]5CC[N@@H+](C)CC5;7.5999999;Bromodomain-containing protein 4;R78
+4o75;COc(c1)c(OC)c(OC)cc1Nc(ncc2F)nc2Nc(n3)ccc(c34)OC(C)(C)C(=O)N4COP([O-])(O)O;4.6799998;Bromodomain-containing protein 4;2RC
+4o72;C1COCCN1c(cc2=O)oc(c23)c(ccc3)-c(ccc4)c(c45)sc6c5cccc6;6;Bromodomain-containing protein 4;2R4
+4o70;CCc(cn1)c(n12)nc(N(CCCC3)[C@@H]3CCO)cc2NCC4=CC=CN(C4)O;4.7199998;Bromodomain-containing protein 4;1QK
+4o71;C[N@H+]1CC[C@@H]([C@@H](C1)O)c2c(O)cc(O)c(c23)c(=O)cc(o3)-c4c(Cl)cccc4;4.7399998;Bromodomain-containing protein 4;CPB
+4o7f;COc1ccccc1Oc2nccc(n2)-c3c(-c4ccc(F)cc4)ncn3C5CC[NH2+]CC5;4.8899999;Bromodomain-containing protein 4;2RQ
+4o7e;c1ccccc1-c2[nH]c(-c3cc(O)ccc3)c(n2)-c4ccncc4;5.2399998;Bromodomain-containing protein 4;2RN
+4o7c;C1C[NH2+]CCC1c2nc(-c(cc3)cc(c34)CC[C@H]4N=O)c([nH]2)-c5ccncc5;5;Bromodomain-containing protein 4;2RK
+4o7a;c1c(Cl)cccc1C2=C(C(=O)NC2=O)Nc3cc(Cl)c(O)cc3;4.7199998;Bromodomain-containing protein 4;2RF
+4nra;c1cn(C(=O)C)cc(c12)c3c(n2)ccc(Cl)c3;4.1900001;Bromodomain adjacent to zinc finger domain protein 2B;2LW
+4nrb;CNC(=O)c1ccccc1OC2CCOCC2;4.4200001;Bromodomain adjacent to zinc finger domain protein 2B;2LX
+4nrc;CNC(=O)c1scc(c12)OCCO2;3.6199999;Bromodomain adjacent to zinc finger domain protein 2B;2LY
+4c66;Cc1nnc2CN=C(c(c3n12)cc(s3)CC)c4ccccc4Cl;4.0999999;BROMODOMAIN-CONTAINING PROTEIN 4;H4C
+4j3i;COc1cc(OC)cc(c12)nc([nH]c2=O)-c3cc(C)c(c(C)c3)OCCO;5.7399998;Bromodomain-containing protein 4;1K0
+4mr6;COc1cc(OC)cc(c12)nc([nH]c2=O)-c3cc(C)c(c(C)c3)OCCO;6.5999999;Bromodomain-containing protein 2;1K0
+4mr5;COc1cc(OC)cc(c12)[nH]c(nc2=O)-c3cc(C)c(O)c(C)c3;6.5999999;Bromodomain-containing protein 2;1K0
+4mr4;COc1cc(OC)cc(c12)nc([nH]c2=O)-c3cc(C)c(c(C)c3)OCCO;5.9400001;Bromodomain-containing protein 4;1K0
+4mr3;COc1cc(OC)cc(c12)nc([nH]c2=O)-c3cc(C)c(O)c(C)c3;5.9400001;Bromodomain-containing protein 4;1K0
+4j1p;COc1cc(OC)cc(c12)nc([nH]c2=O)-c3cc(C)c(c(C)c3)OCCO;7.0500002;Bromodomain containing 2, isoform CRA_a;1K0
+4yh3;c1cccc(c12)N(CC(=O)N2)C(=O)/C(c3ccccc3)=C/c4ccc(OC)cc4;4.5900002;Bromodomain-containing protein 4;Y80
+4yh4;c1ccccc1-c(cnc2)cc2C(=O)N3CC(=O)Nc(c34)cccc4;4.5900002;Bromodomain-containing protein 4;Y81
+4alg;c1cccnc1[C@@H](C)n(c(=O)[nH]2)c(c23)c4c(nc3)cc(c(c4)OC)-c5c(C)onc5C;6.3000002;BROMODOMAIN-CONTAINING PROTEIN 2;1GH
+4rvr;CCCOc(c1)ccn(c12)c(C(=O)C)cc2-c3ccccc3S(=O)(=O)C;6.8699999;Bromodomain adjacent to zinc finger domain protein 2B;3WQ
+5hm0;Clc1ccc(cc1)C(=NC2)c(c3c(c24)c(no4)C)cccc3;6.3600001;Bromodomain-containing protein 4;62V
+5khm;n1nc(OC)n(c12)nc(cc2)N(CC3)CCC3c4ccc(cc4)OCC[N@@H+](CC5)[C@H](C)C(=O)N5C;8.3000002;Bromodomain-containing protein 4;XNH
+4xya;[nH]1cnc(c12)nc(N)nc2-c3cc(Br)cc(c34)cco4;5.8600001;Bromodomain-containing protein 4;43S
+4o76;CC(C)(C)NS(=O)(=O)c1cccc(c1)Nc2nc(ncc2C)Nc3ccc(cc3)N4CC[NH+](C)CC4;6.8899999;Bromodomain-containing protein 4;1M3
+4hbv;O=C(N1)N(C)Cc(c12)cc(Br)cc2;4.6399999;Bromodomain-containing protein 4;15E
+4o7b;Cc1c(C)c(ccc1)Oc2nccc(n2)-c3c(-c4ccc(F)cc4)ncn3C5CC[NH2+]CC5;4.6999998;Bromodomain-containing protein 4;2RJ
+5igk;CS(=O)(=O)Nc(c(C)cc1)cc1-c(n2)cc(c(n23)nnc3C)NC(=O)OCC;7.3800001;Bromodomain-containing protein 4;BMF
+5igm;CS(=O)(=O)Nc(c(C)cc1)cc1C(=N2)C=C([C@@H](N23)NN=C3C)NC(=O)OCC;7.3800001;Bromodomain-containing protein 9;BMF
+4kcx;CCC(=CN1)C(N12)=NC(N(CCCC3)[C@@H]3CCO)=CC2NCc4cccn(=O)c4;4.4299998;Bromodomain testis-specific protein;1QK
+4flp;n1nc(C)n(c12)c3c(c(C)c(s3)C)C(c(cc4)ccc4Cl)=N[C@H]2CC(=O)OC(C)(C)C;6.7199998;Bromodomain testis-specific protein;JQ1
+4uyf;c1cc(Cl)ccc1N[C@@H]2C[C@H](C)N(C(=O)C)c(c23)ccc(c3)-c4ccc(C(=O)[O-])cc4;7.5999999;BROMODOMAIN-CONTAINING PROTEIN 2;73B
+4uyd;Cn1c(=O)n(C)c(c12)cc(cc2)C(=O)N;4.0999999;BROMODOMAIN-CONTAINING PROTEIN 4;V1T
+4uyh;c1ccccc1N[C@H](C[C@H](C)N2C(=O)C)c(c23)cc(cc3)-c4ccc(cc4)C[NH+]5CCCCC5;6.3000002;BROMODOMAIN-CONTAINING PROTEIN 2;9S3
+3p1d;CN1CCCC1=O;2.6400001;CREB-binding protein;MB3
+5cqt;C1CCCCC1NS(=O)(=O)c(cc2)c(c3c24)cccc3C(=O)N4CC;6.9099998;Bromodomain-containing protein 4;EB3
+4a9n;C1=CC1NS(=O)(=O)c2c(C)ccc(c2)-c3c(C)noc3C;5.8200002;BROMODOMAIN CONTAINING 2;A9N
+4a9m;C1CCCC1NS(=O)(=O)c2c(C)ccc(c2)-c3c(C)noc3C;6.3000002;BROMODOMAIN CONTAINING 2;P9M
+5d25;CCN(CC)S(=O)(=O)c(ccc1O)cc1NC(=O)c([nH]c2C)c(C)c2C(=O)C;6.3000002;Bromodomain-containing protein 4;56M
+5d24;O=C(N)COc1cccc(c1)NC(=O)c([nH]c2C)c(CC)c2C(=O)C;5.2399998;Bromodomain-containing protein 4;L26
+4uyg;c1cc(Cl)ccc1N[C@@H]2C[C@H](C)N(C(=O)C)c(c23)ccc(c3)-c4ccc(C(=O)[O-])cc4;7.5999999;BROMODOMAIN-CONTAINING PROTEIN 2;73B
+4bw3;Cc1noc(C)c1-c(c(n2)OC)cc(c23)ncc(C(=O)[O-])c3Nc4ccccc4C(C)(C)C;6.3000002;BROMODOMAIN-CONTAINING PROTEIN 4;9BM
+4bw2;Cc1noc(C)c1-c(cc2)nc(c23)ncc(C(=O)[O-])c3Nc4ccccc4C(C)(C)C;5.1999998;BROMODOMAIN-CONTAINING PROTEIN 4;UTH
+4bw1;Cc1noc(C)c1-c(cc2)cc(c23)ncc(C(=O)[O-])c3Nc4ccccc4C(C)(C)C;5.9000001;BROMODOMAIN-CONTAINING PROTEIN 4;S5B
+4bw4;Cc1onc(C)c1-c(c(n2)OC)cc3ncc(c4c23)[nH]c(=O)n4-c5ccccc5OC(F)(F)F;6.1999998;BROMODOMAIN-CONTAINING PROTEIN 4;9B6
+4lyw;O=C(C)c1c(C)[nH]c(c1CC)C(=O)Nc2cc(ccc2O)S(=O)(=O)N(CC)CC;6.6300001;Bromodomain-containing protein 4;21Q
+4lys;O=C(C)N[C@H]1CCc(cc(OC)c(OC)c2OC)c2C(C1=3)=CCC(=O)C(=O)C3;4.3400002;Bromodomain-containing protein 4;2SJ
+4cl9;CC(C)OC(=O)N[C@H](C[C@H](C)N1C(=O)C)c(c12)cc(cc2)-c3ccc(cc3)NC(=O)CCCCCCC(=O)NO;7.3000002;BROMODOMAIN-CONTAINING PROTEIN 4;IES
+4clb;C[NH2+]Cc1ccc(cc1)-c(cc2)cc(c23)[C@@H](C[C@H](C)N3C(=O)C)NC(=O)OC(C)C;6.5500002;BROMODOMAIN-CONTAINING PROTEIN 4;83T
+5i7y;c1c[nH]c(c12)c(=O)n(C/C=C/C)cc2-c3cccc(c3)C(=O)N(C)C;7.2800002;Bromodomain-containing protein 9;69G
+5a85;Cc(c1)c(=O)[nH]c(c12)c(ncc2)N[C@@H]3CC[NH2+]C[C@H]3OCC4CCCCC4;5.3000002;BROMODOMAIN-CONTAINING PROTEIN 4;78J
+4z6h;O=C1CCCCN1c(c2)ccc(c23)c(C)cc(=O)n3C;6.21;Bromodomain-containing protein 9;4L2
+4z6i;Cn1c(=O)cc(C)c(c12)ccc(c2)N3C(=O)CC[C@H](NC(=O)OC(C)(C)C)[C@H]3c4ccccc4;6.3099999;Bromodomain-containing protein 9;4L3
+5d0c;O=C(C)N1CCC(CC1)CNS(=O)(=O)c(cc2)c(c3c24)cccc3C(=O)N4CC;5.6300001;Bromodomain-containing protein 4;E0B
+5dx4;CCN(C1=O)c2ccc(c(c2c13)ccc3)NS(=O)(=O)c4cc(Br)ccc4OC;6.8600001;Bromodomain-containing protein 4;E0C
+5i88;c1c[nH]c(c12)c(=O)n(C/C=C/C)cc2-c3cccc(c3)C(=O)N(C)C;6.5999999;Bromodomain-containing protein 4;69G
+5i89;C1CC1c2nn(C)c(c23)ccc(c3)-c4cccc(c45)NC(=O)C[C@H](N5)C;7.48;CREB-binding protein;69B
+5i86;N1C(=O)C[C@@H](C)Nc(c12)c(ccc2)C(=O)NCc3ccccc3;6.2800002;CREB-binding protein;69A
+5cy9;CCCCS(=O)(=O)Nc(cc1)c(c2c13)cccc2C(=O)N3CC;6.6599998;Bromodomain-containing protein 4;E0A
+5d26;CCN(CC)S(=O)(=O)c(ccc1O)cc1NC(=O)c([nH]c2C)c(CC)c2C(=O)N;6.0900002;Bromodomain-containing protein 4;L28
+3zyu;c1cccnc1[C@@H](C)n(c(=O)[nH]2)c(c23)c4c(nc3)cc(c(c4)OC)-c5c(C)onc5C;7;BROMODOMAIN-CONTAINING PROTEIN 4;1GH
+4hxl;C1CCCCC1CCC(=O)Nc2cc(cc(c2)-c3csc(=O)[nH]3)NS(=O)(=O)c4sccc4;5.6599998;Bromodomain-containing protein 4;1A9
+4hxm;CCCC(=O)Nc1cc(cc(c1)-c2csc(=O)[nH]2)NS(=O)(=O)c3sccc3;6.0999999;Bromodomain-containing protein 4;1A8
+4hxr;s1cccc1S(=O)(=O)Nc2cc(ccc2)-c3csc(=O)[nH]3;5.3899999;Bromodomain-containing protein 4;1A4
+4hxs;c1ccccc1CS(=O)(=O)Nc2cc(ccc2)-c3csc(=O)[nH]3;5.3899999;Bromodomain-containing protein 4;1A3
+3mxf;n1nc(C)n(c12)c3c(c(C)c(s3)C)C(c(cc4)ccc4Cl)=N[C@H]2CC(=O)OC(C)(C)C;7.3099999;Bromodomain-containing protein 4;JQ1

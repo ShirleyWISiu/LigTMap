@@ -1,0 +1,103 @@
+2wi5 Heat_Shock_protein
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:68: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  np.add.at(IFP, [np.searchsorted(resids, np.sort(hydrophobic)[::-1]), 0], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:74: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  resids, np.sort(rings[strict_parallel]['resid'])[::-1]), 1], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:76: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  resids, np.sort(rings[strict_perpendicular]['resid'])[::-1]), 2], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:83: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  resids, np.sort(donors[strict0]['resid'])[::-1]), 3], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:90: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  resids, np.sort(acceptors[strict1]['resid'])[::-1]), 4], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:94: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  np.add.at(IFP, [np.searchsorted(resids, np.sort(plus['resid'])[::-1]), 5], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:98: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  np.add.at(IFP, [np.searchsorted(resids, np.sort(minus['resid'])[::-1]), 6], 1)
+/home/user/share/tid/anaconda2/envs/rdkit/lib/python2.7/site-packages/oddt/fingerprints.py:105: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  resids, np.sort(metal[strict2]['resid'])[::-1]), 7], 1)
+2xab Heat_Shock_protein
+2qfo Heat_Shock_protein
+3r91 Heat_Shock_protein
+3r92 Heat_Shock_protein
+5fnc Heat_Shock_protein
+4io8 Heat_Shock_protein
+4fcr Heat_Shock_protein
+4fcq Heat_Shock_protein
+4o07 Heat_Shock_protein
+4o05 Heat_Shock_protein
+3k98 Heat_Shock_protein
+3ay9 Heat_Shock_protein
+3ft8 Heat_Shock_protein
+3ft5 Heat_Shock_protein
+4egh Heat_Shock_protein
+4egi Heat_Shock_protein
+3k99 Heat_Shock_protein
+5aqz Heat_Shock_protein
+4xir Heat_Shock_protein
+4cwr Heat_Shock_protein
+4cws Heat_Shock_protein
+4cwp Heat_Shock_protein
+4cwt Heat_Shock_protein
+4cwn Heat_Shock_protein
+4cwo Heat_Shock_protein
+4cwf Heat_Shock_protein
+4eeh Heat_Shock_protein
+3atv Heat_Shock_protein
+3nmq Heat_Shock_protein
+2qg2 Heat_Shock_protein
+2qg0 Heat_Shock_protein
+3rlr Heat_Shock_protein
+3rlq Heat_Shock_protein
+4egk Heat_Shock_protein
+4awp Heat_Shock_protein
+4awq Heat_Shock_protein
+3ldq Heat_Shock_protein
+3bmy Heat_Shock_protein
+3bm9 Heat_Shock_protein
+2byh Heat_Shock_protein
+2yke Heat_Shock_protein
+2fwy Heat_Shock_protein
+2fwz Heat_Shock_protein
+3atu Heat_Shock_protein
+2xjg Heat_Shock_protein
+2xjx Heat_Shock_protein
+4xit Heat_Shock_protein
+3k97 Heat_Shock_protein
+2yi0 Heat_Shock_protein
+2yi5 Heat_Shock_protein
+2yi7 Heat_Shock_protein
+2xjj Heat_Shock_protein
+2xhr Heat_Shock_protein
+2xht Heat_Shock_protein
+2yk9 Heat_Shock_protein
+2ykc Heat_Shock_protein
+2yki Heat_Shock_protein
+2uwd Heat_Shock_protein
+2wi7 Heat_Shock_protein
+4cwq Heat_Shock_protein
+2ye9 Heat_Shock_protein
+1yc4 Heat_Shock_protein
+5fnf Heat_Shock_protein
+5fnd Heat_Shock_protein
+1yc1 Heat_Shock_protein
+3b28 Heat_Shock_protein
+3b25 Heat_Shock_protein
+3b24 Heat_Shock_protein
+3b26 Heat_Shock_protein
+4jql Heat_Shock_protein
+3m3z Heat_Shock_protein
+4nh8 Heat_Shock_protein
+4nh7 Heat_Shock_protein
+[10:30:36] Explicit valence for atom # 854 O, 3, is greater than permitted
+ERROR
+3r4p Heat_Shock_protein
+3r4o Heat_Shock_protein
+3r4n Heat_Shock_protein
+3r4m Heat_Shock_protein
+2bz5 Heat_Shock_protein
+3ow6 Heat_Shock_protein
+3owb Heat_Shock_protein
+3owd Heat_Shock_protein
+4lwe Heat_Shock_protein
+4lwi Heat_Shock_protein
+3hhu Heat_Shock_protein

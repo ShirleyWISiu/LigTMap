@@ -1,0 +1,52 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+4yo8;CCCCCC[N@H+](CO)Cc1c[nH]c(c12)c(N)ncn2;10.52;Aminodeoxyfutalosine nucleosidase;4EZ
+3ed0;Oc(c1)cc(O)c(c12)C(=O)c3c(C2=O)cc(C)cc3O;6.3467875;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;EMO
+3b7j;O=C1C=CC(=O)c(c12)cccc2O;5.167491;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;JUG
+5hfj;O=C([O-])[C@@H]([NH3+])CC[S@H](C)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;4.3899999;Adenine specific DNA methyltransferase (DpnA);SAM
+4y4v;[NH3+][C@H](C)C(=O)[O-];3.6500001;Conserved hypothetical secreted protein;DAL
+3n2e;c1cc(N)cc(c12)cc(S([O-])([O-])O)c(c2O)/N=N/c(cc3)cc(c34)cc(S([O-])(O)O)cc4O;4.96;Shikimate kinase;OSA
+3juk;c1cc(=O)[nH]c(=O)n1[C@H]2[C@H](O)[C@H](O)[C@H](O2)COP([O-])(O)OP([O-])(O)O[C@@H]3[C@H](O)[C@@H](O)[C@H](O)[C@H](O3)CO;4.8899999;UDP-glucose pyrophosphorylase (GalU);UPG
+4ygf;NS(=O)(=O)c1nnc(s1)NC(=O)C;7.6799998;Alpha-carbonic anhydrase;AZM
+3mle;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.2399998;Dethiobiotin synthetase;ADP
+4lps;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.7399998;Hydrogenase/urease nickel incorporation protein HypB;GDP
+2wks;c1c(C)ccc(c12)sc(c2)COC(=C[C@]3(C(=O)[O-])O)[C@@H](O)[C@@H](C3)O;6.8860564;3-DEHYDROQUINATE DEHYDRATASE;CB6
+4wkp;OCCOCCSCC[C@@H]1[C@@H](O)C[N@@H+](C1)Cc(c[nH]2)c(c23)ncnc3N;9.5500002;Aminodeoxyfutalosine nucleosidase;3QA
+4wkn;n1cnc(N)c(c12)[nH]cc2C[N@@H+](C[C@@H]3O)C[C@@H]3CSC;9.7200003;Aminodeoxyfutalosine nucleosidase;TDI
+2xb9;COc1ccc(cc1)C[C@H]([C@]2(C(=O)[O-])O)C(=O)[C@@H](O)[C@H](O)C2;6.77;3-DEHYDROQUINATE DEHYDRATASE;XNW
+2bmv;[NH2+]=C(N)c1ccccc1;2;FLAVODOXIN;BEN
+3c56;[O-]P([O-])(O)OCC(=O)N(O)CCCOP([O-])(O)O;7.8860559;Fructose-bisphosphate aldolase;PH4
+3c52;ONC(=O)COP([O-])(O)O;7.3010302;Fructose-bisphosphate aldolase;PGH
+2ew6;Oc1ccc(cc1)CCNC(=O)/C=C/c2ccc(O)c(O)c2;4.9699998;peptide deformylase;Y13
+2ew5;c1ccccc1CCNC(=O)/C=C/c2cc(OC(=O)C)c(cc2)OC(=O)C;5.9000001;peptide deformylase;Y12
+3fnm;O=C([O-])[C@@H]([NH3+])[C@H]1ON=CC1;4.705534;Gamma-glutamyltranspeptidase (Ggt) Large subunit;AVN
+2c57;O=C([O-])[C@@]1(O)C[C@@H](O)[C@H](O)C=C1;3.4300001;3-DEHYDROQUINATE DEHYDRATASE;FA1
+4b6r;COc1ccc(cc1)C[C@@H]([C@]2(C(=O)[O-])O)C(=O)[C@@H](O)[C@H](O)C2;5.8499999;3-DEHYDROQUINATE DEHYDRATASE;3DQ
+4b6s;Fc1c(F)c(F)c(F)c(F)c1C[C@@H]([C@@]2(O)C(=O)[O-])C(=O)[C@@H](O)[C@H](O)C2;6.0100002;3-DEHYDROQUINATE DEHYDRATASE;2HN
+4zla;CC(C)C[C@@H](C(=O)[O-])NC(=O)[C@@H](O)[C@H]([NH3+])Cc1ccccc1;7.3000002;Cytosol aminopeptidase;BES
+3cf8;Oc1cc(O)cc(c12)oc(c(c2=O)O)-c3ccc(O)c(c3)O;4.8961959;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;QUE
+3cf9;Oc1ccc(cc1)-c(cc2=O)oc(c23)cc(O)cc3O;4.8268142;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;AGI
+4ffs;Nc1ncnc(c12)c(c[nH]2)C[N@@H+](C3)C[C@@H]([C@H]3O)CSCCCC;10.44;MTA/SAH nucleosidase;BIG
+4ynb;n1ccncc1SC[C@H]([C@H]2O)C[N@H+](C2)Cc3c[nH]c(c34)c(N)ncn4;10.37;Aminodeoxyfutalosine nucleosidase;4EH
+3muf;O=C([O-])C1=C[C@H]([C@@H](O)[C@@H](C1)O)OP([O-])(O)O;6.4899998;Shikimate kinase;S3P
+2jfz;CC(C)Cn1c(=O)n(C)c(=O)c(c12)c(-c3ccncc3)n(n2)Cc4cccc(c45)cccc5;5.2399998;GLUTAMATE RACEMASE;003
+2xd9;C/C=C/c(s1)cc(c12)[C@](C(=O)[O-])(O)C[C@@H](O)[C@@H]2O;6.46;3-DEHYDROQUINATE DEHYDRATASE;XD9
+4yha;NS(=O)(=O)c1sc([n+](n1)C)NC(=O)C;6.6500001;Alpha-carbonic anhydrase;MZM
+3doz;Brc1cc(ccc1)C(=O)/N=N\Cc2cc(Br)c(O)c(Br)c2O;5.7033348;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;3BE
+2glp;c1ncccc1C(=O)N/N=C/c2cc(Br)c(O)c(Br)c2O;5.0100002;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;BDE
+2glm;c1ccccc1\N=C\2SC(\C(=O)N2CCOC)=C\c3ccc(o3)-c4ccc(Cl)c(c4)C(=O)[O-];5.3699999;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;SCB
+1pu7;NC=1N=CN(C)C(C12)N(C=N2)C;3.0999999;3-METHYLADENINE DNA GLYCOSYLASE;39A
+1pu8;[nH]1cnc(c12)N=CN3C2NC=C3;3.0999999;3-METHYLADENINE DNA GLYCOSYLASE;EA1
+3n9r;OP([O-])(O)OCC(=O)N(O)CCCCO;7.1500001;Fructose-bisphosphate aldolase;TD3
+3n9s;[O-]P([O-])(O)OCC(=O)N(O)CCCCOP([O-])(O)O;5.2600002;Fructose-bisphosphate aldolase;TD4
+3dp0;c1cccc(c12)ccc(c2)C(=O)/N=N\Cc3cc(Br)c(O)c(Br)c3O;5.8477116;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;2BC
+3dp3;CC(C)(C)c1ccc(cc1)C(=O)/N=N\Cc2cc(Br)c(O)c(Br)c2O;5.8181562;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;4BB
+3qxc;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.77;Dethiobiotin synthetase;ATP
+3qxh;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.2399998;Dethiobiotin synthetase;ADP
+3doy;Clc1ccc(cc1)C(=O)/N=N\Cc2cc(Br)c(O)c(Br)c2O;5.8181562;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;2BE
+3dp1;COc1ccc(cc1)C(=O)/N=N\Cc2cc(Br)c(O)c(Br)c2O;5.0034885;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;2RB
+3dp2;Brc1ccc(cc1)C(=O)/N=N\Cc2cc(Br)c(O)c(Br)c2O;5.8239088;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;4BE
+2xda;C1CC1CCc(s2)cc(c23)[C@](C(=O)[O-])(O)C[C@@H](O)[C@@H]3O;6.2199998;3-DEHYDROQUINATE DEHYDRATASE;JPS
+2w4i;c1cccc(c12)N=C(N3CC(C3)O)[C@@H](c4sccc4)N=C2c5ccccc5;6.3010302;GLUTAMATE RACEMASE;VGA
+3d04;Oc1ccc(cc1)[C@H](CC2=O)Oc(c23)cc(OC)cc3O;6.0457568;(3R)-hydroxymyristoyl-acyl carrier protein dehydratase;SAK
+2c4w;n1nn[nH]c1NS(=O)(=O)c(cc2)cc(c23)c(=O)c4c(o3)cccc4;4.6999998;3-DEHYDROQUINATE DEHYDRATASE;GAJ
+2c4v;O=C([O-])CC(O)(C(=O)[O-])CC(=O)[O-];2.5999999;3-DEHYDROQUINATE DEHYDRATASE;CIT

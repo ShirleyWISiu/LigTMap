@@ -1,0 +1,110 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+4k9g;Oc1c(F)cc(cc1)C2=NO[C@@H](C2)CC(=O)C;5.8200002;Macrophage migration inhibitory factor;1Q1
+1ynd;C[C@H]1C[C@H](CC)C(=O)N[C@@]12O[C@H]([C@H](C)[C@H](O)[C@@H]2C)C[C@H](O)[C@@H](C)CC/C=C/C=C(\C)[C@@H](OC(=O)[C@@H]([NH2+]3)CCC4)C/C=C/C=C/[C@H](O)[C@H](C)[C@@H](O)[C@@H](CCC(=O)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@H](C(=O)N34)Cc5cc(O)ccc5;8.4399996;Peptidyl-prolyl cis-trans isomerase A;SFA
+2vcx;[nH]1nccc1-c2sc(nc2)-c3ccccc3;7.6777811;GLUTATHIONE-REQUIRING PROSTAGLANDIN D SYNTHASE;D26
+2vcw;O=C([O-])c1cnn(c1)-c2ccccc2;3.0506101;GLUTATHIONE-REQUIRING PROSTAGLANDIN D SYNTHASE;ZZA
+2vcq;n1[nH]ccc1-c2cc(no2)-c3ccccc3;6.036212;GLUTATHIONE-REQUIRING PROSTAGLANDIN D SYNTHASE;D25
+2cvd;c1ccccc1C(c2ccccc2)O[C@H]3CC[N@H+](CC3)CCCc4nnn[nH]4;6.0999999;Glutathione-requiring prostaglandin D synthase;HQL
+4tw8;c1cc(=O)cc(c12)oc3c(c2)ccc(O)c3CNC(=O)COc4cc(ccc4)[C@@H](CCc5cc(OC)c(cc5)OC)OC(=O)[C@@H]6CCCCN6C(=O)[C@@H]([C@H]7CCC=CC7)c8cc(OC)c(OC)c(c8)OC;5.5799999;Peptidyl-prolyl cis-trans isomerase FKBP4;37M
+4tw7;C1COCC[NH+]1CCOc2cc(ccc2)[C@@H](CCc3cc(OC)c(cc3)OC)OC(=O)[C@@H]4CCCCN4C(=O)[C@@H]([C@H]5CCCC=C5)c6cc(OC)c(OC)c(c6)OC;7.5900002;Peptidyl-prolyl cis-trans isomerase FKBP5;37K
+4tw6;COc1c(OC)cc(cc1OC)[C@H](CC=C)C(=O)N2CCCC[C@H]2C(=O)O[C@@H](c3cc(ccc3)OCC(=O)[O-])CCc4cc(OC)c(cc4)OC;4.21;Peptidyl-prolyl cis-trans isomerase FKBP5;37L
+1d7j;CC(=O)CCO;3.3;PROTEIN (FK506-BINDING PROTEIN);BUQ
+1d7i;O=[S@@](C)CSC;3.5999999;PROTEIN (FK506-BINDING PROTEIN);DSS
+4yk5;Clc1ccc(cc1)Cn(c(c2C)CC(C(=O)[O-])(C)C)c(c23)ccc(c3)-c4ccc(c(F)c4)-c5c(C)cccc5;7.6399999;Prostaglandin E synthase;4DV
+4ec0;c1cccc(c12)ccc(C[NH3+])c2-c(cc3)ccc3C(=O)NCC[NH+]4CCOCC4;6.0700002;Hematopoietic prostaglandin D synthase;7PQ
+1w8l;C[C@H]1CN(C(=O)C)CCC1;0.49000001;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE A;1P3
+1w8m;C1CCCCN1C(=O)C(=O)OCC;1.6;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE A;E1P
+3i6c;Fc1cccc(c1)C[C@H](C(=O)[O-])NC(=O)c(c2)ccc(c23)cccc3;4.9200001;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;GIA
+2xp3;COc1ccccc1-c2oc(C(=O)[O-])cc2;3;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;B21
+3ikd;c1ccccc1C[C@H](COP([O-])(O)O)NC(=O)c(s2)cc(c23)cccc3;6.7471471;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;J9Z
+3ikg;c1c(C)cccc1C[C@H](COP([O-])(O)O)NC(=O)c(c2)sc(c23)cccc3;7.2441254;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;J8Z
+2xpa;c1ccccc1-c2nc(c([nH]2)C(=O)[O-])C(=O)N(C)CC(=O)N;5.3899999;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;4G5
+4oru;OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO;3.6800001;Prostaglandin-H2 D-isomerase;PEU
+4ory;OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO;3.53;Prostaglandin-H2 D-isomerase;PEU
+4orx;OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO;3.53;Prostaglandin-H2 D-isomerase;PEU
+1nmk;Oc(c1)cccc1C[C@@H](C(=O)N23)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCC(=O)C)[C@H](O)[C@@H](C)[C@@H](O)\C=C\C=C\C[C@@H](/C(C)=C/CO)OC(=O)[C@@H]([NH2+]3)CCC2;8.2399998;Peptidyl-prolyl cis-trans isomerase A;SFM
+1j4r;COc(c1)c(OC)c(OC)cc1C(F)(F)C(=O)N2CCCC[C@H]2C(=O)O[C@H](CCCc3cnccc3)CCCc4ccccc4;7.7199998;FK506-BINDING PROTEIN;001
+1bl4;O=C([O-])COc(c1)cccc1[C@@H](CCc2cc(OC)c(cc2)OC)OC(=O)[C@@H]3CCCCN3C(=O)[C@@H](CC)c4cc(OC)c(OC)c(c4)OC;8.7399998;PROTEIN (FK506 BINDING PROTEIN);AP1
+1fkb;O[C@@]12C(=O)C(=O)N3[C@@H](CCCC3)C(=O)O[C@H]([C@H](C)C[C@H]4C[C@@H](OC)[C@H](O)CC4)CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@@H](OC)C[C@@H](O1)CC[C@H]2C;9.6999998;FK506 BINDING PROTEIN;RAP
+1fkf;C1C[C@@H](O)[C@H](OC)C[C@@H]1\C=C(C)\[C@@H](OC(=O)[C@H](CCCC2)N2C(=O)C(=O)[C@@]34O)[C@H](C)[C@@H](O)CC(=O)[C@H](/C=C\C)\C=C(C)\C[C@H](C)C[C@H](OC)[C@@H](O4)[C@@H](OC)C[C@H]3C;9.3999996;FK506 BINDING PROTEIN;FK5
+4ee0;C1COCC[NH+]1CCNC(=O)c2ccc(cc2)-c3nccc(c34)cccc4;8.6300001;Hematopoietic prostaglandin D synthase;0O4
+1w6j;c1cc(Br)ccc1C(=O)c2c(F)cc(cc2)OCCCCCC[N@@H+](C)CC=C;8.1899996;LANOSTEROL SYNTHASE;R71
+3vi5;c1cccc(c12)C(=O)c3c(C2=O)c(cc(S([O-])(O)O)c3N)Nc4ccc(S(=O)(=O)N)cc4;5.6799998;Hematopoietic prostaglandin D synthase;M4M
+3vi7;c1cccc(C2=O)c1C(O)c(c23)c(cc(S([O-])(O)O)c3N)Nc(c4)ccc(c4S([O-])([O-])O)Nc(nc5Cl)nc(n5)Nc(c6S([O-])(O)O)cccc6;7.3899999;Hematopoietic prostaglandin D synthase;CBD
+5j7p;c1cc(C(F)(F)F)ccc1Cc(c(c2)O)cc(c23)OCO3;7.2800002;Macrophage migration inhibitory factor;6H1
+5j7q;c1cc(O)c(O)cc1-c(n2)cn(c23)cccc3;4.5799999;Macrophage migration inhibitory factor;6H2
+4w9o;COc1ccc(cc1OC)OCCN(C[C@@H]([C@@H]23)[C@@H](O)CO)C(=O)[C@H](CCC2)N3S(=O)(=O)c4cc(Cl)cc(Cl)c4;7.77;Peptidyl-prolyl cis-trans isomerase FKBP5;3JQ
+4w9p;COc1ccc(cc1OC)OCCN(C[C@@H]([C@@H]23)[C@H](O)CO)C(=O)[C@H](CCC2)N3S(=O)(=O)c4cc(Cl)cc(Cl)c4;7.8000002;Peptidyl-prolyl cis-trans isomerase FKBP5;3JR
+4w9q;COc1ccc(cc1OC)OCCN(C[C@@H]([C@@H]23)C=C)C(=O)[C@H](CCC2)N3S(=O)(=O)c4cc(Cl)cc(Cl)c4;6.8499999;Peptidyl-prolyl cis-trans isomerase FKBP5;3JP
+5hvs;c1cc(O)c(F)cc1-n2cc(nn2)-c(cc3)nc(c34)cccc4Oc5cccc(c5)C(=O)[O-];7.1500001;Macrophage migration inhibitory factor;65V
+4ciz;CC1(C)CCC[C@H](C)[C@@H]1/C=C/C(=C)C;7.29;RETINALDEHYDE-BINDING PROTEIN 1;RET
+3kce;O=C([O-])c(c1)[nH]c(c12)ccc(c2)C;4.7958798;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4BY
+3oob;Oc1c(O)c(O)cc(c1)[C@@H](O2)[C@@H](Cc(c23)c(O)cc(c3)O)OC(=O)c4cc(O)c(O)c(c4)O;4.6700001;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;KDH
+5hvt;c1cc(OC)ccc1N(C(O2)=O)Cc(c23)ccc(c3)O;7.2600002;Macrophage migration inhibitory factor;NVS
+3ee2;COC(=O)Nc(n1)[nH]c(c12)ccc(c2)C(=O)c3cccs3;4.1870866;Glutathione-requiring prostaglandin D synthase;NZO
+3kac;c1cccc(c12)nc([nH]2)CCC(=O)[O-];3.1307683;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4BX
+3kab;O=C([O-])c([nH]1)cc(c12)ccc(c2)C;3.2006595;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4BL
+3kad;c1cccc(c12)[nH]c(n2)C[C@H](C(=O)[O-])NC(=O)CCc3ccccc3;5.124939;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4C0
+3kag;c1cccc(c12)[nH]c(n2)C[C@H](C(=O)[O-])NC(=O)c3c(C)occ3;5.1804562;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4D7
+3kaf;c1cccc(c12)nc([nH]2)C[C@H](C(=O)[O-])NC(=O)c(s3)cc(c34)cccc4;6.0809221;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4D9
+3kai;c1cccc(c12)cc(cc2)C[C@H](C(=O)[O-])NC(=O)c3n(C)nc(c3)-c4ccccc4;5.4089355;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4FI
+3kah;c1cccc(c12)[nH]c(n2)C[C@H](C(=O)[O-])NC(=O)c3n(C)nc(c3)-c4ccccc4;6.5850267;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;4DH
+1a7x;OC12[C](=O)=[C](=O)N3C(CCCC3)C(=O)OC(C(C)=CC4CC(OC)C(O)CC4)C(C)C(O)CC(=O)C(C=C(C)CC(C)CC(OC)C(O2)C(OC)CC1C)CCOC(=O)NCc5ccccc5;9.6999998;FKBP12;FKA
+5bqg;Clc1ccccc1C(=O)Nc2scc(n2)-c3ccccc3;4.7600002;Prostaglandin E synthase;4UJ
+5bqh;FC(F)c1ccc(CNC(=O)C(C)C)cc1C(=O)Nc(n2)[nH]cc2-c(cc3)ccc3Cl;8.5200005;Prostaglandin E synthase;4UK
+5bqi;FC(F)c1ncc(CNC(=O)C(C)C)cc1C(=O)Nc([nH]c2C)nc2-c(cc3)ccc3C(F)(F)F;9.0500002;Prostaglandin E synthase;4UL
+4drk;CCC(C)(C)C(=O)C(=O)N(CCCC1)[C@@H]1C(=O)O[C@@H](c(ccc2)cc2OCC(=O)[O-])CCc3ccc(OC)c(c3)OC;5.0799999;Peptidyl-prolyl cis-trans isomerase FKBP5;I63
+4drn;C1CCC[C@@H](CC)[C@]1(O)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@@H](c3cc(ccc3)OCC(=O)[O-])CCc4cc(OC)c(cc4)OC;5.2399998;Peptidyl-prolyl cis-trans isomerase FKBP5;0MC
+4dro;C1CCC[C@H](CC)[C@@]1(O)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@@H](c3ccccc3)CCc4cc(OC)c(cc4)OC;5.4099998;Peptidyl-prolyl cis-trans isomerase FKBP5;0MD
+4drm;C1CCC[C@@H](CC)[C@]1(O)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@@H](c3cc(ccc3)OCC(=O)[O-])CCc4cc(OC)c(cc4)OC;5.2399998;Peptidyl-prolyl cis-trans isomerase FKBP5;0MC
+4drp;C1CCC[C@H](CC)[C@@]1(O)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@@H](c3cc(ccc3)OCC(=O)[O-])CCc4cc(OC)c(cc4)OC;5.4099998;Peptidyl-prolyl cis-trans isomerase FKBP5;0MD
+5d75;C1C[C@@H](O)[C@H](OC)C[C@@H]1\C=C(C)\[C@@H](OC(=O)[C@H](CCCC2)N2C(=O)C(=O)[C@@]34O)[C@H](C)[C@@H](O)CC(=O)[C@H](CC=C)\C=C(C)\C[C@H](C)C[C@H](OC)[C@@H](O4)[C@@H](OC)C[C@H]3C;6.6999998;Peptidyl-prolyl cis-trans isomerase FKBP3;FK5
+3ntp;OP([O-])(O)OC[C@H](NC(=O)C)C[N@H+](CCC1)[C@@H]1C(=O)NCCc(c[nH]2)c(c23)cccc3;4.9200001;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;RZD
+2vd0;c1cccc(c1C(=O)[O-])NC(=O)/C=C/c(c2)ccc(OC)c2OC;4.9355421;GLUTATHIONE-REQUIRING PROSTAGLANDIN D SYNTHASE;D27
+2vd1;c1cc(F)c(C)cc1-c2nc(sc2)Nc3cc(O)c(C(=O)[O-])cc3;6.8601208;GLUTATHIONE-REQUIRING PROSTAGLANDIN D SYNTHASE;D28
+4yl1;CC(C)Oc(cc1)ccc1-n2c(C(=O)[O-])cc(c23)cc(cc3)-c(cc4)ccc4C(C)(C)C;6.6700001;Prostaglandin E synthase;4U8
+4yl0;N#Cc1cccc(C#N)c1-c([nH]2)nc(c3ccc(Cl)c4)c2c(c5c34)cccc5;8.2200003;Prostaglandin E synthase;4DZ
+4yl3;FC(F)(F)c(cc1)ccc1C#Cc2ccc(cn2)-c(c(Br)[nH]3)nc3-c4c(F)cccc4Cl;8.1499996;Prostaglandin E synthase;4U9
+2ooh;Oc1ccc(cc1)/C=N\OC(=O)C2CCCCC2;5.8899999;Macrophage migration inhibitory factor;OX3
+2ooz;Oc1ccc(cc1)/C=N/O;5.1500001;Macrophage migration inhibitory factor;OX5
+3ijg;[NH3+][C@H](C)C(=O)c1c(C(C)C)nn(c12)cccc2;4.27;Macrophage migration inhibitory factor;AVR
+4osf;Oc1ccc(cc1)CCNC=S;5.4400001;Macrophage migration inhibitory factor;4MT
+1qpf;c1cn(CC)c(c12)ccc(c2)OC(CC3)C(OC)CC3C=C(C)C(OC(=O)C(CCCC4)N4[C](=O)=[C](=O)C56O)C(C)C(O)CC(=O)C(CC)C=C(C)CC(C)CC(OC)C(O6)C(OC)CC5C;7.5700002;PROTEIN (FK506-BINDING PROTEIN);858
+1qpl;c1cn(C)c(c12)ccc(c2)O[C@H](CC3)[C@H](OC)C[C@@H]3\C=C(C)\[C@@H](OC(=O)[C@H](CCCC4)N4C(=O)C(=O)[C@@]56O)[C@H](C)[C@@H](O)CC(=O)[C@H](CC)\C=C(C)\[C@@H](O)[C@H](C)C[C@H](OC)[C@@H](O6)[C@@H](OC)C[C@H]5C;8.5100002;PROTEIN (FK506-BINDING PROTEIN);587
+5dit;C1CCCCC1[C@@H]([C@@H](C)O)C(=O)N2CCCC[C@H]2C(=O)O[C@H](CCc3cc(OC)c(cc3)OC)c4cc(ccc4)OCC[NH+]5CCOCC5;6.1500001;Peptidyl-prolyl cis-trans isomerase FKBP5;5B8
+5diu;COc1c(OC)cc(cc1OC)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)N[C@@H](c4cc(ccc4)OCC(=O)[O-])CCc5cc(OC)c(cc5)OC;7.3699999;Peptidyl-prolyl cis-trans isomerase FKBP5;5BG
+5div;C1CCCC1(C(=O)N)NC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(c4)OC;6.8499999;Peptidyl-prolyl cis-trans isomerase FKBP5;5BH
+1f40;CCC(C)(C)C(=O)C(=O)N(CCC1)[C@@H]1C(=O)OCCCc2cccnc2;6;FK506 BINDING PROTEIN (FKBP12);GPI
+5k0i;OC[C@H](C1)OCC[C@@H]1NC(=O)[C@H](C2(C)C)CCN(C2)c(n3)ccc(c34)cccc4C;8.6999998;Prostaglandin E synthase;6PW
+4j5c;CSc1ccccc1[C@H]2CCCN2C(=O)[C@H](CCSC)NC(=O)NCc3ccc(N)cc3;5.52;Peptidyl-prolyl cis-trans isomerase F, mitochondrial;7I6
+4j5b;CSc1ccccc1[C@H]2CCCN2C(=O)CNC(=O)NCc3ccc(N)cc3;6.2199998;Peptidyl-prolyl cis-trans isomerase F, mitochondrial;6B4
+4j5e;COc1ccccc1[C@H]2CCCN2C(=O)CNC(=O)NCc3ccc(N)cc3;4.9400001;Peptidyl-prolyl cis-trans isomerase F, mitochondrial;7B7
+4j5d;Nc1ccc(cc1)CNC(=O)NCC(=O)N2CCC[C@@H]2c3ccccc3Br;5.96;Peptidyl-prolyl cis-trans isomerase F, mitochondrial;728
+4j59;Nc1ccc(cc1)CNC(=O)NCC(=O)N2CCC[C@@H]2c3cccc(c34)cccc4;5.8499999;Peptidyl-prolyl cis-trans isomerase F, mitochondrial;671
+4j58;C1CCCN1C(=O)CNC(=O)NCc2ccc(N)cc2;3.3;Peptidyl-prolyl cis-trans isomerase F, mitochondrial;53Z
+4edy;C1COCC[NH+]1CCNC(=O)c2ccc(cc2)-c3c(CO)ccc(c34)cccc4;5.8299999;Hematopoietic prostaglandin D synthase;9PQ
+4edz;C1COCC[NH+]1CCNC(=O)c2ccc(cc2)-c3nc(C)cc(c34)cccc4;8.0799999;Hematopoietic prostaglandin D synthase;0O5
+4jfi;COc1cc(OC)cc(CC2)c1[C@@H](N2C(=O)[C@H]34)[C@@H](CCC3)N4C(=O)C(=O)c5cc(OC)c(OC)c(c5)OC;4.7399998;Peptidyl-prolyl cis-trans isomerase FKBP5;1KT
+4jfj;COc1ccc(cc1OC)OCCN(C(=O)[C@@H]23)CC[C@@H](CCC3)N2S(=O)(=O)c(c4)ccc(c45)ncs5;5.6799998;Peptidyl-prolyl cis-trans isomerase FKBP5;1KU
+4jfk;COc(c1)c(OC)ccc1OCCN(C(=O)[C@@H]23)CC[C@@H](CCC3)N2S(=O)(=O)c(cc4)cc(c45)sc(=O)[nH]5;6.4400001;Peptidyl-prolyl cis-trans isomerase FKBP5;JFK
+4jfl;O=c([nH]1)sc(c12)cc(cc2)S(=O)(=O)N3[C@H](CCC4)CN(C(=O)[C@@H]34)CCOc5ccc(OC)c(c5)OC;4.98;Peptidyl-prolyl cis-trans isomerase FKBP5;1KY
+4jfm;COc1ccc(cc1OC)OCCOC(=O)[C@@H]2CCCCN2S(=O)(=O)c(c3)ccc(c34)[nH]c(s4)=O;5.48;Peptidyl-prolyl cis-trans isomerase FKBP5;1KZ
+3odk;n1ccccc1-c2cc(C(=O)[O-])[nH]n2;3.1400001;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;ODK
+2xp8;c1ccccc1-c2nc(c([nH]2)C(=O)[O-])C(=O)N3CCOCC3;4.8200002;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;4FY
+2xp6;O=C([O-])c1c(C)nc([nH]1)-c2cc(Cl)ccc2;4.6999998;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;4G2
+2xp7;O=C([O-])c1nc([nH]c1C(=O)[O-])-c2ccccc2;5.77;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;4F8
+2xp4;O=C([O-])c1cnc([nH]1)-c2ccccc2;3.74;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;G14
+2xp5;O=C([O-])c1c(C)[nH]c(n1)-c2ccccc2;3.4400001;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;4FF
+2xpb;Clc1cc(ccc1)-c2nc(c([nH]2)C(=O)[O-])C(=O)N(C)Cc3ccccc3;5.6999998;PEPTIDYL-PROLYL CIS-TRANS ISOMERASE NIMA-INTERACTING 1;4GE
+4tyo;c1cc(F)cc(c12)[nH]c(n2)C[C@H](C(=O)[O-])NC(=O)c(cc3)cc(c34)cccc4;7.0999999;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;39X
+3l5r;c1cc(O)cc(c12)occ(c2=O)-c3cc(O)c(O)cc3;7.4200001;Macrophage migration inhibitory factor;47X
+4wr8;Oc1ccc(cc1)-n2cc(nn2)-c(n3)ccc(c34)cccc4;6.23;Macrophage migration inhibitory factor;3TX
+4wrb;Oc1ccc(cc1)-n2cc(nn2)-c(cc3)nc(c34)ccc(c4)OCCOC;6.1900001;Macrophage migration inhibitory factor;3TW
+3wnr;S=CNCc1ccccc1;6.2800002;Macrophage migration inhibitory factor;9BE
+3wns;C=CCNC=S;5.96;Macrophage migration inhibitory factor;9AI
+3wnt;S=CNCc1ccccc1;6.2800002;Macrophage migration inhibitory factor;9BE
+1pbk;O[C@@]12C(=O)C(=O)N3[C@@H](CCCC3)C(=O)O[C@H]([C@H](C)C[C@H]4C[C@@H](OC)[C@H](O)CC4)CC(=O)[C@H](C)\C=C(C)\[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)\C=C\C=C\C=C(C)\[C@@H](OC)C[C@@H](O1)CC[C@H]2C;9.0500002;FKBP25;RAP
+1hti;OP([O-])(O)OCC([O-])=O;5.1300001;TRIOSEPHOSPHATE ISOMERASE;PGA
+3jyj;c1ccccc1/C=C/C[C@H](C(=O)[O-])NC(=O)c(c2)ccc(c23)cccc3;5.7399998;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;JZI
+3tc5;C1=CC(=O)C=C(CC2)[C@@]1(C)[C@@](F)([C@@H](O)C3)[C@@H]2[C@@H]([C@]34C)C[C@@H](C)[C@]4(O)C(=O)COP([O-])(O)O;5.1700001;Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1;3T5
+4nnr;C1C[C@@H](O)[C@H](OC)C[C@@H]1\C=C(C)\[C@@H](OC(=O)[C@H](CCCC2)N2C(=O)[C@H](O)[C@@]34O)[C@H](C)[C@@H](O)C[C@H](O)[C@H](CCC)C[C@H](C)C[C@H](C)C[C@H](OC)[C@@H](O4)[C@@H](OC)C[C@H]3C;7.2600002;Peptidyl-prolyl cis-trans isomerase FKBP2;FK5

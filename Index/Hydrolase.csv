@@ -1,0 +1,1196 @@
+PDB;Smiles;Paffinity;ProteinName;LigandName
+2hh5;c1ccccc1CS(=O)(=O)C[C@H](NC(=O)N2CCOCC2)C(=O)N[C@@H](C)CNc3ccc(cc3)OC(F)(F)F;7.4899998;Cathepsin S;GNQ
+2ydm;[SeH]CC(=C)C(=O)N1C(C(=O)[O-])CCC1;7.4400001;ANGIOTENSIN CONVERTING ENZYME;SLC
+2r59;c1ccccc1C[C@H]([NH3+])P([O-])(O)C[C@@H](Cc2ccccc2)C(=O)N[C@H](C(=O)[O-])Cc3ccccc3;8.1870871;Leukotriene A-4 hydrolase;PH0
+1re1;c1ncc(cc1Br)C(=O)N[C@@H](CC(=O)[O-])CO;5.21;Caspase-3;NA3
+2wey;COc1c(OC)ccc(c1)Cc(ncc2)c(c23)cc(OC)c(c3)OC;7.1199999;CAMP AND CAMP-INHIBITED CGMP 3', 5'-CYCLIC PHOSPHODIESTERASE;EV1
+4npv;CCC(CC)Nc(ncn1)c(c12)cc(OC)c(OC)c2OC;7.46;Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B;0NK
+5i94;c1ccccc1CC(=O)Nc(s2)nnc2OC(CC3)CCN3c(s4)nnc4NC(=O)Cc5ccccc5;7.52;Glutaminase kidney isoform, mitochondrial;69V
+4zo5;c1cccc(c12)c(=O)n(-c3ccc(cc3)OC)c(n2)CCN(C4=O)C(=O)c(c45)c(ccc5)OC(C)C;9.8199997;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4Q0
+5i9i;c1cc(C(F)(F)F)ccc1-c(cc2)ccc2CN(CC[NH+](CC)CC)C(=O)C[N+]=3C(=NC(=O)[C@@H](C34)C=CC4)SCc5ccc(F)cc5;7.3000002;Platelet-activating factor acetylhydrolase;5HV
+3s5y;O[C@H]1C[NH2+][C@H](CO)[C@H](O)[C@@H]1O;7.4099998;Alpha-galactosidase A;DGJ
+2iko;Nc1nc(N)nc(CC)c1-c2ccc(cc2)NCc(cc3F)cc(F)c3;5.4499998;Renin;7IG
+4c9x;Clc1c(F)ccc(Cl)c1[C@H](C)Oc2cc(cnc2N)-c3cn(nc3)C4CC[NH2+]CC4;7.3200002;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;VHS
+1zp5;c1cc(C#N)ccc1-c(cc2)ccc2OCCN(C)C(=O)NO;2.9200001;Neutrophil collagenase;2NI
+2hhn;c1ccccc1CS(=O)(=O)C[C@H](NC(=O)N2CCOCC2)C(=O)N[C@@H](C)CNc3ccc(cc3)OC(F)(F)F;7.4899998;Cathepsin S;GNQ
+4uuq;c1cc(Cl)ccc1S(=O)(=O)NCC2CCN(C=O)CC2;7.54;MONOGLYCERIDE LIPASE;64D
+2ga2;Clc1ccc(cc1)S(=O)(=O)Nc2ccc(Br)cc2C(=O)[O-];5.52;Methionine aminopeptidase 2;A19
+1a4r;NP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)nc(N)[nH]c3=O;6.6599998;G25K GTP-BINDING PROTEIN;GNH
+4hze;[OH]=[B]([OH2])([OH2])[CH3]CCCC(C(=O)[O-])([NH3+])CC[NH+]1CCCCC1;6.29;Arginase-2, mitochondrial;X7A
+1au2;c1ccccc1Oc2ccc(cc2)S(=O)(=O)NC[C@H](O)CNC(=O)[C@H](CC(C)C)NC(=O)c3ccncc3;7.8899999;CATHEPSIN K;POS
+3k3h;Cc1ccccc1-n2ncc(c23)c(=O)nc([nH]3)C[C@H](C)C(F)(F)F;7.0599999;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;BYE
+3mz6;CN(C)c(cc1)ccc1C(=O)NCCCCCCC(=O)N=O;7.1999998;Histone deacetylase 8;B3N
+3mz3;CN(C)c(cc1)ccc1C(=O)NCCCCCCC(=O)N=O;7.8299999;Histone deacetylase 8;B3N
+4jpa;O=C1NC(=O)N[C@]1(C)CS(=O)(=O)N2CCN(CC2)c3ncc(cn3)OCc4cccc(C#N)c4;8.4799995;Collagenase 3;AZ6
+4ael;c1nccc(c12)nc(c(C#N)c2O)-c(cc3)ccc3-c4ccccc4OCC;7.9200001;CAMP AND CAMP-INHIBITED CGMP 3', 5'-CYCLIC PHOSPHODIESTERASE 10A;4HN
+4x0f;C1NC(=O)C[C@@H]1c2cc(c(cc2)OC)OC3CCCC3;7;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ROL
+4gj7;COCCCOc(c(cc1)OC)cc1C(=O)N(C(C)C)C[C@H]2[C@@H](C[NH2+]C2)Cc3ccccc3;6.77;Renin;0LT
+5iwg;C1COCCC1C(=O)Nc2cc(ccc2N)-c3ccc(F)cc3;6.46;Histone deacetylase 2;IWX
+1mnc;ONC(=O)C[C@@H](CC(C)C)C(=O)N[C@H](C(=O)NC)Cc1ccccc1;10.34;NEUTROPHIL COLLAGENASE;PLH
+1g7g;O=C([O-])COc1ccc(cc1C(=O)[O-])C[C@@H](C(=O)NCCCCC)NC(=O)[C@@H](NC(=O)CCC(=O)[O-])Cc2ccccc2;6.5999999;PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1;INX
+1fo3;O[C@H]1[C@@H](O)[C@H](O)[C@@H](CO)N([C@@H]12)C(=O)C(=O)N2;6.6999998;ALPHA1,2-MANNOSIDASE;KIF
+3zxh;ONC(=O)[C@@H](C(C)C)N(CCC(C)C)S(=O)(=O)c(c1)ccc(c12)cccc2;8.5200005;COLLAGENASE 3;E41
+5f02;c1cc(Cl)cnc1C2(C[NH2+]C2)C(=O)N3C[C@@H](C[C@H]3C(=O)NC4(/C=N/[H])CC4)S(=O)(=O)c5c(Cl)cc(cc5)OC;7.4400001;Cathepsin L1;5T9
+5tcc;c1ccc(Br)nc1NC(=O)[C@H]2N(CCS2)C(=O)Cn3ncc(c34)cccc4;5.6599998;Complement factor D;J56
+5tca;c1ccc(Br)nc1NC(=O)[C@H]2N(CCS2)C(=O)Cn3nc(C(=O)N)c(c34)cccn4;7.7199998;Complement factor D;J55
+4dsu;[nH]1cnc(c12)cccc2;2.8199999;GTPase KRas, isoform 2B;BZI
+4dst;[NH3+]CCc1c(C)[nH]c(c12)cc(Cl)cc2Cl;2.96;GTPase KRas, isoform 2B;9LI
+1b8y;O=C([O-])CNS(=O)(=O)c(cc1)ccc1N(CC2)CCC2c3ccccc3;7.8499999;PROTEIN (STROMELYSIN-1);IN7
+5d6e;CC(C)NC(=O)O[C@@H]1CC[C@](C)(O)c(c12)n(nn2)Cc3ccc(OC)cc3;4.3000002;Methionine aminopeptidase 2;94A
+5d6f;CC(C)NC(=O)O[C@@H](CC[C@]1(O)C)c(c12)nnn2Cc(cc3)ccc3OC;4.3699999;Methionine aminopeptidase 2;57R
+2c02;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;4.04;NONSECRETORY RIBONUCLEASE;ADP
+4jsr;CCNC(=O)c1sc(cc1)C(=O)NCCC2CCN(CC2)c(ncn3)c(c34)sc(c4)C(=O)N;8.3999996;NAD-dependent protein deacetylase sirtuin-3, mitochondrial;1NQ
+5edu;ONC(=O)\C=C\C(C)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1;8.6599998;Maltose-binding periplasmic protein, Histone deacetylase 6 chimera;TSN
+2ieh;c1ccc(O)cc1[C@@H](NC(=S)N2C)C(=C2C)C(=O)c3ccccc3;6.9586072;Kinesin-like protein KIF11;MOY
+2ow0;c1cccc(c12)[nH]cc2C[C@H](C(=O)[O-])NS(=O)(=O)c3ccc(cc3)-c4ccc(I)cc4;6.6999998;Matrix metalloproteinase-9 (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB);6MR
+2ow1;c1ccccc1Oc2ccc(cc2)S(=O)(=O)C[C@@](C(F)(F)F)([NH3+])C(=O)NO;9;Matrix metalloproteinase-9 (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB);7MR
+2ow2;COc1ccc(cc1)S(=O)(=O)[C@@H](C(F)F)CC(=O)[O-];8.2200003;Matrix metalloproteinase-9 (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB);8MR
+2ow9;c1ccccc1Cn(c2=O)c(=O)cc(n23)sc(c3)C(=O)OCc4ccccc4;7.52;Collagenase 3;SP6
+3skk;O[B](O)(O)CCCC[C@]([NH3+])(C(=O)[O-])C(F)F;4.4699998;Arginase-1;4U7
+4md6;Oc1ccc(cc1)Cc2[nH]c(-c3sccc3)c(c24)c(=O)c5c(o4)cccc5;7.77;cGMP-specific 3',5'-cyclic phosphodiesterase;24E
+1pxh;OP([O-])(O)C(F)(F)c1ccc(cc1)C[C@@H](C(=O)NCCCCC)NC(=O)[C@H](CC([O-])=O)NC(=O)Cc(cc2)ccc2C(F)(F)P([O-])([O-])O;8.7399998;Protein-tyrosine phosphatase, non-receptor type 1;SNA
+3kjq;O=C([O-])C[C@@H](C(=O)C)NC(=O)[C@H](C=C[C@H]1C)n(n12)c(=O)n(c2=O)CCCC(=O)[O-];5.8800001;Caspase-8;B94
+4htx;COc1ccc(cc1OC)Cc(n2)[nH]c(=O)c(n23)c(C)nc3[C@H]([C@@H](C)O)CCCc4ccccc4;8.3299999;cGMP-dependent 3',5'-cyclic phosphodiesterase;19F
+2h4k;c1ccccc1-c2c(Br)c(c(s2)C(=O)[O-])OCC(=O)[O-];5.4899998;Tyrosine-protein phosphatase non-receptor type 1;509
+2h4g;Oc1ccc(cc1)-c2c(Br)c(c(s2)C(=O)[O-])OCC(=O)[O-];6.52;Tyrosine-protein phosphatase non-receptor type 1;694
+3kjf;O=C([O-])C[C@@H](C(=O)C)NC(=O)[C@H](C=1)n(n2[C@H](C13)CCCC3)c(=O)n(c2=O)C[C@H](CCC(=O)[O-])NC(=O)Cc4ccccc4;4.8699999;Caspase-3;B92
+3kjn;C1CCCCC1CC(C2)=C[C@@H](C(=O)N[C@H](C(=O)C)CC(=O)[O-])n(n23)c(=O)n(c3=O)CCNC(=O)c(cc4)cc(c45)[nH]cn5;5.1900001;Caspase-8;B93
+4wzv;COc(cc1)ccc1-c(cc2)ccc2S(=O)(=O)N(OC(C)C)[C@@H](C(=O)NO)CCN(C3=O)C(=O)c(c34)cccc4;9.3699999;Matrix metalloproteinase-9,Matrix metalloproteinase-9;E40
+1oyn;C1NC(=O)C[C@H]1c2cc(c(cc2)OC)OC3CCCC3;6.2600002;cAMP-specific phosphodiesterase PDE4D2;ROL
+2h44;Oc1cc(O)c(CC=C(C)C)c(c12)oc(-c(cc3)ccc3OC)c(c2=O)O[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O;5.77;cGMP-specific 3',5'-cyclic phosphodiesterase;7CA
+2h42;CCCc(nn1C)c(c12)nc([nH]c2=O)-c3cc(ccc3OCC)S(=O)(=O)N4CC[NH+](C)CC4;8.6199999;cGMP-specific 3',5'-cyclic phosphodiesterase;VIA
+3kv2;O=C([O-])[C@@H]([NH3+])CCN/C(N)=N/O;7.3200002;Arginase-1;NNH
+3ovx;FC(F)(F)c1cccc(c1Cl)C(=O)N[C@H](CO)CC;7.5100002;Cathepsin S;O64
+3ovz;NC(=O)[C@@H](O)[C@H](CC)NC(=O)c1ccc(c(c1Cl)C(F)(F)F)OCc2ncccc2;8.0600004;Cathepsin K;O96
+5boy;Cn1cncc1-c(c2)ccc(c23)[nH]c(c3)C(=O)OCC;5.5999999;Collagenase 3;4UE
+5bot;CCOC(=O)c(c1)[nH]c(c12)ccc(c2)C(=O)N;4.4099998;Collagenase 3;4UM
+1qxk;O=C([O-])COc(c1O)ccc(c1)C[C@H](NC(=O)C)C(=O)NCCCCOc2cccc(O)c2C(=O)OC;5.0500002;Protein-tyrosine phosphatase, non-receptor type 1;429
+3l4x;OC[C@H](O)[C@H](O)[C@@H](O)[C@H](OS([O-])(O)O)[C@H](O)C[S@H](C[C@H]1O)[C@H](CO)[C@H]1O;6.8899999;Maltase-glucoamylase, intestinal;NR3
+2vex;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@H](NS(=O)(=O)c(c3)cccc3F)C(=N4)NC[C@H]4CCc5ccccc5;6.7447281;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZ4
+1jiz;c1cc(OC)ccc1S(=O)(=O)N([C@@H](C(=O)N=O)C(C)C)Cc2cccnc2;8.6999998;macrophage elastase MMP-12;CGS
+2vew;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@H](NS(=O)(=O)c(c3)cccc3F)C(=N4)NC[C@H]4Cc5ccccc5F;7.19382;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZ3
+2vev;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@H](NS(=O)(=O)c3cccc(c3)C(F)(F)F)c([nH]4)ncc4Cc5ccccc5;6.5228791;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZ2
+2veu;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@H](NS(=O)(=O)c(c3)cccc3C(F)(F)F)c(n4)[nH]cc4-c5ccccc5;7;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZ1
+3v4j;O=C1C(=O)C=C(C=C1)/[N+](C)=N/O;5.04;DNA dC->dU-editing enzyme APOBEC-3G;PQR
+3b7u;O=C([O-])[C@H](C)NC(=O)[C@@H](CC(=O)NO)Cc1ccccc1;7.7399998;Leukotriene A-4 hydrolase;KEL
+4u1b;OP([O-])(O)[C@@H]([NH3+])C(CCC)CCC;5.3099999;Methionine aminopeptidase 1;Q08
+4y2q;FC(F)(F)c1cccnc1N2CC[NH2+]CC2;2.9200001;Bifunctional epoxide hydrolase 2;49N
+5fcw;c1cccc(c12)cccc2-c3ccc(cc3)C(=O)N=O;6.52;Histone deacetylase 8;5YA
+2wik;CCCNP(O)OCC;3.1800001;CHOLINESTERASE;TC5
+5fck;c1ccc(Cl)c(F)c1[C@@H](C)NC(=O)[C@H](C2)N([C@@H]([C@@H]23)C3)C(=O)Cn4nc(C(=O)N)c(c45)ccnc5;8.2200003;Complement factor D;5WC
+2wig;CCOP(O)NC;3.4300001;CHOLINESTERASE;TC3
+1y2b;CCOC(=O)c1c(C)[nH]nc1C;4.0900002;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;DEE
+1y2c;CCOC(=O)c1c(C)nn(c1C)-c2ccccc2;6.5700002;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;3DE
+1y2d;CCOC(=O)c1c(C)nn(c1C)-c2ccc(cc2)OC;5.6999998;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;4DE
+1y2e;CCOC(=O)c1c(C)nn(c1C)-c2ccc(N)cc2;6.8000002;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;5DE
+1y2h;CCOC(=O)c1c(C)n(nc1C)-c2c(Cl)cccc2;7.25;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;6DE
+1y2j;O=N(=O)c1cccc(c1)-n2c(C)c(c(n2)C)C(=O)OCC;7.48;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;7DE
+1y2k;O=N(=O)c1cccc(c1)-n2c(C)c(c(n2)C)C(=O)OCC;7.6799998;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;7DE
+3fcl;C1C(=O)NC(=O)N=C1C[NH2+]CCCC[NH2+]Cc(c2)cccc2C(=O)[O-];3.5016894;Uracil-DNA glycosylase;3FL
+3fck;O=C([O-])c(c1)cccc1C[NH2+]CCCO/N=C/C2=NC(=O)NC(=O)C2;4;Uracil-DNA glycosylase;FCK
+3fci;O=C([O-])c(c1)cccc1/C=N/OCCC[NH2+]CC2=NC(=O)NC(=O)C2;5.8860564;Uracil-DNA glycosylase;3FI
+3fcf;O=C([O-])c1cccc(c1)/C=N/OCCO/N=C/C2=NC(=O)NC(=O)C2;4.3979402;Uracil-DNA glycosylase;FCF
+2pll;O=C([O-])C([NH3+])CCC[CH3][B](O)(O)O;8.3000002;arginase-1;ABH
+3kwb;C1CCCC[NH+]1CCCN2C(=O)N(N/C(C2=O)=C/N)c(cc3C(F)(F)F)ccc3;7.77;Cathepsin K;ORH
+3kwz;c1ccc(C(F)(F)F)cc1-c2nc(/C=N\[H])nc(c2)CCC[NH+]3CCCCC3;8.3999996;Cathepsin K;KWZ
+3kw9;C1CCCCC1Nc2nc(C[NH3+])nc(n2)N3CC[NH2+]CC3;9;Cathepsin K;ORG
+3iej;C1COCC[NH+]1CCCn(c(c23)CCN(C3)C(=O)CO)nc2-c4ccc(Cl)c(c4)C#Cc5ccc(Cl)cc5;6.6575775;Cathepsin S;599
+2a8h;ONC(=O)[C@@H](C1(C)C)N(CCS1)S(=O)(=O)c2ccc(cc2)OCC#CC[NH3+];7.1700001;ADAM 17;4NH
+3dek;FCCOc1cccc(c1)NC(=O)CCC(=O)Nc(cc2)cc(c23)C(=O)C(=O)NC3=O;7.5686364;Caspase-3;RXD
+3dei;O=C1NC(=O)C(=O)c(c12)c(ccc2)NC(=O)[C@@H](OC(=O)C)c3ccccc3;7.3979402;Caspase-3;RXB
+2uz9;n1c[nH]c(c12)c(=O)[nH]c(=O)[nH]2;5.71;GUANINE DEAMINASE;XAN
+1r1j;c1ccccc1C[C@@H](S)C(=O)N[C@H](C(=O)N[C@H](C(=O)[O-])C)Cc2ccccc2;8.6400003;Neprilysin;OIR
+1r1h;O=C([O-])[C@H](C)NC(=O)[C@@H](CP([O-])(O)[C@H](C)[NH3+])Cc1ccc(cc1)-c2ccccc2;8.9200001;Neprilysin;BIR
+1r1i;CCCCC[C@@H](S)C(=O)N[C@H](C(=O)N[C@@H](C)C(=O)[O-])Cc1ccccc1;8.54;Neprilysin;TI1
+1d5r;O=C([O-])[C@H](O)[C@@H](O)C(=O)[O-];1.8200001;PHOSPHOINOSITIDE PHOSPHATASE PTEN;TLA
+1d5j;c1cc(OC)ccc1S(=O)(=O)N(CCCS2)[C@@H](C2(C)C)C(=O)NO;9.1499996;STROMELYSIN-1;MM3
+2iku;CCc1nc(N)nc(N)c1-c(c2)ccc(c23)CC[C@@H](c4ccccc4)N3CCCOC;7.0999999;Renin;LIY
+4mjo;COCCc1c(C)cc(s1)S(=O)(=O)NC(=O)Nc2cc(Br)cc(n2)NC(=O)NC;6.2199998;Fructose-1,6-bisphosphatase 1;2C1
+4hva;COc1ccc(cc1OC)-c2cc(co2)C(=O)N[C@@H](CO)Cc3cccc(c3)C#N;5.8899999;Caspase-6;4HV
+4y8c;C1CCCC1n2ncc(c23)c(=O)[nH]c([nH+]3)N[C@@H](C)c4ccc(Cl)cc4;7.96;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;49D
+4qn9;C1C[C@@H](O)C[C@H]([C@]12C)CC[C@@H]3[C@@H]2C[C@H](O)[C@@]4(C)[C@H]3CC[C@@H]4[C@H](C)CCC(=O)[O-];4.4099998;N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D;DXC
+3sie;CCc1nc([nH]c(=O)c1Br)-c(c2)c(OCCC)ccc2S(=O)(=O)N(CC3)CC[NH+]3C;7.8800001;cGMP-specific 3',5'-cyclic phosphodiesterase;5BO
+4y87;C1CCCC1n2ncc(c23)c(=O)[nH]c([nH+]3)N[C@H](C)c4ccc(Cl)cc4;7.2399998;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;49E
+4jt8;CC(C)(C)C(=O)NCCC1CCN(CC1)c(ncn2)c(c23)sc(c3)C(=O)N;7.48;NAD-dependent protein deacetylase sirtuin-3, mitochondrial;1NR
+4jt9;CS(=O)(=O)NCCC1CCN(CC1)c2ncnc(c23)cc(s3)C(=O)N;8.1400003;NAD-dependent protein deacetylase sirtuin-3, mitochondrial;1NS
+4lkq;Sc(n1)nc(N)c(c12)cn[nH]2;3.3499999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;1XM
+4a6l;Fc1ccccc1C#Cc(cc2)oc2C(=O)N(CC3)CCC3c4cccc(c4)C[NH3+];8;TRYPTASE ALPHA/BETA-1;P43
+3lpp;OC[C@H](O)[C@@H](O)[C@@H](O)[C@H](OS([O-])(O)O)[C@H](O)C[S@H](C[C@H]1O)[C@H](CO)[C@H]1O;6.2199998;Sucrase-isomaltase;KTL
+5kqg;c1ccccc1[C@H](S([O-])(O)O)C(=O)Nc(n2)sc(c23)cccc3;5.1500001;Low molecular weight phosphotyrosine protein phosphatase;6VX
+5kql;c1ccccc1NC(=O)[C@@H](S([O-])(O)O)c2ccccc2;4;Low molecular weight phosphotyrosine protein phosphatase;6VY
+3lp4;O=C([O-])[C@@H]([NH3+])CCCC[NH3+];4.8800001;Arginase-1;LYS
+3lp7;O=C([O-])[C@@H]([NH3+])CCCN/C(N)=[NH+]/O;5.4400001;Arginase-1;HAR
+5tkb;Fc1cc(F)c(F)c(c1F)Nc(n2)cc(NC)c(n23)ncc3C(=O)NC[C@@](C)(O)CO;7.8899999;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;7DJ
+2hb1;Brc1csc([C](=O)=O)c1OCC([O-])[O-];3.8;Tyrosine-protein phosphatase non-receptor type 1;512
+1ros;c1cccc(c12)C(=O)N(C2=O)CC[C@H](C(=O)[O-])CC(=O)c3ccc(cc3)-c4ccc(cc4)OCC;8.7700005;Macrophage metalloelastase;DEO
+2wo8;c1ccccc1-c2ccc(cc2)CC[C@H](O)CC(=O)[O-];6.2839966;MACROPHAGE METALLOELASTASE;077
+2wo9;CC(=O)c1ccc(cc1)-c2ccc(cc2)CC[C@H](O)CC(=O)[O-];7.2076082;MACROPHAGE METALLOELASTASE;068
+2yb9;CCC[C@@H](C([O-])=O)CC1(CCCC1)C(=O)N[C@@H](C(=O)[O-])Cc(nc2)oc2-c3ccccc3;9.2200003;NEPRILYSIN;HA0
+2nta;c1ccccc1-c2c(Cl)c(cs2)N(S3(=O)=O)CC(=O)N3;4.8000002;Tyrosine-protein phosphatase non-receptor type 1;521
+2woa;O=C([O-])C[C@@H](O)CCc(c1)ccc(c12)c3c(C2)cccc3;5.939302;MACROPHAGE METALLOELASTASE;576
+4u70;OP([O-])(O)[C@@H]([NH3+])CC1CCCCC1;5.02;Methionine aminopeptidase 1;Q04
+4u71;OP([O-])(O)[C@@H]([NH3+])C1CCCCC1;5.2199998;Methionine aminopeptidase 1;Q03
+4u73;OP([O-])(O)[C@@H]([NH3+])c1ccccc1;5.1799998;Methionine aminopeptidase 1;Q02
+2nt7;n1n[nH]nc1-c2sc(c(Br)c2OCC(=O)[O-])-c3cc(ccc3)NC4CCN(CC4)S(=O)(=O)Cc5ccccc5;6.52;Tyrosine-protein phosphatase non-receptor type 1;902
+2ybu;Cn1cnc(c12)n(C)c(=O)n(c2=O)CCCn(c3=O)c(=O)n(C)c(c34)[nH]cn4;6.3800001;ACIDIC MAMMALIAN CHITINASE;CX9
+2ybt;n1cn(C)c(c12)c(=O)n(c(=O)n2C)CCCn(c(=O)n3C)c(=O)c(c34)n(C)cn4;4.6999998;ACIDIC MAMMALIAN CHITINASE;DW0
+4fea;C1=CCC=C(N1[Cu]23Cl)C(=[N+]3NC(=S2)SC)c4ncccc4;6.4699998;Caspase-7;0TE
+3rbu;O=C([O-])CC[C@@H](C(=O)[O-])CP([O-])(O)O;9.4300003;Glutamate carboxypeptidase 2;G88
+3i28;CC[C@@H]([NH3+])[NH2+]CCC[C@@H](C(=O)[O-])[NH3+];8.2218485;Epoxide hydrolase 2;34N
+4dwk;c1[nH]cnc1C[C@@H](C(=O)OC)NC(=O)C[N@@H+](CC(=O)[O-])CCCc2ccccc2;6.2199998;Insulin-degrading enzyme;MGK
+4cby;c1ccccc1[C@@H]2[C@H]([C@@H]2C(=O)NO)c3ccc(cc3)-c4ocnc4;7.6999998;HISTONE DEACETYLASE 4;KEE
+4cbt;Fc1cnc(nc1)-c2ccc(cc2)[C@H]3[C@H](C(=O)NO)[C@@H]3c4ccccc4;7.3000002;HISTONE DEACETYLASE 4;9F4
+1h1h;[O-]P([O-])(O)OC[C@H]1O[C@H]([C@@H]([C@@H]1O)OP([O-])(O)O)n(cn2)c(c23)ncnc3N;5.2199998;EOSINOPHIL CATIONIC PROTEIN;A2P
+1d7x;c1cc(OC)ccc1S(=O)(=O)N2[C@@H](C(=O)NO)C/C(C2)=N\OC;8.5200005;STROMELYSIN-1 PRECURSOR;SPC
+2y6c;FC(F)(F)c1cc(ccc1Cl)S(=O)(=O)N[C@H](C(=O)[O-])Cc2c[nH]c(c23)cccc3;5;MATRILYSIN;TQI
+1wva;[O-]C([O-])[C@@H]([NH3+])CSCC[B](O)(O)O;6.5700002;Arginase 1;S2C
+5j3s;N#Cc(c1)ccc(c2)c1n(c(c23)nc(=O)[nH]c3=O)-c4cccc(c4)-c5nnn[nH]5;7.7199998;Tyrosyl-DNA phosphodiesterase 2;6FQ
+4jzi;C1C[C@H]([NH3+])CC[C@H]1NC(=O)c2cc(Oc3ccc(C(=[NH2+])N)cc3)nc(c2)Oc4ccc(C(=[NH2+])N)cc4;7.4000001;Suppressor of tumorigenicity 14 protein;N4C
+1utt;CN1S(=O)(=O)Cc(c12)cc(cc2)[C@H]3CN(C(=O)CO3)Cc4ccccc4;4;MACROPHAGE METALLOELASTASE;CP8
+1utz;c1ccccc1[C@@H](CC(=O)[O-])NC(=O)c2scc(c2)-c3ccc(cc3)-c4ccncc4;5.8499999;MACROPHAGE METALLOELASTASE;PF3
+4bzr;Oc1ccc(cc1)C[C@@H](P([O-])(O)O)NC(=O)[C@@H](NC(=O)[C@H]([C@@H](C)CC)NC(=O)C)Cc2ccc(O)cc2;7.5999999;ANGIOTENSIN-CONVERTING ENZYME;K26
+4bzs;Oc1ccc(cc1)C[C@@H](P([O-])(O)O)NC(=O)[C@@H](NC(=O)[C@H]([C@@H](C)CC)NC(=O)C)Cc2ccc(O)cc2;7.1199999;ANGIOTENSIN-CONVERTING ENZYME;K26
+4rz1;c1ccccc1CNC(=O)O[C@@H]2C[NH2+]C[C@H]2CN(C(C)C)C(=O)c3ccc(OC)c(c3)OCCCOC;7.4000001;Renin;3ZN
+3q2h;n1cc(F)cnc1[C@@H](C)C[C@](C)(N(O)C=O)CS(=O)(=O)N2CCC(CC2)CCc3c(C)noc3C;9.1599998;A disintegrin and metalloproteinase with thrombospondin motifs 1;QHF
+3q2g;n1cc(F)cnc1[C@@H](C)C[C@](C)(N(O)C=O)CS(=O)(=O)N2CCC(CC2)OCc3ccc(Cl)cc3Cl;8.46;A disintegrin and metalloproteinase with thrombospondin motifs 1;QGF
+3nx7;ONC(=O)CN(CCO)S(=O)(=O)c1ccc(cc1)OC;8.1000004;Macrophage metalloelastase;NHK
+4jyt;c1cccc(c12)cc(cc2)S(=O)(=O)Nc3c(Oc4ccc(C(=[NH2+])N)cc4)nc(cc3)Oc5ccc(C(=[NH2+])N)cc5;7.4000001;Suppressor of tumorigenicity 14 protein;N4A
+4do5;O[C@H]1C[NH2+][C@H](CO)[C@H](O)[C@@H]1O;5.8299999;Alpha-N-acetylgalactosaminidase;DGJ
+4do4;O=C(C)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)[NH2+]C1;7.29;Alpha-N-acetylgalactosaminidase;DJN
+3nxq;c1ccccc1C[C@H](NC(=O)[C@H](CC(=O)[O-])NC(=O)C)P([O-])(O)C[C@@H](C)C(=O)N[C@@H](C)C(=O)N;8.1499996;Angiotensin-converting enzyme;RX4
+1rmz;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)CC(=O)NO;8;Macrophage metalloelastase;NGH
+4fcb;CCCc(nc1C)n(c12)c3c(nc2C)cc(cc3)OCc(cc4)nc(c45)cccc5;8.54;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;0T7
+4fcd;Clc1ccccc1-c(nc2C)n(c23)c4c(nn3)c(OC)cc(c4)OC;9.5500002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;0T6
+4fck;O=C([O-])[C@@H]([NH3+])CNC(=[NH2+])N;1.26;Arginase-1;GPA
+3i4a;O=S(=O)(C)c1ccc(cc1)[C@H](c(cc2)ccc2F)CCNC(=O)c3ccc(C#N)cc3;4.2839966;N(G),N(G)-dimethylarginine dimethylaminohydrolase 1;LN5
+4fci;O=C([O-])[C@@H]([NH3+])CNC(=[NH2+])N;1.26;Arginase-1;GPA
+4ms0;Nc1cc(Cl)nc(n1)N;3.3900001;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2ZX
+2v16;COC(=O)[C@H](C1)CN(c(c12)cccc2)C(=O)CC(C)(C)C[C@H]([NH3+])[C@@H](O)C[C@@H](C)C(=O)NCCCC;8.2218475;RENIN;C47
+2v13;COCCCOc1ccccc1C(=O)NC[C@H](C)C[C@H]([NH3+])[C@@H](O)C[C@@H](C)C(=O)NCCCC;7.5850272;RENIN;C40
+4msa;O=N(=O)c(cc1)cc(c12)[nH]cn2;3.3;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2ZM
+2v11;c1ccccc1Cn2cc(c(c23)cccc3)C(=O)OC[C@@H](C)C[C@H]([NH3+])[C@H](O)C[C@@H](C)C(=O)NCCCC;8.5200005;RENIN;C80
+4msc;c1cccc(c12)nc(cc2)COc(c3)ccc(c34)cccn4;5.96;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2ZT
+4msn;n1cccc(c12)cccc2N(=O)=O;4.0300002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2ZQ
+2i47;Cc1onc(C)c1S(=O)(=O)N(CC2)CCC2(C(=O)NO)CS(=O)(=O)c3ccc(cc3)OCC#CC;8.6599998;ADAM 17;KGY
+2aeb;O=C([O-])[C@@H]([NH3+])CCCCB(O)O;8.3000002;Arginase 1;ABH
+1kvo;c1ccccc1Cc(cc2)ccc2SC[C@H](CCC(=O)[O-])NC(=O)CCCCCCc3ccccc3;7.8899999;HUMAN PHOSPHOLIPASE A2;OAP
+3k3e;Cc1ccccc1-n2ncc(c23)c(=O)[nH]c(n3)C[C@@H](C)C(F)(F)F;7.6599998;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;PDB
+3jsw;CC(C)n(nc1)c(c12)[nH]c(nc2=O)[C@@H]3C[N@H+](C[C@H]3C)Cc4ccccc4;7.1804562;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;JAR
+4pm0;s1cc(C#C)c(c12)NC(=[N+]([C@H]2O)CC)NC3CCCC3;7.3499999;High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A;32V
+3jsi;C1CCCC1n(nc2)c(c23)nc([nH]c3=O)Cc4ccccc4;8.6777811;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;WTC
+1r5g;CCSCC[C@@H]([NH3+])[C@H](O)C(=O)N[C@@H](C)c(ccc1)c(c12)cccc2;7.52;Methionine aminopeptidase 2;AO1
+1r5h;C1CCCCC1C[C@@H]([NH3+])[C@H](O)C(=O)NNc2ccc(C)cc2;6.7399998;Methionine aminopeptidase 2;AO2
+1u2y;O\N=C1\[C@H](O)[C@@H](O)[C@H](O)[C@H](N1)CO;1.74;Alpha-amylase, pancreatic;GOX
+4j03;FC(F)(F)C(F)(F)CCC[S@H](O)CCCCCCCCC[C@@H]1Cc(cc(O)cc2)c2[C@@H](CC3)[C@@H]1[C@@H]([C@]34C)CC[C@@H]4O;7.5900002;Bifunctional epoxide hydrolase 2;FVS
+3hmv;O=N(=O)c1ccccc1C(=O)Nc(s2)c(C(=O)N)c(c23)CC[C@@H](C3)C;7.3000002;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;HBT
+4s1g;CC(C)[C@]1(C)CC(=O)N(C(=[NH+]1)N)Cc2cc(cc(F)c2)C(=O)N[C@@H](C)c3ccccc3;9.2200003;Renin;43T
+2g6p;c1cccnc1-c2nc(c(Cl)c(n2)C)NCCc3ccccc3;6.2199998;Methionine aminopeptidase 1;HM2
+1r58;CC(C)SCC[C@@H]([NH3+])[C@H](O)C(=O)NNC(=O)c1cccc(Cl)c1;6.96;Methionine aminopeptidase 2;AO5
+2q1j;c1cc(Cl)ccc1NC(=O)N(CCCC)C2(C=C2)C(=O)Nc3ccc(cc3F)-c4ccccc4S(=O)(=O)C;9.1000004;Activated factor Xa heavy chain (EC 3.4.21.6);FXI
+3ddu;c1cc(F)ccc1CO[C@H](N=C2Cl)C(=O)N([C@H]23)[C@@H](CC3)C(=O)N4CCCC4;7.3979402;Prolyl endopeptidase;552
+3n2u;OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1OCCN(CC(=O)NO)S(=O)(=O)c2ccc(OC)cc2;7.8400002;Macrophage metalloelastase;D3X
+3n2v;ONC(=O)CN(CCO)S(=O)(=O)c1ccc(cc1)-c2ccccc2;7.5100002;Macrophage metalloelastase;JT5
+3l4u;OC[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C[S@H](C[C@H]1O)[C@H](CO)[C@H]1O;7.52;Maltase-glucoamylase, intestinal;DSK
+3l4t;OC[C@H](O)[C@@H](OS([O-])(O)O)[C@H](O)C[S@H](C[C@H]1O)[C@H](CO)[C@H]1O;5.4200001;Maltase-glucoamylase, intestinal;BJ1
+3l4w;OCC[N@H+](C[C@@H]1O)[C@H](CO)[C@@H](O)[C@@H]1O;6;Maltase-glucoamylase, intestinal;MIG
+3l4v;OC[C@H](O)[C@@H](O)[C@@H](O)[C@H](OS([O-])(O)O)[C@H](O)C[S@H](C[C@H]1O)[C@H](CO)[C@H]1O;6.7199998;Maltase-glucoamylase, intestinal;KTL
+3l4y;OC[C@@H](O)[C@H](O)[C@@H](O)[C@H](OS([O-])(O)O)[C@H](O)C[S@H](C[C@H]1O)[C@H](CO)[C@H]1O;7;Maltase-glucoamylase, intestinal;NR4
+4yik;c1ccccc1[C@@](P([O-])(O)O)(OC2)O[C@@H]([C@@H]23)C[C@@H](O3)n4cc(c(=O)[nH]c4=O)/C=C/P([O-])([O-])O;6.8899999;5'(3')-deoxyribonucleotidase, mitochondrial;2O2
+4yih;c1ccccc1[C@@](P([O-])(O)O)(OC2)O[C@@H]([C@@H]23)C[C@@H](O3)n4cc(c(=O)[nH]c4=O)/C=C/P([O-])([O-])O;4.6599998;5'(3')-deoxyribonucleotidase, cytosolic type;2O2
+3l4z;O[C@H]1[C@H](O)C[S@H]([C@@H]1CO)C[C@@H](O)[C@H](CO)OS([O-])(O)O;6.7199998;Maltase-glucoamylase, intestinal;SSD
+2xei;O=C([O-])CC[C@@H](C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CCCCn1cc(nn1)COCCOCCNc2ccc(N(=O)=O)cc2N(=O)=O;10.62;GLUTAMATE CARBOXYPEPTIDASE 2;ARK
+2xej;COCCOCCOCCOCCOCc1cn(nn1)CCCC[C@@H](C([O-])[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];8.8699999;GLUTAMATE CARBOXYPEPTIDASE 2;OKD
+3wyl;c1ccccc1-n2nccc2-c3c(=O)c(OC)cn(n3)-c(c4)cccc4C(F)(F)F;8.8500004;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;3KB
+2xef;O=C([O-])CC[C@@H](C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CCCCn1cc(nn1)COCCOCCOCCOCCOCCOCCOCCOCCNc2ccc(N(=O)=O)cc2N(=O)=O;9.8400002;GLUTAMATE CARBOXYPEPTIDASE 2;AR8
+3gxt;O[C@H]1C[NH2+][C@H](CO)[C@@H](O)[C@@H]1O;4.7399998;Alpha-galactosidase A;NOJ
+3eb1;O=C([O-])C(=O)C[C@@H](O)c(c1)cccc1N(Cc2ccccc2)Cc3ccccc3;4.7878122;Tyrosine-protein phosphatase non-receptor type 1;LZQ
+3fuj;c1cccn1CCOc(c2)ccc(c23)[nH]cc3;3.630784;Leukotriene A-4 hydrolase;00G
+3fue;c1c[nH]c(c12)ccc(Cl)c2;2.821023;Leukotriene A-4 hydrolase;11S
+3chr;[NH3+]CCCC(=O)Nc1ccc(cc1)OCc2ccccc2;7.2146702;Leukotriene A-4 hydrolase;4BS
+3ff3;O=C([O-])[C@@H]([NH3+])CCC([O-])[O-];3.5699999;Glutamate carboxypeptidase III;GLU
+4bxk;n1nn[nH]c1C[C@@H]([NH3+])C(=O)N[C@@H](Cc2ccccc2)P([O-])(O)C[C@@H](C)C(=O)N[C@@H](C)C(=O)N;7.9499998;ANGIOTENSIN-CONVERTING ENZYME;1IU
+3chq;c1ccccc1COc2ccc(cc2)NC(=O)CC[C@@H](C(=O)[O-])[NH3+];7.6989698;Leukotriene A-4 hydrolase;4BQ
+3e8r;ONC(=O)[C@@H](C1)[C@]1(C(=O)N)Cc(cc2)ccc2OCc(c(c34)cccc4)cc(n3)-c5ccccc5;9.7447271;ADAM 17;615
+1no6;c1cccc(c12)c(ccc2)N(C(=O)C(=O)[O-])c3ccccc3C(=O)[O-];4.4099998;Protein-tyrosine phosphatase, non-receptor type 1;794
+3q4b;C1CCOC[C@H]1C[C@H]([NH2+]C)CNC(=O)N2C[C@@H](CCC2)[C@H](c3cc(Cl)ccc3)OCCNC(=O)OC;9.3299999;Renin;RX5
+3ant;o1nc(C(C)C)nc1C(CC2)CCN2C(=O)N[C@@H]3[C@H](C3)c4ccccc4;8.0699997;Epoxide hydrolase 2;S82
+1fo2;O[C@H]1[C@H](O)[C@H](O)C[NH2+][C@@H]1CO;4.6999998;ALPHA1,2-MANNOSIDASE;DMJ
+3llm;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;4.7399998;ATP-dependent RNA helicase A;ADP
+1sln;c1ccccc1CC[C@H]([NH2+][C@H](C)C(=O)[O-])C(=O)N[C@@H](CCC[NH+]=C(N)N)C(=O)Nc2ccccc2;6.6399999;STROMELYSIN-1;INH
+1xom;O=C([O-])[C@H](CC1)CC[C@]1(C#N)c2ccc(OC)c(c2)OC3CCCC3;7.96;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;CIO
+2qyk;O=C([O-])c1ccc(cc1)-c(c2)nc(c(c23)nccc3)-c4cc(N(=O)=O)ccc4;5.4814858;Cyclic AMP-specific phosphodiesterase HSPDE4A10;NPV
+2qyl;O=C([O-])c1ccc(cc1)-c(c2)nc(c(c23)nccc3)-c4cc(N(=O)=O)ccc4;6.1870871;Phosphodiesterase 4B, cAMP-specific;NPV
+2qyn;O=C([O-])c1ccc(cc1)-c(c2)nc(c(c23)nccc3)-c4cc(N(=O)=O)ccc4;6.2441249;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;NPV
+5a7j;OP([O-])(O)Oc1cc(OP([O-])([O-])O)c(OP([O-])(O)O)cc1OP([O-])([O-])O;5.1999998;TYPE II INOSITOL 1,4,5-TRISPHOSPHATE 5-PHOSPHATASE;K2Y
+5a7i;OP([O-])(O)Oc(c1)c(OP([O-])([O-])O)c(OP([O-])(O)O)cc1-c2cc(OP([O-])([O-])O)c(OP([O-])(O)O)c(c2)OP([O-])([O-])O;5.2600002;TYPE II INOSITOL 1,4,5-TRISPHOSPHATE 5-PHOSPHATASE;B6K
+2v3e;OC[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)C[N@H+]1CCCCCCCCC;6.52;GLUCOSYLCERAMIDASE;NND
+2v3d;OC[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)C[N@H+]1CCCC;3.9400001;GLUCOSYLCERAMIDASE;NBV
+1c3i;COC(=O)[C@H](C(C)C)NC(=O)CNC(=O)[C@H](CS)[NH2+]Cc1ccc(cc1)-c2ccccc2;5.8000002;STROMELYSIN-1;TR1
+2fhy;Clc1ccc(Cl)c(c1)S(=O)(=O)Nc(n2)oc(c23)ccc(Cl)c3;5.96;Fructose-1,6-bisphosphatase 1;A37
+2y6d;n1cc(Br)ccc1N(CC2)CCN2S(=O)(=O)C[C@@H](N(C=O)O)CCCc3ncccn3;7.0999999;MATRILYSIN;TQJ
+2j95;Clc1ccc(s1)-c2ccc(s2)S(=O)(=O)N[C@H]3CCN(C3=O)[C@@H](C)C(=O)N4CCOCC4;8.3999996;ACTIVATED FACTOR XA HEAVY CHAIN;GSX
+2fv5;c1cccc(c12)nc(C)cc2COc3ccc(cc3)[C@]4(C)CCN(C4=O)[C@H](C)C(=O)NO;11.7;ADAM 17;541
+3p8e;O=C([O-])[C@@H]([NH3+])CCC[NH2+][C@H]([NH3+])CCCC;5.1500001;N(G),N(G)-dimethylarginine dimethylaminohydrolase 1;LN7
+4n6g;O=C1N/C(=N/[H])Cc(c12)cccc2;5.4699998;Caspase-6;2GQ
+3p8p;O=C([O-])[C@@H]([NH3+])CCC[NH2+][C@@H](N)CCCC;4.5500002;N(G),N(G)-dimethylarginine dimethylaminohydrolase 1;LN6
+2fv9;ONC(=O)C[C@@H](CC(C)C)C(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](C)C(=O)NCC[NH3+];7.2199998;ADAM 17;002
+4h4b;OS([O-])(O)c(cc1)cc(c12)C(=O)c3c(C2=O)cc(cc3)S([O-])([O-])O;2.7;Cytosolic purine 5'-nucleotidase;11H
+3u8d;c1ccccc1CN([C@@H](CC)[C@@H]2CC(=O)N)c(c23)ccc(c3)OCCCP([O-])(O)O;6.3299999;Phospholipase A2, membrane associated;U8D
+3gwt;c1ccc(OC)cc1Nc(c(cn2)C(=O)N)c(c23)cc(cc3C)S(=O)(=O)c4cc(C(=O)N(C)C)ccc4;11.1;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;066
+2jaj;O=C([O-])[C@@H]([NH3+])CCC/[NH+]=C(N)\NCCOC;4.5999999;NG, NG-DIMETHYLARGININE DIMETHYLAMINOHYDROLASE 1;D20
+2w0d;c1cc(OC)ccc1S(=O)(=O)N([C@H](C(C)C)C(=O)NO)Cc2cccnc2;8.6989698;MACROPHAGE METALLOELASTASE;CGS
+3uo9;c1ccccc1CC(=O)Nc(s2)nnc2CCSCCc3nnc(s3)NC(=O)Cc4ccccc4;7.0999999;Glutaminase kidney isoform, mitochondrial;04A
+3dwb;O1[C@@H](C)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1OP([O-])(O)N[C@@H](CC(C)C)C(=O)N[C@H](C(=O)[O-])Cc2c[nH]c(c23)cccc3;6.1870871;Endothelin-converting enzyme 1;RDF
+3b1t;O=C([O-])c1ccccc1C(=O)N[C@H](C(=O)N)CCCNC(=N\[H])\C;5.6599998;Protein-arginine deiminase type-4;YCL
+3rik;OCC[N@H+](C[C@@H]1O)C[C@H](O)[C@@H](O)[C@@H]1O;2.47;Glucosylceramidase;3RI
+4y2s;FC(F)(F)c1cccc(c1)-n(c2)ncc2O;4.2800002;Bifunctional epoxide hydrolase 2;49P
+4y2p;c1ccncc1-c(ccc2)cc2C[NH2+]C;2.6600001;Bifunctional epoxide hydrolase 2;3C5
+4y2v;O=C([O-])Cn(cc1Br)nc1C2CC2;4.04;Bifunctional epoxide hydrolase 2;4A5
+4y2u;c1cccc(c12)NC[C@@H](C2)NC(=O)OC(C)(C)C;3.24;Bifunctional epoxide hydrolase 2;49R
+4y2t;c1ccccc1COc(cc2)ccc2CCCO;3.8199999;Bifunctional epoxide hydrolase 2;49Q
+4y2y;Fc1ccccc1CC[NH2+]Cc(s2)ccc2C;5.0500002;Bifunctional epoxide hydrolase 2;49Z
+4y2x;Oc1ccccc1C[NH2+]CCC23C[C@H]4C[C@@H](C2)C[C@H](C4)C3;6.29;Bifunctional epoxide hydrolase 2;4A0
+4y2j;c1ccccc1CC[NH2+]Cc2ccn(n2)C;3.0999999;Bifunctional epoxide hydrolase 2;49G
+1vj5;C1CCCCC1NC(=O)Nc2ccc(I)cc2;6.9200001;epoxide hydrolase 2, cytoplasmic;CIU
+3c9e;O=C([O-])C[C@H](O)C(=O)N[C@@H](CC(C)C)C(=O)NCCCC[NH+]=C(N)N;8;Cathepsin K;E64
+4y2b;O[C@@H]1[N+](CC)=C(NC(C)C)Nc(c12)c(cs2)-c3cnccc3;8.3599997;High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A;EPK
+5c28;Nc1nc(C2CC2)nc(Cl)c1C;5.6599998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4XV
+5c29;CCCNc1nc(C2CC2)nc(Cl)c1C;6.0599999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4XY
+5c2e;Cc1sc(c(n1)C)CNc2nc(nc(Cl)c2C)OCCc3ncccc3;8.6999998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4Y1
+5c2a;Cc1sc(c(n1)C)CNc2nc(C3CC3)nc(Cl)c2C;8.3199997;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4Y2
+5c2h;Cc1sc(c(n1)C)CNc2nc(nc(Cl)c2C)OCCCc(cc3)nc(c34)cccc4;11.09;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4XU
+3ljz;O1COc(c12)cc(cc2)-c3ccc(cc3)C[C@H](CC(=O)NO)C(=O)N[C@@H]4[C@H](O)Cc(c45)cccc5;8.1400003;Collagenase 3;LA3
+3ftz;Nc1ccccc1OCc2cccnc2;2.7;Leukotriene A-4 hydrolase;848
+3fty;Nc1ncccc1OCc2ccccc2;3.2083094;Leukotriene A-4 hydrolase;3IP
+3ftw;c1ccncc1CNc2ccccc2;2.78;Leukotriene A-4 hydrolase;11X
+3ftv;c1ccncc1CNc2ccccc2;2.932929;Leukotriene A-4 hydrolase;11X
+3ftu;Oc1cc(O)cc(c1)CCc2ccc(O)cc2;3.6073031;Leukotriene A-4 hydrolase;RE2
+3ljt;O1COc(c12)cc(cc2)-c3ccc(cc3)C[C@H](CC(=O)NO)C(=O)N[C@@H]4[C@H](O)Cc(c45)cccc5;6.8899999;A disintegrin and metalloproteinase with thrombospondin motifs 5;LA3
+3ljg;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)[O-])NC(=O)CCc(cc1)ccc1-c2ccccc2;7.73;Macrophage metalloelastase;EEF
+1snk;CCCC[C@@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)OCc1ccc(Br)cc1;9.6000004;Cathepsin K;MYE
+5koq;C1[NH2+]CCC[C@@H]1N(CC(C)C)C(=O)c(cnc2C(C)(C)C)c(n2)NCc3ccco3;9.2399998;Renin;6VR
+5kos;COCCCNc1nc(C(C)(C)C)ncc1C(=O)N(CC(C)C)[C@@H]2C[NH2+]C[C@@H](C2)C(=O)N3CCOCC3;8.8199997;Renin;6VS
+4n7m;C1CCC[N+]1=C(NC2=O)Cc(c23)cccc3;5.4699998;Caspase-6;2GQ
+4n7j;O=C1N=C(N(C)C)Cc(c12)cccc2;5.4699998;Caspase-6;2GQ
+4ikr;c1cccnc1-c(nc(c2Cl)C)nc2N3CC[NH+](CC3)CCO;6.23;Methionine aminopeptidase 1;PVP
+4ikt;FC(F)(F)c1cnc(cc1)NCCNc2nc(nc(c2Cl)C)-c3ncccc3;6.1700001;Methionine aminopeptidase 1;TFV
+4iku;n1ccccc1-c(nc(c2Cl)C)nc2N[C@@H](C(=O)N)Cc3ccccc3;5.75;Methionine aminopeptidase 1;SHX
+1jaq;CC(C)C[C@H](C(=O)NO)C(=O)N[C@@H](C)C(=O)NCC(=O)N;4.48;MATRIX METALLO PROTEINASE-8 (MET80 FORM);01S
+2hd1;[nH]1cnc(c12)n(c(=O)n(c2=O)C)CC(C)C;3.3;Phosphodiesterase 9A;IBM
+2cng;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@H](NC(=O)C(F)(F)F)c([nH]3)nc(c34)ccc(c4)C(F)(F)F;6.96;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZE
+2cnf;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@@H](c(n3)[nH]c(c34)cccc4)Nc(s5)nc(c56)cccc6;6.6199999;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;F32
+2cne;OP([O-])(O)C(F)(F)c1ccc(cc1)CC(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](C(=O)N)Cc3ccc(cc3)C(F)(F)P([O-])([O-])O;8.7700005;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;DFJ
+1jao;NC(=O)CNC(=O)[C@H](C)NC(=O)[C@@H](CS)Cc1ccccc1;5.9200001;MATRIX METALLO PROTEINASE-8 (MET80 FORM);0D3
+2cni;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2Cl)C[C@H](NS(=O)(=O)c3ccccc3)C(=O)NCCCCCOc4cccc(O)c4C(=O)OC;7.6799998;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZF
+2cnh;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@@H](c(n3)[nH]c(c34)cccc4)NS(=O)(=O)c(c5)ccc(c56)N(C)CCO6;7.23;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZB
+5a5o;Cc(c1)c(=O)[nH]c(c12)cccc2;3;ATPASE FAMILY AAA DOMAIN-CONTAINING PROTEIN 2;J5I
+5a5p;C[NH+](C)CCNc(ccc1)c(c12)[nH]c(=O)c(c2)C;4;ATPASE FAMILY AAA DOMAIN-CONTAINING PROTEIN 2;JTF
+5a5r;COc1cncc(c1)-c(c(c23)cc(C)c(=O)[nH]3)cnc2NC4CC[NH2+]CC4;5.9000001;ATPASE FAMILY AAA DOMAIN-CONTAINING PROTEIN 2;NP8
+1g7f;O=C([O-])C(C(=O)[O-])Oc1ccc(cc1)C[C@@H](C(=O)NCCCCC)NC(=O)N[C@H](C(=O)[O-])Cc2ccccc2;5.4699998;PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1;INZ
+3g6z;Cc1c(C)cccc1CN(C2CC2)C(=O)C([C@H]34)=C(C[C@@H]([NH2+]3)C[NH2+]C4)c5ccc(cc5)OCCOc6c(Cl)cc(C)cc6Cl;9.6989698;Renin;A7T
+2v5x;c1cc(OC)cc(c12)c(c(C)[nH]2)CC(=O)N[C@H](CCCCCC(=O)NO)C(=O)NCCc3c([nH]c(c34)cccc4)-c5ccccc5;6.6599998;HISTONE DEACETYLASE 8;V5X
+4lm3;c1cc(C(=O)C)cc(c12)OCCO2;2.9200001;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;9ZE
+4lm2;OCc(cc1)cc(c12)OCCO2;3.03;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;8ZE
+4lm1;c1ccc(N(=O)=O)c(c12)cccn2;3.23;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;7ZE
+4lm0;c1cc(N(=O)=O)cc(c12)c[nH]n2;3.25;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;5NI
+2fjn;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@@](n(nn2)c(c23)cccc3)(c(cc4)ccc4C(=O)OC)C/C=C/c5ccccc5;7.4089999;Tyrosine-protein phosphatase, non-receptor type 1;073
+2y0j;Cc(n1)nc(n12)c3c(cccc3)nc2SCc(n4)[nH]c(c45)cccc5;7.9200001;CAMP AND CAMP-INHIBITED CGMP 3', 5'-CYCLIC PHOSPHODIESTERASE 10A;AXC
+4tmf;[nH]1cnc(=O)c(c12)nc(N)n2CCCCOP([O-])(O)OP([O-])(O)OC[C@H]3O[C@H](O)[C@H](O)[C@@H]3O;5.48;ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1;JS2
+5sym;FC(F)(F)c1cc(c(Cl)cc1)NC(=O)C[NH+]2CCN(CC2)C(=O)c3ccco3;6.5500002;Acyl-protein thioesterase 1;71Q
+3ui7;COc(c1)cc(C)c(c12)nc3c(c(C)[nH]n3)c2C[NH+]4CCOCC4;9;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;C1L
+5dh5;c1nn(C)cc1CNc2cc(nc(n23)ccn3)OC[C@H]4C[C@@H]4c5ccccn5;9.6400003;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;5AY
+5dh4;c1cnn(c12)c(cc(n2)Cl)NCc3c(C)nc(s3)C;7.2399998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;5AV
+4xii;n1cccc(c12)[C@H](N(=O)=O)C[C@H]([C@@H]2O)C(=O)N(CCOC)C[C@@H]3CCC[N@@H+](C3)[C@@H](C4)C[C@@H]([C@@H]45)CCCC5;6.5999999;Cholinesterase;40V
+3jwr;n1c[nH]c(c12)n(c(=O)n(c2=O)C)CC(C)C;8.0705814;cGMP-specific 3',5'-cyclic phosphodiesterase catalytic domain, Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha chimera;IBM
+3jwq;CCCc(nn1C)c(c12)nc([nH]c2=O)-c3cc(ccc3OCC)S(=O)(=O)N4CC[NH+](C)CC4;7.6020598;cGMP-specific 3',5'-cyclic phosphodiesterase catalytic domain, Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha chimera;VIA
+3tu7;c1ccccc1C[C@@H](NS(=O)(=O)C)C(=O)N2[C@@H](CCC2)C(=O)NCC3CC[N+](CC3)=C(N)N;8.0900002;Prothrombin;0BM
+1a86;ONC(=O)[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)[O-])C(=O)NCc1ccccc1;4;MMP-8;0ZB
+1a85;ONC(=O)[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)NCc1cccc(c1)N;4.52;MMP-8;0DY
+3elm;CCOc1ccc(cc1)-c2ccc(s2)S(=O)(=O)N[C@@H](C(=O)[O-])C3CCN(CC3)C(=O)OC(C)C;9.7212467;Collagenase 3;24F
+2xyd;c1ccccc1COC(=O)N[C@@H](Cc2ccccc2)P([O-])(O)C[C@@H](C(=O)N[C@H](C([O-])[O-])Cc3ccc(O)cc3)Cc4cc(no4)-c5ccccc5;6.8200002;ANGIOTENSIN-CONVERTING ENZYME;3ES
+4o97;[NH2+]=C(N)c1cc(ccc1)COc(c2)cc(C(=O)N[C@H]3CC[C@H]([NH3+])CC3)cc2OCc(c4)cccc4C(=[NH2+])N;8.5200005;Suppressor of tumorigenicity 14 protein;NTX
+3ens;Clc1c[nH]c(c12)c(ccc2)N\C(=C(\C#N)C(=O)OC)N[C@H](C3=O)CCCCN3CC(=O)N4CCCC4;8.0506096;Factor X light chain;ENS
+2xeg;O=C([O-])CC[C@@H](C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CCCCn1cc(nn1)COCCOCCOCCOCCNc2ccc(N(=O)=O)cc2N(=O)=O;10.7;GLUTAMATE CARBOXYPEPTIDASE 2;CI9
+4n5d;CN1C(=O)/C(=N/[H])Cc(c12)cnc(n2)C;3.22;Caspase-6;2FQ
+2qbq;O=C([O-])COc1c(Br)c(sc1C(=O)[O-])-c2cc(ccc2)NC(CC3(C)C)CC(C3)(C)C;7.443697;Tyrosine-protein phosphatase non-receptor type 1;4B3
+2azr;n1cccc(c12)c(c(s2)[C](=O)=O)OCC([O-])[O-];3.6400001;Tyrosine-protein phosphatase, non-receptor type 1;982
+2qbr;O=C([O-])COc1c(Br)c(sc1C(=O)[O-])-c2cc(ccc2)NCc3ccccc3;6.3279018;Tyrosine-protein phosphatase non-receptor type 1;910
+1rwx;O=C([O-])C[C@@H](C=O)NC(=O)[C@H](c1sccc1)CCCCNC(=O)c2ccc(cc2)Oc(n3)cnc(c34)cccc4;7.3699999;Interleukin-1 beta convertase;YBH
+1rww;O=C([O-])C[C@@H](C=O)NC(=O)c1cnc(cc1)CNC(=O)c2ccc(cc2)Nc(n3)cnc(c34)cccc4;8.3000002;Interleukin-1 beta convertase;OQB
+3g45;c1ccc(N(=O)=O)cc1-c(c(c23)nccc2)cc(c3)Cc4ccncc4;8.3599997;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;988
+3g42;c1cc(C)cc(c12)c(c[nH]2)C[C@H](C(=O)[O-])NS(=O)(=O)c3ccc(cc3)OCC#C;6.8538718;ADAM 17;792
+2vh0;Clc1ccc(s1)/C=C/S(=O)(=O)N[C@H]2CCN(C2=O)c3ccc(cc3F)-n4ccnc4C[NH+](C)C;8.5086384;ACTIVATED FACTOR XA HEAVY CHAIN;GSI
+3g4l;Clc1cncc(Cl)c1NC(=O)c2ccc(OC(F)F)c(c2)OCC3CC3;8.2399998;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;ROF
+3g4k;C1NC(=O)C[C@@H]1c2cc(c(cc2)OC)OC3CCCC3;6.54;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;ROL
+3g4i;c1ccnc(c12)n(-c(cc3N(=O)=O)ccc3)c(=O)n(c2=O)Cc4ccncc4;9.04;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;D71
+3g4g;c1ccnc(c12)n(-c(cc3N(=O)=O)ccc3)c(=O)n(c2=O)Cc4ccncc4;9.04;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;D71
+2bkt;c1cccc(c1OC)COCCCOc(cc2)ccc2N3C(=O)C[NH2+]C[C@H]3COc(c4)ccc(c45)CCCN5;7.6399999;RENIN;RPF
+1clu;CNP([O-])(O)NP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc(c23)c(=O)[nH]c(n3)N;8.2700005;TRANSFORMING PROTEIN P21/H-RAS-1;DBG
+4muw;CNc1cc(ccn1)-c2cccnc2Oc3ccc(cc3)Nc([nH]4)nc(c45)c(F)c(F)cc5;8.0100002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2F4
+4wk7;N1C(=O)NC(=O)[C@@]1(C)CNC(=O)COc2ccc(Cl)cc2;7.1300001;A disintegrin and metalloproteinase with thrombospondin motifs 4;3PQ
+2v77;O=C([O-])CC[C@@H](C(=O)[O-])C[C@H](C(=O)[O-])C[C@H](C)C(=O)[O-];5.0604811;CARBOXYPEPTIDASE A1;PAY
+4wki;Cn1ccnc1[C@]2(C(=O)NC(=O)N2)CNC(=O)c(o3)cc(c34)cc(Cl)cc4;8.3000002;A disintegrin and metalloproteinase with thrombospondin motifs 4;3PW
+4wke;s1ccnc1[C@]2(C(=O)NC(=O)N2)CNC(=O)c(o3)cc(c34)cc(Cl)cc4;8.1000004;A disintegrin and metalloproteinase with thrombospondin motifs 4;3PU
+3zjc;OP([O-])(O)NP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.0500002;GTPASE IMAP FAMILY MEMBER 7;GNP
+3bi0;O=C([O-])[C@@H]([NH3+])CCP([O-])(O)C[C@H](C([O-])=O)CCC([O-])=O;7.8538718;Glutamate carboxypeptidase 2;BIX
+3bi1;Nc1nc(N)nc(c12)ncc(n2)CN(C)c3ccc(cc3)C(=O)N[C@@H](C(=O)[O-])CCP([O-])(O)C[C@H](C(=O)[O-])CCC(=O)[O-];9.9208183;Glutamate carboxypeptidase 2;3BI
+5bpp;ONC(=O)Cc1ccc(cc1)OCCCC;4.8000002;Leukotriene A-4 hydrolase;A4Z
+5bpa;CCOC(=O)c(c1)[nH]c(c12)ccc(c2)-c3cc(nn3C)C(=O)NCc(cc4)ccc4C(=O)[O-];9;Collagenase 3;4UF
+3oag;C1CC1[NH2+]Cc(ccc2Cl)cc2CN(C3CC3)C(=O)[C@H]4C[NH2+]CC[C@@H]4c5cnc(cc5)OCCOc6c(Cl)cc(C)cc6Cl;9.5100002;Renin;LPQ
+3pgl;c1cccc(c12)nc([nH]2)[S@H](O)Cc3nccc(c3C)OCCCOC;5.3000002;Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1;RZX
+3ans;N#Cc1ccc(cc1)C(=O)N[C@@H]2[C@H](C2)c3ccccc3;6.25;Epoxide hydrolase 2;S38
+3ts4;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)[O-])NC(=O)CCc(cc1)ccc1-c2scc(c2)-c3ccccc3;8.7200003;Macrophage metalloelastase;EEG
+3f81;OS([O-])(O)CCN1C(=O)C(=C)SC1=S;7.1307683;Dual specificity protein phosphatase 3;STT
+3f80;O=N(=O)CCCC[C@H]([NH3+])C([O-])[O-];4.221849;Arginase-1;6HN
+3tsk;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)CCc(cc1)ccc1-c2scc(c2)-c3ccccc3;7.1700001;Macrophage metalloelastase;QEG
+4iks;FC(F)(F)c1nc(ccc1)NCCNc2c(Cl)c(C)nc(n2)-c3ncccc3;5.1399999;Methionine aminopeptidase 1;TFD
+3ehw;O=c1ccn(c(=O)[nH]1)[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)NP([O-])(O)OP([O-])(O)O;4.8200002;dUTP pyrophosphatase;DUP
+3ehx;CC(C)C[C@H](C(=O)[O-])NS(=O)(=O)c1ccc(cc1)-c2ccccc2;7.6020598;Macrophage metalloelastase;BDL
+3ehy;O=C([O-])[C@@H](C)NS(=O)(=O)c1ccc(cc1)OC;5.8538718;Macrophage metalloelastase;TBL
+3mfw;[O-]C([O-])[C@@H]([NH3+])Cc1cnc([nH]1)N;3.52;Arginase-1;B3U
+4ddl;COc(c1)c(OC)cc(c12)nncc2-c3cc(C)c(nc3)N4CCC(CC4)C(C)(C)O;8.3100004;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;0JQ
+1kav;OP([O-])(O)C(F)(F)c(cc1)ccc1/C=C/C=C/c2ccc(cc2)C(F)(F)P([O-])([O-])O;5.8200002;PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1;FEP
+1kak;OP([O-])(O)C(F)(F)c(cc1)cc(c12)cc(cc2)C(F)(F)P([O-])([O-])O;4.5900002;PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1;FNP
+3vp2;S=CCc(s1)nnc1N;5.0999999;Glutaminase kidney isoform, mitochondrial;BP0
+3vp1;c1ccccc1CC(=O)Nc(s2)nnc2CC=S;5.48;Glutaminase kidney isoform, mitochondrial;04A
+3vp4;CCc(s1)nnc1N;4.73;Glutaminase kidney isoform, mitochondrial;BP9
+2vqm;c1ccccc1-c(cn2)n(c23)CCN(C3)C(=O)c4sc(cc4)C(=O)NO;6.0096612;HISTONE DEACETYLASE 4;HA3
+3itu;n1c[nH]c(c12)n(c(=O)n(c2=O)C)CC(C)C;4.3979402;cGMP-dependent 3',5'-cyclic phosphodiesterase;IBM
+4jbs;c1ccccc1CC[C@H]([NH3+])P([O-])(O)C[C@@H](CC(C)C)C(=O)N[C@H](C(=O)N)Cc2c[nH]c(c23)cccc3;7.96;Endoplasmic reticulum aminopeptidase 2;P52
+2gv7;CC(C)c1cc(C(C)C)c(c(c1)C(C)C)S(=O)(=O)N[C@@H](Cc2cc(C(=[NH2+])N)ccc2)C(=O)N3CCN(CC3)C(=O)C4CC[N+](=C(N)N)CC4;7.8499999;Suppressor of tumorigenicity 14;672
+2gv6;c1cccc(c12)cc(cc2)S(=O)(=O)N[C@@H](Cc3cc(C(=[NH2+])N)ccc3)C(=O)N4CCC(CC4)CC[NH+]=C(N)N;7.3400002;Suppressor of tumorigenicity 14;730
+5edi;Cc1cc(Cl)c(C)n(c12)nc(n2)CCc3nc(nn3C)N4CCCC4;9.5200005;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;5M9
+5a5q;Cc(c1)c(=O)[nH]c(c12)c(ncc2)NC3CC[NH2+]CC3;4.6799998;ATPASE FAMILY AAA DOMAIN-CONTAINING PROTEIN 2;6XC
+2jbk;O=C([O-])[C@@H]([NH3+])Cn(c1=O)oc(=O)[nH]1;6.4000001;GLUTAMATE CARBOXYPEPTIDASE 2;QUS
+3tvx;CC(=O)CCCCn(c1=O)c(=O)n(C)c(c12)ncn2C;4.1399999;cAMP-specific 3',5'-cyclic phosphodiesterase 4A;PNX
+3bkk;c1ccccc1C[C@@H](C(=O)[O-])NC(=O)CCC(O)(O)[C@H](Cc2ccccc2)NC(=O)c3ccccc3;6.0809221;Angiotensin-converting enzyme, somatic isoform;KAF
+2rjp;CC(C)[C@H](C(=O)[O-])NS(=O)(=O)c1ccc(cc1)-c2ccc(cc2)COc3ccc(cc3)C(=O)C(C)C;7;ADAMTS-4;886
+5mf6;c1ccncc1[C@H]2Nc(cccc3)c3n(c24)ccc4;4.3600001;NAD-dependent protein deacetylase sirtuin-6;7M2
+1hfs;c1cccc(c12)CN(C2=O)CCCC[C@H](C(=O)[O-])C[C@H](C(=O)N[C@@H](CC(C)C)C(=O)Nc3ccccc3)CCc4ccc(cc4)-c5ccc(F)cc5;8.6999998;STROMELYSIN-1;L04
+1db5;O=C([O-])CCCOc(cc1)cc(c12)c(CC(=O)N)c(C)n2Cc3ccccc3;6.8200002;PROTEIN (PHOSPHOLIPASE A2);6IN
+1db4;OP([O-])(O)CCCOc(cc1)cc(c12)c(CC(=O)N)c(C)n2Cc3ccccc3;7.2399998;PHOSPHOLIPASE A2;8IN
+3wym;c1ccccc1-n2nccc2-c3c(=O)c(OC)cn(n3)-c(c(F)c4)ccc4-n5cccn5;9.5200005;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;3K9
+4gh6;Cc1ccccc1-n2ncc(c23)c(=O)[nH]c(n3)N[C@@H](C)C(=O)Nc4ccc(OC)cc4;7.6799998;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;LUO
+3voz;c1ccccc1CC(=O)Nc(s2)nnc2CC=S;6.8499999;Glutaminase kidney isoform, mitochondrial;04A
+3h0e;c1ccccc1OC[C@@H]2CCCN2S(=O)(=O)c(cc3)cc(c34)[C@H](O)C5N4CC(CN=5)(C)C;8.1549015;Caspase-3;H0E
+3mjl;[nH]1ccnc1N;2.4400001;Arginase-1;2AI
+4kln;SP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;7.6999998;Transitional endoplasmic reticulum ATPase;AGS
+3frg;O=S(=O)(C)c(cc1)cc(c12)c(c(cn2)C(=O)N)Nc3cc(OC)ccc3;8.3999996;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;SK4
+2fs9;[NH3+]CCCC[C@H](NC(=O)OCC)[C@H](O)c1noc(n1)Cc2ccc(cc2)C(=O)NC(C3)Cc(c34)cccc4;8.5200005;Tryptase beta-2;C4A
+2fs8;C1[NH2+]CC[C@H]1CC[C@@H](NC(=O)OCCC)[C@H](O)c2noc(n2)Cc3ccc(cc3)C(=O)NC(C4)Cc(c45)cccc5;7.5999999;Tryptase beta-2;C3A
+1lqf;c1ccccc1C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@@H](Cc2ccc(cc2)C(F)(F)P([O-])(O)O)C(=O)N[C@H](C(=O)N)Cc3ccc(cc3)C(F)(F)P([O-])([O-])O;8.3000002;protein-tyrosine phosphatase, non-receptor type 1;BGD
+4dff;COc(c1)c(OC)cc(c12)CCn3c2c(nc3)-c4cncs4;7.46;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;0JP
+5i2z;c1ccccc1-c2ccc(cc2)S(=O)(=O)N([C@@H](C(=O)[O-])C(C)C)Cc3nnn(c3)[C@@H]4O[C@H](COC(=O)C)[C@@H](OC(=O)C)[C@H](OC(=O)C)[C@H]4NC(=O)C;7.1399999;Macrophage metalloelastase;V24
+5i2e;c1cccc(c12)[nH]cc2CCC(=O)NS(=O)(=O)OC[C@H]([C@@H](O)[C@H]3O)O[C@H]3n(cn4)c(c4c56)ncn5ccn6;6.6399999;Histidine triad nucleotide-binding protein 1;67D
+5i2f;CC(=O)NS(=O)(=O)NC[C@@H](O1)[C@@H](O)[C@@H](O)[C@@H]1n2cnc(c23)c(N)ncn3;6.4899998;Histidine triad nucleotide-binding protein 1;BS5
+4n1u;C1=CC1Nc(n2)cc(nc2N)-c3cccc(Cl)c3Cl;8.3000002;7,8-dihydro-8-oxoguanine triphosphatase;2GE
+4n1t;CNc(n1)cc(nc1N)-c2cccc(Cl)c2Cl;9.1000004;7,8-dihydro-8-oxoguanine triphosphatase;2GD
+5jau;CO[C@H](CO)Cn(n1)ccc1Nc2cc(c(C)cc2OCC[NH3+])-c3ccccc3C;8.8500004;Platelet-activating factor acetylhydrolase;6HU
+5jar;Cc1ccccc1-c2c(C)ccc(c2)C(=O)c3nccs3;5.6999998;Platelet-activating factor acetylhydrolase;6HV
+5jas;Cc1ccccc1-c2c(C)ccc(c2)Nc3nccs3;5.77;Platelet-activating factor acetylhydrolase;6HW
+5jap;Cc1ccccc1-c2c(C)ccc(c2)C(=O)N3CC=CC3;6.6399999;Platelet-activating factor acetylhydrolase;6HZ
+5jan;CC(C)COc1cc(=O)n(C)c(=O)n1C;3.01;Platelet-activating factor acetylhydrolase;6HP
+5jao;Cc1ccc(N)cc1-c2ccccc2Cl;4;Platelet-activating factor acetylhydrolase;6HX
+5jal;Fc1cccc(c1)C(=O)N2CC=CC2;2.47;Platelet-activating factor acetylhydrolase;6HO
+5jah;CN1C(=O)NC(=O)C1(C)C;3;Platelet-activating factor acetylhydrolase;6HQ
+4ie2;OCCCC(C(=O)[O-])([NH3+])CCC[CH3][B](=[OH])([OH2])[OH2];5.3499999;Arginase-2, mitochondrial;1EC
+1zvx;c1cc(OC)ccc1-c2ccc(cc2)S(=O)(=O)N[C@@H](C(C)C)P([O-])(O)O;9.2200003;Neutrophil collagenase;FIN
+3d7f;Oc1ccc(cc1I)C[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];9.3010302;Glutamate carboxypeptidase 2;YBY
+3d7g;O=C([O-])CC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CSC;7.7695508;Glutamate carboxypeptidase 2;MUD
+2fjm;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@@](n(nn2)c(c23)cccc3)(c(cc4)ccc4C(=O)OC)C/C=C/c5ccccc5;6.847712;Tyrosine-protein phosphatase, non-receptor type 1;073
+3d7h;Ic1ccc(cc1)C(=O)NCCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];10.22185;Glutamate carboxypeptidase 2;YC2
+1xm4;Clc1cncc(Cl)c1NC(=O)c2ccc(OC)c(c2)OC3CCCC3;10.39;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;PIL
+1xm6;C1NC(=O)O[C@]1(C)c2ccc(OC)c(c2)OCCC;6.3800001;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;5RM
+4myq;Clc1ccc(s1)-c2nc(C)c(CC)c(n2)Nc(cc3)ccc3CC(=O)[O-];7.4899998;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;19T
+1xmu;Clc1cncc(Cl)c1NC(=O)c2ccc(OC(F)F)c(c2)OCC3CC3;9.0799999;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ROF
+1xmy;C1NC(=O)C[C@@H]1c2cc(c(cc2)OC)OC3CCCC3;7.3000002;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ROL
+2jt5;O=NC(=O)CN(CCO)S(=O)(=O)c1ccc(cc1)-c2ccccc2;7.7447281;Stromelysin-1;JT5
+2jt6;N#Cc1ccc(cc1)-c(cc2)ccc2OCCC(=O)NO;7.6020598;Stromelysin-1;JT6
+5b4l;c1ccccc1-n2nccc2-c3c(=O)c(cn(n3)CC4CC4)OCCn(cc5)c(n6)n5c(c67)cccc7;9.1199999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;6DW
+3zns;c1ccccc1-c(cs2)nc2[C@]3(CC[N@@H+](C)CC3)CNC(=O)c(c4)cccc4-c(no5)nc5C(F)(F)F;7.4099998;HISTONE DEACETYLASE 7;NU7
+3znr;FC(F)(F)c1nc(no1)-c2cccc(c2)C(=O)NCC3(CCOCC3)C4NC(=CS4)c5ccccc5;7.4400001;HISTONE DEACETYLASE 7;NU9
+5b4k;c1cccc(c12)nc([nH]2)Nc3ccc(cc3)Oc(ncn4)c(c45)n(C)cc5;9.3400002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;6DT
+1w22;n1ccccc1-c2sc(cc2)S(=O)(=O)N(C)c3ccc(cc3)C(=O)NO;6.7600002;HISTONE DEACETYLASE 8;NHB
+1mx1;c1cccc(c12)c(N)c3c(n2)CCCC3;4;liver Carboxylesterase I;THA
+5cr7;[nH]1cnc(c12)c(ncn2)NC(=O)c3cc(ccc3)-c4cc(ccc4)-n5cccc5;3.0999999;Cytosolic purine 5'-nucleotidase;5WO
+3ewj;ONC(=O)C[C@@H](CC(C)C)C(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](C)C(=O)NCC[NH3+];6.8446641;ADAM 17;642
+1z3j;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)CC(=O)NO;8;Macrophage metalloelastase;NGH
+4gjd;c1cc(C)ccc1S(=O)(=O)N[C@H]2C[NH2+]C[C@H](C2)C(=O)NCC3(CCCCOC)c(cccc4)c4Oc(c35)cccc5;8.5200005;Renin;0N0
+4gja;Cc1ccc(cc1)S(=O)(=O)N[C@H]2C[NH2+]C[C@H](C2)C(=O)NCC(c3ccccc3)c4ccccc4;5.9200001;Renin;0M3
+4gjc;c1cccc(c12)Oc3c(cccc3)C2CNC(=O)[C@H]4C[C@H](C[NH2+]C4)NS(=O)(=O)c5ccc(C)cc5;7.0500002;Renin;0MJ
+4gjb;c1cccc(c12)Oc3c(cccc3)C2CNC(=O)[C@H]4CCC[NH2+]C4;4;Renin;0ME
+4gj6;c1ccccc1C[C@@H]2C[NH2+]C[C@H]2CN(c3ccc(Cl)cc3)c4ccccc4;5.1199999;Renin;0LS
+4gj9;C[C@@H](O)C[NH+](C1)CC(=C12)c3c(cccc3)Nc4c2cccc4;3.3;Renin;0M2
+4gj8;c1cccc(c12)Sc3c(cccc3)C2C[C@H](O)C[NH+]4CCCC4;3.3;Renin;0LU
+3k9x;c1ncccc1C(=O)N\C(=[NH+]\c(c2)ccc(c23)oc(c3)C)N[C@@H](CCCC4)C(=O)N4CC(=O)N5CCCC5;8.3979397;PROTEIN (Coagulation factor X);MBM
+3c10;ONC(=O)\C=C\C(C)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1;6.5228786;Histone deacetylase 7a;TSN
+3c1k;c1ccccc1CS(=O)(=O)/N=C/2CC=C(C)N(C2=O)CC(=O)NCc3n(cnc3C)CC(=O)NC(C)(C)C;9.4436979;Prothrombin;T15
+4c9w;Clc1ccc(F)c(Cl)c1[C@@H](C)Oc2cc(cnc2N)-c3cnn(c3)C;6.1100001;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;VGH
+1nl9;O=C([O-])c1ccccc1N(C(=O)C(=O)[O-])c(c(c23)cccc3)ccc2C[C@H](NC(=O)C)C(=O)NCCCCC;5.96;Protein-tyrosine phosphatase, non-receptor type 1;989
+1ms6;C1COCCN1C(=O)N[C@@H](CC(C)C)C(=O)N[C@H](/C=N/[H])COCc2ccccc2;9.5200005;Cathepsin S;BLN
+4bvb;C1CC[C@H](C(=O)N)c([nH]2)c1c(c23)cc(Cl)cc3;4.48;NAD-DEPENDENT PROTEIN DEACETYLASE SIRTUIN-3, MITOCHONDRIAL;OCZ
+4lxz;ONC(=O)CCCCCCC(=O)Nc1ccccc1;6.7399998;Histone deacetylase 2;SHH
+3wv1;COc(c1)cccc1CNC(=O)c([nH]c2=O)nc(c23)ccc(F)c3OCCc(cc4)ccc4C(=O)[O-];11.41;Collagenase 3;WHH
+3wv2;c1cccc(c12)nc([nH]c2=O)C(=O)NCc3cccc(c3)OC;7.9200001;Collagenase 3;WGG
+3wv3;COc(c1)cccc1CNC(=O)c([nH]c2=O)nc(c23)scc3;7.6199999;Collagenase 3;WLL
+2zn7;c1ccccc1C(=O)N(C2CCCCC2)c3cccc(c3)-c4c(Br)c(c(s4)C(=O)[O-])OCC(=O)[O-];7.8860564;Tyrosine-protein phosphatase non-receptor type 1;410
+5i0l;c1ccccc1-c(cc2)ccc2S(=O)(=O)N([C@@H](C(=O)[O-])C(C)C)CCNC(=S)N[C@@H]([C@H](NC(=O)C)[C@H]3OC(=O)C)O[C@@H]([C@H]3OC(=O)C)COC(=O)C;7.7399998;Macrophage metalloelastase;H27
+5jat;Cc1ccccc1-c2c(C)ccc(c2)Nc3nc(cs3)CCCO;6.6399999;Platelet-activating factor acetylhydrolase;6HR
+1q1m;O=C([O-])c(c1)noc1-c(c2F)cc(cc2)/C=C/COc3cccc(O)c3C(=O)OC;5.1599998;Protein-tyrosine phosphatase, non-receptor type 1;234
+1t4j;s1ccnc1NS(=O)(=O)c2ccc(cc2)NS(=O)(=O)c(c3)ccc(c34)c(c(o4)CC)C(=O)c5cc(Br)c(O)c(Br)c5;5.0999999;Protein-tyrosine phosphatase, non-receptor type 1;FRJ
+4k69;O=C(C1)Nc(c12)cc(Br)cc2Cn3c(=O)n([C@H](CC(=O)[O-])CCC)c(c34)cccc4;7.4000001;Chymase;1P9
+4k60;O=C(N1)Cc(c12)ccc(Br)c2;3.24;Chymase;1P8
+4i8n;c1cc(F)ccc1NS(=O)(=O)[C@H](c(n2)oc(c23)cccc3)Cc4ccc(cc4)NC(=O)C(=O)[O-];4.46;Tyrosine-protein phosphatase non-receptor type 1;1CG
+1t49;Brc1c(O)c(Br)cc(c1)C(=O)c2c(CC)oc(c23)cc(cc3)S(=O)(=O)Nc4ccc(cc4)S(=O)(=O)N;4.6599998;Protein-tyrosine phosphatase, non-receptor type 1;892
+1t48;Brc1c(O)c(Br)cc(c1)C(=O)c2c(CC)oc(c23)cc(cc3)S(=O)(=O)N(C)C;3.46;Protein-tyrosine phosphatase, non-receptor type 1;BB3
+2ozr;O=C([O-])c1ccc(cc1)Cn(c2=O)c(=O)n(C)c(c23)ccc(c3)C#CCc4ccccc4;9.1700001;Collagenase 3;GG1
+4dtt;n1c[nH]cc1C[C@@H](C(=O)OC)NC(=O)C[N@@H+](CC(=O)[O-])Cc2ccccc2;5.54;Insulin-degrading enzyme;I41
+3whw;Nc1nc(C)nc(=C2)c1=CC(C3[NH+]4CCCC3)=[CH]2[RuH]4567([CH2]=O)[CH]8[CH2]7[CH]6=[CH]5C=8C(=O)Oc9c(OC)cccc9OC;8.2200003;7,8-dihydro-8-oxoguanine triphosphatase;RUX
+3f17;O=NC(=O)CNS(=O)(=O)c1ccc(cc1)-c2ccccc2;8.6270876;Macrophage metalloelastase;HS4
+4gql;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)[O-])NC(=O)[C@@H](CP([O-])(O)c1ccc(Br)cc1)Cc(c2)onc2-c3ccc(cc3)-c(cc4Cl)ccc4;9.5900002;Macrophage metalloelastase;R47
+4gqq;CCOC(=O)/C=C/c1cc(O)c(O)cc1;2.8900001;Pancreatic alpha-amylase;0XR
+4gqr;Oc1cc(O)cc(c12)oc(c(c2=O)O)-c3cc(O)c(O)c(c3)O;3.96;Pancreatic alpha-amylase;MYC
+1xon;Clc1cncc(Cl)c1NC(=O)c2ccc(OC)c(c2)OC3CCCC3;10.68;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;PIL
+1ryh;OP([O-])(O)NP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)nc(N)[nH]c3=O;7.5599999;ras-related C3 botulinum toxin substrate 1 isoform Rac1b;GNP
+1ryf;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)nc(N)[nH]c3=O;8.8000002;ras-related C3 botulinum toxin substrate 1 isoform Rac1b;GDP
+1xoz;c1cccc2[nH]c(c3c12)[C@@H](c(cc4)cc(c45)OCO5)N6[C@H](C3)C(=O)N(C)CC6=O;8.9200001;cGMP-specific 3',5'-cyclic phosphodiesterase;CIA
+1xot;CC[NH+](CC1)CCN1S(=O)(=O)c(ccc2OCC)cc2-c([nH]c3=O)n[n+](c34)c([nH]c4C)CCC;5.4200001;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;VDN
+1xor;O=c1[nH]nc(cc1)-c2cc(OC)c(cc2)OC(F)F;6.4099998;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;ZAR
+1xos;CCCc(nn1C)c(c12)nc([nH]c2=O)-c3cc(ccc3OCC)S(=O)(=O)N4CC[NH+](C)CC4;4.6999998;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;VIA
+1xoq;Clc1cncc(Cl)c1NC(=O)c2ccc(OC(F)F)c(c2)OCC3CC3;9.1700001;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;ROF
+3iad;c1ccc(N(=O)=O)cc1-c(c2F)c(OC)ccc2Cc3ccc(cc3)NC(=O)N;9;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;15X
+4ngt;O=C(C)NCCOc1c(ccc(Br)c1)NC(=O)NCCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];8.4099998;Glutamate carboxypeptidase 2;J42
+4ngs;O=C(C)NCCOc(cccc1)c1NC(=O)NCCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];8.1199999;Glutamate carboxypeptidase 2;J34
+4ngr;[O-]C([O-])CCC([C](=O)=O)NC(=O)NC(C(=O)[O-])CCCCNC(=O)c1ccc(Br)cc1OCCNC(=O)C;7.5500002;Glutamate carboxypeptidase 2;J21
+4ngq;Brc1ccc(cc1)CN(C(=O)CC)CCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];8.8000002;Glutamate carboxypeptidase 2;J37
+3cwe;c1ccccc1C(=O)[C@@H](c2ccccc2)Cc3cc(Br)c(cc3)C(F)(F)P([O-])(O)O;6.9208188;Tyrosine-protein phosphatase non-receptor type 1;825
+3q77;c1ccc(C(F)(F)F)cc1N(C2=O)C(C)=C(C(=O)OCCO)[C@H](N2)c3ccc(C#N)cc3;8.2200003;Neutrophil elastase;2HY
+4ngn;O=CNCCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];7.5500002;Glutamate carboxypeptidase 2;J96
+4ngm;O=C([O-])CC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCCCN(C(=O)C)Cc(cc1)ccc1Br;10.35;Glutamate carboxypeptidase 2;JB7
+5b25;n1c(F)cccc1-c2ccc(cc2)Cn(n3)c(Nc4ccccc4)c(C(=O)N5C)c3N(C5=6)[C@@H]7[C@H]([NH+]6)CCC7;10.24;Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B;4QJ
+4wq2;O=C([O-])[C@H](S)Cc1c[nH]c(c12)cc(Br)cc2;6.3000002;Calpain small subunit 1;3SU
+4wq3;c1cc(Br)cc(c12)[nH]cc2C[C@@H](C(=O)[O-])SS[C@H](C(=O)[O-])Cc3c[nH]c(c34)cc(Br)cc4;7;Calpain small subunit 1;3SU
+5g3m;O=C(N)c1ccc(cc1)Cc2ccccc2;5.6599998;GROUP 10 SECRETORY PHOSPHOLIPASE A2;9JH
+3n4c;n1cn(C)c(c12)cc(nc2/C=N\[H])-c(c3)ccc(c3C(F)(F)F)OCCC[N@@H+]4CC[N@@H+](C)CC4;8.0200005;Cathepsin S;EF3
+5g3n;c1ccccc1Cc2ccc(C(=O)N)c(c2)-c3cccc(c3)CCC(=O)[O-];7.9200001;PHOSPHOLIPASE A2, MEMBRANE ASSOCIATED;X28
+1npz;C1COCCN1C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCc2ccccc2)CCS(=O)(=O)c3ccccc3;7.8899999;Cathepsin S;C1P
+1np0;CC(S1)=N[C@@H]([C@@H]12)[C@@H](O)[C@H](O)[C@H](O2)CO;3.5699999;Beta-hexosaminidase subunit beta;NGT
+1zd3;C1CCCCC1NC(=O)NCCCC(=O)[O-];3.3;epoxide hydrolase 2, cytoplasmic;NC4
+1zd2;C1CCCCC1NC(=O)NCC(=O)[O-];3.3;epoxide hydrolase 2, cytoplasmic;NC3
+1zd5;C1CCCCC1NC(=O)NCCCCCCC(=O)[O-];4.8699999;epoxide hydrolase 2, cytoplasmic;NC7
+1zd4;C1CCCCC1NC(=O)NCCCCCC(=O)[O-];3.5999999;epoxide hydrolase 2, cytoplasmic;NC6
+2h9t;OS([O-])(O)c(c1)cc(S([O-])([O-])O)c(c12)c(ccc2S([O-])(O)O)NC(=O)c3cc(c(C)cc3)NC(=O)c4cc(ccc4)NC(=O)Nc5cc(ccc5)C(=O)Nc6cc(ccc6C)C(=O)Nc7ccc(S([O-])([O-])O)c(c78)cc(S([O-])([O-])O)cc8S([O-])(O)O;4.6999998;Thrombin;SVR
+3wke;O=C([O-])c1ccc(cc1)O[C@@H](CC2)CC[C@H]2NC(=O)NC34C[C@H]5C[C@@H](C3)C[C@H](C5)C4;8.8900003;Bifunctional epoxide hydrolase 2;AUB
+3wkd;C1COCCN1c2ccccc2NC(=O)c3ccsc3;3.77;Bifunctional epoxide hydrolase 2;S0K
+3wkc;n1c(N)scc1-c2cc(C)n(c2C)C[C@H]3CCCO3;3.71;Bifunctional epoxide hydrolase 2;S0J
+3wkb;c1ccccc1CN(CC(=O)N2)c(c23)cccc3;4.21;Bifunctional epoxide hydrolase 2;S0I
+3wka;O=c1[nH]c(=O)n(C)c(N)c1N2CCCCC2;4.54;Bifunctional epoxide hydrolase 2;S0G
+4o9v;[NH2+]=C(N)c1ccc(cc1)Oc(c2)cc(C(=O)N[C@H]3CC[C@H]([NH3+])CC3)cc2Oc4ccc(cc4)C(=[NH2+])N;8;Suppressor of tumorigenicity 14 protein;NT4
+3wk7;c1cccc(c12)nc([nH]2)-c3cnn(c3)C;3.9000001;Bifunctional epoxide hydrolase 2;S0D
+3wk6;c1ccccc1CCNC2=NC[C@H](S2)C;5.1999998;Bifunctional epoxide hydrolase 2;S0B
+3wk5;s1ccnc1NC(=O)CC2CCCC2;4.8200002;Bifunctional epoxide hydrolase 2;S0C
+3wk4;c1ccccc1NC(=O)N[C@H](C)C2CC2;5.1300001;Bifunctional epoxide hydrolase 2;S0A
+3wk9;c1cc(Br)ccc1Cc2cnc(s2)N;4.1500001;Bifunctional epoxide hydrolase 2;S0F
+3wk8;c1cc(C(F)(F)F)cc(c12)sc(n2)N;4.3099999;Bifunctional epoxide hydrolase 2;S0E
+2hqu;O=c1ccn(c(=O)[nH]1)[C@H]2C[C@H](O)[C@H](O2)COP([O-])(O)NP([O-])(O)OP([O-])(O)O;5.1426668;Deoxyuridine 5'-triphosphate nucleotidohydrolase;DUP
+2bks;c1cccc(c1OC)COCCCOc(cc2)ccc2N3C(=O)C[NH2+]C[C@@H]3COc(cc4)cc(c45)N(CCC5)CCCO;7.4299998;RENIN;PZ1
+4l2l;c1ccccc1Cc2ccc(cc2)-c3nc(N)sc3;5.6999998;Leukotriene A-4 hydrolase;1V6
+3otq;c1ncccc1-c(n2)cc(CC)n2-c3ccc(cc3)NC(=O)c4cccnc4;7.3899999;Epoxide hydrolase 2;MZL
+2jkh;C[N+](C)(C)CCCN(C1=O)C(=O)[C@H]([C@H]12)[C@H]3[N@H+](CCC3)[C@H]2c4cc(on4)-c5ccc(s5)Cl;8.0457573;ACTIVATED FACTOR XA HEAVY CHAIN;BI7
+3mfv;[O-]C([O-])[C@@H]([NH3+])CCc1cnc([nH]1)N;2.52;Arginase-1;Z70
+4hf4;c1cccc(c12)sc(n2)Nc3ccc(cc3)Oc4nccnc4N5CCC(CC5)[C@H](C)O;8.6199999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;15H
+4hfp;C1[C@H](C)CNc(c12)c(ccc2)S(=O)(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N3[C@@H](C(=O)[O-])C[C@H](C)CC3;7.3800001;Prothrombin;15U
+5ak6;n1cc(Cl)ccc1SCCO;3.49;BIFUNCTIONAL EPOXIDE HYDROLASE 2;YPN
+5ak5;CCCc1nc(c[nH]c1=O)-c2cccnc2;7.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;V2Z
+5ak4;[nH]1ncc(c1C)-c2ccccc2;4.23;BIFUNCTIONAL EPOXIDE HYDROLASE 2;GVG
+5ak3;c1cccc(c12)CC(C2)[NH3+];5.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;XM0
+4ngp;OCCOCCC(=O)NCCOc1ccccc1C(=O)NCCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];7.96;Glutamate carboxypeptidase 2;J31
+5akz;CNC(=O)NC1CCCCC1;5.2600002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6NX
+5akg;s1cccc1-c2nnc(s2)N;4.46;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6N6
+5ake;c1cccc2S(=O)(=O)c(c3c12)ccc(c3)NC(=O)N(CC4)CCC4(F)F;7.8200002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6N0
+5akl;c1ccccc1C(c2ccccc2)CCNC(=O)n3cccc3;7.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6N8
+5akk;O=C(N1)Cc(c12)ccc(Br)c2;4;BIFUNCTIONAL EPOXIDE HYDROLASE 2;1P8
+5akj;c1cccc(c12)[nH]c(n2)SCCO;5.8600001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6N4
+5aki;c1cnccc1-c2cc(n[nH]2)NCC3CCCCC3;6.1199999;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6NF
+5akh;FC(F)(F)c(c1)cccc1-c2[nH]ncc2-c3ccncc3;6.5900002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6NM
+2qmj;OCC(=C1)[C@@H](O)[C@H](O)[C@@H](O)[C@H]1[NH2+][C@H]([C@H](O2)C)[C@H](O)[C@@H](O)[C@H]2O[C@H]([C@H](O3)CO)[C@H](O)[C@@H](O)[C@H]3O[C@H]([C@H](O4)CO)[C@H](O)[C@@H](O)[C@H]4O;4.2076082;Maltase-glucoamylase, intestinal;ACR
+2oaz;c1cccc(C(C)C)c1Nc2nc([nH]n2)SCc3cccs3;8.6989698;human Methionine Amino Peptidase 2;I96
+4ia0;C[NH+]1CCN(CC1)S(=O)(=O)c2cc(c(cc2)OCC)-c3nc(c(Br)c(=O)[nH]3)CCCCCCCC;7.1100001;cGMP-specific 3',5'-cyclic phosphodiesterase;5BB
+4tz2;Nc1cc(ccc1)-c2nc(n[nH]2)-c3ccccc3;3.46;ATPase family AAA domain-containing protein 2;39R
+1t69;ONC(=O)CCCCCCC(=O)Nc1ccccc1;6.3200002;Histone deacetylase 8;SHH
+4tz8;O=C1NCC(C)(C)Cc(c12)nc(s2)N;3.3;ATPase family AAA domain-containing protein 2;39U
+5ix0;Fc1ccc(cc1)-c(ccc2N)cc2NC(=O)[C@@H](C[C@H]34)C[C@H](O4)CC3;6.2800002;Histone deacetylase 2;6EZ
+4gsc;[nH]1cncc1C[C@@H](C(=O)OC)NC(=O)C[N@H+](CC(=O)[O-])CCc2ccccc2;5.8499999;Insulin-degrading enzyme;MGW
+3d3p;c1ccccc1CNC(=O)c(cn2)c(c(c23)cnn3CC)NC4CCOCC4;8.5003128;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;20A
+1yw8;C1CCCc(c12)c(C(=O)[O-])c(cc2)NS(=O)(=O)c3ccccc3;8;Methionine aminopeptidase 2;A75
+1yw7;c1ccccc1S(=O)(=O)Nc2ccc(C)cc2C(=O)[O-];5.8499999;Methionine aminopeptidase 2;A41
+3a29;OP([O-])(O)Oc(cc1)cc(c12)c3c(CC2)sc(n3)N;7.8860564;Fructose-1,6-bisphosphatase 1;2T0
+4gs8;[nH]1cncc1C[C@@H](C(=O)NC)NC(=O)C[N@@H+](CC(=O)[O-])CCCc2ccccc2;7;Insulin-degrading enzyme;MGJ
+1wax;O=C([O-])C(=O)Nc1ccc(cc1)C[NH3+];4.0700002;PROTEIN-TYROSINE PHOSPHATASE;LO1
+4jib;OCCn1nc(C(C)(C)CC)c(c12)N[C@@H](CNC2=O)c3ccc(cc3)-n4ccnc4C;7.3499999;cGMP-dependent 3',5'-cyclic phosphodiesterase;1L6
+2zp0;c1ccccc1CS(=O)(=O)N[C@H]([C@H](C)CC)C(=O)N[C@@H](CCC(=O)N)C(=O)NCc(cc2)ccc2C(=[NH2+])N;7.6020598;Factor VII light chain;PI0
+3kek;C1C[C@H](C(=O)[O-])CC[C@H]1Cn2nc(nc2)-c3cc(C)nc(c3)C(=O)NCc4ccc(F)cc4;8.3599997;Collagenase 3;3EK
+3kej;O=C([O-])c1ccc(cc1)Cn2nnc(n2)-c3cc(ncc3)C(=O)NCc4cccc(F)c4;7.1199999;Collagenase 3;3EJ
+3kec;COc1ccc(cc1)Cn2nc(nn2)-c3cccc(c3)C(=O)NCc(cc4)ccc4C(=O)[O-];7.2399998;Collagenase 3;3KE
+2f1g;c1cccc(c12)nc(o2)N[C@@H](CC3CCCCC3)C(=O)NCCNc4ccc(cc4)OC;7.54;Cathepsin S;GNF
+3usn;c1ccccc1C[C@@H](C(=O)NC)NC(=O)Nc2nnc(s2)S;6.1500001;STROMELYSIN-1;ATT
+2f10;NC(N)=[NH+][C@H]1[C@@H]([C@H](O)[C@@H](C(=O)[O-])C1)[C@H](C(CC)CC)NC(=O)C;3.48;Sialidase 2;BCZ
+4xct;O=NC(=O)[C@@H](C(C)C)N(OC(C)C)S(=O)(=O)c1ccc(cc1)-c2ccccc2;8.1700001;Matrix metalloproteinase-9,Matrix metalloproteinase-9;N73
+3wi2;c1ccccc1-n(c(n2)C(C)C)c(c23)cc(cc3)OCc(cc4)nc(c45)cccc5;7.04;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;P98
+3f07;ONC(=O)\C=C\c1cc(cn1C)C(=O)Cc2ccccc2;5.5376019;Histone deacetylase 8;AGE
+1o86;C1CC[C@@H](C(=O)[O-])N1C(=O)[C@H](CCCC[NH3+])[NH2+][C@H](C(=O)[O-])CCc2ccccc2;9.5699997;ANGIOTENSIN CONVERTING ENZYME;LPR
+3f0r;ONC(=O)\C=C\C(C)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1;6.8899999;Histone deacetylase 8;TSN
+2nyr;OS([O-])(O)c(c1)cc(S([O-])([O-])O)c(c12)c(ccc2S([O-])(O)O)NC(=O)c3cc(c(C)cc3)NC(=O)c4cc(ccc4)NC(=O)Nc5cc(ccc5)C(=O)Nc6cc(ccc6C)C(=O)Nc7ccc(S([O-])([O-])O)c(c78)cc(S([O-])([O-])O)cc8S([O-])(O)O;4.657578;NAD-dependent deacetylase sirtuin-5;SVR
+2xwe;O[C@H]1[C@H](O)[C@@H](O)[C@H](O)N([C@@H]12)C(\SC2)=N/CCCCCCCC;6.02;GLUCOSYLCERAMIDASE;AMF
+2xwd;O[C@H]1[C@H](O)[C@@H](O)[C@H](O)N([C@@H]12)C(\OC2)=N/CC;6.96;GLUCOSYLCERAMIDASE;LGS
+3o1g;CCCc(c1)nc(/C=N\[H])nc1-c2cc(cc(c2)C(F)(F)F)C(=O)N(CC[NH+](C)C)Cc3ccccc3;9;Cathepsin K;O75
+2wbd;CCc(c1)cccc1S(=O)(=O)NC(=O)Nc2sc(Br)cn2;6.6382723;FRUCTOSE-1,6-BISPHOSPHATASE 1;RO5
+2wbb;Cc1ccc(cc1)S(=O)(=O)NC(=O)Nc2sc(Br)cn2;6.036212;FRUCTOSE-1,6-BISPHOSPHATASE 1;RO3
+1udt;CCCc(nn1C)c(c12)nc([nH]c2=O)-c3cc(ccc3OCC)S(=O)(=O)N4CC[NH+](C)CC4;9.3000002;cGMP-specific 3',5'-cyclic phosphodiesterase;VIA
+1udu;c1cccc2[nH]c(c3c12)[C@@H](c(cc4)cc(c45)OCO5)N6[C@H](C3)C(=O)N(C)CC6=O;9.0500002;cGMP-specific 3',5'-cyclic phosphodiesterase;CIA
+4jz1;c1cc(F)ccc1S(=O)(=O)Nc2c(Oc3ccc(C(=[NH2+])N)cc3)nc(cc2)Oc4ccc(C(=[NH2+])N)cc4;6.6999998;Suppressor of tumorigenicity 14 protein;F4D
+2yig;C1C[C@H](CC2)[C@@](O)(C[N@@H+]12)C#Cc(cc3)ccc3Oc4ccc(cc4)C(=O)NCc5ccncc5;7.0999999;COLLAGENASE 3;5EL
+1b5g;c1cccc(c12)sc(n2)[C@@H](O)[C@H](CCCNC(=[NH2+])N)NC(=O)[C@H](CC3)N([C@H]34)C(=O)[C@]([NH3+])(CC4)Cc5ccccc5;8;ALPHA-THROMBIN;0ZE
+5ai9;CC(C)(C)c1cc(c(O)c(Br)c1)C[NH2+]CCCc2ccccc2;6.6100001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;K78
+5ai8;c1cc(C)cc(c12)sc(n2)N;3.9000001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;K2T
+5ai5;C1CCCCC1NC(=O)NC2CCCCC2;7.0300002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;BSU
+5ai4;OCCN(C)c1ccc(Br)cn1;3.47;BIFUNCTIONAL EPOXIDE HYDROLASE 2;4VY
+5ai6;Brc1cccc(c12)nccc2;4.4000001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;4XH
+5ai0;c1ccccc1-c2c(N)non2;3.6900001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;JF6
+3fhe;c1ccccc1Cc2ccc(cc2)OCCC[N@H+](C)CCC(=O)[O-];8.6000004;Leukotriene A-4 hydrolase;28P
+5i4o;c1ccccc1-c(cc2)ccc2S(=O)(=O)N([C@@H](C(=O)[O-])C(C)C)Cc3nnn(c3)[C@H]4[C@H](NC(=O)C)[C@@H](O)[C@H](O)[C@H](O4)CO;7.2800002;Macrophage metalloelastase;V28
+3fh8;C1CCC[NH+]1CCOc2ccc(cc2)Cc3ccccc3;6.7399998;Leukotriene A-4 hydrolase;27P
+3fh7;Clc1ccc(cc1)Oc2ccc(cc2)OC[C@@H]3CCC[N@@H+]3CCCC(=O)[O-];7.5999999;Leukotriene A-4 hydrolase;25P
+3fh5;c1ccccc1Cc2ccc(cc2)OC[C@H]3CCC[NH2+]3;7.0599999;Leukotriene A-4 hydrolase;24P
+2pgj;[C@@H]12COP([O-])(O)OP([O-])(O)OCC3=C(O)[C@@H](O)[C@@H](O3)n4c5c(nc4)c(=O)n(cn5)[C@H](O2)[C@H](O)[C@@H]1O;3.5899999;ADP-ribosyl cyclase 1;N1C
+2pgl;[C@@H]12COP([O-])(O)OP([O-])(O)OCC3=C(O)[C@@H](O)[C@@H](O3)n4c5c(nc4)c(=O)n(cn5)[C@H](O2)[C@H](O)[C@@H]1O;3.5899999;ADP-ribosyl cyclase 1;N1C
+1kyn;c1cccc(c12)cccc2[C@@H](P([O-])(O)O)C(=O)c(c3)ccc(c34)cccc4;5.3899999;cathepsin G;KTP
+5aia;O=C([O-])c1cc(ccc1O)C2CCCCC2;5.1999998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;KWB
+5aic;O=C(N1)CSc(c12)cc(C)cc2;4.3000002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;TGX
+5aib;c1cc(Cl)cc(c12)NC(=O)CO2;3.8;BIFUNCTIONAL EPOXIDE HYDROLASE 2;KJU
+5i43;O=C(C)N[C@@H]1[C@@H](OC(=O)C)[C@H](OC(=O)C)[C@@H](COC(=O)C)O[C@H]1OCCCn2nnc(c2)CN([C@@H](C(=O)[O-])C(C)C)S(=O)(=O)c3ccc(cc3)-c4ccccc4;7.1999998;Macrophage metalloelastase;67M
+2il2;c1cccc(c12)cc(cc2)S(=O)(=O)NCCNc(nc(N)nc3CC)c3-c(c4)ccc(c45)OC(C)(C)C(=O)N5CCCOC;7.0999999;Renin;LIX
+4cik;c1c(=O)[nH]oc1[C@H](C2)CC[NH2+][C@H]2Cc3ccccc3;6.4299998;PLASMINOGEN;XO3
+1hs6;CC(C)C[C@@H](C(=O)[O-])NC(=O)[C@@H](O)[C@H]([NH3+])Cc1ccccc1;5.3800001;LEUKOTRIENE A-4 HYDROLASE;BES
+4k2y;O=C(N1)Cc(c12)ccc(Cl)c2;3.3299999;Chymase;ES2
+3l0v;N1C(=O)NC(=O)[C@@]1(C)Cn(c2=O)[nH]c(c23)ccc(c3)OC;7.6399999;Disintegrin and metalloproteinase domain-containing protein 17;724
+5lyy;Fc1ccc(cc1)OCCN(C(=O)N2)C(=O)C23CCCCC3;4.8499999;Platelet-activating factor acetylhydrolase;7BJ
+5dy5;Cc(n1)cc(C)nc1SCC(=O)Nc2sc(cn2)Cc3cc(ccc3)OCc4nnn(c4)Cc5ccccc5;6.79;NAD-dependent protein deacetylase sirtuin-2;5GR
+4p5e;c1cccc(c12)ccc(c2)-c(ncn3)c(c34)ncn4[C@@H]5O[C@@H]([C@@H](O)[C@H]5O)COP([O-])(O)O;5.5500002;2'-deoxynucleoside 5'-phosphate N-hydrolase 1;N6P
+2ddf;ONC(=O)C[C@@H](CC(C)C)C(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](C)C(=O)NCC[NH3+];7.3899999;ADAM 17;INN
+5cxa;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)[O-])NC(=O)[C@@H](CC(=O)[O-])Cc1cc(no1)-c2ccc(cc2)-c3cc(Cl)ccc3;8.0500002;Macrophage metalloelastase;55L
+3kc1;n1csc(C2)c1c(c23)c(OCP([O-])(O)O)ccc3C(=O)N;9;Fructose-1,6-bisphosphatase 1;2T6
+3kc0;OP([O-])(O)COc1cccc(c12)Cc3c2ncs3;7.9200001;Fructose-1,6-bisphosphatase 1;2T5
+4r0i;c1cccc(c12)cc(cc2)S(=O)(=O)N[C@@H](COc(ccc3)cc3C(=[NH2+])N)C(=O)N(CC4)CCC4CC[NH3+];6.52;Suppressor of tumorigenicity 14 protein;3KM
+5sxn;c1ccccc1-c(n2)nc(c(c23)cccc3)NCc4ccco4;4.96;Renin;74U
+2vey;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@H](NS(=O)(=O)c3cccc(F)c3)c([nH]4)ncc4CCCc5ccccc5;7.3665309;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZ5
+3ly2;Clc1cncc(Cl)c1Nc(cc(o2)=O)c(c23)ccc(OC)c3OC4CCCC4;8.3000002;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;Z72
+3oot;C1C[NH2+]CCN1C(=O)c(c(c23)c(C)c(O)cc2)c(n3-c4ccccc4)Cc5c(C)c(F)ccc5;8.6999998;Renin;SSR
+4az3;Cc1ccccc1[C@H](CC(=O)[O-])NC(=O)c2nn(c(c2)OC[C@H](O)C(C)(C)C)-c3ccccc3F;8.3000002;LYSOSOMAL PROTECTIVE PROTEIN 32 KDA CHAIN;S35
+2bgd;O=S1(=O)NC(=O)CN1c2cc(ccc2OC)-c3ccccc3;5;PROTEIN-TYROSINE PHOSPHATASE NON-RECEPTOR TYPE 1;T1D
+4az0;Cc1ccccc1[C@H](CC(=O)[O-])NC(=O)c2nn(c(c2)O)-c3ccccc3F;7.4200001;LYSOSOMAL PROTECTIVE PROTEIN 32 KDA CHAIN;S61
+2xy9;c1ccccc1COC(=O)N[C@@H](Cc2ccccc2)P([O-])(O)C[C@@H](C(=O)N[C@H](C([O-])[O-])Cc3ccc(O)cc3)Cc4cc(no4)-c5ccccc5;9.1899996;ANGIOTENSIN-CONVERTING ENZYME;3ES
+2hu6;ONC(=O)N(C1)C[C@@H](O2)O[C@H]([C@H]12)C(=O)NCc3ccc(cc3)-c4ccccc4;3.8099999;Macrophage metalloelastase;37A
+2xu3;Clc(s1)ccc1C2(CC2)C(=O)N3C[C@@H](C[C@H]3C(=O)NC4(/C=N\[H])CC4)S(=O)(=O)c5c(Cl)cccc5;6.8000002;CATHEPSIN L1;XU3
+2xu4;Fc1ccc(cc1)C2(CC2)C(=O)N([C@@H]3C(=O)NC4(/C=N\[H])CC4)C[C@@H](C3)S(=O)(=O)c5c(Cl)cccc5;6.4699998;CATHEPSIN L1;DJT
+3v2w;OP([O-])(O)CC[C@@H]([NH3+])C(=O)Nc1cccc(c1)CCCCCC;7.1100001;Sphingosine 1-phosphate receptor 1, Lysozyme chimera;ML5
+3b7r;O=C([O-])[C@H](C)NC(=O)[C@@H](CP([O-])(O)[C@H](C)[NH3+])Cc1ccc(cc1)-c2ccccc2;7.6989698;Leukotriene A-4 hydrolase;BIR
+5d3c;c1ccc(Cl)cc1-c(cc2)ccc2-c(no3)cc3C[C@H](CC(=O)NO)C(=O)N[C@@H](CCC(=O)[O-])C(=O)N[C@H](C(=O)N)CCC(=O)[O-];10.4;Macrophage metalloelastase;56O
+3h89;C1CCCCC1CCNC(=O)[C@H](C[C@@H]2CCC(=O)C=C2)NC(=O)[C@@H](CCC[NH+]=C(N)N)NC(=O)[C@@H](NC(=O)C[C@@H](CC3)C=C[C@@H]3[C@@H]4CCCC=C4)C/C=C\CNC(=O)Cc5ccc(cc5)[C@@H]6CC=CC=C6;7.6382723;Cathepsin L1;NSX
+3h8c;c1ccccc1-c2ccc(cc2)CC(=O)N[C@@H](CSC)C(=O)N[C@H](CCC[NH+]=C(N)N)C(=O)N[C@@H](Cc3ccccc3)C(=O)NCCc4ccccc4;7.7212462;Cathepsin L1;NSZ
+3h8b;C1CCCCC1CCNC(=O)[C@H](C[C@H]2CCCC=C2)NC(=O)[C@@H](CCC[NH+]=C(N)N)NC(=O)[C@@H](NC(=O)C[C@@H](CC3)C=C[C@H]3C4CCCCC4)C/C=C\CNC(=O)Cc5ccc(cc5)-c6ccccc6;6.2915792;Cathepsin L1;NSY
+4flj;CC(C)(C)/C=C/[C@@H](O)[C@H](O)[C@@H](O)[C@@H](OC)C(=O)NC[C@@H](C1)CCCN1C(=O)C2CC2;5.1300001;Methionine aminopeptidase 1;Y08
+4flk;c1cccc(c12)CC(C2)NC(=O)[C@H](OC)[C@H](O)[C@@H](O)[C@H](O)CCC(C)(C)C;5.25;Methionine aminopeptidase 1;Y10
+4fli;NC(=O)CNC(=O)[C@H](OC)[C@H](O)[C@@H](O)[C@H](O)CCC(C)(C)C;5.4400001;Methionine aminopeptidase 1;Y16
+4fll;CC(C)(C)\C=C\[C@@H](O)[C@H](O)[C@@H](O)[C@@H](OC)C(=O)NCC[C@@H](c1ccco1)c2ccccc2;5.29;Methionine aminopeptidase 1;YZ6
+4u6e;OP([O-])(O)[C@@H]([NH3+])c1ccccc1;3.3;Methionine aminopeptidase 1;Q02
+2wij;CCOP(O)NCC;3.2;CHOLINESTERASE;TN7
+1xur;c1ccncc1CNC(=O)c2cc(ncn2)C(=O)NCc3cccnc3;5.1799998;Collagenase 3;PB5
+1xuc;c1ccc(C)cc1CNC(=O)c2cc(ncn2)C(=O)NCc3cccc(C)c3;7.1399999;Collagenase 3;PB3
+1xud;c1cc(F)c(C)cc1CNC(=O)c2cc(ncn2)C(=O)NCc3ccc(F)c(C)c3;8.1000004;Collagenase 3;PB4
+3sn7;Cc1cnccc1-c2nc(C)c(n23)c(C)nc4c3cc(F)cc4OC;9.1499996;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;540
+4lm4;c1cccc(c12)nc[nH]c2=O;3.04;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;JPZ
+3snl;Cc1cnccc1-c2nc(C)c(n23)c(C)nc4c3cc(C(F)(F)F)cc4Cl;9.1499996;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;548
+3sni;Cc1ccncc1-c2nc(C)c(n23)c(C)nc4c3nc(OC)cc4;7.96;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;546
+5czm;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)[O-])NC(=O)[C@@H](CP([O-])(O)c1ccc(Br)cc1)Cc(c2)onc2-c3ccc(cc3)-c(cc4Cl)ccc4;8.3199997;Macrophage metalloelastase;R47
+1nz7;O=C([O-])c1ccccc1N(C(=O)C(=O)[O-])c2ccc(cc2CC)C[C@H](NC(=O)C)C(=O)NCCCCC(=O)N[C@H](C(=O)[O-])CCSC;7.1199999;Protein-tyrosine phosphatase, non-receptor type 1;901
+2o4h;CP([O-])(O)N[C@H](C([O-])[O-])CC([O-])[O-];6.5228791;Aspartoacylase;AS9
+4d8n;c1ccccc1Cn2ccnc2CN3C=CC=C(O)[C@H]3C(=O)Nc4ccc(cc4)C[NH3+];5.7399998;Kallikrein-6;0HM
+5sz9;C1CCCCCN1C(=O)c2ccc(C)nc2NCc3ccco3;4.4200001;Renin;74Y
+2ea4;[NH3+]CCOc(c(cc1)CC)c(C(=O)[O-])c1NS(=O)(=O)c2ccc(F)cc2;7.3372421;Methionine aminopeptidase 2;F79
+2ea2;CCc1ccc(c(C(=O)[O-])c1C)NS(=O)(=O)c2ccc(F)cc2;7.7958798;Methionine aminopeptidase 2;F77
+4ixu;Clc1c(Cl)ccc(c1)C[NH+](C23)C(CC2)CC(C3)C(C(=O)[O-])([NH3+])CCC[CH3][B](=[OH])([OH2])[OH2];7.6399999;Arginase-2, mitochondrial;38I
+4ixv;Clc1ccc(cc1)C[NH+]2CCC(CC2)C(C(=O)[O-])([NH3+])CCC[CH3][B](=[OH])([OH2])[OH2];6.6199999;Arginase-2, mitochondrial;XA1
+2aux;CCCC[C@@H](CO)NC(=O)O[C@@H](C(C)C)Cc1ccccc1;9.3000002;Cathepsin K;CT1
+2auz;CCCC[C@@H](C=O)NC(=O)OC1(CCCC1)Cc2ccccc2;9.46;Cathepsin K;CT2
+1g4k;O=C1NC(=O)NC(=O)C1(C)c2ccc(cc2)Oc3ccccc3;5.6999998;STROMELYSIN-1;HQQ
+4axm;C1COCCN1c(n2)nc(nc2/C=N/[H])N(C3CCCCC3)Cc4ccc(Cl)cc4;7.8899999;CATHEPSIN L1;V65
+4xjt;Cc1cccc(C)c1CNc(cc(n2)C)c(c23)cccc3C(=O)N;5.1399999;ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1;41Z
+4obz;COc(cc1)c(OC)cc1CC(=O)NC(=[NH2+])NCc2ccc(C)cc2;5.7199998;Cathepsin D light chain;2S4
+4xjs;c1c(F)cc(C(=O)N)c(c12)nc(C)cc2NCc3c(Cl)ccc(Cl)c3Cl;7.1199999;ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1;733
+1uho;CC[NH+](CC1)CCN1S(=O)(=O)c(ccc2OCC)cc2-c([nH]c3=O)n[n+](c34)c([nH]c4C)CCC;9.2200003;cGMP-specific 3',5'-cyclic phosphodiesterase;VDN
+1mkd;O=c1[nH]nc(cc1)-c2cc(OC)c(cc2)OC(F)F;6.8000002;Phosphodiesterase 4D;ZAR
+5a83;c1c(C)cncc1-c2ccc(c(c23)[nH]c(=O)c(C)c3)N[C@H]4[C@@H](C[NH2+]CC4)OCC(CC5)CCS5(=O)=O;6.8000002;ATPASE FAMILY AAA DOMAIN-CONTAINING PROTEIN 2;YD3
+5a81;Cc(c1)c(=O)[nH]c(c12)c(ncc2)N[C@@H]3CC[NH2+]C[C@H]3OCC4CCCCC4;5.54;ATPASE FAMILY AAA DOMAIN-CONTAINING PROTEIN 2;78J
+3o57;C1COCCC1Nc2c(cnc(c23)n(CC)nc3)-c4nc(CC(=O)N5CCCC5)c(o4)Cc6ccccc6;10.1;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ZG2
+3o56;C1COCCC1Nc2c(cnc(c23)n(CC)nc3)-c4onc(n4)CC(=O)N5CCCC5;9.1000004;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ZG1
+5i8p;O=S1(=O)CCN(CC1)c(n(c2=O)C)cc(n2)OCc3cc(F)c(c(F)c3)Oc4cc(C(F)(F)F)c(Cl)cc4;6.73;Platelet-activating factor acetylhydrolase;VQ7
+5am1;c1ccccc1[C@H]2C[C@@H]2NC(=O)N(CC3)CCC34CC(=O)c5c(O4)cccc5;8.5200005;BIFUNCTIONAL EPOXIDE HYDROLASE 2;I5T
+5am0;CC1(C)C(=O)Nc(c12)c(F)cc(c2)-c3cccn3C;5.8800001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;LWS
+5am3;O=C([O-])c1ccc(cc1)O[C@H](CC2)CC[C@@H]2NC(=O)NC34C[C@@H]5C[C@H](C3)C[C@@H](C5)C4;8.3000002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;AUB
+5am2;c1cc(C)cc(c12)c(=O)[nH]cc2;5.0100002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;KUF
+5am5;CCCc1cc(c[nH]c1=O)C2CCCCC2;5.7399998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6NZ
+5am4;C1CCCCC1c(c2)ccc(NC3=O)c2C34CCOCC4;6.9499998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;MVJ
+5a8z;c1cc(C#N)ccc1[C@H](C(=C23)C(=O)N[N@H+](C3)C)NC(=O)N2c4cccc(c4)C(F)(F)F;7.5500002;Neutrophil elastase;IUL
+3o5x;c1ccccc1-c(n2C)c(c(c23)cc(C(=O)[O-])c(O)c3)-c(c4)nnn4CCC(=O)Nc5ccc(cc5)-c6ccccc6;5.2800002;Tyrosine-protein phosphatase non-receptor type 11;JZG
+4tpp;CC(=O)N1CCC(CC1)c(n2)c(nc(c23)cccc3)OC4CN(C4)c(cc5)nc(c56)cccc6;8.5900002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;35D
+4tpm;OCC1CCN(CC1)c2nccnc2OC3CN(C3)c(cc4)nc(c45)cccc5;8.6199999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;35E
+4i0z;Clc(c1)ccc(c12)C(=NC(C2)(C)C)N[C@H](C3=NC(=O)[C@@H](C=N3)C#N)Cc4ccccc4;6.3299999;2-{(1S)-1-[(6-CHLORO-3,3-DIMETHYL-3,4-DIHYDROISOQUINOLIN-1-YL)AMINO]-2-PHENYLETHYL}-4-OXO-1,4-DIHYDROPYRIMIDINE-5-CARBONITRILE;1BB
+1q9m;C1NC(=O)C[C@@H]1c2cc(c(cc2)OC)OC3CCCC3;6.48;cAMP-specific phosphodiesterase PDE4D2;ROL
+4tpk;c1cccc(c12)ccc(c2)C(=O)N(CCOC)C[C@@H]3CCC[N@@H+](C3)C(C4)Cc(c45)cccc5;8.5699997;Cholinesterase;3F9
+1q91;c1ccccc1[C@@](O2)(P([O-])(O)O)OC[C@H]([C@H]23)O[C@H](C3)n(c4=O)cc(C)c(=O)[nH]4;4.1500001;5(3)-deoxyribonucleotidase;DPB
+2l8r;n1cnc(N)c(c12)ncn2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP([O-])(O)OP([O-])(O)OC[C@@H](O[C@H]4O)[C@@H](O)[C@H]4O;3.9200001;Uncharacterized protein C6orf130;APR
+1ba8;c1ccccc1CS(=O)(=O)N[C@H]2CCCN(C2=O)CC(=O)N[C@H](CO)CCCNC(=[NH2+])N;9;THROMBIN;0IT
+2or4;O=C([O-])[C@@H]([NH3+])Cn(c1=O)oc(=O)[nH]1;5.02;Glutamate carboxypeptidase 2;QUS
+4p10;CCCn(cn1)c(c12)CC[C@](C2)(C(=O)[O-])CCC[NH3+];8.1000004;Carboxypeptidase B2;2B8
+4p1r;c1ccnc(c12)n(c(n2)OC)-c3ccc(cc3)Nc4ccc(C)cn4;8.3900003;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2KR
+3sl4;CCNC(=O)N(C1)CCc(c12)c(C(=O)OCC)c(s2)NC(=O)Cc3ccccc3;7.5700002;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;JN4
+3sl5;CCOC(=O)N(CC1)Cc(c12)sc(c2C(=O)OCC)NC(=O)Cc3cccs3;7.6599998;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;J25
+3sl8;CCOC(=O)N(C1)CCc(c12)c(C(=O)OC3CCCC3)c(s2)NC(=O)Cc4sccc4;6.54;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;JN7
+4pyv;CC(C)(C)OC(=O)N[C@@H]1C[NH2+]C[C@@H](C1)C(=O)N(C2CC2)Cc3cccc(Cl)c3Cl;6.6999998;Renin;2XF
+3koo;Clc1ccc(c(Cl)c1)CNC(=O)N2CCC(CC2)Oc3ncccn3;7.8200002;Epoxide hydrolase 2;24D
+4xy2;C1N(C)C(=O)CC=C1c2cn(C)nc2COc(cc3)ccc3-c(ccc4)c(c45)ncn5C;8.1000004;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;490
+2f71;OS([O-])(O)Nc(c1)ccc(c12)C[C@@H](C(=O)NC)N(C2)C(=O)CCc3cc(C([O-])=O)ccc3;5.5999999;Tyrosine-protein phosphatase, non-receptor type 1;UN7
+2f70;OS([O-])(O)Nc1cccc(c1)CNC(=O)CCc2cc(NS([O-])([O-])O)ccc2;4.4699998;Tyrosine-protein phosphatase, non-receptor type 1;UN6
+3dej;O=C1NC(=O)C(=O)c(c12)c(ccc2)NC(=O)[C@@H](OC(=O)C)c3cccc(Cl)c3;8;Caspase-3;RXC
+3deh;O=C1C(=O)NC(=O)c(c12)cccc2;6.8268137;Caspase-3;RXA
+4od0;FC(F)(F)Oc1ccc(cc1)NC(=O)NC2CCN(CC2)C(=O)CC;9.04;Bifunctional epoxide hydrolase 2;2RV
+4od9;c1cc(OC)c(OC)cc1CNC(=O)[C@@H](Cc2ccccc2)/[NH+]=C(\N)NC(=O)Cc(cc3OC)ccc3OC;7.2399998;Cathepsin D light chain;2RZ
+5lkr;c1cccc(c12)ccc(c2)C(=O)N(CCOC)C[C@@H]3C[N@H+](CCC3)CC#C;5.48;Cholinesterase;6YC
+3ns7;c1cccc(c12)n(c(n2)C)CCNC(=O)C[C@@H](C(C)C)C(=O)N[C@H](CO)CC(=O)[O-];8.3299999;Caspase-1;3NS
+2g24;Nc1nc(N)nc(CC)c1-c2ccc(cc2)NCc(cc3F)cc(F)c3;5.4000001;Renin;7IG
+4kp0;O=C([O-])CCCSc(n1)n(c(c12)cccc2)Cc(cs3)c(c34)c(C)ccc4;8.6499996;Chymase;KPK
+4kp6;CCC(C#N)(CC)Nc1nc(NC)nc(n1)-n2ncnc2;9.0900002;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;1S1
+2r6n;C1CCCCC1n(c(c23)nc(nc2)\C=N\[H])c(c3)Cc4ccc(cc4)N5CC[NH+](C)CC5;9;Cathepsin K;CKE
+1h1b;CC(C)[C@H](C=O)[C@H]1[C@H](NS(=O)(=O)C)CCN1C(=O)c2nc(oc2)C[NH+]3CCCC3;9.8000002;LEUKOCYTE ELASTASE;151
+3chs;O=C([O-])[C@@H]([NH3+])CCC(=O)Nc1ccc(cc1)OC[C@@H](O)c2ccccc2;7.7695508;Leukotriene A-4 hydrolase;4BU
+3chp;O=C([O-])C[C@H]([NH3+])C(=O)Nc1ccc(cc1)OCc2ccccc2;5.2676058;Leukotriene A-4 hydrolase;4BO
+3cho;c1ccccc1COc2ccc(cc2)NC(=O)C[NH3+];6.5528421;Leukotriene A-4 hydrolase;4BG
+3arn;O=c1[nH]c(=O)n(cc1)COCCCC(C)(C)NS(=O)(=O)c2ccccc2;5.4099998;Deoxyuridine 5'-triphosphate nucleotidohydrolase;MSJ
+3ara;O=C1NC(=O)N(CC1)CCCS(=O)(=O)N2CCC[C@@H]2C(O)(c3ccccc3)c4ccccc4;6.4899998;Deoxyuridine 5'-triphosphate nucleotidohydrolase;MKH
+1ztq;c1cccc(c12)oc(c2)C(=O)Nc3ccc(cc3)-c4ccc(cc4)S(=O)(=O)N[C@H](C(=O)[O-])C(C)C;8.8900003;Collagenase 3;033
+3hdz;CCCCN1CC=C(O)c(c12)c(N)nc(c2)-c3ccccc3;7.2924299;cGMP-specific 3',5'-cyclic phosphodiesterase,cAMP-specific 3',5'-cyclic phosphodiesterase 4A,cGMP-specific 3',5'-cyclic phosphodiesterase;PD6
+1hy7;COCC#CC[C@H](C(=O)[O-])NS(=O)(=O)c1ccc(cc1)-c2ccc(cc2)OC;5.3899999;STROMELYSIN-1;MBS
+2op3;Fc1ccc(c(F)c1F)-c2ccccc2OCC=O;6.3099999;Cathepsin S;TF5
+1bgo;c1ccccc1-c2cc(ccc2)[C@@H](CC(C)C)C(=O)NC[C@@H](O)CNS(=O)(=O)c3ncccc3;8.46;CATHEPSIN K;I10
+1you;Fc1ccc(cc1)Oc2ccc(cc2)OC3(CCOCC)C(=O)NC(=O)NC3=O;9.0600004;Collagenase 3;PFD
+1pyn;O=C([O-])C(C(=O)[O-])Oc1ccc(cc1)C[C@H](NC(=O)OC(C)(C)C)C(=O)NCCCCOc2cccc(O)c2C(=O)OC;5.4899998;Protein-tyrosine phosphatase, non-receptor type 1;941
+2bxt;n1ccccc1CCNc(nc2)c(=O)n(c2Cl)CC[NH2+]Cc(cs3)c(c34)cc(Cl)cc4;8.5200005;ALPHA THROMBIN;C2D
+2bxu;c1cccnc1C(F)(F)CNc2c(=O)n(c(Cl)cn2)CC[NH2+]Cc3ccc(N)nc3C;7.154902;ALPHA THROMBIN;C1D
+1a5h;c1cc(C(=[NH2+])N)ccc1C[C@@H]2CCCC[C@H](C2=O)Cc3ccc(cc3)C(=[NH2+])N;6.3000002;TISSUE PLASMINOGEN ACTIVATOR;BBA
+3sjt;O[B](O)(O)CCCC[C@]([NH3+])(C(=O)[O-])C;6.0599999;Arginase-1;5AB
+3sjf;CSCC[C@@H](C([O-])=O)NC(=O)N[C@H](C(=O)[O-])CCCCNC(=O)c(cc1)ccc1I;7.6399999;Glutamate carboxypeptidase 2;JRG
+3km4;Clc(c1)cccc1[C@](O)(CCCNC(=O)C)[C@H](CCC2)CN2C(=O)N[C@H](C[NH2+]C)CC3CCCCC3;8.8900003;Renin;22X
+4jnc;FC(F)(F)c1ccccc1CNC(=O)C(CC2)CCN2c(n3)nc(C)nc3NC;8.5200005;Bifunctional epoxide hydrolase 2;1LF
+1usn;n1nc(S)sc1NC(=O)N[C@H](C(=O)NC)Cc(c2F)c(F)c(F)c(F)c2F;7.7399998;STROMELYSIN-1;IN9
+3kme;c1ccccc1[C@@H](CCC2)N2C(=O)[C@H](O)[C@@H](O)C(=O)NCc3sccc3;6.1396618;TNF-alpha-converting enzyme;Z59
+3kmc;ONC(=O)C[C@@H](CC(C)C)C(=O)N[C@@H](C(C)(C)C)C(=O)N[C@@H](C)C(=O)NCC[NH3+];6.3979402;TNF-alpha-converting enzyme;403
+3oqk;c1ccccc1-n2c(Oc3ccccc3)c(c(c24)cccc4)C(=O)N5CC[NH2+]CC5;6.3800001;Renin;S52
+3oqf;c1ccccc1-n2c(Cc3ccccc3)c(c(c24)cccc4)C(=O)N5CC[NH2+]CC5;7.04;Renin;S51
+2qpj;c1ccccc1C[C@@H](C(=O)N[C@H](C(=O)[O-])C)CP([O-])(O)[C@H](C)NC(=O)CC[C@H]([NH3+])C(=O)N2CCC[C@H]2C#N;6.3499999;Neprilysin;I20
+4ys7;c1ccnc(cc2)c1c(c23)nc(n3C)CCC(=N4)NC(N45)=C(C)NC=C5C;9;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4GK
+1jj9;O=C1NC(=O)NC(=O)C1(c2ccccc2)[N@H+]3CC[C@@H](CC3)CCO;5.77;Matrix Metalloproteinase 8;BBT
+1g05;c1cc(OC)ccc1S(=O)(=O)N2[C@@H](C(=O)NO)CC(=O)N(C2)Cc3ccccc3;8.5100002;STROMELYSIN-1 PRECURSOR;BBH
+2nq7;n1ccsc1NC(=O)c2ncccc2NC(=O)C(C)(C)C;5.54;Methionine aminopeptidase 1;HM5
+2nq6;n1ccsc1NC(=O)c2ncccc2NC(=O)OC(C)(C)C;5.8200002;Methionine aminopeptidase 1;HM4
+4x3r;c1ccccc1N2CCN(CC2)c3ccc(cn3)C(=O)N(Cc4ccc(Br)cc4)CCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];11.07;Glutamate carboxypeptidase 2;686
+3o9l;c1c(C)cc(Cl)c(c1Cl)OCCOc2ccc(cc2)[C@@H]3[C@H](C[NH2+]CC3)C(=O)N(C4CC4)Cc5c(Cl)ccc(c5)CCCOC;9.6599998;Renin;LPN
+3s0n;O=C([O-])CCCn1c(=O)n(c(c12)cccc2)Cc3csc(c34)cccc4C;6.7399998;Chymase;0BB
+1caq;c1ccccc1C(CC2)CCN2c(cc3)ccc3S(=O)(=O)N[C@H](C(=O)[O-])Cc(c[nH]4)c(c45)cccc5;7.7199998;PROTEIN (STROMELYSIN-1);DPS
+4ca5;c1ccccc1COC(=O)N[C@@H](Cc2ccccc2)P([O-])(O)C[C@@H](Cc3cc(no3)-c4ccccc4)C(=O)N[C@H](C(=O)[O-])Cc5ccc(O)cc5;9.3900003;ANGIOTENSIN-CONVERTING ENZYME;3EF
+4ca6;c1ccccc1COC(=O)N[C@@H](Cc2ccccc2)P([O-])(O)C[C@@H](Cc3cc(no3)-c4ccccc4)C(=O)N[C@H](C(=O)[O-])Cc5ccc(O)cc5;6.7399998;ANGIOTENSIN-CONVERTING ENZYME N-DOMAIN;3EF
+2ovz;c1cccc(c12)[nH]cc2C[C@@H](C(=O)N)NC(=O)[C@@H](CP([O-])(O)c3ccccc3)Cc4cc(no4)-c5ccccc5;7.8899999;Matrix metalloproteinase-9 (EC 3.4.24.35) (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB);5MR
+2ovx;c1ccccc1Oc2ccc(cc2)C3(C(=O)NC(=O)NC3=O)[NH+]4CCN(CC4)c5ncccn5;8.6999998;Matrix metalloproteinase-9 (EC 3.4.24.35) (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB);4MR
+4m0e;c1ccc(C)c(c12)ccc3c2C(=O)C(=O)C4=C3OC[C@@H]4C;6.2199998;Acetylcholinesterase;1YL
+4m0f;O=C1C=CC(C)(C)[C@](O)(CC2)[C@@]1(C)[C@](O)([C@@]23C)Cc4c(O3)cc(oc4=O)-c5cc(OC)c(OC)c(c5)OC;8.7700005;Acetylcholinesterase;1YK
+3d91;c1ccccc1C[C@H](CS(=O)(=O)C(C)(C)C)C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N[C@H]([C@@H](O)[C@@H](O)C3CC3)CC4CCCCC4;9.1499996;Renin;REM
+2bzz;Nc1ncnc(c12)n(cn2)[C@@H]([C@H](O)[C@@H]3O)O[C@@H]3COP([O-])(O)OP([O-])(O)OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]4O[C@H]([C@H](O)[C@@H]4O)n(cn5)c(c56)ncnc6N;6.4299998;NONSECRETORY RIBONUCLEASE;AP5
+3n7o;Fc(c1)c(F)ccc1/C=C/NC(=O)[C@@H](P([O-])(C)O)c(cs2)c(c23)cc(Cl)cc3;7.1399999;Chymase;N7O
+1rhm;c1cc(C(=O)[O-])ccc1-c2cc(cnc2)C(=O)N[C@@H](CC(=O)[O-])CO;5.7600002;CASP-3;NA4
+3shz;CCc1nc([nH]c(=O)c1Cl)-c(c2)c(OCCC)ccc2S(=O)(=O)N(CC3)CC[NH+]3C;7.4400001;cGMP-specific 3',5'-cyclic phosphodiesterase;5CO
+3shy;CCc1nc([nH]c(=O)c1F)-c(c2)c(OCCC)ccc2S(=O)(=O)N(CC3)CC[NH+]3C;7.04;cGMP-specific 3',5'-cyclic phosphodiesterase;5FO
+1nd5;c1ccccc1[C@@H](P([O-])(O)O)[NH2+]Cc2ccccc2;8.3999996;prostatic acid phosphatase;2BF
+1fta;OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;6.3600001;FRUCTOSE-1,6-BISPHOSPHATASE;AMP
+3own;CC(C)CNC(=O)[C@H](C(C)C)C[C@H](O)[C@@H](NC1=O)COCc(c2)cccc2[C@@H](c3ccccc3)NC(=O)c(c4)cc(cc14)N(C)S(=O)(=O)C;7.4699998;Renin;3OX
+4yqh;c1ccccc1-c2nc([nH]c2)CCc(cn3)nc(c34)cccc4;8.0500002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4F7
+3ai8;Oc1ccc(N(=O)=O)c(c12)cccn2;3.8099999;Cathepsin B;HNQ
+4a7b;C1C[C@H](CC2)[C@@](O)(C[N@@H+]12)C#Cc(cc3)ccc3Oc4ccc(cc4)C(=O)N[C@H](C5)CCCS5(=O)=O;7.4000001;COLLAGENASE 3;3W5
+1jh1;C=CC/N=C(\SC1)NN=C1c(cc2)ccc2Cl;4.3899999;Matrix Metalloproteinase 8;JST
+5fbi;NC(=O)c(c1)[nH]c(c12)ccc(c2)OCc3cccc(c3)C(=O)[O-];2.8;Complement factor D;5WD
+5fbe;COC(=O)c1ccccc1CNC(=O)N2CCC[C@H]2C(=O)Nc3cc(OC(F)(F)F)ccc3;4.8499999;Complement factor D;5W5
+2oi0;CC#CCOc1ccc(cc1)S(=O)(=O)N2CC[C@@H](C2)S;7.5500002;TNF- a Converting Enzyme (TACE);283
+1rhj;CCCCCC[N@H+](C)C[C@@H](O)[C@H](CC(=O)[O-])NC(=O)[C@H](CC)n1cc(C(C)(C)C)nc(c1=O)NCc2c(C)non2;8.04;Caspase-3;PZN
+1rhu;c1ccccc1CSC[C@@H](O)[C@H](CC(=O)[O-])NC(=O)[C@H](C2)N3C(=O)[C@@H](NC(=O)[C@H](CC(=O)[O-])NC(=O)C)CCc4cccc2c34;8.5200005;Caspase-3;3CY
+1rhq;O=C(C)N[C@@H](C(C)C)C(=O)N[C@H](C=O)CC(=O)[O-];7.75;Caspase-3;0ZZ
+1rhr;CCOc1ccc(/C=C/C(=O)OC)cc1CC(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(=O)[O-])[C@H](O)CSCc2c(F)cccc2Cl;8.1000004;Caspase-3;CNE
+2nsx;O[C@H]1[C@H](O)C[NH2+]C[C@@H]1CO;7.1999998;Glucosylceramidase;IFM
+5a2s;c1ccccc1[C@@H]2[C@H]([C@]2(F)C(=O)NO)c3ccc(cc3)-c4ncc(F)cn4;7.6999998;HISTONE DEACETYLASE 4;OTF
+1xsc;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;4.3000002;Bis(5'-nucleosyl)-tetraphosphatase;ATP
+3i1y;c1ccccc1C(c2ccccc2)CCNC(=O)c3cccnc3;8.1549015;Epoxide hydrolase 2;33N
+3fts;Oc1cc(O)cc(c1)/C=C/c2ccc(O)cc2;3.6736641;Leukotriene A-4 hydrolase;STL
+2g1r;Nc1nc(N)nc(CC)c1-c(cc2)cc(c23)N(C(=O)C(O3)(C)C)CCNC(=O)C;7.6999998;Renin;3IG
+3hha;CC(C)(C)c(c1)nn(C)c1C(=O)N[C@H](C(=O)NC/C=N/[H])Cc2cccc(c2)C;7.8996296;Cathepsin L1;NOW
+1zkl;[nH]1cnc(c12)n(c(=O)n(c2=O)C)CC(C)C;5.0900002;High-affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A;IBM
+1zkn;[nH]1cnc(c12)n(c(=O)n(c2=O)C)CC(C)C;4.5100002;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;IBM
+2g1y;Nc1nc(N)nc(CC)c1-c(cc2)cc(c23)N(C(=O)C(O3)(C)C)CCCOC;7.0500002;Renin;5IG
+3o64;O=S(=O)(C)c1sc(NC)nc1[C@H]2CCCN2C(=O)[C@H](O)[C@@H](O)C(=O)N[C@H](C)c3ccc(cc3)-n4nccc4;9.3999996;TACE;786
+1yk7;[H]\N=C\N(C1)CC[C@H]1NC(=O)[C@H](CC(C)C)NC(=O)OCc2ccccc2;7.7199998;Cathepsin K;NBL
+3sfh;c1cccc(c12)CN(C2)C(=O)[C@H]([NH3+])Cc3ccc(Cl)cc3Cl;7.0500002;Histone deacetylase 8;1DI
+3sff;Fc(c1)ccc(F)c1C(=O)N2CCN(CC2)C(=O)[C@H]([NH3+])Cc3cc(Cl)ccc3;6.6999998;Histone deacetylase 8;0DI
+3sfc;c1ccccc1Cc2nccc(c23)c(C(=O)N4CC[NH2+]CC4)c(n3-c5ccccc5)Oc6cc(F)ccc6C;8.5200005;Renin;S53
+1it6;CC[C@H](C)c(oc1)nc1\C=C\C[C@@H]([C@@H](C)[C@H](O)C2)O[C@@]23O[C@@H]([C@@H](C3(C)C)OP([O-])(O)O)[C@@H](OC)C[C@H](O)[C@H](C)[C@H](O)[C@H](C)\C=C(C)\C(C)=C\C=C\C(C)=C/C#N;8.3900003;SERINE/THREONINE PROTEIN PHOSPHATASE 1 GAMMA (PP1-GAMMA) CATALYTIC SUBUNIT;CYU
+3oad;Clc1ccc(CCOC)cc1CN(C2CC2)C(=O)[C@H]3C[NH2+]CC[C@]3(O)c4cnc(cc4)OCCOc5c(Cl)cc(C)cc5Cl;9.6199999;Renin;LPO
+4hww;[OH]=[B]([OH2])([OH2])[CH3]CCCC(C(=O)[O-])([NH3+])CC[NH+]1CCCCC1;6.6500001;Arginase-1;X7A
+5kre;c1ccccc1[C@H]2CCCCN2C=O;7.23;Lysophospholipase-like protein 1;6WG
+5axq;c1ccccc1-n2nccc2-c3c(=O)c(OC)cn(n3)-c(c4F)ccc(c45)N(C(=O)C5(C)C)CC6CC6;10.1;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4LP
+2pvv;O=C([O-])C(=N\[H])\COS([O-])([O-])O;3.3599999;Glutamate carboxypeptidase 2;OSE
+1p57;c1cc(C(=[NH2+])N)cc(c12)nc([nH]2)-c3ccccc3O;4.4000001;Serine protease hepsin;CR4
+4re9;c1cccc(c12)ccc(c2)C[C@H](CC(=O)NO)n3c(cnn3)CNC(=O)c4ccc(F)cc4;4.9200001;Insulin-degrading enzyme;3M9
+4d08;CCCCOc1cncc(c1)-c(nn2)n(c23)c4c(nc3C)ccc(c4)C[NH+]5CCOCC5;8;CGMP-DEPENDENT 3', 5'-CYCLIC PHOSPHODIESTERASE;Q2T
+4d09;c1ccccc1CNC(=O)c(c2)ccc3nc(C)c(n4c23)nnc4-c5ccccc5;8.7700005;CGMP-DEPENDENT 3', 5'-CYCLIC PHOSPHODIESTERASE;788
+2srt;c1ccccc1CC[C@H]([NH2+][C@H](C)C(=O)[O-])C(=O)N[C@@H](CCC[NH+]=C(N)N)C(=O)Nc2ccccc2;6.6399999;STROMELYSIN-1;INH
+4o7d;O=C([O-])[C@@H]([NH3+])CCC(=O)C;3;Glutaminase kidney isoform, mitochondrial;ONL
+1j1a;c1ccccc1CCCCCCC(=O)N[C@@H](CCC(=O)[O-])Cc2ccc(cc2)OCc3ccccc3;7.54;Phospholipase A2;BHP
+3vyd;Clc1ccccc1N(CC2(C)C)C(=O)C[N@@H+]2C[C@@H](C[NH2+]C3)C[C@@H]3C(=O)NCCC(C)C;6.3899999;Renin;VYD
+3vye;CC(C)CCNC(=O)[C@@H]1C[NH2+]C[C@@H](C1)[N@@H+](C2(C)C)CC(=O)N(C2)c3c(Cl)cccc3;8.1099997;Renin;VYE
+3vyf;CC(C)CC(CC(C)C)NC(=O)[C@@H]1C[NH2+]C[C@@H](C1)[N@@H+](C2(C)C)CC(=O)N(C2)c3c(Cl)cccc3;8.8000002;Renin;VYF
+4u69;OP([O-])(O)[C@@H]([NH3+])[C@@H](C)CCC;4.2600002;Methionine aminopeptidase 1;Q07
+5aen;C[NH+](C)CCOc(cc1)ccc1Oc2ccccc2;7.2199998;LEUKOTRIENE A-4 HYDROLASE;DP8
+4u6c;OP([O-])(O)[C@@H]([NH3+])CCC1CCCC1;5;Methionine aminopeptidase 1;Q06
+3qi4;[nH]1cnc(c12)n(c(=O)n(c2=O)C)CC(C)C;3.9300001;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;IBM
+3qi3;Cc1ccccc1-n2ncc(c23)c(=O)[nH]c(n3)C[C@@H](C)C(F)(F)F;3.78;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;PDB
+1rne;c1ccccc1C[C@H](CS(=O)(=O)C(C)(C)C)C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N[C@@H](CC3CCCCC3)[C@@H](O)C[C@@H](C(C)C)C(=O)NCCCC;8.6999998;RENIN;C60
+3wd9;c1ccccc1-c2ncc(C(=O)N)c(n2)Nc3ccc(cc3)CC(=O)NCC(C)(C)C;8.0799999;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;QPC
+4u6w;OP([O-])(O)[C@@H]([NH3+])C(CCC)CCC;4.21;Methionine aminopeptidase 1;Q08
+4u6z;OP([O-])(O)[C@@H]([NH3+])[C@H](C)CCC;5.4099998;Methionine aminopeptidase 1;Q07
+3b8z;C1COCCC1(C(=O)NO)S(=O)(=O)c2ccc(cc2)Oc3ccc(C(F)(F)F)cc3;6.5376019;protein ADAMTS-5;294
+1awf;O[C@H]1[C@H](O)[C@@H](O)[C@H](CO)O[C@@H]1OC(=O)[C@](C)([C@@H](CC2)OC(=O)C)[C@@H]([C@]23C)CC=C4[C@@H]3C[C@H](O)[C@]5(C)[C@]4(CO)C[C@H](O)[C@H]5[C@H](C=O)CC(=O)C=C(C)C;6.0100002;ALPHA THROMBIN;GR4
+2v0z;COCCCOc1cc(ccc1OC)C[C@H](C(C)C)C[C@H]([NH3+])[C@@H](O)C[C@@H](C(C)C)C(=O)NCC(C)(C)C(=O)N;9.2200003;RENIN;C41
+2za5;[NH3+]Cc(c1)ccc(OC2)c1C23CCN(CC3)C(=O)c4oc(cc4)C#Cc5ccccc5;8.431798;Tryptase beta 2;2FF
+2y5l;c1ccc(Cl)cc1S(=O)(=O)NC(=O)Nc2sc(Br)cn2;6.48;FRUCTOSE-1,6-BISPHOSPHATASE 1;RO8
+1bil;c1ccccc1[C@H](C)N(CC(=O)N(C)C)C(=O)C[C@@H](Cc2csc(n2)N)C(=O)N[C@H]([C@@H](O)[C@@H](O)CC(C)C)CC3CCCCC3;9.3000002;Renin;0IU
+2y5k;COCCc(c(c1)C)sc1S(=O)(=O)NC(=O)Nc2nc(NC(=O)NC)cc(c2)OC;6.6599998;FRUCTOSE-1,6-BISPHOSPHATASE 1;YCU
+3kry;COCC[N@@H+](CC1)CC[C@]1(C(=O)N=O)S(=O)(=O)c2ccc(cc2)Oc3ccc(cc3)OC(F)(F)F;10;Collagenase 3;3KR
+1biw;COCCN(C1=O)CCCC[C@@H]1NC(=O)[C@H](CC(C)C)[C@@H](C(=O)NO)CCCO;6.98;PROTEIN (STROMELYSIN-1 COMPLEX);S80
+4gah;CCCCC\C=C\CC[C@@H](O)CSCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP([O-])(O)OP([O-])(O)OC[C@@H](O1)[C@@H](OP([O-])(O)O)[C@@H](O)[C@@H]1n2cnc(c23)c(N)ncn3;6.0999999;Thioesterase superfamily member 4;0ET
+5jyo;n1ccccc1CC(=O)Nc(s2)nnc2CCCCc3ccc(nn3)NC(=O)Cc4cccc(c4)OC(F)(F)F;8.5200005;Glutaminase kidney isoform, mitochondrial;63J
+2bvr;Clc1ccc(cc1)SCC(=O)N[C@H](C(=O)N)Cc2ccc(cc2)[NH+]=C(N)N;3.7;ALPHA THROMBIN;4CP
+2bvs;Clc1ccc(cc1)SCC(=O)N[C@@H](Cc2ccc(cc2)[NH+]=C(N)N)C(=O)NCCOCCOCC(=O)N;4.0999999;ALPHA THROMBIN;2CE
+3tjm;COP(O)CCCCC/C=C\C/C=C\CCCCCCCC;5.1999998;Fatty acid synthase;7FA
+3eax;C1C=CC=C[C@@H]1COc2cccc(c2)C(=O)CC(=O)C(=O)N3CCN(CC3)C(=O)C(=O)CC(=O)c4cc(ccc4)OCC5=CCCC=C5;4.9208188;Tyrosine-protein phosphatase non-receptor type 1;LZP
+3n3g;c1ccc(C#N)nc1-c2cc(C(F)(F)F)c(cc2)OCCC[N@H+]3CC[N@H+](C)CC3;7.2399998;Cathepsin S;93N
+3e4a;c1cccc(c12)cc(cc2)C[C@H](CC(=O)NO)C(=O)N[C@@H](CCC[NH+]=C(N)N)C(=O)NCC(=O)NCC(=O)N;8.7700005;Insulin-degrading enzyme;QIX
+4dmy;[H]/N=C\C1(CC1)NC(=O)[C@@H]2CCCC[C@H]2C(=O)N(CC3)Cc(c34)c5c([nH]4)ccc(F)c5;9;Cathepsin K;0LC
+1vsn;c1cc(S(=O)(=O)N)ccc1-c2ccc(cc2)[C@@H](C(F)(F)F)[NH2+][C@@H](CC(C)C)C(=O)NC/C=N/[H];9.6999998;Cathepsin K;NFT
+3u4i;n12[C@H]3[C@H](O)[C@H](O)[C@H](C3)COP([O-])([O-])OP(O)(O)OC[C@@H]4[C@@H](O)[C@@H](O)[C@@H](O4)[n+]5c(nc1)c(c2N)nc5;3.8900001;ADP-ribosyl cyclase 1;CVR
+5cls;c1cc(OC)ccc1Cn2nnc(c23)[C@@H](CC[C@]3(O)C)OC(=O)NC(C)C;6.6599998;Methionine aminopeptidase 2;52T
+3q3k;Clc(c1)ccc(c12)[nH]c(c2)C(=O)Nc3ccccc3NC(=O)c(s4)nc(c45)CC[N@H+](C5)C;8.1300001;Activated factor Xa heavy chain;D90
+3q3t;c1ccccc1-c2ccccc2[C@](O)(CCCCOC)[C@H](CCC3)CN3C(=O)[C@H](C[C@@H]4O)C[C@H]4[NH3+];7.4299998;Renin;RX0
+2vj8;c1ccccc1COc2ccc(cc2)C[C@H]([NH3+])CN(O)C(=O)CCCCC(=O)[O-];8.6989698;LTA4H PROTEIN;HA2
+4bdt;OCCC(C[C@@H]1C2)=C[C@@H]2Cc(n3)c1c(N)c(c34)ccc(Cl)c4;8.96;ACETYLCHOLINESTERASE;HUW
+4bds;c1cccc(n2)c1c(N)c(c23)cccc3;7.5999999;CHOLINESTERASE;THA
+3g3n;c1cccc(c12)c(=O)n(c(n2)SC)-c3c(F)cccc3F;6.2924299;High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A;TC8
+4nw7;O=C([O-])Cc1ccc(cc1)Nc2nc(C3CC3)nc(n2)-c4cccc(Cl)c4;6.6300001;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;2O5
+1xbo;OCc1c(C(=O)[O-])noc1-c2cccc(c2)/C=C/COc3cccc(O)c3C(=O)OC;6.04;Protein-tyrosine phosphatase, non-receptor type 1;IX1
+1cgl;c1ccccc1COC(=O)NCC[C@H](C(=O)[O-])[NH2+][C@@H](CC(C)C)C(=O)N[C@@H](Cc2ccccc2)C(=O)NCC[NH+]3CCOCC3;6.8699999;FIBROBLAST COLLAGENASE;0ED
+1au0;c1ccccc1COC(=O)N[C@@H](CC(C)C)C(=O)NCC(O)CNC(=O)[C@H](CC(C)C)NC(=O)OCc2ccccc2;7.6599998;CATHEPSIN K;SDK
+1ro6;C1NC(=O)C[C@@H]1c2cc(c(cc2)OC)OC3CCCC3;6.46;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ROL
+2bge;c1ccccc1N(S2(=O)=O)CC(=O)N2;2.8;PROTEIN-TYROSINE PHOSPHATASE NON-RECEPTOR TYPE 1;T2D
+3b92;CC#CCOc1ccc(cc1)S(=O)(=O)CCCS;8;ADAM 17;440
+5fah;c1cc(OC)ccc1CCNC(=O)[C@H]2N(CCC2)C(=O)NCc(ccc3)c(c34)cccc4;6.1500001;Kallikrein-7;5VT
+1u33;O\N=C1\[C@H](O)[C@@H](O)[C@@H]([C@H](N1)CO)O[C@@H]2[C@H](O)[C@@H](O)[C@@H]([C@H](O2)CO)O[C@@H]3[C@H](O)[C@@H](O)[C@H](OC)[C@H](O3)CO;4.5999999;Alpha-amylase, pancreatic;LM2
+1u32;O=C([O-])[C@](C)(O)C[C@@H](O1)CC[C@@H](O)[C@]12C=C(C)C[C@H](O2)[C@H](C)/C=C/[C@H](O3)CC[C@@]34CC[C@@H]5[C@@H](O4)[C@H](O)C(=C)[C@H](O5)[C@@H](O)C[C@H](C)[C@@H](O6)[C@H](C)CC[C@]67CCCCO7;7.0100002;Serine/threonine protein phosphatase PP1-gamma catalytic subunit;OKA
+5fv7;c1cccc(c12)OC[C@@H](O2)Cn3c(=O)n(O)c(=O)c(c34)scc4;6.7399998;FLAP ENDONUCLEASE 1;R3Z
+1h4w;NC(=[NH2+])c1ccccc1;4.6599998;TRYPSIN IVA;BEN
+3thd;O[C@H]1C[NH2+][C@H](CO)[C@H](O)[C@@H]1O;4.0500002;Beta-galactosidase;DGJ
+3l3n;c1ccccc1CC[C@@H](C(=O)[O-])[NH2+][C@@H](CCCC[NH3+])C(=O)N[C@H](C([O-])=O)Cc(c[nH]2)c(c23)cccc3;8.1800003;Angiotensin-converting enzyme;LSW
+1pq3;[O-]C([O-])[C@@H]([NH3+])CSCC[B](O)(O)O;7.52;Arginase II, mitochondrial precursor;S2C
+3ecn;[nH]1cnc(c12)n(c(=O)n(c2=O)C)CC(C)C;3.1561451;High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A;IBM
+5c1w;Clc1c(C)c(Cl)nc(n1)C2CC2;5.0599999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4XS
+3e6k;O=C([O-])C([NH3+])CCC[CH3]B([OH2])[OH2].O;5.154902;Arginase-1;ABH
+3e6v;O=C([O-])[C@@H]([NH3+])CCCC[BrH](O)(O)O;6.8326826;Arginase-1;ABH
+2pze;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;6.0757208;Cystic fibrosis transmembrane conductance regulator;ATP
+4ryg;COCCCOc1cc(ccc1OC)C(=O)N(C(C)C)C[C@@H]2C[NH2+]C[C@H]2NS(=O)(=O)Cc3ccccc3;8.1000004;Renin;3ZJ
+4ryc;COCCCOc1c(OC)ccc(c1)C(=O)N(C(C)C)C[C@@H]2C[NH2+]C[C@H]2NS(=O)(=O)c(cc3)ccc3C;7.0999999;Renin;3ZK
+1nny;c1cccc(c1C([O-])=O)N(C(=O)C(=O)[O-])c2ccc(c(c23)cccc3)C[C@H](NC(=O)C)C(=O)NCCCCCOc(c4)c(C([O-])=O)cc(c45)cccc5;7.6599998;Protein-tyrosine phosphatase, non-receptor type 1;515
+3lk8;ONC(=O)CNS(=O)(=O)c1ccc(OC)cc1;7.71;Macrophage metalloelastase;Z79
+3fu5;[NH3+]Cc1sc(cc1)-c2sccc2;4.1237822;Leukotriene A-4 hydrolase;492
+3fu6;s1cccc1-c2ccc(cc2)C[NH3+];3.9746943;Leukotriene A-4 hydrolase;80G
+3fu0;Fc1ccc(cc1)C(=O)c2ccncc2;2.275069;Leukotriene A-4 hydrolase;22F
+3fu3;Oc1ccc(cc1)-c2csc(n2)N;2.8407338;Leukotriene A-4 hydrolase;92G
+4g2l;n1cccnc1[C@H]2C[N@H+](C2)[C@H](C)c([nH]c3=O)nc(c34)n(nc4)C5CCCC5;7.4899998;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;0WL
+3q5h;COC(=O)NCCO[C@@H](c1cc(Cl)ccc1)[C@H](CCC2)CN2C(=O)N[C@H](C[NH2+]C)C[C@H]3CCCOC3;6.25;Renin;RX6
+3ful;c1cnccc1C(=O)c2ccc(cc2)OCC[NH+]3CCCC3;3.7;Leukotriene A-4 hydrolase;52D
+3fum;c1cnccc1[C@H](O)c(cc2)ccc2OCC[NH+]3CCCC3;3.769551;Leukotriene A-4 hydrolase;80A
+3fun;c1cscc1-c(cc2)ccc2C(=O)c3ccc(cc3)OC[C@@H]4[NH2+]CCC4;6.7235384;Leukotriene A-4 hydrolase;798
+3fuh;c1cc(O)cc(c12)cc[nH]2;2.6989701;Leukotriene A-4 hydrolase;5H1
+3fui;C1CC[NH2+][C@H]1COc2ccc(cc2)NCc3ccccc3;6.8041005;Leukotriene A-4 hydrolase;812
+3wyk;c1ccccc1-n2nccc2-c3c(=O)ccn(n3)-c(c4)cccc4C(F)(F)F;7.6399999;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;3KG
+3fuk;O=C([O-])[C@@H]1CC[N@@H+](CC1)CCOc(c2)ccc(c23)[nH]cc3;3.0150228;Leukotriene A-4 hydrolase;58Z
+3fud;C[NH2+]Cc1ccccc1-c2cccs2;2.6989701;Leukotriene A-4 hydrolase;692
+3lka;NS(=O)(=O)c(cc1)ccc1OC;2.8199999;Macrophage metalloelastase;M4S
+3fuf;c1c(F)ccc(c12)[nH]cc2;2.6989701;Leukotriene A-4 hydrolase;14O
+3hwn;[NH3+]Cc(nn1)oc1-c(c2)cccc2C[C@@H](C(=O)NC/C=N/[H])NC(=O)c3cc(C(C)(C)C)nn3C;8.6989698;Cathepsin L1;BD3
+4g2y;C[NH+]1CCN(CC1)S(=O)(=O)c2cc(c(cc2)OCCC)-c(n3)[nH]c(=O)c(c34)CCC4;6;cGMP-specific 3',5'-cyclic phosphodiesterase;NI5
+4q1n;n1cc(C(C)C)ccc1N(C2CC2)C(=O)[C@H]3C[NH2+]C[C@H]([C@H]3O)C(=O)N[C@H](CC(C)C)COCC;9.6999998;Renin;2Y9
+3vuc;C1[C@H](C2)C[C@H](C3)[C@H]([C@@H]1C[C@@]23O)NC(=O)[C@H](CC)C[C@H](O)[C@@H]([NH3+])C[N@@H+](C4(C)C)CC(=O)N(C4)c5ccccc5Cl;9.0500002;Renin;HHE
+2oc2;c1cccc(c12)[nH]cc2C[C@@H](C([O-])[O-])NC(=O)[C@@H]3CCC[C@H]3P([O-])(O)[C@H](Cc4ccccc4)NC(=O)OCc5ccccc5;8.5200005;Angiotensin-converting enzyme, somatic isoform;RX3
+3vp3;CCCc1sc(nn1)N;4.9499998;Glutaminase kidney isoform, mitochondrial;BP8
+2fie;Clc1ccc(Cl)c(c1)S(=O)(=O)Nc(n2)oc(c23)c(cc(c3)OC)-c(cn4)ccc4OC;5.46;Fructose-1,6-bisphosphatase 1;A74
+3ril;O[C@H]1C[NH2+]C[C@H](O)[C@@H](O)[C@@H]1O;3.8399999;Glucosylceramidase;3RK
+1c4y;c1nc(N)[nH]c1[C@@H](CC2)CC[C@H]2NC(=O)[C@H](C=C(C3)C)n(n34)c(=O)n(c4=O)CC(c5ccccc5)c6ccccc6;7.9200001;THROMBIN:SHORT CHAIN;IH3
+2fix;Clc1ccc(Cl)c(c1)S(=O)(=O)Nc(n2)oc(c23)c(cc(c3)OC)-c(c4)cccc4N;6.2399998;Fructose-1,6-bisphosphatase 1;870
+1xd0;O[C@@H]1[C@H](O)[C@@H](O)[C@@H]([C@H](O1)CO)O[C@@H]2[C@H](O)[C@@H](O)[C@@H]([C@H](O2)C)[NH2+][C@@H]3[C@H](O)[C@@H](O)[C@@H]([C@H](C3)CO)O[C@@H]4[C@H](O)[C@@H](O)[C@@H]([C@H](O4)CO)O[C@@H]5[C@H](O)[C@@H](O)[C@H](O)[C@H](O5)CO;7.1199999;Alpha-amylase;ARE
+2vqj;c1ccccc1-c(cn2)n(c23)CCN(C3)C(=O)c4sc(cc4)C(C(F)(F)F)(O)O;6.4353337;HISTONE DEACETYLASE 4;TFG
+5tjx;Nc(c1)nc(C)c(c12)CNC(=O)c3cn(nc3)Cc4c(cc(cc4)Cn5cccn5)OCCC\C=C\CCO2;6.8200002;Plasma kallikrein;GBT
+4llp;Cc1cc(N)ccc1O;4.8000002;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4ZE
+4llx;Cc1cc(C)nc(n1)N;2.8900001;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;5ZE
+3i7g;c1cc(Cl)ccc1-c2ccc(o2)C(=O)N[C@H](C(=O)NC)C3CCCCC3;6.3665314;Collagenase 3;732
+3i7i;c1cccc(c12)oc(c2)C(=O)Nc3ccc(cc3)-c4ccc(o4)C(=O)N[C@H](C(=O)NC)C5CCCCC5;6.2076082;Collagenase 3;518
+4llj;Nc1[nH]c(N)c(c12)cccc2;3.4200001;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;1XN
+4llk;Cc([nH]1)nc(=O)c(c12)cccc2;3;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;MEW
+4ufg;c1ccccc1CS(=O)(=O)N[C@H](Cc2ccccc2)C(=O)N(C)[C@@H](CC)C(=O)NCc3ccc(C(=[NH2+])N)cc3;8.1499996;THROMBIN HEAVY CHAIN;D6J
+2xu5;c1cccc(Cl)c1S(=O)(=O)[C@H](C2)CN([C@@H]2C(=O)NC3(/C=N\[H])CC3)C(=O)C4(CC4)c(cc5)ccc5C;6.8899999;CATHEPSIN L1;XU5
+3bhx;O=C([O-])CCP([O-])(O)C[C@H](C(=O)[O-])CCC([O-])[O-];9.1549025;Glutamate carboxypeptidase 2;BHX
+2zmm;C1CCCCC1N(C(=O)NC)c2cccc(c2)-c3c(Br)c(c(s3)C(=O)[O-])OCC(=O)[O-];7.6020598;Tyrosine-protein phosphatase non-receptor type 1;35B
+2usn;n1nc(S)sc1NC(=O)C[C@H](c2ccccc2)NC(=O)OCc3ccccc3;6.5100002;STROMELYSIN-1;IN8
+4ge2;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@H](NC(=O)C)C(=O)N[C@H](C(=O)N)CCCNC(=O)c2cccc(I)c2;6.0500002;Tyrosine-protein phosphatase non-receptor type 9;75A
+4ge5;c1cc(Br)c(C)cc1C(=O)N[C@@H](Cc2ccc(cc2)C(F)(F)P([O-])(O)O)C(=O)N[C@H](C(=O)N)CCCNC(=O)c3cccc(I)c3;6.5700002;Tyrosine-protein phosphatase non-receptor type 9;A89
+4ge6;c1cc(Br)c(C)cc1C(=O)N[C@@H](Cc2ccc(cc2)C(F)(F)P([O-])(O)O)C(=O)N[C@@H](CCCNC(=O)c3cccc(I)c3)C(=O)N[C@@H](C(=O)N)CNC(=O)Cc4cc(OC)c(O)cc4;7.4699998;Tyrosine-protein phosphatase non-receptor type 9;B26
+4phw;c1cccc(c12)nc([nH]2)C(=O)c3ccc(cc3)Oc4ncccc4C5CCOCC5;10;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2W1
+2pvw;O=[C](=O)CCC(C([O-])[O-])CP([O-])(O)O;9.5200005;Glutamate carboxypeptidase 2;G88
+2jbj;O=C([O-])CC[C@@H](C(=O)[O-])CP([O-])(O)O;9.6999998;GLUTAMATE CARBOXYPEPTIDASE 2;G88
+3tvc;O=C([O-])CC[C@@H](C(=O)N)NC(=O)CCc1ccc(cc1)-c(cc2)ccc2-c3ccccc3;7.7399998;Collagenase 3;E3P
+3tvl;OP([O-])(O)OP([O-])(O)OP([O-])([O-])O;4;Thiamine-triphosphatase;3PO
+3tv8;O[C@H]1C[NH2+][C@H](CO)[C@H](O)[C@@H]1O;7.1500001;Alpha-galactosidase A;DGJ
+4wcu;Clc1cncc(Cl)c1CC(=O)c2ccc(OC)c(OC)c2OCC(=O)NCc3ccccc3;8.5200005;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;3KQ
+5h8x;Oc1ccc(cc1O)NS(=O)(=O)c2ccc(cc2)-c3ccccc3;5.5100002;Neutrophil collagenase;5XT
+2hxm;[nH]1c(=O)[nH]c(=O)cc1\C=N\OCCO\N=C\c(cc2)ccc2C(=O)[O-];5.2199998;Uracil-DNA glycosylase;302
+2adu;n1n[nH]cc1-c2cc(C)ccc2;7.7399998;Methionine aminopeptidase 2;R20
+1soj;n1c[nH]c(c12)n(c(=O)n(c2=O)C)CC(C)C;6.6199999;cGMP-inhibited 3',5'-cyclic phosphodiesterase B;IBM
+1nl6;C1COCC[NH+]1CCOc(c2)ccc(c23)oc(c3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@H]4CCCN(C[C@@H]4O)C(=O)Cc5cccc(c5)-c6ccccn6;11.32;Cathepsin K;750
+2k2g;CC(C)[C@@H](C(=O)[O-])NS(=O)(=O)c(c1)ccc(c12)c3c(s2)cccc3;8.124939;Macrophage metalloelastase;DSV
+1fls;Cc1cccc(C(=O)NO)c1N(S(=O)(=O)c2ccc(cc2)OC)Cc3cnccc3;7.48;COLLAGENASE-3;WAY
+1so2;c1c(I)cccc1CC2=C(CCCC2=O)Nc3ccc(cc3)C4=NNC(=O)C[C@H]4C;9.5699997;cGMP-inhibited 3',5'-cyclic phosphodiesterase B;666
+1nlj;c1cccnc1S(=O)(=O)N(C[C@@H]2O)CCC[C@@H]2NC(=O)[C@H](CC(C)C)NC(=O)c(o3)cc(c34)cccc4;9.8000002;CATHEPSIN K;2CA
+1q6t;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@](c2ccccc2)(n(nn3)c(c34)cccc4)Cc5ccc(cc5)-c(c6)cc(P([O-])([O-])O)c(c67)nc(cc7)[C@@H](OC)CC(C)C;8.3000002;Protein-tyrosine phosphatase, non-receptor type 1;600
+1q6p;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@](c2ccccc2)(n(nn3)c(c34)cccc4)Cc5ccc(cc5)-c6cc(P([O-])([O-])O)ccc6;8.5200005;Protein-tyrosine phosphatase, non-receptor type 1;213
+1q6s;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@](c2ccccc2)(n(nn3)c(c34)cccc4)Cc5ccc(cc5)-c(c6)cc(P([O-])([O-])O)c(c67)nc(C)cc7;7.9200001;Protein-tyrosine phosphatase, non-receptor type 1;214
+1q6m;OP([O-])(O)C(F)(F)c(cc1)ccc1CC(c2cc(F)c(F)cc2)(n(nn3)c(c34)cccc4)Cc5ccc(cc5)C(F)(F)P([O-])([O-])O;7.8899999;Protein-tyrosine phosphatase, non-receptor type 1;P27
+1q6n;OP([O-])(O)C(F)(F)c(cc1)ccc1C[C@@](n(nn2)c(c23)cccc3)(c(n4)sc(c45)cccc5)C/C=C/c6ccccc6;7.6399999;Protein-tyrosine phosphatase, non-receptor type 1;P90
+5jfr;[nH]1cnc(c12)cc(c(n2)C)-n3c(ccc(F)c4)c4c(c35)[nH]nc5;8.3000002;Methionine aminopeptidase 2;6KP
+1q6j;OP([O-])(O)C(F)(F)c(cc1)ccc1CC(c2ccccc2)(n(nn3)c(c34)cccc4)Cc5ccc(cc5)C(F)(F)P([O-])([O-])O;7.8000002;Protein-tyrosine phosphatase, non-receptor type 1;335
+1q6k;CC(C)(C)OC(=O)N[C@H](C=O)C1CCCCC1;7.5900002;Cathepsin K;TCO
+2cmb;N1C(=O)C=C(S1(=O)=O)c2ccc(cc2)CC(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](C(=O)N)Cc(cc4)ccc4C(S5(=O)=O)=CC(=O)N5;7.1900001;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;F17
+2cmc;OP([O-])(O)C(F)(F)c1ccc(cc1)C[C@@H](C(=O)N)NC(=O)[C@@H](NC(=O)C)Cc2ccccc2;5.7600002;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;DFM
+2cma;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@@H](C(=O)N)NC(=O)[C@H](Cc3ccccc3)NC(=O)c4ccccc4;6.73;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;F20
+4lqg;c1cc(F)ccc1C(=O)N[C@H](C(=O)[O-])CCC(=O)N[C@H](C([O-])[O-])CCCOP([O-])(O)N[C@H](C(=O)[O-])CCC([O-])=O;8.8900003;Glutamate carboxypeptidase 2;CTW
+3lil;[O-]C([O-])CCC(C(=O)N)NC(=O)C(CC[C](=O)=O)NC(=O)CCc1cc(no1)-c2ccc(cc2)-c3cc(Cl)ccc3;8.0799999;Macrophage metalloelastase;EEA
+3lik;[O-]C([O-])CCC(C(=O)N)NC(=O)C(CC[C](=O)=O)NC(=O)CCc(cc1)ccc1-c2scc(c2)-c3ccccc3;8.7200003;Macrophage metalloelastase;EEG
+3lir;[O-]C([O-])CCC(C(=O)N)NC(=O)C(CC[C](=O)=O)NC(=O)CCc(c1)onc1-c2ccccc2;6.9200001;Macrophage metalloelastase;EEC
+4lqy;OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;3.8900001;Bis(5'-adenosyl)-triphosphatase ENPP4;AMP
+2cm7;N1C(=O)C[C@H](S1(=O)=O)c2ccc(cc2)C[C@@H](C(=O)N)NC(=O)[C@@H](NC(=O)C)Cc3ccccc3;6.6799998;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;IZD
+2cm8;N1C(=O)C=C(S1(=O)=O)c2cccc(c2)O;5.8699999;TYROSINE-PROTEIN PHOSPHATASE NON-RECEPTOR TYPE 1;F16
+2kmx;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;4.0799999;Copper-transporting ATPase 1;ATP
+1mem;C1C[NH2+]CCN1C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCc2ccccc2)CCS(=O)(=O)c3ccccc3;7.9400001;Cathepsin K;0D6
+3g72;Clc1c(Cl)c(ccc1)CN(C2CC2)C(=O)C3=C(C[C@H]([NH2+]4)C[NH2+]C[C@@H]34)c5ccc(cc5)CCCOc6c(F)ccc(F)c6Cl;9.0969105;Renin;A6T
+3g70;Clc1c(Cl)c(ccc1)CN(C2CC2)C(=O)C([C@H]34)=C(C[C@@H]([NH2+]3)C[NH2+]C4)c5ccc(cc5)/C=C\COc6c(F)ccc(F)c6Cl;9.3979397;Renin;A5T
+4mvh;c1cccc(c12)nc([nH]2)C(=O)c3ccc(cc3)Oc4nccnc4N5CCOCC5;8.3500004;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2F5
+4efs;O=C([O-])CC[C@@H](C(=O)N)NC(=O)c1ccc(cc1)-c2cc(cs2)-c3ccccc3;8.6000004;Macrophage metalloelastase;E37
+4wh9;OS([O-])(O)CCSc1cc(O)cc(F)c1C#N;3;M-phase inducer phosphatase 2;3M8
+4wh7;Fc1cc(O)ccc1C#N;2.3;M-phase inducer phosphatase 2;8H8
+1nwl;O=C([O-])c1nccnc1C(=O)N[C@@H]2CC[C@@H](CC2)C(=O)NCCSSCCNC(=O)C;2.3900001;protein-tyrosine phosphatase, non-receptor type 1;964
+5cuh;ONC(=O)[C@H]1CSCN1S(=O)(=O)N2CCN(CC2)c3ccc(C#N)cc3C;4.6199999;Matrix metalloproteinase-9,Matrix metalloproteinase-9;LTQ
+4j51;Clc(c1)cccc1C#Cc2c(oc(c23)cc(O)c(c3)C(=O)[O-])-c4ccc(cc4)OCC(=O)NC5CC5;6.5900002;Tyrosine-protein phosphatase non-receptor type 22;N75
+1yc5;c1ccncc1C(=O)N;3;NAD-dependent deacetylase;NCA
+3tt4;O=C([O-])CC[C@@H](C(=O)N)NC(=O)CCc1ccc(cc1)-c2ccc(s2)C;8.2799997;Neutrophil collagenase;E1S
+1ycm;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)CC(=O)N=O;8;Macrophage metalloelastase;NGH
+3v9b;C1CC1COc2cc(ccc2OC(F)F)[C@H](Cc3ccn(=O)cc3)n(n4)ccc4-c5cc(ccc5)NC(=O)C;9.3000002;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;IHM
+2fpz;n1c(N)[nH]c(c12)cccc2;3.96;Tryptase beta-2;270
+3lgp;c1ccc(Cl)cc1[C@@H](CCC2)N2C(=O)[C@H](O)[C@@H](O)C(=O)NCc3sc(cc3)Cn4c(C(F)(F)F)nc(c45)cccc5;8.6999998;Disintegrin and metalloproteinase domain-containing protein 17;50X
+3g5k;CCCCC[C@H](CC(=O)NO)C(=O)N[C@@H](C(C)C)C(=O)N1[C@H](CO)CCC1;9.5200005;Peptide deformylase, mitochondrial;BB2
+3g58;c1ccc(N(=O)=O)cc1-c(c(c23)nccc2)cc(c3)Cc4ccncc4;9.2799997;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;988
+3w5e;c1ccccc1-c(n2)nc(c(c23)S(=O)(=O)CCC3)Nc4ccc(cc4)CC(=O)NC(C)(C)C;7.96;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;NVW
+2fm0;FC(F)Oc1c(OC2CC2)cc(cc1)[C@@H](c3ncc(s3)C(O)(C(F)(F)F)C(F)(F)F)CC4=C[N+](=O)C=CC4;9.3999996;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;M98
+1c88;C1[NH2+]CCc(c12)c(C(=O)[O-])c(s2)NC(=O)C(=O)[O-];5.29;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);OTA
+2fm5;FC(F)Oc1c(OC2CC2)cc(cc1)[C@H](c3ncc(s3)C(O)(C(F)(F)F)C(F)(F)F)Cc4cccn(=O)c4;7.3699999;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;M99
+1c84;c1cccc(c12)cc(C(=O)[O-])c(c2)NC(=O)C(=O)[O-];5;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);761
+1c85;O=C([O-])c1ccccc1NC(=O)C(=O)[O-];4.6399999;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);OBA
+1c86;C1OCCc(c12)c(C(=O)[O-])c(s2)NC(=O)C(=O)[O-];4.6999998;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);OPA
+1c87;C1OCCc(c12)c(C(=O)[O-])c(s2)NC(=O)C(=O)[O-];4.1999998;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);OPA
+1c83;[nH]1ccc(c12)cc(C(=O)[O-])c(c2)NC(=O)C(=O)[O-];4.8499999;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);OAI
+3rm4;Brc1ccc(cc1)OCC[NH+]2CCN(CC2)c3n[nH]c(n3)N;5.77;Acidic mammalian chitinase;3RM
+1ph0;O=C([O-])c1ccccc1N(C(=O)C(=O)[O-])c2ccc(cc2)C[C@H](NC(=O)[O-])C(=O)NCCCCOc3cccc(O)c3C(=O)OC;6.9200001;Protein-tyrosine phosphatase, non-receptor type 1;418
+3rm8;c1cccc(c12)[nH]c(C)c2C[NH+]3CCN(CC3)c4ncccc4;6.1500001;Acidic mammalian chitinase;RM8
+3rm9;Clc1ccc(cc1)N2CC[N+](CC2)=C(N)N;4.77;Acidic mammalian chitinase;613
+3rme;CCNC(=O)c1cccnc1N2CC[NH+](C)CC2;4.6599998;Acidic mammalian chitinase;RME
+4g2j;C1CCCC1n(nc2)c(c23)nc([nH]c3=O)[C@@H](C)[N@H+]4C[C@H](C4)Oc5ccccc5;7.96;High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A;0WF
+5syn;COc1ccc(cc1)N2CCN(CC2)C(=O)c(c3)sc(c34)c5c(S(=O)(=O)C4)cccc5;6.6199999;Acyl-protein thioesterase 2;71T
+4g2w;C[NH+]1CCN(CC1)S(=O)(=O)c2cc(c(cc2)OCCC)-c3nc(CC)c(c(n3)O)CC;8.8000002;cGMP-specific 3',5'-cyclic phosphodiesterase;NI0
+3of8;c1ccccc1COC(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](C(=O)CO)Cc3ccc(cc3)OC(C)(C)C;9.2200003;Cathepsin L1;I0Y
+1ecv;O=C([O-])c1cc(I)ccc1NC(=O)C(=O)[O-];4.8499999;PROTEIN-TYROSINE PHOSPHATASE 1B;878
+4uff;c1ccccc1CS(=O)(=O)N[C@H](Cc2ccccc2)C(=O)N(C)CC(=O)NCc3ccc(C(=[NH2+])N)cc3;7.96;THROMBIN HEAVY CHAIN;6V2
+4ufd;c1ccccc1CS(=O)(=O)N[C@H](Cc2ccccc2)C(=O)N3[C@@H](CCC3)C(=O)NCc4ccc(C(=[NH2+])N)cc4;9.6800003;THROMBIN HEAVY CHAIN;S49
+1zs0;c1cc(OC)ccc1-c2ccc(cc2)S(=O)(=O)N[C@H](C(C)C)P([O-])(O)O;6.1500001;Neutrophil collagenase;EIN
+1ya4;c1ccccc1C(/CC)=C(c2ccccc2)\c(cc3)ccc3OCC[NH+](C)C;4.8200002;CES1 protein;CTX
+2jnp;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)CC(=O)N=O;6.8899999;Matrix metalloproteinase-3;NGH
+3bkl;c1cccc(c12)[nH]cc2C[C@@H](C([O-])[O-])NC(=O)CCC(O)(O)[C@H](Cc3ccccc3)NC(=O)c4ccccc4;6.1681299;Angiotensin-converting enzyme, somatic isoform;KAW
+1onz;c1cc(O)cc(c12)c(ccc2)N(C(=O)C(=O)[O-])c3ccccc3C(=O)[O-];5.0999999;Protein-tyrosine phosphatase, non-receptor type 1;968
+1ony;O=C([O-])c1ccccc1N(C(=O)C(=O)[O-])c2ccc(cc2CCC(=O)N)C[C@H](NS(=O)(=O)C)C(=O)NCCCCC;6.77;Protein-tyrosine phosphatase, non-receptor type 1;588
+3le9;COc(c1)ccc(c12)[nH]n(c2=O)C[C@@]3(C(=O)NC(=O)N3)c4ccccc4;8.2200003;Disintegrin and metalloproteinase domain-containing protein 17;727
+3ws9;c1ccccc1-n(c(c23)ccc(c2)C)c(n3)CCc(nc4)n(c45)nccc5;7.04;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;X4D
+3ws8;c1ccccc1-n(c(c23)ccc(c2)C)c(n3)CCc(nc4C)n(c45)cccn5;6.6799998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;X4C
+3lea;COc(c1)ccc(c12)CN(C2=O)C[C@@]3(C(=O)NC(=O)N3)c4ccc(cc4)-c5cccnc5;9.1000004;Disintegrin and metalloproteinase domain-containing protein 17;Z93
+5axp;c1ccccc1-n2nccc2-c3c(=O)c(OC)cn(n3)-c(c(F)c4)ccc4N(C5=O)CCO5;9.0299997;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;4LK
+3hyg;c1cccc(c12)C[C@@H](O)[C@H]2NC(=O)[C@@H](CC(=O)NO)Cc(c3)cccc3O;7.0300002;A disintegrin and metalloproteinase with thrombospondin motifs 5;099
+3hy9;Oc(c1)cccc1C[C@H]([C@@H](C(=O)NO)[NH2+]CC2CC2)C(=O)N[C@H]([C@@H](C3)O)c(c34)cccc4;7.77;Catalytic Domain of ADAMTS-5;098
+3vsx;Clc1ccccc1N(CC2(C)C)C(=O)C[N@H+]2C[C@H]([NH3+])[C@@H](O)C[C@@H](C(C)C)C(=O)NCC(C)(C)C(=O)N;8.8500004;Renin;R32
+4ifh;c1cccc(c12)ccc(c2)C[C@H](CC(=O)NO)n3cc(nn3)CNC(=O)c4ccc(C)cc4;5.21;Insulin-degrading enzyme;1EF
+3vsw;COCCCOc(cccc1)c1N(CC2)C(=O)C[N@H+]2C[C@H]([NH3+])[C@@H](O)C[C@@H](C(C)C)C(=O)NCC(C)(C)C(=O)N;6.8899999;Renin;R31
+3hy7;CNC(=O)[C@H](C(C)(C)C)NC(=O)[C@H](CC(C)C)[C@H](O)C(=O)NO;6.9699998;A disintegrin and metalloproteinase with thrombospondin motifs 5;097
+4k5z;O=C1NCc(c12)ccc(Cl)c2;3;Chymase;1P7
+4uy1;Cc1cc(c(s1)C)-c2cc(n[nH]2)C(=O)N;4.6999998;GROUP 10 SECRETORY PHOSPHOLIPASE A2;TJM
+3qce;c1csc(C(=O)[O-])c1SCc2cc(Cl)c(Cl)cc2;5.5999999;Receptor-type tyrosine-protein phosphatase gamma;NXY
+3qcf;c1csc(C(=O)[O-])c1SCc2cc(Cl)c(Cl)cc2;5.5999999;Receptor-type tyrosine-protein phosphatase gamma;NXY
+3qcl;OCCC#Cc1ccc(C(=O)[O-])c(c1)SCc2ccc(Cl)c(Cl)c2;5.4000001;Receptor-type tyrosine-protein phosphatase gamma;NXV
+3qci;c1c(N)cccc1S(=O)(=O)NC(=O)c2sccc2SCc3ccc(Cl)c(Cl)c3;5.4200001;Receptor-type tyrosine-protein phosphatase gamma;NX3
+3qch;CS(=O)(=O)NC(=O)c1sccc1SCc2cc(Cl)c(Cl)cc2;5.48;Receptor-type tyrosine-protein phosphatase gamma;NX2
+3qck;O=C([O-])c1ccccc1SCc2cc(Cl)c(Cl)cc2;5.2399998;Receptor-type tyrosine-protein phosphatase gamma;NX5
+3qcj;c1c(Cl)c(Cl)ccc1CSc2c(scc2)C(=O)NS(=O)(=O)c3ccc(c(c3)C(=O)[O-])OC;6.3000002;Receptor-type tyrosine-protein phosphatase gamma;NX4
+4p45;O=C([O-])CC[C@@H](C([O-])[O-])NP([O-])(O)OC[C@@H](C(=O)[O-])NC(=O)[C@H](C(C)C)NC(=O)c1ccc(F)cc1;7.8000002;Glutamate carboxypeptidase 2;2F9
+4nxo;c1cc(F)ccc1C(=O)NCc(nn2)cn2[C@@H](CC(=O)NO)Cc(c3)ccc(c34)cccc4;7.2199998;Insulin-degrading enzyme;2H7
+1wdy;Nc1ncnc(c12)n(cn2)[C@H](O[C@@H]3COP([O-])(O)O)[C@@H]([C@@H]3O)OP([O-])(O)OC[C@H]4O[C@@H](n(cn5)c(c56)ncnc6N)[C@@H]([C@@H]4O)O[P@@H](=O)OC[C@H]7O[C@H]([C@H](O)[C@@H]7O)n(cn8)c(c89)ncnc9N;7.8899999;2-5A-dependent ribonuclease;25A
+2b07;O=C([O-])COc1c(C(=O)[O-])sc(c12)c3c(s2)cc(cc3)NC4CCN(CC4)S(=O)(=O)Cc5ccccc5;6.4299998;Tyrosine-protein phosphatase, non-receptor type 1;598
+1hi4;[O-]P([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP([O-])(O)O)n(cn2)c(c23)ncnc3N;4.4899998;EOSINOPHIL-DERIVED NEUROTOXIN;A3P
+1hi5;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;4.04;EOSINOPHIL-DERIVED NEUROTOXIN;ADP
+4nxs;Fc1ccc(cc1)NC(=S)N2C[C@H](O)[C@@H](O)[C@@H](O)[C@H]2CO;7.3699999;Alpha-galactosidase A;2OZ
+1hi3;[O-]P([O-])(O)OC[C@H]1O[C@H]([C@@H]([C@@H]1O)OP([O-])(O)O)n(cn2)c(c23)ncnc3N;4.1900001;EOSINOPHIL-DERIVED NEUROTOXIN;A2P
+3dpe;[H]/N=C1\C(=O)C(=O)[C@@H]1[N@@H+](C2)CCc(c23)ccc(c3)CNC(=O)c(n4)[nH]c(=O)c(c45)c6c(s5)CS(=O)(=O)CC6;7.2441254;Neutrophil collagenase;AXB
+3dpf;[H]/N=C1\C(=O)C(=O)[C@H]1[N@@H+](C2)CCc(c23)ccc(c3)CNC(=O)c(n4)[nH]c(=O)c(c45)c6c(s5)CS(=O)(=O)CC6;7.2441254;Neutrophil collagenase;AXB
+3pdc;c1cc(Cl)cc(c12)nc(o2)NC(=O)CC3CCCC3;7.4899998;Epoxide hydrolase 2;ZYI
+3bjc;CCCc1nn(C)c(c12)c(=O)[nH]c(n2)-c3cc(S(=O)(=O)N)sc3OCC;6.9586072;cGMP-specific 3',5'-cyclic phosphodiesterase;WAN
+1vcu;O=C([O-])[C@H]1C[C@H](O)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;3.8499999;Sialidase 2;DAN
+3c0z;ONC(=O)CCCC;3.9469216;Histone deacetylase 7a;SHH
+1d8m;c1cc(OC)ccc1S(=O)(=O)N2[C@@H](C(=O)NO)CC(=O)N(C2)Cc3ccccc3;8.5100002;STROMELYSIN-1 PRECURSOR;BBH
+1dmt;O1[C@@H](C)[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1OP([O-])(O)N[C@@H](CC(C)C)C(=O)N[C@H](C(=O)[O-])Cc2c[nH]c(c23)cccc3;8.6999998;NEUTRAL ENDOPEPTIDASE;RDF
+1b2i;O=C([O-])[C@@H]1CC[C@H](CC1)C[NH3+];5.5100002;PROTEIN (PLASMINOGEN);AMH
+4kod;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;5.3600001;Transitional endoplasmic reticulum ATPase;ADP
+3uuo;COc(c1)cc(C)c(c12)nc3c(c(C)n[nH]3)c2N4CC[NH2+]CC4;7.96;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;0CV
+4ko8;SP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)ncnc3N;7.1500001;Transitional endoplasmic reticulum ATPase;AGS
+5i3m;O=C(C)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]1NC(=S)NCCN([C@H](C(=O)[O-])C(C)C)S(=O)(=O)c2ccc(cc2)-c3ccccc3;7.4000001;Macrophage metalloelastase;67F
+3iww;C=CC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCCCNC(=O)c1ccc(I)cc1;7.9586072;Glutamate carboxypeptidase 2;YZE
+4i9z;C[N@@H+]1CC[N@H+](CC1)CC(=O)c2cc(c(cc2)OCCC)-c3nc(C(C)C)c(Br)c(=O)[nH]3;7.7399998;cGMP-specific 3',5'-cyclic phosphodiesterase;5BA
+1bim;c1ccccc1[C@H](C)N(C)C(=O)C[C@@H](Cc2csc(n2)N)C(=O)N[C@H]([C@@H](O)[C@H](C3)C(=O)N(C)C3(C)C)CC4CCCCC4;8.9200001;Renin;0QB
+4a9c;OP([O-])(O)Oc1cc(OP([O-])(O)O)cc(OP([O-])(O)O)c1-c2cc(OP([O-])([O-])O)cc(c2)OP([O-])([O-])O;4.6100001;PHOSPHATIDYLINOSITOL-3,4,5-TRISPHOSPHATE 5-PHOSPHATASE 2;B5F
+1bzs;c1cccc(c12)C[C@H](C(=O)[O-])N(C2)S(=O)(=O)c3ccc(cc3)-c4ccccc4;8;NEUTROPHIL COLLAGENASE;BSI
+1bzj;OP([O-])(O)C(F)(F)c(c1)ccc(c12)cc(C(=O)[O-])cc2;4.6599998;PROTEIN (PROTEIN-TYROSINE-PHOSPHATASE);PIC
+4ido;OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;4.9299998;Atlastin-1;GDP
+4idn;OP([O-])(O)NP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n(cn2)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.2399998;Atlastin-1;GNP
+1bzc;OP([O-])(O)C(F)(F)c(c1)ccc(c12)cc(cc2)C(=O)N[C@H](C(=O)N)CCC([O-])=O;4.9200001;PROTEIN (PROTEIN-TYROSINE-PHOSPHATASE);TPI
+3dng;N1C(=O)COc(c12)ccc(c2)CNC(=O)c([nH]c3=O)nc4sc(c5c34)CCC[C@H]5CC(=O)N;8.1307678;Neutrophil collagenase;AXA
+1xlz;O=C(N)O[NH2+][C@H](C)c1ccc(OC)c(c1)OC2CCCC2;6.02;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;FIL
+1xlx;O=C([O-])[C@H](CC1)CC[C@]1(C#N)c2ccc(OC)c(c2)OC3CCCC3;7.5999999;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;CIO
+3d67;O=C([O-])C[C@@H](C(=O)[O-])SCC[NH+]=C(N)N;4.9586072;Carboxypeptidase B2;GEM
+4wn1;c1cccc(c12)nc(cc2)-c3ccc(cc3)OCc4nn(C)cc4-c5ccc(=O)n(c5)C;8.29;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;3SJ
+3bl7;Fc1ccccc1C[N@@H+]2CC[C@@H](CC2)COc3cccc(c34)nc(N)nc4N;8.3979397;Scavenger mRNA-decapping enzyme DcpS;DD1
+3bl9;Clc1cccc(c1Cl)C[N@H+]2CC[C@@H](CC2)COc(ccc3)c(c34)c(N)nc(n4)N;7.1804562;Scavenger mRNA-decapping enzyme DcpS;DD2
+5alf;CCCN(CCC)S(=O)(=O)c(cc1)cc(c12)nc([nH]2)-c3ccccc3;6.6900001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;OE1
+1u9w;C1CCCC1n(cn2)c(c23)nc(\C=N\[H])nc3Nc4ccccc4OC;8.46;Cathepsin K;IHI
+1u9v;C[N@@H+]1CC[N@H+](CC1)CCn2cnc(c23)c(nc(n3)\C=N\[H])NC4CCCCC4;8.2200003;Cathepsin K;IHE
+1u9x;C1CCCC1n2cnc(c23)c(nc(n3)\C=N\[H])Nc4ccccc4OCCC[N@H+]5CC[N@H+](C)CC5;8.1499996;Cathepsin K;IHJ
+3bla;c1ccc(Cl)cc1[C@H](C)Oc2cccc(c23)nc(N)nc3N;8.6989698;Scavenger mRNA-decapping enzyme DcpS;DD3
+1nqc;C1COCCN1C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](C=O)CSCc3ccccc3;7.3000002;Cathepsin S;C4P
+2jjk;c1ccc(Cl)cc1S(=O)(=O)NC(=O)NCCCCCCCNC(=O)NS(=O)(=O)c2cc(Cl)ccc2;8.0457573;FRUCTOSE-1,6-BISPHOSPHATASE 1;R15
+4l19;C1CCc(c12)nc([nH]c2=O)SCc3ccc(C)cc3;6.0999999;Collagenase 3;1UA
+1b0f;C1COCCN1C(=O)c(cc2)ccc2C(=O)N[C@@H](C(C)C)C(=O)N3CCC[C@H]3C(=O)N[C@@H](C(C)C)[C@H](O)C(F)(F)C(F)(F)F;7.6999998;PROTEIN (ELASTASE);SEI
+4heu;OCC1CCN(CC1)c2ncccc2Oc3ccc(cc3)Nc([nH]4)nc(c45)cccc5;10.01;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;15J
+3v7t;CCCOc1sc(c(c1Br)C)C(=O)N([C@@H]23)[C@@H](CC3)C[C@@H](C2)c4cc(C[NH3+])ccc4F;7.21;TPSB2 protein;0GX
+2hpa;O=C([O-])[C@H](O)[C@@H](O)C(=O)NCCC;4.5999999;PROTEIN (ACID PHOSPHATASE);PT3
+3gw5;c1c(Cl)cccc1[C@](O)(CCCCOC)[C@H](CCC2)CN2C(=O)N[C@H](C[NH2+]C)CC3CCCCC3;9.3279018;Renin;72X
+5i12;c1ccccc1-c(cc2)ccc2S(=O)(=O)N([C@@H](C(=O)[O-])C(C)C)CCNC(=S)N[C@@H]([C@H](NC(=O)C)[C@H]3OC(=O)C)O[C@@H]([C@H]3OC(=O)C)COC(=O)C;5.9200001;Matrix metalloproteinase-9,Matrix metalloproteinase-9;H27
+3u8h;c1ccccc1CCCCCCC(=O)N[C@@H](CCC(=O)[O-])Cc2ccc(cc2)OCc3ccccc3;6.4899998;Phospholipase A2, membrane associated;BHP
+4x8g;c1ccnc(c12)n(CC)c(c2)-c(n3)n(C)c(c34)c(OC)cc(c4)C(=O)N(C5)CCC[C@H]5[NH3+];6;Protein-arginine deiminase type-4;3Z0
+4zg9;O=C([O-])CCN(C1=O)C(=O)N([C@H]12)Cc3c(C2)c4c(cccc4)n3Cc5ccc(F)cc5;7.5900002;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;4O2
+4zg7;c1cccc(c1C23CC3)N(C2)C(=O)Cn4c(C)c(c(c45)ccc(Cl)c5F)Sc6cccc(c6F)C(=O)[O-];8.6999998;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;4O0
+4zg6;O=C([O-])c1ccc(cc1)C(\C#N)=C\c2cn(c(c23)cc(Cl)cc3)Cc4ccc(F)cc4;6.3299999;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;4NY
+4ly1;s1cccc1-c(ccc2N)cc2NC(=O)c(cc3)ccc3NC(=O)C;7.2600002;Histone deacetylase 2;20Y
+2d1o;NC(N)=[NH+]Cc1ccccc1CCCCCCCCCC(=O)N[C@@H](C(=O)NO)CCCC[NH3+];7.6999998;Stromelysin-1;FA4
+2d1n;NC(N)=[NH+]Cc1ccccc1CCCCCCCCCC(=O)N[C@@H](C(=O)NO)CCCC[NH3+];8.1499996;Collagenase 3;FA4
+4zga;O=C1NC(=O)N([C@H]12)Cc3c(C2)c4c(cccc4)n3Cc5ccc(F)cc5;7.6999998;Ectonucleotide pyrophosphatase/phosphodiesterase family member 2;4O3
+4z2b;N#Cc(c1)ccc(c12)c(c[nH]2)-c(n3)n(C)c(c34)cc(cc4)C(=O)N5CCO[C@H]([C@@H]5CO)c6ccccc6;7.7600002;2',5'-phosphodiesterase 12;4LC
+2vvc;O=c1ccccn1-c(cc2F)ccc2NC(=O)C[N@@H+]3C[C@H](OC)[C@H](C3)NC(=O)c4ccc(s4)Cl;8.5228786;ACTIVATED FACTOR XA HEAVY CHAIN;LZF
+4tyl;Cc(c1)c(N)cc(c12)n(C)c(=O)n2C;3.22;ATPase family AAA domain-containing protein 2;39O
+2qbp;O=C([O-])COc1c(Br)c(sc1C(=O)[O-])-c2cc(ccc2)NC3CCN(CC3)S(=O)(=O)Cc4ccccc4;8.3979397;Tyrosine-protein phosphatase non-receptor type 1;527
+2qbs;O=C([O-])COc1c(Br)c(sc1C(=O)[O-])-c2cc(ccc2)NC3CCCCC3;6.6777811;Tyrosine-protein phosphatase non-receptor type 1;024
+1zxc;CC#CCOc1ccc(cc1)S(=O)(=O)N([C@H]2C(=O)NO)CCSC2(C)C;8.1000004;ADAM 17;IH6
+1xn0;O=C1C[C@H](CN1)c2cc(c(cc2)OC)OC3CCCC3;6.2399998;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;ROL
+1rm8;s1cccc1SC[C@H](C(=O)NO)[C@@H](CC(C)C)C(=O)N[C@H](C(=O)NC)Cc2ccccc2;9;Matrix metalloproteinase-16;BAT
+3ctr;OP([O-])(O)OP([O-])(O)OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)[n+](cn2C)c(c23)[nH]c(=[NH2+])[nH]c3=O;5.1586399;Poly(A)-specific ribonuclease PARN;MGP
+1ayu;c1ccccc1COC(=O)N[C@@H](CC(C)C)C(=O)N[NH2+]C(O)[NH2+]NC(=O)[C@H](CC(C)C)NC(=O)OCc2ccccc2;9.1499996;CATHEPSIN K;INA
+3ctt;O[C@@H]1[C@@H]([OH-])C[N@H+]([C@H]12)[C@H](CO)[C@@H](O)[C@@H]2O;6.3467875;Maltase-glucoamylase;3CU
+1ayv;c1ccccc1COC(=O)N[C@@H](CC(C)C)c2scc(n2)[C@H](O)[NH2+]NC(=O)[C@H](CC(C)C)NC(=O)OCc3ccccc3;8;CATHEPSIN K;IN6
+5i2r;FC(F)(F)Oc1cc(ccc1)-n(ccc2=O)nc2-c3n(ncc3)-c4ccccc4;7.7199998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;67A
+4g8l;Nc1ncnc(c12)[n+](c[nH]2)[C@H](O[C@@H]3COP([O-])(O)O)[C@@H]([C@@H]3O)OP([O-])(O)OC[C@H]4O[C@@H]([n+](c[nH]5)c(c56)N=CN[C@@H]6[NH3+])[C@@H]([C@@H]4O)OP(=O)OC[C@H]7O[C@H]([C@H](O)[C@@H]7O)n(cn8)c(c89)ncnc9N;8;2-5A-dependent ribonuclease;25A
+3f1a;ONC(=O)CNS(=O)(=O)c1ccccc1;7.2139592;Macrophage metalloelastase;HS7
+5jyp;c1ccccc1CC(=O)Nc2nnc(s2)[C@H]3CCC[C@@H](C3)c4nnc(s4)NC(=O)Cc5ccccc5;7;Glutaminase kidney isoform, mitochondrial;ZBS
+3f15;OC[C@@H](O)CN(CC(=O)NO)S(=O)(=O)c(cc1)ccc1OC;8.1034737;Macrophage metalloelastase;HS1
+3f16;ONC(=O)[C@@H](CO)NS(=O)(=O)c1ccc(cc1)OC;8.2284126;Macrophage metalloelastase;HS3
+3f18;ONC(=O)CN(CCO)S(=O)(=O)c1ccc(F)cc1;7.4034028;Macrophage metalloelastase;HS5
+3f19;ONC(=O)CNS(=O)(=O)c1ccc(F)cc1;7.186419;Macrophage metalloelastase;HS6
+2f0z;O=C([O-])[C@@H]1C[C@H](NC(=[NH2+])N)[C@@H](NC(=O)C)[C@@H](O1)[C@H](O)[C@H](O)CO;4.77;Sialidase 2;ZMR
+1g49;O=S(=O)(C)N[C@@H]1CN([C@H](C1)C(=O)NO)S(=O)(=O)c2ccc(cc2)OCCCC;7.8000002;MATRIX METALLOPROTEINASE 3;111
+2bdl;c1ccccc1[C@@H](C)NC(=O)[C@@H](O)[C@H](CCCC)NC(=O)O[C@@H](C2(C)C)CN(C2)C(=O)Nc3c(C)noc3C;7.8200002;Cathepsin K;4PR
+2hvx;c1c(Cl)ccc(c12)scc2[C@H](P([O-])(O)O)C(=O)Nc(c3)ccc(c34)cccc4;7.54;Chymase;DRX
+3kx1;C1CCCCCC1c2nc(/C=N/[H])nc(c2)CCC[NH+]3CCCCC3;7;Cathepsin K;KX1
+2fxr;C1[NH2+]CC[C@H]1CC[C@H](NC(=O)OCC=C)[C@H](O)c2noc(n2)Cc3ccc(cc3)C(=O)NC(C4)Cc(c45)cccc5;7.5999999;Tryptase beta-2;C3A
+3o0u;FC(F)(F)c1cc(C(=O)N(C)C)cc(c1)-c2nc(/C=N\[H])nc(c2)CCC;7.9200001;Cathepsin K;O47
+3o0j;N#Cc(c1)c(C#N)ccc1Oc(cc2)cc(c23)COB3O;7.1900001;cAMP-specific 3',5'-cyclic phosphodiesterase 4B;3OJ
+5k5e;C1CCO[C@H]1COC(=O)C(=C(C)N2)[C@@H](C(=C23)C(=O)CCC3)c(c4)ccc(c45)n(CC)c6c5cccc6;6.3499999;Cholinesterase;6QS
+2wcg;C1NC(=[NH2+])N([C@H]12)[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O;6.3767509;GLUCOSYLCERAMIDASE;MT5
+4mse;Cc(n1)sc(c12)ccc(c2)OCc(cc3)nc(c34)cccc4;6.1599998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2ZU
+2v12;COCCCOc1ccccc1C(=O)NC[C@H](C(C)C)C[C@H]([NH3+])[C@@H](O)C[C@@H](C)C(=O)NCCCC;9.0500002;RENIN;C39
+2v10;COCCCOc1cc(ccc1OC)C[C@H](C(C)C)C[C@H]([NH3+])[C@@H](O)C[C@@H](C)C(=O)N/C=C/CC;9.3999996;RENIN;C61
+5ely;O=C([O-])c1ccc(cc1)C[C@H](C(=O)[O-])CCC(=O)NO;7.3600001;Glutamate carboxypeptidase 2;5PU
+5lz8;CC(C)(C)[C@H]1CN(C(=O)C1)CCOc2ccc(F)c(C#N)c2;6.0100002;Platelet-activating factor acetylhydrolase;7BP
+5lz5;c1ccccc1[C@@]2(C)CN(C(=O)C2)CCOc3cc(C#N)c(F)cc3;6.3499999;Platelet-activating factor acetylhydrolase;7K4
+5fp0;C1CCCC1NS(=O)(=O)c(ccc2)c(c23)nc([nH]3)-c4ccc(C(F)(F)F)cc4;7.77;BIFUNCTIONAL EPOXIDE HYDROLASE 2;SZC
+3hc8;c1nc(OC)ccc1-c(cc2)nc(c23)n(CCOCCC)c(=O)c(\[nH]3)=N\CC[NH+]4CCOCC4;8.5376024;cGMP-specific 3',5'-cyclic phosphodiesterase,cAMP-specific 3',5'-cyclic phosphodiesterase 4A;PD4
+4p4d;c1ccccc1C(=O)NCCOP([O-])(O)N[C@H](C([O-])[O-])CCC([O-])[O-];5.7399998;Glutamate carboxypeptidase 2;2GR
+4p4e;c1ccccc1CCCCOP([O-])(O)N[C@H](C([O-])[O-])CCC([O-])[O-];6.7399998;Glutamate carboxypeptidase 2;2G4
+4p4f;[O-]C([O-])CC[C@@H](C(=O)[O-])NP([O-])(O)OCc(cc1)ccc1-c2ccccc2;6.77;Glutamate carboxypeptidase 2;2GB
+4p4b;O=C([O-])[C@@H]([NH3+])CCC(=O)N[C@H](C(=O)[O-])COP([O-])(O)N[C@H](C(=O)[O-])CCC(=O)[O-];7.8499999;Glutamate carboxypeptidase 2;2G2
+4p4i;c1ccccc1C(=O)N[C@H](C(=O)[O-])COP([O-])(O)N[C@H](C([O-])[O-])CCC([O-])[O-];7.46;Glutamate carboxypeptidase 2;2G5
+4p4j;c1ccccc1C(=O)N[C@@H](C(=O)[O-])COP([O-])(O)N[C@H](C([O-])[O-])CCC([O-])[O-];6.1500001;Glutamate carboxypeptidase 2;2H9
+3bc3;C1CCC=C[C@H]1c(cc2)ccc2CC(=O)N[C@@H](CSCc3ccccc3)C(=O)N[C@H](C/C=C/[NH+]=C(N)N)C(=O)N[C@@H](Cc4ccc(O)cc4)C(=O)NCCc5ccccc5;6.8096681;Cathepsin L heavy and light chains;OPT
+2chm;CC[N@H+](C1)C[C@@H]1n(c2CC)nc(c23)c(=O)[nH]c(n3)-c4c(ncc(c4)C(=O)C)OCCCC;8.2600002;CGMP-SPECIFIC 3', 5'-CYCLIC PHOSPHODIESTERASE, CAMP-SPECIFIC 3', 5'-CYCLIC PHOSPHODIESTERASE 4B;3P4
+4p44;O=C([O-])CC[C@@H](C([O-])[O-])NP([O-])(O)OC[C@@H](C(=O)[O-])NC(=O)[C@H]([C@H](C)CC)NC(=O)c1ccc(F)cc1;7.8000002;Glutamate carboxypeptidase 2;2F7
+5dv2;OP([O-])(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2c(=O)[nH]c(=[NH2+])cc2;2.9000001;CCR4-NOT transcription complex subunit 6-like;C5P
+5dv4;[NH3+]C[C@@H](O1)[C@@H](O)[C@H](O)[C@@H]([NH3+])[C@@H]1O[C@@H]([C@@H]([NH3+])C2)[C@@H]([C@@H](O)[C@@H]2[NH3+])O[C@H]3[C@H](O)[C@@H]([C@H](O3)CO)O[C@H]([C@H]([NH3+])[C@@H](O)[C@@H]4O)O[C@H]4C[NH3+];2.47;CCR4-NOT transcription complex subunit 6-like;NMY
+1xp0;CC[NH+](CC1)CCN1S(=O)(=O)c(ccc2OCC)cc2-c([nH]c3=O)n[n+](c34)c([nH]c4C)CCC;9;cGMP-specific 3',5'-cyclic phosphodiesterase;VDN
+3tge;C1COCC[NH+]1CCNc(n2)c(=O)n(CCOCCC)c(c23)cc(nc3)-c4cnc(OC)cc4;10.15;cGMP-specific 3',5'-cyclic phosphodiesterase;TGE
+4ie3;[OH2][B]([OH2])(=[OH])[CH3]CCCC(C(=O)[O-])([NH3+])CC[NH+]1CCC(O)CC1;6.0100002;Arginase-2, mitochondrial;1EE
+1yt7;O=C1OCCN1NC(=O)C(=O)[C@H](CCCC)NC(=O)O[C@@H](C(C)(C)C)Cc2nnc(o2)-c3ccc(C(F)(F)F)cc3;9.8900003;Cathepsin K;3FC
+4gr8;c1cc(Br)ccc1P([O-])(O)C[C@H](C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N)Cc(c2)onc2-c3ccccc3;7.8299999;Macrophage metalloelastase;R4C
+4gr0;c1cc(Br)ccc1P([O-])(O)C[C@H](C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)N)Cc(c2)onc2-c3ccc(cc3)-c(cc4Cl)ccc4;9.5500002;Macrophage metalloelastase;R4B
+4gr3;O=C([O-])CC[C@@H](C(=O)N)NC(=O)[C@H](CCC(=O)[O-])NC(=O)[C@@H](CP([O-])(O)c1ccc(Br)cc1)Cc(c2)onc2-c3ccccc3;7.8099999;Macrophage metalloelastase;R45
+1x9d;O[C@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1S[C@@H]2[C@@H](OC)O[C@H](CO)[C@@H](O)[C@@H]2O;3.96;Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase;SMD
+3kbz;OP([O-])(O)COc(ccc1)c(c12)c3c(C2)sc(n3)N;6.9099998;Fructose-1,6-bisphosphatase 1;2T4
+2f6z;OS([O-])(O)Nc(c1)ccc(c12)C[C@@H](C(=O)NC)N(C2)C(=O)CCc3cccc(c3)NS([O-])([O-])O;5.3200002;Tyrosine-protein phosphatase, non-receptor type 1;UN5
+4nbk;n1cccc(C)c1NCc2ccccc2O;3.8699999;Caspase-6;2J5
+4nbl;Oc1cc(F)ccc1CNc2ncccc2-c3ncccn3;6.3299999;Caspase-6;2J6
+4nbn;Oc1ccccc1CNc2cc(ncn2)NCc3ccccc3O;4.3600001;Caspase-6;2J7
+2f6y;OS([O-])(O)Nc(c1)ccc(c12)C[C@H](C(=O)NC)N(C2)C(=O)OC(C)(C)C;3.8699999;Tyrosine-protein phosphatase, non-receptor type 1;ENT
+4rn0;C[C@@]12C(=O)N[C@@H](C(C)C)C(=O)N[C@H](\C=C\CCS)CC(=O)NCc3nc(cs3)C(=N2)SC1;6.5900002;Histone deacetylase 8;L6G
+4rn1;C[C@@]12C(=O)N[C@@H](C(C)C)C(=O)N[C@H](\C=C\CCS)CC(=O)NCc3cccc(n3)C(=N2)SC1;5;Histone deacetylase 8;L8G
+4rn2;C[C@@]12C(=O)N[C@@H](C(C)C)C(=O)N[C@H](\C=C\CCS)CC(=O)NCc3cc(ccn3)C(=N2)SC1;5.8200002;Histone deacetylase 8;L7G
+4rn6;C1[C@H](C)CNc(c12)c(ccc2)S(=O)(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N3[C@@H](C(=O)[O-])C[C@H](C)CC3;5.0999999;Thrombin heavy chain;15U
+1gfy;C1SCCc(c12)c(C(=O)[O-])c(s2)NC(=O)C(=O)[O-];5.0799999;PROTEIN (PROTEIN-TYROSINE PHOSPHATASE 1B);COL
+2r9m;C1COCCN1C(=O)N[C@@H](CC2CCCCC2)C(=O)N[C@@]3(/C=N/[H])CC[N@@H+](C)CC3;8.8199997;Cathepsin S;Y11
+4hai;C1CCCCCC1NC(=O)C2CCN(CC2)S(=O)(=O)c3c(C)cc(C)cc3C;8.1000004;Bifunctional epoxide hydrolase 2;I23
+1gfw;CN1C(=O)[C@@H](O)c(c12)cc(cc2)S(=O)(=O)N3[C@@H](CCC3)COc4ccccc4;7.8200002;CASPASE-3 (APOPAIN, P20);MSI
+1d8f;c1cc(OC)ccc1S(=O)(=O)N2[C@@H](C(=O)NO)CN(CC2)C(=O)OCc3ccccc3;7.7399998;STROMELYSIN-1 PRECURSOR;SPI
+5ans;CCOCc(n1)n(CC(O)(C)C)c(c12)c3c(nc2N)cccc3;5.6900001;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;RX8
+5ant;COCCOc(n1)nc(NC)c(c12)[nH]c(=O)n2Cc3ccccc3;6.3600001;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;RJE
+5anu;O=c([nH]1)n(c2c13)Cc4cccc(c4)OCCOCCOc(n2)nc3NC;9.3999996;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;58T
+5anv;Clc1ccc(c(F)c1)Nc2c(C(=O)NC)cnc(c23)cc(OC)c(c3)OC;9.3000002;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;RGJ
+5anw;CN(C)C(=O)Cc1ccc(cc1)-c(nc(n2)N)c(c23)cccc3;8.5200005;7,8-DIHYDRO-8-OXOGUANINE TRIPHOSPHATASE;9CQ
+4hxq;[OH]=[B]([OH2])([OH2])[CH3]CCCC(C(=O)[O-])([NH2+]C)CC[NH+]1CCCCC1;7.2199998;Arginase-1;X8A
+3max;c1ccccc1-c(ccc2N)cc2NC(=O)c3ccccc3;6.0500002;Histone deacetylase 2;LLX
+3u4h;n12[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP([O-])([O-])OP(O)(O)OC[C@@H]4[C@@H](O)[C@@H](O)[C@@H](O4)[n+]5c(nc1)c(c2O)nc5N;4.25;ADP-ribosyl cyclase 1;C8R
+2c6n;C1C=C[C@@H](C(=O)[O-])N1C(=O)[C@H](CCCC[NH3+])[NH2+][C@H](C(=O)[O-])CCc2ccccc2;6.8800001;ANGIOTENSIN-CONVERTING ENZYME, SOMATIC ISOFORM;LPR
+2c6g;O=C([O-])[C@@H]([NH3+])CCC([O-])[O-];3.3699999;GLUTAMATE CARBOXYPEPTIDASE II;GLU
+2c6c;O=C([O-])CC[C@@H](C(=O)[O-])CP([O-])(O)Cc1ccc(I)cc1;7.52;GLUTAMATE CARBOXYPEPTIDASE II;24I
+1l8g;O=C([O-])C(=O)Nc(s1)c(C(=O)[O-])c(c12)CCO[C@H]2COC3=NS(=O)(=O)c(c34)cccc4;6.2199998;PROTEIN-TYROSINE PHOSPHATASE, NON-RECEPTOR TYPE 1;DBD
+1hrn;c1ccccc1C[C@H](O)[C@@H](O)C[C@@H](CC2CC2)C(=O)N[C@H]([C@@H](O)[C@@H](O)CC(C)C)CC3CCCCC3;8.0500002;RENIN;03D
+1t32;c1cccc(c12)ccc(c2)C(=O)N3CCC(CC3)N(C)C(=O)c(c4)c(cc(c45)cccc5)C(=O)[C@H](P([O-])(O)O)c6cccc(c67)cccc7;7.4200001;Cathepsin G;OHH
+1t31;c1cccc(c12)ccc(c2)C(=O)N3CCC(CC3)N(C)C(=O)c(c4)c(cc(c45)cccc5)C(=O)[C@H](P([O-])(O)O)c6cccc(c67)cccc7;8.6400003;Chymase;OHH
+4p6g;C1OCC1[NH+](CC2)CCN2c(c3)ccc(c34)OC[C@H](OC(=O)NC)[C@H]4NC(=O)c5ccc(F)cc5;8.1099997;Cathepsin S;2FZ
+4p6e;c1ccccc1C(=O)N[C@H](CCC2)c(c23)cc(cc3)NC(=O)N4CC[NH+](C)CC4;5.8899999;Cathepsin S;2FC
+2jsd;COc1ccc(cc1)S(=O)(=O)N(CC(C)C)CC(=O)N=O;7.77;Matrix metalloproteinase-20;NGH
+3d7d;Fc1ccc(cc1)CSC[C@@H](C(=O)[O-])NC(=O)N[C@H](C(=O)[O-])CCC(=O)[O-];7.8499999;Glutamate carboxypeptidase 2;FBD
+5a8x;c1cc(C#N)ccc1[C@@H]2C(C(=O)OCC)=C(C)N(c(n23)ncc3)c4cccc(c4)C(F)(F)F;8.1899996;Neutrophil elastase;IUY
+5a8y;N#Cc1ccc(cc1)[C@@H]2C(C#N)=C(C)N(c3cc(C(F)(F)F)ccc3)c(n24)nc(n4)NC(=O)OC;9.7700005;NEUTROPHIL ELASTASE;VBM
+4b1j;n1cnc(N)c(c12)ncn2[C@H]3[C@H](O)[C@H](O)[C@H](O3)COP([O-])(O)OP([O-])(O)OC[C@H]([C@H]4O)[NH2+]C[C@@H]4O;7.3000002;POLY(ADP-RIBOSE) GLYCOHYDROLASE;A1R
+5sy3;o1cccc1CNc(ncn2)c(c23)c4c(s3)cccc4;4.3699999;Renin;74Z
+5sy2;C1[NH2+]CCC[C@@H]1N(CC)C(=O)c(cnc2C)c(n2)NCc3ccco3;4.96;Renin;74V
+4ocz;FC(F)(F)c1ccc(cc1)NC(=O)NC2CCN(CC2)C(=O)C(C)C;9.1800003;Bifunctional epoxide hydrolase 2;2RU
+2xu1;c1cccc(Cl)c1S(=O)(=O)[C@@H](C2)C[C@@H](C(=O)NC3(/C=N\[H])CC3)N2C(=O)C4(CC4)c5ccc(Cl)cc5;7.6599998;CATHEPSIN L1;424
+4oc2;Ic1ccc(cc1)C(=O)NCCCC[C@@H](C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CC#C;8.2799997;Glutamate carboxypeptidase 2;2QQ
+4oc3;Ic1ccc(cc1)C(=O)NCCCC[C@@H](C([O-])[O-])NC(=O)N[C@H](C(=O)[O-])Cc2ccco2;8.2799997;Glutamate carboxypeptidase 2;2QP
+4oc0;C1CC1(C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CCCCNC(=O)c2ccc(I)cc2;6.5;Glutamate carboxypeptidase 2;2R7
+4oc1;O1C[C@@H]1C[C@@H](C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CCCCNC(=O)c2ccc(I)cc2;6.5999999;Glutamate carboxypeptidase 2;2QS
+4oc6;c1ccccc1Oc(ccc2)cc2C[C@H](NC(=O)c3cc(OC)c(cc3Br)OC)[C@@H](O)CN(CCc4c(Cl)cc(Cl)cc4)C(=O)CCN(C5=O)C(=O)c(c56)cccc6;7.0700002;Cathepsin D light chain;2S1
+4oc4;Ic1ccc(cc1)C(=O)NCCCC[C@@H](C([O-])[O-])NC(=O)N[C@H](C(=O)[O-])Cc2ccncc2;6.98;Glutamate carboxypeptidase 2;2QN
+4oc5;Oc1ccc(cc1)[C@@H](C(=O)[O-])NC(=O)N[C@H](C([O-])[O-])CCCCNC(=O)c2ccc(I)cc2;7.0700002;Glutamate carboxypeptidase 2;2QM
+2yjc;c1cccc(Cl)c1S(=O)(=O)[C@@H](C2)C[C@@H](C(=O)NC3(/C=N\[H])CC3)N2C(=O)C4(CC4)c5ccc(Cl)cc5;7.6599998;CATHEPSIN L1;424
+2yjb;FC(F)(F)c1ccc(cc1)C2(CC2)C(=O)N([C@@H]3C(=O)NC4(/C=N\[H])CC4)C[C@@H](C3)S(=O)(=O)c5c(Cl)cccc5;7.02;CATHEPSIN L1;YJ9
+2yj2;c1cc(Br)ccc1C2(CC2)C(=O)N([C@@H]3C(=O)NC4(/C=N\[H])CC4)C[C@@H](C3)S(=O)(=O)c5c(Cl)cccc5;7.9200001;CATHEPSIN L1;YJ2
+2yj9;FC(F)(F)c1ccc(cc1)C2(CC2)C(=O)N([C@@H]3C(=O)NC4(/C=N\[H])CC4)C[C@@H](C3)S(=O)(=O)c5c(Cl)cccc5;7.02;CATHEPSIN L1;YJ9
+2yj8;c1cc(I)ccc1C2(CC2)C(=O)N([C@@H]3C(=O)NC4(/C=N\[H])CC4)C[C@@H](C3)S(=O)(=O)c5c(Cl)cccc5;8.1899996;CATHEPSIN L1;YJ8
+1tu6;n1[nH]ccc1NC(=O)[C@@H](O)[C@H](CCCC)NC(=O)OCC2(CCC2)Cc3ccc(F)cc3;9.0799999;Cathepsin K;FSP
+2w26;O=C1COCCN1c(cc2)ccc2N3C(=O)O[C@H](C3)CNC(=O)c(sc4Cl)cc4;9.3979397;ACTIVATED FACTOR XA HEAVY CHAIN;RIV
+4x6j;[H]\N=C\CNC(=O)C1(CCCCC1)NC(=O)c2c(N)cc(Cl)cc2;7.8000002;Cathepsin K;3Y2
+4x6i;N#CCNC(=O)C1(CCCCC1)NC(=O)c2c(N)cc(Br)cc2;8;Cathepsin K;3Y1
+4kxb;CC(C)C[C@@H](C(=O)[O-])NC(=O)[C@@H](O)[C@H]([NH3+])Cc1ccccc1;4.1199999;Glutamyl aminopeptidase;BES
+5k1i;O=C([O-])c(cc1)ccc1Nc2c(=O)n(CC)nc(c2C(=O)C)-c3ccccc3;8.04;cAMP-specific 3',5'-cyclic phosphodiesterase 4D;6PT
+5fi2;c1ccccc1CC(=O)Nc2nnc(s2)N[C@H](CC3)C=[N+]3c4nnc(s4)NC(=O)Cc5ccccc5;7.1500001;Glutaminase kidney isoform, mitochondrial;5XX
+3b1u;O=C([O-])c1ccccc1C(=O)N[C@H](C(=O)N)CCCNC(=N\[H])\C;5.7199998;Protein-arginine deiminase type-4;YFF
+4x6x;c1ccccc1[C@H]2[C@@H](c3ccccc3)[C@@H]2NC(=O)N(CC4)CCC4Oc(cc5)ccc5CCC(=O)[O-];8.6400003;Bifunctional epoxide hydrolase 2;S74
+4x6y;c1ccccc1[C@H]2C[C@@H]2NC(=O)N(CC3)CCC3Oc4ccccc4;7.7199998;Bifunctional epoxide hydrolase 2;S94
+5fi6;c1ccccc1CC(=O)Nc2nnc(s2)N[C@@H](CC3)CN3c(s4)nnc4NC(=O)Cc5ccccc5;7.52;Glutaminase kidney isoform, mitochondrial;5XY
+5fi7;c1ccccc1CC(=O)Nc2nnc(s2)N3CC[C@@H](C3)Oc(s4)nnc4NC(=O)Cc5ccccc5;7.4000001;Glutaminase kidney isoform, mitochondrial;5XZ
+3fed;O=C([O-])[C@@H]([NH3+])CCP([O-])(O)C[C@H](C([O-])=O)CCC([O-])=O;7.4609237;Glutamate carboxypeptidase III;BIX
+3fee;O=C([O-])[C@@H]([NH3+])Cn(c1=O)oc(=O)[nH]1;6.6382723;Glutamate carboxypeptidase III;QUS
+5d29;O=C([O-])c1ccc(cc1)C[C@@H](C(=O)[O-])CCC(=O)NO;7.0100002;Glutamate carboxypeptidase 2;5Q1
+5alg;c1cccc(c12)O[C@H](CO2)CNC(=O)c(c3)ccc(c34)SCC(=O)N4Cc5cccc(Cl)c5;7.52;BIFUNCTIONAL EPOXIDE HYDROLASE 2;R4N
+5ald;O=C(N1)Cc(c12)cc(cc2)C3CCCCC3;5.9699998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;FCW
+5ale;Oc1ccc(Cl)cc1-c2ccno2;5.9499998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;ONR
+5aln;CC1(C)C(=O)Nc(c12)ccc(c2)-c3ccc(F)cc3;6.5700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;5ZM
+5alo;c1ccccc1C[C@@]2(C)C(=O)Nc(c23)ccc(c3)-c4cnn(c4)C;6.1300001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;A0J
+5all;C[C@@H]1C[C@H](C[NH3+])C[C@@H](C1)CO;5.5700002;SOLUBLE EPOXIDE HYDROLASE;II6
+5alm;c1cc(SC)ccc1O[C@]2(C)CC[N@H+](C2)CC3CC3;6.5300002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;7GM
+5alj;Cc1ccc(cc1F)Nc(cc2C)nc(c23)cccc3O;5.5599999;BIFUNCTIONAL EPOXIDE HYDROLASE 2;T5J
+5alk;C1C(C)(C)SCc(c1c23)c(CCCC)nc2n[nH]c3N;6.5999999;BIFUNCTIONAL EPOXIDE HYDROLASE 2;WMR
+5alh;Cc1ccc(OC)c(c1)S(=O)(=O)NCC2(c3ccccc3)CCN(CC2)C(=O)NCc(cc4)ccc4C;7.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;4UA
+5ali;COc1ccc(cc1)NC(=O)Nc2cccc(c2)-c3c(n(cn3)C[C@@H]4CCCO4)-c(n5)sc(c56)ncnc6N;7.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;Q3B
+5alv;c1c(F)cccc1-c2cc[nH]n2;4.3600001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;6TZ
+5alw;Cc1ccc(cc1)SCC(=O)c(cc2)cc(c23)CC(=O)N3;5.1500001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;JQN
+5alt;c1sccc1-c2cc(c(N)nc2)-c3nnn(n3)C;4.8800001;BIFUNCTIONAL EPOXIDE HYDROLASE 2;9XZ
+5alu;C1[C@H](C2)C[C@H](C3)[C@H]([C@@H]1C[C@@]23O)NC(=O)c4cnc(N[C@H]5CCOC5)nc4C6CCCC6;7.6599998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;HD2
+5alr;c1cccc(c12)ncnc2Nc3ccc(cc3)SC(F)(F)F;7.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;8TM
+5als;c1cc(C(F)(F)F)ccc1-c([nH]2)nc(c23)nccc3S(=O)(=O)N[C@@H]4CCC=C4;7.7199998;BIFUNCTIONAL EPOXIDE HYDROLASE 2;5DQ
+5alp;c1ccccc1[C@H]2CN(CCS2)C(=O)Nc3ccc(N(=O)=O)cc3;7.0700002;BIFUNCTIONAL EPOXIDE HYDROLASE 2;QYD
+2pjt;CC#CCNc1ccc(cc1)S(=O)(=O)CC2(C(=O)NO)CCN(CC2)C(=O)OC(C)(C)C;6.0655022;Collagenase 3;347
+4i06;[OH2][B]([OH2])(=[OH])[CH3]CCCC(C(=O)[O-])([NH2+]C)CC[NH+]1CCCCC1;7.1700001;Arginase-2, mitochondrial;X8A
+5alz;CS(=O)(=O)N1CCC(CC1)NC(=O)NC23C[C@H]4C[C@@H](C2)C[C@H](C4)C3;8.2200003;BIFUNCTIONAL EPOXIDE HYDROLASE 2;XQ9
+5alx;CCSc1cccc(c1)-c2ccc(s2)C(=O)N;5.48;BIFUNCTIONAL EPOXIDE HYDROLASE 2;DUL
+5aly;N#Cc1c(C)c([nH]n1)-c(c2)cc(F)c(c23)NC(=O)C3(C)C;6.73;BIFUNCTIONAL EPOXIDE HYDROLASE 2;B7H
+5ehr;Clc1c(Cl)cccc1-c2ncc(nc2N)N(CC3)CCC3(C)[NH3+];7.1399999;Tyrosine-protein phosphatase non-receptor type 11;5OD
+5ehp;C[C@H]1CN(C[C@@H](C)[NH2+]1)c(nc2N)ncc2-c3cccc(Cl)c3Cl;4.9200001;Tyrosine-protein phosphatase non-receptor type 11;5OA
+4i1r;C[N@@H+]1CCCC[C@H]1CCN2c(cc(cc3)SC)c3Sc(c24)cccc4;4.6500001;Mucosa-associated lymphoid tissue lymphoma translocation protein 1;LZU
+4epy;C1CC[NH2+][C@@H]1C(=O)NC(C2)=CCc(c23)[nH]c(n3)Cc(c[nH]4)c(c45)cccc5;3.47;GTPase KRas;0QY
+4p0n;c1ccnc(c12)n(c(n2)OC)[C@@H]3C[C@H](C3)Nc(n4)sc(c45)cccc5;8.6599998;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;1IS
+5lz9;C1CS(=O)(=O)CCC1(C)[C@H]2CN(C(=O)C2)CCOc(cc3C#N)ccc3F;6.9200001;Platelet-activating factor acetylhydrolase;7BR
+5lz4;CC1(C)CN(C(=O)C1)CCOc(ccc2F)cc2C#N;5.6999998;Platelet-activating factor acetylhydrolase;7BW
+5lz7;c1ccccc1[C@]2(C)CN(C(=O)C2)CCOc3cc(C#N)c(F)cc3;6.2800002;Platelet-activating factor acetylhydrolase;7BK
+5lz2;C1CC1NS(=O)(=O)c2cc(C#N)ccc2;3;Platelet-activating factor acetylhydrolase;7BX
+4mrw;n1ccc(O)c(c12)ccc(Cl)c2;3.3;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;MRW
+4mrz;Cc1ccnc(N)c1N(=O)=O;3.52;cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A;2ZV
+2h02;OS([O-])(O)Nc1ccc(cc1)CC(C(=O)OC)(C(=O)OC)Cc2ccccc2;6.4899998;Protein tyrosine phosphatase, receptor type, B,;2UN
+2h03;OS([O-])(O)Nc(cc1)ccc1CC(C(=O)OCC)(C(=O)OCC)CCNC(=O)OC(C)(C)C;7.0500002;Protein tyrosine phosphatase, receptor type, B,;3UN
+4xx3;c1ccccc1CNC(=O)c(ccc2)cc2CN(C(=O)C3)C(N)=[NH+][C@]3(C)C(C)C;7.25;Renin;70X
+4xx4;c1ccccc1[C@@H]2CN(C(=O)C2)c3cccc(c3)CN(C(=[NH+]4)N)C(=O)C[C@@]4(C)C(C)C;7.3600001;Renin;70Y
+4oew;CCc1nc(nc(O)c1I)-c(c2)c(OCCC)ccc2S(=O)(=O)N(CC3)CC[NH+]3C;6.8200002;cGMP-specific 3',5'-cyclic phosphodiesterase;5IO
+4oex;CCc1cc(O)nc(n1)-c(c2)c(OCCC)ccc2S(=O)(=O)N(CC3)CC[NH+]3C;5.8400002;cGMP-specific 3',5'-cyclic phosphodiesterase;5EO
+2f6v;OS([O-])(O)Nc(c1)ccc(c12)C[C@@H](C(=O)NC)N(C2)C(=O)OCc3ccccc3;4.4299998;Tyrosine-protein phosphatase, non-receptor type 1;SK2
+2f6t;OS([O-])(O)Nc(c1)ccc(c12)C[C@@H](C(=O)NC)N(C2)C(=O)OC(C)(C)C;4.6199999;Tyrosine-protein phosphatase, non-receptor type 1;1C2

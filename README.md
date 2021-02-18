@@ -4,8 +4,7 @@ Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 
 17 target classes including 6000+ protein targets.
 
-> Follow the installation instructions for the standalone program setup.
-> For online access, please visit https://cbbio.online/LigTMap/.
+> Visit our online server at https://cbbio.online/LigTMap/
 
 ## Software requirements:
 Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT

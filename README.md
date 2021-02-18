@@ -1,8 +1,11 @@
 # LigTMap Target Prediction Method for Small Molecules
+
 Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
+
 University of Macau
 
 *Developed by*
+
 *Faraz Shaikh, Giotto Tai, Shirley Siu*
 
 shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
@@ -11,8 +14,8 @@ Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 
 17 target classes including 6000+ protein targets.
 
-Follow the installation instructions for the standalone program setup.
-For online access, please visit https://cbbio.online/LigTMap/.
+> Follow the installation instructions for the standalone program setup.
+> For online access, please visit https://cbbio.online/LigTMap/.
 
 ## Software requirements:
 Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT

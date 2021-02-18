@@ -1,5 +1,4 @@
-==============================================================
-LigTMap Target Prediction Method
+###LigTMap Target Prediction Method
 
 Developed by
 Faraz Shaikh, Giotto Tai, Shirley Siu
@@ -9,7 +8,6 @@ University of Macau
 https://cbbio.online/LigTMap
 
 Contact: shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
-==============================================================
 
 Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 

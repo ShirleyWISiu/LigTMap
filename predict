@@ -1,0 +1,119 @@
+#!/bin/bash
+
+###############################################
+echo "Checking LigTMap running environment..."
+###############################################
+checkfail=0
+
+echo -n "  psovina: "
+command -v psovina  || { echo "command not found.. ERROR"; checkfail=1; }
+
+echo -n "  LIGTMAP location: "
+printenv LIGTMAP   || { echo "variable not defined.. ERROR"; checkfail=1; }
+[ ! -d $LIGTMAP ]  && { echo "            but directory not exist.. ERROR"; checkfail=1; }
+
+echo -n "  MGLTools location: "
+printenv MGLTools  || { echo "variable not defined.. ERROR"; checkfail=1; }
+[ ! -d $MGLTools ]  && { echo "           but directory not exist.. ERROR"; checkfail=1; }
+
+if [ $checkfail -eq 1 ] ; then
+  echo
+  echo "Please fix the required environment and retry. Good luck!"
+  exit 1
+else
+  echo
+fi
+
+###############################################
+# Check input files: input.smi + target.lst
+###############################################
+
+checkfail=0
+echo "Checking input files:"
+echo -n "input.smi "
+[ ! -e input.smi ]  && { echo "not found.. ERROR"; checkfail=1; }
+echo -n "target.lst "
+[ ! -e target.lst ]  && { echo "not found.. ERROR"; checkfail=1; }
+ 
+if [ $checkfail -eq 1 ] ; then
+  echo
+  echo "Please prepare 'input.smi' and 'target.lst', then retry."
+  exit 1
+else
+  
+  echo
+  echo
+  echo "Perform target prediction.."
+  echo
+fi
+
+###############################
+# Prepare JobHomeDir for Output
+###############################
+JobHomeDir=$PWD
+OutputDir="$JobHomeDir""/Output"
+InputDir="$JobHomeDir""/Input"
+
+if [ -e "$OutputDir"".001" ] ; then
+  tmp=`ls -d ${OutputDir}.* | sort | tail -1`
+  last="${tmp##*.}"
+fi
+
+if [ -z $last ] ; then
+   last=001
+else
+   add=`expr $last + 1`
+   last=`printf "%03d" $add`
+fi
+
+if [ -e $OutputDir ] ; then
+   echo "Backup existing input/output directory to $last"
+   mv $OutputDir "$OutputDir"".$last"
+   mv $InputDir  "$InputDir"".$last"
+   echo
+fi
+
+mkdir $OutputDir
+mkdir $InputDir
+
+#SelectDB="Anticogulant,Beta_secretase,Bromodomain,Carbonic_Anhydrase,Diabetes,Estrogen,HCV,HIV,Hpyroli,Hydrolase,Influenza,Isomerase,Kinase,Ligase,Peroxisome,Transferase,Tuberculosis"
+
+#split -a 5 -l 1 -d input.smi input_
+
+##########################################
+# We can handle multiple SMILES prediction
+##########################################
+gsplit -a 5 -l 1 -d input.smi ${InputDir}/input_
+
+ligN=`ls $InputDir | wc -l | awk '{ print $1 }'`
+tarN=`wc -l target.lst | awk '{ print $1 }'`
+
+echo "Total no. of SMILES:  $ligN"
+echo "Total no. of targets: $tarN"
+echo
+
+##########################################
+# Looping over SMILES and Targets
+##########################################
+ligN=`expr $ligN - 1` 
+for var in $(seq -f "%05g" 0 $ligN); do
+        mkdir "$JobHomeDir""/Output/Input_""$var"
+        for i in `cat target.lst`; do
+		echo "=============================="
+		echo "Input SMILES ID: "${var}
+		echo "Target Class: "${i}
+		echo "=============================="
+		mkdir "$JobHomeDir""/Output/Input_""$var""/""$i"
+		mkdir "$JobHomeDir""/Output/Input_""$var""/""$i""/Complex"
+		python "$LIGTMAP""/ligtmap.py" "$InputDir""/input_""$var" $var $i $tarN ${LIGTMAP}/ ####2> /dev/null 
+		echo
+	done
+done
+
+echo "**** LigTMap target prediction is completed ****"
+echo 
+echo "Summary:"
+cat Output/status.txt
+echo 
+echo "Result for each SMILES is stored in:"
+ls Output/Input_*/IFP_result.csv

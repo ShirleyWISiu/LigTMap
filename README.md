@@ -1,14 +1,13 @@
 # LigTMap Target Prediction Method for Small Molecules
 
+*Developed by Faraz Shaikh, Giotto Tai, Shirley Siu*
+
+shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
+
 Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
 
 University of Macau
 
-*Developed by*
-
-*Faraz Shaikh, Giotto Tai, Shirley Siu*
-
-shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
 
 Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 

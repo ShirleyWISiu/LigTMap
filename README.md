@@ -1,10 +1,10 @@
 # LigTMap Target Prediction Method for Small Molecules
 
-*Developed by*
-*Faraz Shaikh, Giotto Tai, Shirley Siu*
+#### *Developed by*
+#### *Faraz Shaikh, Giotto Tai, Shirley Siu*
 
-##### [Computational Biology and Bioinformatics Lab (CBBIO)](https://cbbio.online/LigTMap),
-##### University of Macau
+### Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
+### University of Macau
 
 
 Contact: shaikh.faraz78@gmail.com; shirleysiu@um.edu.mo
@@ -215,7 +215,7 @@ Output stores prediction results for each molecule separately
 in directories. 
 
 In case you have a previous run, the Input and Output directories
-will be renamed to Input.xxx and Output.xxx.
+will be renamed to `Input.xxx` and `Output.xxx`.
 
 5. Examine prediction results
 
@@ -223,15 +223,20 @@ In the summary section, target class in which target proteins
 have been identified for the query molecule is marked 'Complete',
 Otherwise 'Fail'.
 
-For a molecule (Input_xxxxx), the top-ranked targets sorted by 
-the LigTMapScore can be found in Output/Input_xxxxx/IFP_result.csv.
+For a molecule `Input_xxxxx`, the top-ranked targets sorted by 
+the LigTMapScore can be found in `Output/Input_xxxxx/IFP_result.csv`.
 
 This file contain 9 columns of data of the relevant targets:
-   1. PDB   2. Class   3. TargetName   4.LigandName 
-   5. LigandSimilarityScore 6. BindingSimilarityScore 
-   7. LigTMapScore  8. PredictedAffinity 9. DockingScore
+1. PDB   
+2. Class   
+3. TargetName   
+4. LigandName 
+5. LigandSimilarityScore
+6. BindingSimilarityScore 
+7. LigTMapScore  
+8. PredictedAffinity 
+9. DockingScore
 
 The binding mode PDB of the molecule at the target protein can be 
-found in the corresponding directory:
-> Output/Input_xxxxx/TargetName/Complex 
-
+found in the corresponding directory
+`Output/Input_xxxxx/TargetName/Complex`

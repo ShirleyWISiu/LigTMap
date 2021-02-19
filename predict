@@ -16,6 +16,11 @@ echo -n "  MGLTools location: "
 printenv MGLTools  || { echo "variable not defined.. ERROR"; checkfail=1; }
 [ ! -d $MGLTools ]  && { echo "           but directory not exist.. ERROR"; checkfail=1; }
 
+if [[ "$OSTYPE" == "darwin"* ]]; then
+   echo -n "  gsplit for darwin only: "
+   command -v gsplit || { echo "command not found.. ERROR"; checkfail=1; }
+fi 
+
 if [ $checkfail -eq 1 ] ; then
   echo
   echo "Please fix the required environment and retry. Good luck!"
@@ -83,7 +88,11 @@ mkdir $InputDir
 ##########################################
 # We can handle multiple SMILES prediction
 ##########################################
-gsplit -a 5 -l 1 -d input.smi ${InputDir}/input_
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    gsplit -a 5 -l 1 -d input.smi ${InputDir}/input_
+else 
+    split -a 5 -l 1 -d input.smi ${InputDir}/input_
+fi
 
 ligN=`ls $InputDir | wc -l | awk '{ print $1 }'`
 tarN=`wc -l target.lst | awk '{ print $1 }'`

@@ -276,3 +276,20 @@ Shirley Siu(shirleysiu@um.edu.mo)
 Computational Biology and Bioinformatics Lab (CBBIO) (https://cbbio.online/LigTMap)
 
 University of Macau
+Anticogulant
+Beta_secretase
+Bromodomain
+Carbonic_Anhydrase
+Diabetes
+Estrogen
+HCV
+HIV
+Hpyroli
+Hydrolase
+Influenza
+Isomerase
+Kinase
+Ligase
+Peroxisome
+Transferase
+Tuberculosis

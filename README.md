@@ -127,7 +127,20 @@ correct version before running this:
 ```
 
 ### 9. PSOVina
-Download and install `psovina-2.0.tar.gz` from
+Download and install `boost-1.59.0.tar.gz` from https://sourceforge.net/projects/boost/files/boost/1.59.0/ if `boost` is not yet in your system.
+```
+% tar xfz boost_1_59_0.tar.gz
+% cd boost_1_59_0
+% ./bootstrap.sh --prefix=/<path>/opt/boost-1.59.0
+% ./b2 -j 4
+% ./b2 install
+```
+Add boost to the library path in `.bashrc`
+```
+export LD_LIBRARY_PATH=$HOME/opt/boost-1.59.0/lib:$LD_LIBRARY_PATH
+```
+
+Once your boost is in place, download and install `psovina-2.0.tar.gz` from
 https://sourceforge.net/projects/psovina/
 ```
 % tar xfz psovina-2.0.tar.gz
@@ -135,7 +148,7 @@ https://sourceforge.net/projects/psovina/
 ```
 modify `Makefile` to suit your system setting, specifically
 give the location of the boost, e.g.:
-`BASE=/usr/local/opt/boost-1.59.0`
+`BASE=/<path>/opt/boost-1.59.0`
 ```
 % make
 ```

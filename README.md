@@ -269,9 +269,9 @@ found in the corresponding directory
 
 ## Citation
 Our method paper is currently under review:
-```
-Shaikh, Faraz; Tai, Hio Kuan; Desai, Nirali; Siu, Shirley W. I.(2020): LigTMap: Ligand and Structure-Based Target Identification and Activity Prediction for Small Molecular Compounds. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12923474.v1 
-```
+
+>Shaikh, Faraz; Tai, Hio Kuan; Desai, Nirali; Siu, Shirley W. I.(2020): LigTMap: Ligand and Structure-Based Target Identification and Activity Prediction for Small Molecular  Compounds. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12923474.v1 
+
 ## Contact
 Developer:
 Faraz Shaikh(shaikh.faraz78@gmail.com), Giotto Tai

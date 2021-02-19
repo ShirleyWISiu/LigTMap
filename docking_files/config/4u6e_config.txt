@@ -1,0 +1,6 @@
+center_x = -22.7004
+center_y = -17.0355
+center_z = -11.0315
+size_x = 22.5
+size_y = 22.5
+size_z = 22.5

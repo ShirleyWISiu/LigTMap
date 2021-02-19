@@ -7,9 +7,10 @@ small molecules. This method currently support prediction for
 > Visit our online server at https://cbbio.online/LigTMap/
 
 ## Software requirements:
-Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools
+Anaconda, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools
 
 Specifically, our method has been tested with these versions:
+- python 2.7 (from anaconda)
 - rdkit-2016.03.4
 - numpy-1.11.3
 - openbabel-3.0.0
@@ -23,10 +24,9 @@ Specifically, our method has been tested with these versions:
 ## INSTALLATION
 
 ### 1. MOPAC2016 
-MOPAC2016 can be downloaded from http://openmopac.net/
-You need to request for a license to use, please go to the homepage
-to obtain a license. The license key will be emailed to you within
-one day.
+MOPAC2016 can be downloaded from http://openmopac.net/MOPAC2016.html
+You need a license to use, please go to the homepage
+to obtain a license. The license key will be emailed to you.
 
 In essence, the installation steps are:
 
@@ -38,8 +38,8 @@ Create the directory:
 Copy over the MOPAC executable and library that are obtained 
 after unpacking the downloaded package:
 ```
-% cp <somewhere>/MOPAC2016.exe /opt/mopac
-% cp <somewhere>/libiomp5.so /opt/mopac
+% cp <source-path>/MOPAC2016.exe /opt/mopac
+% cp <source-path>/libiomp5.so /opt/mopac
 % chmod +x /opt/mopac/MOPAC2016.exe
 ```
 Add the following lines to your .bashrc start-up script:
@@ -65,27 +65,31 @@ then your installation is successful!
 
 ### 2. Anaconda 
 
-Download and install Anaconda for Python 2.7 from
-https://www.anaconda.com/download/.
+Download and install the latest version of Anaconda from https://www.anaconda.com/download/.
+Simply run the `Anaconda3-xxx.sh` file and provide an installation directory, e.g. 
+```
+% ./Anaconda3-2020.11-Linux-x86_64.sh
+...
+/home/user/opt/anaconda3
+```
+> It's good to organize your program files in one central place like `/home/user/opt/`
 
-
-### 3. Setup environment in your anaconda
+### 3. Setup a Python 2.7 environment in your anaconda 
 ```
 % conda create -n ligtmap -c rmg rdkit python=2.7 
 % conda activate ligtmap
 ```
-From now on, your python should be the one from the ligtmap env.
+After activation, your default `python` interpreter should be the one from the `ligtmap` env.
 Check to confirm:
 ```
 % which python
-e.g. /<path>/anaconda3/envs/ligtmap/bin/python
+e.g. /home/user/opt/anaconda3/envs/ligtmap/bin/python
 ```
 
 ### 4. Openbabel
 Follow http://openbabel.org/wiki/Category:Installation
 to install Openbabel that suits your platform.
 
-For example, for MacOS:
 ```
 % conda install -c conda-forge openbabel  
 ```
@@ -122,7 +126,7 @@ correct version before running this:
 
 > #### Troubleshooting 
 > 
-> In case you meet errors in between and want to remove and reinstall from step 3:
+> In case you meet errors in between and want to remove and reinstall from Step 3:
 ```
 % conda env remove --name ligtmap
 ```
@@ -132,7 +136,7 @@ Download and install `boost-1.59.0.tar.gz` from https://sourceforge.net/projects
 ```
 % tar xfz boost_1_59_0.tar.gz
 % cd boost_1_59_0
-% ./bootstrap.sh --prefix=/<path>/opt/boost-1.59.0
+% ./bootstrap.sh --prefix=/home/user/opt/boost-1.59.0
 % ./b2 -j 4
 % ./b2 install
 ```
@@ -149,15 +153,15 @@ https://sourceforge.net/projects/psovina/
 ```
 Modify `Makefile` to suit your system setting, specifically
 give the location of the boost, e.g.:
-`BASE=/<path>/opt/boost-1.59.0`
+`BASE=/home/user/opt/boost-1.59.0`
 ```
 % make
-% mkdir /<path>/opt/psovina-2.0
-% cp psovina psovina_split /<path>/opt/psovina-2.0
+% mkdir /home/user/opt/psovina-2.0
+% cp psovina psovina_split /home/user/opt/psovina-2.0
 ```
 Make it accessible by adding the location of the compiled `psovina` to the `PATH` in `.bashrc`
 ```
-export PATH=/<path>/opt/psovina-2.0:$PATH
+export PATH=/home/user/opt/psovina-2.0:$PATH
 
 ```
 ### 10. MGLTools
@@ -166,16 +170,17 @@ http://mgltools.scripps.edu/downloads
 
 ```
 % tar xfz mgltools_x86_64Linux2_1.5.6.tar.gz
-% mv mgltools_x86_64Linux2_1.5.6 /<path>/opt
-% cd /<path>/opt/mgltools_x86_64Linux2_1.5.6
+% mv mgltools_x86_64Linux2_1.5.6 /home/user/opt
+% cd /home/user/opt/mgltools_x86_64Linux2_1.5.6
 % ./install.sh
 ```
+Following the instructions at the end of the installation to include some variables in your `.bashrc` file.
 
-### 11. gsplit
-Install some GNU utilities via Homebrew or Yum:
+
+### 11. gsplit (for MacOS X only)
+Install some GNU utilities via Homebrew, specially, we need `gsplit` as an alternative to the darwin `split`.
 ```
-% brew install gsplit  # MacOS 
-% yum install gsplit   # Linux
+% brew install coreutils  
 ```
 
 
@@ -184,18 +189,16 @@ Download and unpack `ligtmap-0.1.tar.gz`. You can move the
 program directory to anywhere.
 ```
 % tar xfz ligtmap-0.1
-% mv ligtmap-0.1 <your-installed-path>
+% mv ligtmap-0.1 /home/user/opt
 ```
 
 ### 13. Setting environment variables
 Define necessary environment variables in the `.bashrc`
 start-up script file:
 ```
-export LIGTMAP=/<your-installed-path>/ligtmap-0.1
-export MGLTools=/<your-installed-path>/mgltools-1.5.7rc1/
-export PATH=/<your-installed-path>/psovina-2.0/build/mac/release:$PATH
+export LIGTMAP=/home/user/opt/ligtmap-0.1
+export MGLTools=/home/user/opt/mgltools_x86_64Linux2_1.5.6/
 ```
-Make sure replace each <your-installed-path> with your real paths.
 
 Finally, source the script file.
 ```
@@ -204,22 +207,21 @@ Finally, source the script file.
 
 ## HOW TO RUN TARGET PREDICTION
 
-1. Prepare your molecule(s) to be predicted in `input.smi`
+1. Prepare your molecule(s) to be predicted in `input.smi`, e.g. our benchmark molecules for HIV. Make sure you don't leave any empty lines in the file:
 
 ```
-E.g., our HIV benchmark molecules:
 c1ccccc1Oc(ccc2)c(c23)n(c(=O)[nH]3)CC
 c1c(C)cc(C)cc1Oc(ccc2)c(c23)n(c(=O)[nH]3)CC
 N#Cc(c1)cc(Cl)cc1Oc(ccc2)c(c23)n(c(=O)[nH]3)CC
 N#Cc(c1)cc(Cl)cc1Oc(ccc2)c(c23)n(C)c(=O)[nH]3
 ```
 
-2. Prepare the list of targets in `target.lst`
+2. Prepare the list of targets in `target.lst`. For a complete list of supported targets, refer to [$LIGTMAP/target.lst](https://github.com/siuwengin/LigTMap/blob/master/target.lst).
 ```
 HIV
 HCV
 ```
-For a complete list of targets, refer to [$LIGTMAP/target.lst](https://github.com/siuwengin/LigTMap/blob/master/target.lst).
+
 
 3. Activate the condo environment
 ```
@@ -232,25 +234,25 @@ For a complete list of targets, refer to [$LIGTMAP/target.lst](https://github.co
 ```
 
 The run will generate two directories `Input` and `Output`.
-Input stores each molecule SMILES in a separate file: 
+Input stores each molecule `SMILES` in a separate file: 
 >   input_00001, input_00002, ...
 
 Output stores prediction results for each molecule separately
 in directories. 
 
-In case you have a previous run, the Input and Output directories
-will be renamed to `Input.xxx` and `Output.xxx`.
+> In case you have a previous run, the Input and Output directories
+will be backuped to `Input.xxx` and `Output.xxx`.
 
 5. Examine prediction results
 
-In the summary section, target class in which target proteins 
+In the summary section, the target class for which target proteins 
 have been identified for the query molecule is marked `Complete`,
 Otherwise `Fail`.
 
 For a molecule `Input_xxxxx`, the top-ranked targets sorted by 
 the `LigTMapScore` can be found in `Output/Input_xxxxx/IFP_result.csv`.
 
-This file contain 9 columns of data of the relevant targets:
+This file contain 9 columns of data of the identified targets:
 1. PDB   
 2. Class   
 3. TargetName   
@@ -261,10 +263,13 @@ This file contain 9 columns of data of the relevant targets:
 8. PredictedAffinity 
 9. DockingScore
 
-The binding mode PDB of the molecule at the target protein can be 
+The binding mode (PDB) of the molecule at the target protein can be 
 found in the corresponding directory
 `Output/Input_xxxxx/TargetName/Complex`
 
+## Citation
+Our method paper is currently under review:
+Shaikh, Faraz; Tai, Hio Kuan; Desai, Nirali; Siu, Shirley W. I.(2020): LigTMap: Ligand and Structure-Based Target Identification and Activity Prediction for Small Molecular Compounds. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.12923474.v1 
 
 ## Contact
 Developer:

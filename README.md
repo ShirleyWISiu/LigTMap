@@ -7,7 +7,7 @@ small molecules. This method currently support prediction for
 > Visit our online server at https://cbbio.online/LigTMap/
 
 ## Software requirements:
-Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT
+Python 2.7, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools
 
 Specifically, our method has been tested with these versions:
 - rdkit-2016.03.4
@@ -18,6 +18,7 @@ Specifically, our method has been tested with these versions:
 - scikit-learn-0.19.2
 - scipy-1.1.0
 - pandas-0.23.4
+- boost-1.59.0
 
 ## INSTALLATION
 
@@ -146,22 +147,35 @@ https://sourceforge.net/projects/psovina/
 % tar xfz psovina-2.0.tar.gz
 % cd psovina-2.0/build/<your-platform>/release
 ```
-modify `Makefile` to suit your system setting, specifically
+Modify `Makefile` to suit your system setting, specifically
 give the location of the boost, e.g.:
 `BASE=/<path>/opt/boost-1.59.0`
 ```
 % make
+% mkdir /<path>/opt/psovina-2.0
+% cp psovina psovina_split /<path>/opt/psovina-2.0
 ```
+Make it accessible by adding the location of the compiled `psovina` to the `PATH` in `.bashrc`
+```
+export PATH=/<path>/opt/psovina-2.0:$PATH
 
+```
 ### 10. MGLTools
 Download and install MGLTools of your platform from
 http://mgltools.scripps.edu/downloads
 
+```
+% tar xfz mgltools_x86_64Linux2_1.5.6.tar.gz
+% mv mgltools_x86_64Linux2_1.5.6 /<path>/opt
+% cd /<path>/opt/mgltools_x86_64Linux2_1.5.6
+% ./install.sh
+```
 
 ### 11. gsplit
-Install some GNU utilities via Homebrew:
+Install some GNU utilities via Homebrew or Yum:
 ```
-% brew install gsplit
+% brew install gsplit  # MacOS 
+% yum install gsplit   # Linux
 ```
 
 

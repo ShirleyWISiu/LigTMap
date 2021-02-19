@@ -34,15 +34,17 @@ Create the directory:
 % sudo mkdir -p /opt/mopac
 % sudo chmod 777 /opt/mopac
 ```
-Copy over the MOPAC executable that obtained after unpacking the
-downloaded package:
+Copy over the MOPAC executable and library that are obtained 
+after unpacking the downloaded package:
 ```
 % cp <somewhere>/MOPAC2016.exe /opt/mopac
+% cp <somewhere>/libiomp5.so /opt/mopac
 % chmod +x /opt/mopac/MOPAC2016.exe
 ```
-Add the following line to your .bashrc start-up script:
+Add the following lines to your .bashrc start-up script:
 ```  
 alias mopac='/opt/mopac/MOPAC2016.exe'
+export LD_LIBRARY_PATH=/opt/mopac:$LD_LIBRARY_PATH
 ```
 Source the start-up script, e.g.
 ```

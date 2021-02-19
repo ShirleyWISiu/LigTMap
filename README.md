@@ -219,7 +219,7 @@ N#Cc(c1)cc(Cl)cc1Oc(ccc2)c(c23)n(C)c(=O)[nH]3
 HIV
 HCV
 ```
-For a complete list of targets, refer to `$LIGTMAP/target.lst`(https://github.com/siuwengin/LigTMap/blob/master/target.lst).
+For a complete list of targets, refer to [$LIGTMAP/target.lst](https://github.com/siuwengin/LigTMap/blob/master/target.lst).
 
 3. Activate the condo environment
 ```

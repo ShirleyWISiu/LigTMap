@@ -2,9 +2,11 @@
 
 Welcome to the LigTMap target and activity prediction for
 small molecules. This method currently support prediction for 
-17 target classes including 6000+ protein targets.
+17 target classes including 6000+ protein targets. This code includes the main prediction workflow and all data/models so it can be run offline in your working computer. However, for better visualization of the prediction result, our web server is recommended. 
 
 > Visit our online server at https://cbbio.online/LigTMap/
+
+The code is still in its developmental stage. You are welcome to feedback or join us to contribute to making target prediction a truly powerful method for novel drug discovery!
 
 ## Software requirements:
 Anaconda, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools, and Python libraries.
@@ -285,3 +287,4 @@ Shirley Siu (siuwengin@gmail.com / shirleysiu@um.edu.mo)
 [Computational Biology and Bioinformatics Lab (CBBIO)](https://cbbio.online/LigTMap)
 
 University of Macau
+

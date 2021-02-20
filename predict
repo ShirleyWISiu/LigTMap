@@ -30,6 +30,15 @@ else
 fi
 
 ###############################################
+# For large target model, unzip it when we use
+###############################################
+if  [ -e $LIGTMAP/Model/Kinase.sav.zip ] && [ ! -e $LIGTMAP/Model/Kinase.sav ] ; then
+    cd $LIGTMAP/Model
+    unzip Kinase.sav.zip
+    cd - 
+fi
+
+###############################################
 # Check input files: input.smi + target.lst
 ###############################################
 
@@ -108,6 +117,8 @@ ligN=`expr $ligN - 1`
 for var in $(seq -f "%05g" 0 $ligN); do
         mkdir "$JobHomeDir""/Output/Input_""$var"
         for i in `cat target.lst`; do
+
+
 		echo "=============================="
 		echo "Input SMILES ID: "${var}
 		echo "Target Class: "${i}

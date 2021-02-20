@@ -7,7 +7,7 @@ small molecules. This method currently support prediction for
 > Visit our online server at https://cbbio.online/LigTMap/
 
 ## Software requirements:
-Anaconda, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools
+Anaconda, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools, and Python libraries.
 
 Specifically, our method has been tested with these versions:
 - python 2.7 (from anaconda)

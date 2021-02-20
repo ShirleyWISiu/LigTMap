@@ -23,6 +23,8 @@ Specifically, our method has been tested with these versions:
 
 ## INSTALLATION
 
+This code was tested on MacOS X 11.2, CentOS 7.6 and 7.8. We will be glad to know if it works also on your platform!
+
 ### 1. MOPAC2016 
 MOPAC2016 can be downloaded from http://openmopac.net/MOPAC2016.html
 You need a license to use, please go to the homepage

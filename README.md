@@ -6,7 +6,7 @@ small molecules. This method currently support prediction for
 
 > Visit our online server at https://cbbio.online/LigTMap/
 
-The code is still in its early stage. You are welcome to feedback or contribute in making *in silico* target prediction a truly powerful method for novel drug discovery for *everyone*! [Shirley Siu](https://twitter.com/ShirleyWISiu)
+The code is still in its early stage. You are welcome to feedback or contribute in making *in silico* target prediction a truly powerful method for novel drug discovery for *everyone*!
 
 ## Software requirements:
 Anaconda, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools, and Python libraries.
@@ -281,7 +281,7 @@ Developer:
 Faraz Shaikh (shaikh.faraz78@gmail.com), Giotto Tai (hiokuantai@gmail.com)
 
 Project PI:
-Shirley Siu (siuwengin@gmail.com / shirleysiu@um.edu.mo)
+Shirley Siu (siuwengin@gmail.com | shirleysiu@um.edu.mo | https://twitter.com/ShirleyWISiu
 
 
 [Computational Biology and Bioinformatics Lab (CBBIO)](https://cbbio.online/LigTMap)

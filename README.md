@@ -274,10 +274,10 @@ Our method paper is currently under review:
 
 ## Contact
 Developer:
-[Faraz Shaikh](shaikh.faraz78@gmail.com), [Giotto Tai](hiokuantai@gmail.com)
+Faraz Shaikh (shaikh.faraz78@gmail.com), Giotto Tai (hiokuantai@gmail.com)
 
 Project PI:
-Shirley Siu [personal](siuwengin@gmail.com)/[academic](shirleysiu@um.edu.mo)
+Shirley Siu (siuwengin@gmail.com / shirleysiu@um.edu.mo)
 
 
 [Computational Biology and Bioinformatics Lab (CBBIO)](https://cbbio.online/LigTMap)

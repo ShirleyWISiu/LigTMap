@@ -281,7 +281,7 @@ Developer:
 Faraz Shaikh (shaikh.faraz78@gmail.com), Giotto Tai (hiokuantai@gmail.com)
 
 Project PI:
-Shirley Siu (siuwengin@gmail.com | shirleysiu@um.edu.mo | https://twitter.com/ShirleyWISiu
+Shirley Siu (siuwengin@gmail.com | shirleysiu@um.edu.mo | https://twitter.com/ShirleyWISiu)
 
 
 [Computational Biology and Bioinformatics Lab (CBBIO)](https://cbbio.online/LigTMap)

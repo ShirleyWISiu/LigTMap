@@ -6,7 +6,7 @@ small molecules. This method currently support prediction for
 
 > Visit our online server at https://cbbio.online/LigTMap/
 
-The code is still in its developmental stage. You are welcome to feedback or join us to contribute to making target prediction a truly powerful method for novel drug discovery! -- Shirley Siu
+The code is still in its early stage. You are welcome to feedback or contribute in making *in silico* target prediction a truly powerful method for novel drug discovery for *everyone*! [Shirley Siu](https://twitter.com/ShirleyWISiu)
 
 ## Software requirements:
 Anaconda, RDKit, Openbabel, MOPAC2016, ODDT, PSOVina, MGLTools, and Python libraries.
